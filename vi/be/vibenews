@@ -9,3 +9,4 @@
 {"dependencies":{"userman":"~master"},"version":"0.5.7","name":"vibenews"}
 {"dependencies":{"userman":"~master"},"version":"0.5.8","name":"vibenews"}
 {"dependencies":{"vibe-d":"~master","userman":"~master"},"version":"0.5.9","name":"vibenews"}
+{"dependencies":{"vibe-d":"~master","userman":"~master"},"version":"0.5.10","name":"vibenews"}
