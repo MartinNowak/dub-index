@@ -6,3 +6,4 @@
 {"version":"0.0.6","name":"vibelog"}
 {"version":"0.0.7","name":"vibelog"}
 {"version":"0.0.8","name":"vibelog"}
+{"dependencies":{"vibe-d":"~master"},"version":"0.0.9","name":"vibelog"}
