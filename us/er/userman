@@ -1,3 +1,4 @@
 {"version":"0.0.1","name":"userman"}
 {"version":"0.0.2","name":"userman"}
 {"dependencies":{"vibe-d":"~master"},"version":"0.0.4","name":"userman"}
+{"dependencies":{"vibe-d":"~master"},"version":"0.0.5","name":"userman"}
