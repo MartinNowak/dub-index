@@ -1,0 +1,1 @@
+{"dependencies":{"ddbc":">=0.2.4"},"targetType":"staticLibrary","version":"0.2.4","configurations":[{"targetType":"staticLibrary","name":"MySQL"},{"targetType":"staticLibrary","name":"SQLite"},{"targetType":"staticLibrary","name":"PGSQL"}],"name":"hibernated"}
