@@ -4,3 +4,4 @@
 {"version":"0.0.5","name":"mysql-native"}
 {"version":"0.0.6","name":"mysql-native"}
 {"version":"0.0.7","name":"mysql-native"}
+{"dependencies":{"vibe-d":">=0.7.13"},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"0.0.8","name":"mysql-native"}
