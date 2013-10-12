@@ -1,2 +1,3 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"tests"}],"version":"1.0.0","name":"dtext"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"tests"}],"version":"~master","commitID":"3db18dff9ff40c59614e18f891923df4679eddbc","name":"dtext"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"tests"}],"version":"1.0.1","name":"dtext"}
