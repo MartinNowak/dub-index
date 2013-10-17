@@ -7,3 +7,4 @@
 {"dependencies":{"vibe-d":">=0.7.13"},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"0.0.8","name":"mysql-native"}
 {"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"0.0.9","name":"mysql-native"}
 {"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"0.0.10","name":"mysql-native"}
+{"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"0.0.11","name":"mysql-native"}
