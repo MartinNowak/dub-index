@@ -5,3 +5,4 @@
 {"version":"~dev-allocation-TODO","commitID":"ec9361a3903784e8cfc01842146cb80070325a15","name":"unstandard"}
 {"version":"~dev-weakref+dynamic_array","commitID":"48ededa61acae23cd248205d4f104f9fda90262e","name":"unstandard"}
 {"version":"~dev-rangeAppender","commitID":"f7fd2d21d3c316ac4658fdb88786aa9ff6669fae","name":"unstandard"}
+{"version":"~dev-builder","commitID":"1a06d834055bd8214e844896f23e38f625d9b8d4","name":"unstandard"}
