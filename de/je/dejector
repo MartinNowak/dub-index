@@ -1,0 +1,1 @@
+{"dependencies":{"dunit":"1.0.2"},"targetType":"library","version":"0.0.1","configurations":[{"targetType":"library","name":"release"},{"targetType":"executable","name":"unittest"}],"name":"dejector"}
