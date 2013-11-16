@@ -1,0 +1,1 @@
+{"dependencies":{"vibe-d":"~master","cerealed":"~master"},"targetType":"executable","version":"~lock_free_queue","commitID":"f5df163ef7242cab66aa1ba5d1178aed96250e2d","name":"mqtt"}
