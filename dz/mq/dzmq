@@ -1,0 +1,1 @@
+{"dependencies":{"zeromq":"~master","dunit":"~master"},"targetType":"sourceLibrary","version":"~master","configurations":[{"targetType":"executable","name":"test"}],"commitID":"b914d6475aa749c320d119e912abf00a5486a415","name":"dzmq"}
