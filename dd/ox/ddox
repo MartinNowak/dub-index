@@ -5,3 +5,4 @@
 {"dependencies":{"vibe-d":"~master"},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"0.9.14","name":"ddox"}
 {"dependencies":{"vibe-d":"~master"},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"0.9.15","name":"ddox"}
 {"dependencies":{"vibe-d":"~master"},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"0.9.16","name":"ddox"}
+{"dependencies":{"vibe-d":"~master"},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"0.9.17","name":"ddox"}
