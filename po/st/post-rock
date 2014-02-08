@@ -1,1 +1,2 @@
 {"dependencies":{"d-beard":"1.0.0"},"targetType":"library","version":"1.0.1","name":"post-rock"}
+{"dependencies":{"d-beard":"1.0.0"},"targetType":"library","version":"~master","commitID":"065b806f5bc1904c579035b628b64985a802dc3f","name":"post-rock"}
