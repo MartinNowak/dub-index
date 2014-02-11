@@ -1,0 +1,1 @@
+{"dependencies":{"dscanner":"~master"},"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"linenoise":"~master"},"targetType":"executable","name":"console"},{"dependencies":{"vibe-d":">=0.7.18"},"targetType":"executable","name":"server"},{"targetType":"executable","name":"sandbox"}],"version":"0.1.0","name":"drepl"}
