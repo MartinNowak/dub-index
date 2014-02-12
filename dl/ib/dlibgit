@@ -1,3 +1,4 @@
 {"version":"0.19.0","name":"dlibgit"}
 {"version":"~development","commitID":"4bb3030deb701b2e294878196cc461d9a073458c","name":"dlibgit"}
 {"version":"0.20.0","name":"dlibgit"}
+{"dependencies":{"libgit2":"~0.20"},"version":"~libgit_version_agnostic","commitID":"1df8ce0c50f22ca1d34c65c6de543806fd7937f2","name":"dlibgit"}
