@@ -4,3 +4,4 @@
 {"dependencies":{"vibe-d":"~master"},"version":"0.0.4","name":"sockjs-d"}
 {"dependencies":{"vibe-d":"0.7.18"},"version":"0.0.6","name":"sockjs-d"}
 {"dependencies":{"vibe-d":">=0.7.18"},"version":"0.0.7","name":"sockjs-d"}
+{"dependencies":{"vibe-d":">=0.7.19-beta.3"},"version":"0.0.8","name":"sockjs-d"}
