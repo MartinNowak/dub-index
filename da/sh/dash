@@ -1,1 +1,2 @@
 {"subPackages":[{"name":"bootstrapper"}],"dependencies":{"derelict-gl3":"~master","derelict-assimp3":"~master","derelict-fi":"~master","dyaml":"~master","x11":{"version":"~master","optional":true}},"targetType":"executable","version":"0.2.0","name":"dash"}
+{"subPackages":[{"name":"bootstrapper"}],"dependencies":{"derelict-gl3":"~master","gl3n":"~master","derelict-fi":"~master","derelict-assimp3":"~master","dyaml":"~master","x11":{"version":"~master","optional":true}},"targetType":"executable","version":"0.2.5","name":"dash"}
