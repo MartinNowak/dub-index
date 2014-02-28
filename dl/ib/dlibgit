@@ -6,3 +6,4 @@
 {"dependencies":{"libgit2":">=0.19.2 <0.21.0"},"version":"0.50.0","name":"dlibgit"}
 {"version":"~0.20.0","commitID":"9fa354c42ac658f22bc584a1246b6d497b5acdce","name":"dlibgit"}
 {"dependencies":{"libgit2":">=0.19.2 <0.21.0"},"version":"0.50.1","name":"dlibgit"}
+{"dependencies":{"libgit2":">=0.19.2 <0.21.0"},"version":"0.50.2","name":"dlibgit"}
