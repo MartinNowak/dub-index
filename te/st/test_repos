@@ -2,3 +2,4 @@
 {"dependencies":{"test_repos:subPackage1":"*"},"version":"0.0.5","name":"test_repos"}
 {"subPackages":[{"dependencies":{"vibe-d":"~master"},"name":"subPackage1"},{"name":"test_library"}],"dependencies":{"test_repos:subPackage1":">=0.0.0"},"version":"0.0.6","name":"test_repos"}
 {"subPackages":[{"name":"subpackage1"},{"name":"test_library"}],"dependencies":{"test_repos:subPackage1":">=0.0.0"},"version":"0.0.7","name":"test_repos"}
+{"subPackages":[{"name":"subpackage1"},{"name":"test_library"}],"dependencies":{"test_repos:subPackage1":">=0.0.0"},"version":"~master","commitID":"f22962e0045ebde41106a62aff2cfcd2c5ba2f02","name":"test_repos"}
