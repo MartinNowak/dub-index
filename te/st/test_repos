@@ -1,2 +1,3 @@
 {"subPackages":[{"name":"subPackage1"},{"name":"test_library"}],"version":"0.0.1-beta","name":"test_repos"}
 {"dependencies":{"test_repos:subPackage1":"*"},"version":"0.0.5","name":"test_repos"}
+{"subPackages":[{"dependencies":{"vibe-d":"~master"},"name":"subPackage1"},{"name":"test_library"}],"dependencies":{"test_repos:subPackage1":">=0.0.0"},"version":"0.0.6","name":"test_repos"}
