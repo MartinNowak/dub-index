@@ -6,3 +6,4 @@
 {"dependencies":{"derelict-gl3":"~master","gl3n":"~master","derelict-fi":"~master","derelict-assimp3":"~master","dyaml":"~master","x11":{"version":"~master","optional":true}},"targetType":"library","version":"0.3.0","name":"dash"}
 {"dependencies":{"derelict-gl3":"~master","gl3n":"~master","derelict-fi":"~master","derelict-assimp3":"~master","dyaml":"~master","x11":{"version":"~master","optional":true}},"targetType":"library","version":"0.3.1","name":"dash"}
 {"dependencies":{"derelict-gl3":"~master","gl3n":"~master","derelict-fi":"~master","derelict-assimp3":"~master","dyaml":"~master","x11":{"version":"~master","optional":true}},"targetType":"library","version":"0.3.2","name":"dash"}
+{"dependencies":{"derelict-gl3":"~master","gl3n":"~master","derelict-fi":"~master","derelict-assimp3":"~master","dyaml":"~master","x11":{"version":"~master","optional":true}},"targetType":"library","version":"0.3.3","name":"dash"}
