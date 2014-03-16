@@ -1,0 +1,1 @@
+{"dependencies":{"derelict:freeimage":"~master","derelict:opengl3":"~master","derelict:glfw3":"~master","derelict:assimp3":"~master"},"targetType":"library","version":"~master","commitID":"5f5cc777b9c64a31ebeb34148d6bb55b09e233bd","name":"civge"}
