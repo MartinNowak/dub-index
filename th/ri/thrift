@@ -1,1 +1,2 @@
 {"dependencies":{"libevent":"~master","openssl":"~master"},"targetType":"library","version":"1.0.0-dev","name":"thrift"}
+{"dependencies":{"libevent":"~master","openssl":"~master"},"targetType":"library","version":"~master","commitID":"ff3e5fad0c9de4c2a33ce2230a9b163e3a88914b","name":"thrift"}
