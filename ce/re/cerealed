@@ -5,3 +5,4 @@
 {"targetType":"library","version":"0.2.0","name":"cerealed"}
 {"targetType":"library","version":"0.3.0","name":"cerealed"}
 {"targetType":"library","version":"~pointers","commitID":"2b606d0ed1330c9a38a586cfa5dddee5a315fafe","name":"cerealed"}
+{"targetType":"library","version":"0.4.0","name":"cerealed"}
