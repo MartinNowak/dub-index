@@ -1,1 +1,2 @@
 {"dependencies":{"dunit":"1.0.2"},"targetType":"library","version":"0.0.1","configurations":[{"targetType":"library","name":"release"},{"targetType":"executable","name":"unittest"}],"name":"dejector"}
+{"dependencies":{"dunit":">=1.0.8"},"targetType":"library","version":"~master","commitID":"ab19c62ca06bfcba3450e70ed9d80cc62d2e52a5","name":"dejector"}
