@@ -8,3 +8,4 @@
 {"dependencies":{"libgit2":">=0.19.2 <0.21.0"},"version":"0.50.1","name":"dlibgit"}
 {"dependencies":{"libgit2":">=0.19.2 <0.21.0"},"version":"0.50.2","name":"dlibgit"}
 {"dependencies":{"libgit2":">=0.19.2 <0.21.0"},"version":"0.50.3","name":"dlibgit"}
+{"dependencies":{"libgit2":">=0.19.2 <0.21.0"},"version":"0.50.4","name":"dlibgit"}
