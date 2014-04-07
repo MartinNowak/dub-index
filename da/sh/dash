@@ -12,3 +12,4 @@
 {"dependencies":{"derelict-gl3":"~master","derelict-assimp3":"~master","derelict-fi":"~master","dyaml":"~master","x11":{"version":"~master","optional":true},"gl3n-shared":"~master"},"targetType":"library","version":"0.5.0","name":"dash"}
 {"dependencies":{"derelict-gl3":"~master","derelict-assimp3":"~master","derelict-fi":"~master","dyaml":"~master","x11":{"version":"~master","optional":true},"gl3n-shared":"~master"},"targetType":"library","version":"0.5.1","name":"dash"}
 {"dependencies":{"derelict-gl3":"~master","derelict-assimp3":"~master","derelict-fi":"~master","dyaml":"~master","x11":{"version":"~master","optional":true},"gl3n-shared":"~master"},"targetType":"library","version":"0.5.2","name":"dash"}
+{"dependencies":{"derelict-gl3":"~master","derelict-assimp3":"~master","derelict-fi":"~master","dyaml":"~master","x11":{"version":"~master","optional":true},"gl3n-shared":"~master"},"targetType":"library","version":"0.5.3","name":"dash"}
