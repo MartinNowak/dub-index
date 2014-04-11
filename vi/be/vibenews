@@ -17,3 +17,4 @@
 {"dependencies":{"vibe-d":"~master","antispam":"~master","userman":"~master"},"version":"0.5.15","name":"vibenews"}
 {"dependencies":{"vibe-d":"~master","antispam":"~master","userman":"~master"},"version":"0.5.16","name":"vibenews"}
 {"dependencies":{"vibe-d":"~>0.7.18","antispam":"~>0.0.3","userman":"~>0.0.10"},"version":"0.5.17","name":"vibenews"}
+{"dependencies":{"vibe-d":"~>0.7.18","antispam":"~>0.0.3","userman":"~>0.0.10"},"version":"0.5.18","name":"vibenews"}
