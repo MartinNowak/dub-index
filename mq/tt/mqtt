@@ -1,2 +1,3 @@
 {"dependencies":{"vibe-d":"~master","cerealed":"~master"},"targetType":"executable","version":"~lock_free_queue","commitID":"f5df163ef7242cab66aa1ba5d1178aed96250e2d","name":"mqtt"}
 {"dependencies":{"vibe-d":"~master","cerealed":"~master"},"targetType":"executable","version":"~reuse_cereal","commitID":"1077b764cac6a426a7febe889a4dd8f15874fd92","name":"mqtt"}
+{"dependencies":{"vibe-d":"~master","cerealed":"~master"},"targetType":"executable","version":"0.1.0","name":"mqtt"}
