@@ -1,0 +1,1 @@
+{"configurations":[{"targetType":"library","name":"core"},{"dependencies":{"derelict-util":">=1.0.0","derelict-sdl2":"~master"},"targetType":"executable","name":"ant"}],"version":"0.1.0","name":"devol"}
