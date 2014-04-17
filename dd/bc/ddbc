@@ -1,3 +1,4 @@
 {"configurations":[{"targetType":"staticLibrary","name":"MySQL"},{"targetType":"staticLibrary","name":"SQLite"},{"targetType":"staticLibrary","name":"PGSQL"}],"targetType":"staticLibrary","version":"0.2.4","name":"ddbc"}
 {"configurations":[{"targetType":"staticLibrary","name":"MySQL"},{"targetType":"staticLibrary","name":"SQLite"},{"targetType":"staticLibrary","name":"PGSQL"}],"targetType":"staticLibrary","version":"0.2.6","name":"ddbc"}
 {"dependencies":{"mysql-native":"0.0.9"},"targetType":"staticLibrary","version":"0.2.9","configurations":[{"targetType":"staticLibrary","name":"MySQL"},{"targetType":"staticLibrary","name":"SQLite"},{"targetType":"staticLibrary","name":"PGSQL"}],"name":"ddbc"}
+{"dependencies":{"mysql-native":"0.0.10"},"targetType":"staticLibrary","version":"0.2.10","configurations":[{"targetType":"staticLibrary","name":"MySQL"},{"targetType":"staticLibrary","name":"SQLite"},{"targetType":"staticLibrary","name":"PGSQL"}],"name":"ddbc"}
