@@ -1,0 +1,1 @@
+{"dependencies":{"vibe-d":"~master","dlogg":"~master","derelict-pq":"~master","dunit":">=1.0.0-beta"},"configurations":[{"targetType":"executable","name":"production"},{"targetType":"executable","name":"test1"},{"targetType":"executable","name":"test2"},{"targetType":"executable","name":"testclient"}],"version":"0.1.2","name":"pgator"}
