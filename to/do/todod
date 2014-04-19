@@ -1,0 +1,1 @@
+{"dependencies":{"stochastic":"~master","tested":"~master","linenoise":"~master"},"configurations":[{"targetType":"library","name":"todod"},{"targetType":"executable","name":"shell"}],"version":"0.1.0","name":"todod"}
