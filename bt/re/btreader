@@ -1,2 +1,3 @@
 {"configurations":[{"targetType":"executable","name":"application"}],"version":"0.1.0","name":"btreader"}
 {"configurations":[{"targetType":"executable","name":"application"}],"version":"0.2.0","name":"btreader"}
+{"configurations":[{"targetType":"executable","name":"application"}],"version":"~master","commitID":"3e8b58f8e88a0e105a36622052a80c5ab74f03ea","name":"btreader"}
