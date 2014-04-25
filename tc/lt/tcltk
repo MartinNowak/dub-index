@@ -1,1 +1,2 @@
 {"dependencies":{"x11":"~master"},"version":"8.5.11","name":"tcltk"}
+{"dependencies":{"x11":">=1.0.0"},"version":"8.6.1","name":"tcltk"}
