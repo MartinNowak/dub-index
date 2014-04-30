@@ -1,2 +1,3 @@
 {"targetType":"executable","version":"0.1.0","name":"oculus-d-rift"}
 {"targetType":"executable","version":"~master","commitID":"f672556f0bb5bb8aa903a0477987bb9217edf90a","name":"oculus-d-rift"}
+{"targetType":"executable","version":"~v0.3.1","commitID":"6e0af1e152cb5d71ecd9fec8c592be5f794591d9","name":"oculus-d-rift"}
