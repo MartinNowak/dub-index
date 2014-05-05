@@ -1,1 +1,2 @@
 {"dependencies":{"tcltk":">=8.6.1"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"example"}],"version":"1.0.0-beta","name":"tkd"}
+{"dependencies":{"tcltk":">=8.6.2"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"example"}],"version":"1.0.1-beta","name":"tkd"}
