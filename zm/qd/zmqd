@@ -4,3 +4,4 @@
 {"dependencies":{"zeromq":"~master"},"targetType":"library","version":"0.2.0","name":"zmqd"}
 {"dependencies":{"zeromq":"~master"},"targetType":"library","version":"0.3.0","name":"zmqd"}
 {"dependencies":{"zeromq":"~master"},"targetType":"library","version":"0.4.0","name":"zmqd"}
+{"dependencies":{"zeromq":"~master"},"targetType":"library","version":"0.4.1","name":"zmqd"}
