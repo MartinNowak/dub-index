@@ -1,0 +1,1 @@
+{"configurations":[{"targetType":"library","name":"use_as_lib"},{"targetType":"executable","name":"check_libdev"}],"targetType":"library","version":"0.0.1","name":"carbon"}
