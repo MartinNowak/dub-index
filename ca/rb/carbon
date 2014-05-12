@@ -1,2 +1,3 @@
 {"configurations":[{"targetType":"library","name":"use_as_lib"},{"targetType":"executable","name":"check_libdev"}],"targetType":"library","version":"0.0.1","name":"carbon"}
 {"configurations":[{"targetType":"library","name":"use_as_lib"},{"targetType":"executable","name":"check_libdev"}],"targetType":"library","version":"0.0.2","name":"carbon"}
+{"configurations":[{"targetType":"library","name":"use_as_lib"},{"targetType":"executable","name":"check_libdev"}],"targetType":"library","version":"0.0.3","name":"carbon"}
