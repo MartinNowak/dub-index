@@ -1,2 +1,3 @@
 {"configurations":[{"targetType":"staticLibrary","name":"library"}],"version":"0.0.1","name":"logger"}
 {"version":"0.0.2","name":"logger"}
+{"version":"0.0.4","name":"logger"}
