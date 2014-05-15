@@ -1,0 +1,1 @@
+{"configurations":[{"targetType":"executable","name":"demo"},{"targetType":"executable","name":"old_demo"},{"targetType":"executable","name":"hello_world"},{"targetType":"executable","name":"simple"}],"targetType":"staticLibrary","version":"0.0.1","name":"dchip"}
