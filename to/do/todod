@@ -1,1 +1,2 @@
 {"dependencies":{"stochastic":"~master","tested":"~master","linenoise":"~master"},"configurations":[{"targetType":"library","name":"todod"},{"targetType":"executable","name":"shell"}],"version":"0.1.0","name":"todod"}
+{"dependencies":{"stochastic":"~master","tested":"~master","libgit2":">=0.20.1","linenoise":"~master"},"configurations":[{"targetType":"library","name":"todod"},{"targetType":"executable","name":"shell"}],"version":"0.8.0","name":"todod"}
