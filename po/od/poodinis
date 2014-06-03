@@ -1,0 +1,1 @@
+{"configurations":[{"targetType":"library","name":"release-build"},{"targetType":"library","name":"debug-build"},{"targetType":"executable","name":"unittest"}],"version":"0.1.0","name":"poodinis"}
