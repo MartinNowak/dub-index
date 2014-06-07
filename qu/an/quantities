@@ -1,0 +1,1 @@
+{"configurations":[{"targetType":"sourceLibrary","name":"library"},{"targetType":"library","name":"examples"},{"targetType":"executable","name":"benchmark"}],"version":"0.1.0","name":"quantities"}
