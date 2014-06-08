@@ -1,0 +1,1 @@
+{"subPackages":[{"dependencies":{"jack":{"version":">=0.0.0","path":"../.."}},"targetType":"executable","name":"mini-fm-synth"},{"dependencies":{"jack":{"version":">=0.0.0","path":"../.."}},"targetType":"executable","name":"velocity-curve"}],"targetType":"sourceLibrary","version":"1.0.0","name":"jack"}
