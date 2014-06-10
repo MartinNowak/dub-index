@@ -1,1 +1,2 @@
 {"dependencies":{"leveldb":">=1.16.0"},"targetType":"library","version":"1.16.0","name":"d-leveldb"}
+{"dependencies":{"leveldb":">=1.16.0"},"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"msgpack-d":"~master"},"targetType":"executable","name":"test"}],"version":"~develop","commitID":"47d4cabf5766759efc2a7cc6c734e7d686b198ef","name":"d-leveldb"}
