@@ -8,3 +8,4 @@
 {"dependencies":{"vibe-d":"~master"},"version":"0.0.9","name":"userman"}
 {"dependencies":{"vibe-d":"~>0.7.18"},"version":"0.0.10","name":"userman"}
 {"dependencies":{"vibe-d":"~>0.7.18"},"version":"0.0.11","name":"userman"}
+{"dependencies":{"vibe-d":"~>0.7.18"},"version":"0.0.12","name":"userman"}
