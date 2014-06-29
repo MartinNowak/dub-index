@@ -2,3 +2,4 @@
 {"dependencies":{"vibe-d":"~master"},"version":"0.0.2","name":"antispam"}
 {"dependencies":{"vibe-d":"~>0.7.17"},"version":"0.0.3","name":"antispam"}
 {"dependencies":{"vibe-d":"~>0.7.17"},"version":"0.0.4","name":"antispam"}
+{"dependencies":{"vibe-d":">=0.7.21-alpha.1 <0.8.0-0"},"version":"0.0.5","name":"antispam"}
