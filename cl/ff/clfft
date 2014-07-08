@@ -1,1 +1,2 @@
 {"dependencies":{"derelict_extras-opencl":">=1.2.0"},"targetType":"sourceLibrary","version":"0.1.0","name":"clfft"}
+{"dependencies":{"derelict_extras-opencl":">=1.2.0"},"targetType":"sourceLibrary","version":"0.1.1","name":"clfft"}
