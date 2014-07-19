@@ -1,0 +1,1 @@
+{"dependencies":{"medea":{"version":">=0.0.0","path":"../medea"},"heaploop":{"version":">=0.0.0","path":"../heaploop"}},"targetType":"library","version":"~master","commitID":"43616599eebbe6ea2f77851f06e7e09d8639461f","name":"couched"}
