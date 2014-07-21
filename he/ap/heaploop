@@ -1,0 +1,1 @@
+{"dependencies":{"http-parser":"~master","uv":"~master","events":"~master"},"targetType":"library","version":"~master","commitID":"7c2af6d375d9a84019e7acc09539f2a68b8fd054","name":"heaploop"}
