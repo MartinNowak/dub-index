@@ -1,1 +1,2 @@
 {"dependencies":{"vibe-d":">=0.7.20","cerealed":"~master"},"version":"0.0.1","name":"dakka"}
+{"subPackages":[{"dependencies":{"vibe-d":">=0.7.20","cerealed":"~master"},"name":"base"},{"dependencies":{"dakka:base":"~master"},"name":"vibe-d_wrappers"}],"targetType":"none","version":"0.0.2","name":"dakka"}
