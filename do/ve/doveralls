@@ -1,0 +1,1 @@
+{"dependencies":{"medea":"~master","dlibgit":"~>0.50"},"targetType":"executable","version":"0.1.0","name":"doveralls"}
