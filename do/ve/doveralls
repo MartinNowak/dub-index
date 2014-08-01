@@ -2,3 +2,4 @@
 {"dependencies":{"medea":"~master","dlibgit":{"version":"~>0.50","optional":true}},"targetType":"executable","version":"0.1.1","name":"doveralls"}
 {"dependencies":{"medea":"~master","dlibgit":{"version":"~>0.50","optional":true}},"targetType":"executable","version":"0.1.2","name":"doveralls"}
 {"dependencies":{"medea":"~master","dlibgit":{"version":"~>0.50","optional":true}},"targetType":"executable","version":"0.1.3","name":"doveralls"}
+{"dependencies":{"medea":"~master","dlibgit":{"version":"~>0.50","optional":true}},"targetType":"executable","version":"0.1.4","name":"doveralls"}
