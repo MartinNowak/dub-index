@@ -1,0 +1,1 @@
+{"subPackages":[{"dependencies":{"elf-d":{"version":">=0.0.0","path":"../"}},"targetType":"executable","name":"example"}],"targetType":"staticLibrary","version":"0.1.0","name":"elf-d"}
