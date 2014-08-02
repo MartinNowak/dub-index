@@ -6,3 +6,4 @@
 {"dependencies":{"medea":"~master","dlibgit":{"version":"~>0.50","optional":true}},"targetType":"executable","version":"0.1.5","name":"doveralls"}
 {"dependencies":{"medea":"~master","dlibgit":{"version":"~>0.50","optional":true}},"targetType":"executable","version":"1.0.0","name":"doveralls"}
 {"dependencies":{"medea":"~master","dlibgit":{"version":"~>0.50","optional":true}},"targetType":"executable","version":"1.0.1","name":"doveralls"}
+{"dependencies":{"medea":"~master","dlibgit":{"version":"~>0.50","optional":true}},"targetType":"executable","version":"1.0.2","name":"doveralls"}
