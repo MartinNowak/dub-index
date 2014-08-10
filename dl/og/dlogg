@@ -5,3 +5,4 @@
 {"version":"0.2.0","name":"dlogg"}
 {"version":"0.2.1","name":"dlogg"}
 {"version":"0.2.2","name":"dlogg"}
+{"dependencies":{"colorize":">=1.0.0"},"version":"~HEAD","commitID":"77a37af2170fd1390e0da316dc19b7a518894f20","name":"dlogg"}
