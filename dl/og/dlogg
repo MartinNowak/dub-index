@@ -8,3 +8,4 @@
 {"dependencies":{"colorize":">=1.0.0"},"version":"~HEAD","commitID":"77a37af2170fd1390e0da316dc19b7a518894f20","name":"dlogg"}
 {"configurations":[{"targetType":"library","name":"default"},{"dependencies":{"colorize":">=1.0.0"},"targetType":"library","name":"colorized"}],"version":"~colorize","commitID":"542fc03ab27731ceefef64941cc3df17112f6553","name":"dlogg"}
 {"configurations":[{"targetType":"library","name":"default"},{"dependencies":{"colorize":">=1.0.0"},"targetType":"library","name":"colorized"}],"version":"0.3.2","name":"dlogg"}
+{"configurations":[{"targetType":"library","name":"default"},{"dependencies":{"colorize":">=1.0.0"},"targetType":"library","name":"colorized"}],"version":"0.3.3","name":"dlogg"}
