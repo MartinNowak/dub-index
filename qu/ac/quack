@@ -2,3 +2,4 @@
 {"targetType":"library","version":"0.2.0","name":"quack"}
 {"targetType":"library","version":"0.3.0","name":"quack"}
 {"dependencies":{"tested":"~>0.9"},"targetType":"library","version":"0.4.0","name":"quack"}
+{"dependencies":{"tested":{"version":"~>0.9","optional":true}},"targetType":"library","version":"1.0.0","name":"quack"}
