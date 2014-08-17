@@ -1,1 +1,2 @@
 {"dependencies":{"zeromq":"~master"},"targetType":"library","version":"~master","commitID":"79211f54ec21fa7cd2c925ae806c2f6cccf94452","name":"zmq-d"}
+{"dependencies":{"zeromq":"~master"},"targetType":"library","version":"0.3.0","name":"zmq-d"}
