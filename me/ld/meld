@@ -1,1 +1,2 @@
 {"dependencies":{"derelict-gl3":"~master","derelict-glfw3":"~master"},"version":"0.0.1","name":"meld"}
+{"dependencies":{"derelict-gl3":"~master","derelict-glfw3":"~master","msgpack-d":">=0.9.1"},"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"derelict-assimp3":"~master"},"targetType":"executable","name":"mcb"}],"version":"~master","commitID":"0c6a401d27ad8381514e3d935e5af7ce102b57f4","name":"meld"}
