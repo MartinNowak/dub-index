@@ -3,3 +3,4 @@
 {"targetType":"library","version":"0.3.0","name":"quack"}
 {"dependencies":{"tested":"~>0.9"},"targetType":"library","version":"0.4.0","name":"quack"}
 {"dependencies":{"tested":{"version":"~>0.9","optional":true}},"targetType":"library","version":"1.0.0","name":"quack"}
+{"dependencies":{"tested":{"version":"~>0.9","optional":true}},"targetType":"library","version":"~master","commitID":"5243bda5bed190704b1f471cd60fcb03f133a5e9","name":"quack"}
