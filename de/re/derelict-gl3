@@ -4,3 +4,4 @@
 {"dependencies":{"derelict-util":">=1.0.2"},"version":"1.0.3","name":"derelict-gl3"}
 {"dependencies":{"derelict-util":">=1.0.2"},"version":"1.0.4","name":"derelict-gl3"}
 {"dependencies":{"derelict-util":">=1.0.2"},"version":"1.0.5","name":"derelict-gl3"}
+{"dependencies":{"derelict-util":">=1.0.2"},"version":"1.0.6","name":"derelict-gl3"}
