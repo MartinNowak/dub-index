@@ -2,3 +2,4 @@
 {"dependencies":{"tested":"~master"},"configurations":[{"targetType":"library","name":"stochastic"},{"targetType":"executable","name":"population"}],"version":"~simplify","commitID":"5ee53e495ffc29e21ad9d8f7bf7821a64c23b2ad","name":"stochastic"}
 {"dependencies":{"tested":"~master"},"configurations":[{"targetType":"library","name":"stochastic"},{"targetType":"executable","name":"population"}],"version":"0.1.0","name":"stochastic"}
 {"dependencies":{"tested":"~master"},"configurations":[{"targetType":"library","name":"stochastic"},{"targetType":"executable","name":"population"}],"version":"0.2.0","name":"stochastic"}
+{"dependencies":{"tested":"~master"},"configurations":[{"targetType":"library","name":"stochastic"},{"targetType":"executable","name":"population"}],"version":"~master","commitID":"dc79c6e7441c4d05b3ac31351e711dee7a82724b","name":"stochastic"}
