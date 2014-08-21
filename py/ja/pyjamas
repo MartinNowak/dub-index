@@ -9,3 +9,4 @@
 {"configurations":[{"targetType":"library","name":"pyjamas"},{"dependencies":{"bed":">=0.0.5"},"targetType":"executable","name":"test"}],"version":"0.0.9","name":"pyjamas"}
 {"configurations":[{"targetType":"library","name":"pyjamas"},{"dependencies":{"bed":">=0.0.5"},"targetType":"executable","name":"test"}],"version":"0.0.10","name":"pyjamas"}
 {"configurations":[{"targetType":"library","name":"pyjamas"},{"dependencies":{"bed":">=0.0.5"},"targetType":"executable","name":"test"}],"version":"0.0.11","name":"pyjamas"}
+{"configurations":[{"targetType":"library","name":"pyjamas"},{"dependencies":{"bed":">=0.0.5"},"targetType":"executable","name":"test"}],"version":"0.1.0","name":"pyjamas"}
