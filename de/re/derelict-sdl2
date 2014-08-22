@@ -21,3 +21,4 @@
 {"dependencies":{"derelict-util":">=1.0.2"},"version":"1.1.6","name":"derelict-sdl2"}
 {"dependencies":{"derelict-util":">=1.0.2"},"version":"1.0.8","name":"derelict-sdl2"}
 {"dependencies":{"derelict-util":">=1.0.2"},"version":"1.0.9","name":"derelict-sdl2"}
+{"dependencies":{"derelict-util":">=1.0.2"},"version":"1.1.7","name":"derelict-sdl2"}
