@@ -9,3 +9,4 @@
 {"configurations":[{"targetType":"library","name":"default"},{"dependencies":{"colorize":">=1.0.0"},"targetType":"library","name":"colorized"}],"version":"~colorize","commitID":"542fc03ab27731ceefef64941cc3df17112f6553","name":"dlogg"}
 {"configurations":[{"targetType":"library","name":"default"},{"dependencies":{"colorize":">=1.0.0"},"targetType":"library","name":"colorized"}],"version":"0.3.2","name":"dlogg"}
 {"configurations":[{"targetType":"library","name":"default"},{"dependencies":{"colorize":">=1.0.0"},"targetType":"library","name":"colorized"}],"version":"0.3.3","name":"dlogg"}
+{"configurations":[{"targetType":"library","name":"default"},{"dependencies":{"colorize":">=1.0.0"},"targetType":"library","name":"colorized"}],"version":"~nothrow-fix","commitID":"82131009107456e77f3ed518ba4522b49a036976","name":"dlogg"}
