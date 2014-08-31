@@ -47,3 +47,4 @@
 {"dependencies":{"gl3n":"~master","dlogg":"~>0.2.2","derelict-gl3":"~master","x11":{"version":"1.0.0","optional":true},"derelict-assimp3":"~master","derelict-fi":"~master","dyaml":"0.4.6"},"targetType":"library","version":"0.9.1","name":"dash"}
 {"dependencies":{"gl3n":"~master","dlogg":"~>0.3","derelict-gl3":"~>1","x11":{"version":"~>1","optional":true},"derelict-assimp3":"~>1","derelict-fi":"~>1","dyaml":"~>0.5"},"targetType":"library","version":"0.9.5-beta1","name":"dash"}
 {"dependencies":{"gl3n":"~master","dlogg":"~>0.3","derelict-gl3":"~>1","x11":{"version":"~>1","optional":true},"derelict-assimp3":"~>1","derelict-fi":"~>1","dyaml":"~>0.5"},"targetType":"library","version":"0.9.5","name":"dash"}
+{"dependencies":{"gl3n":"~master","dlogg":"~>0.3","derelict-gl3":"~>1","x11":{"version":"~>1","optional":true},"derelict-assimp3":"~>1","derelict-fi":"~>1","dyaml":"~>0.5"},"targetType":"library","version":"0.9.6","name":"dash"}
