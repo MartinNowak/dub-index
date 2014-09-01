@@ -5,3 +5,4 @@
 {"dependencies":{"onyx-config":">=1.0.0-beta.2"},"configurations":[{"targetType":"executable","name":"test"},{"targetType":"library","name":"library"}],"version":"0.1.0-beta.2","name":"onyx-serial"}
 {"dependencies":{"onyx-config":">=1.0.0-beta.2"},"configurations":[{"targetType":"executable","name":"test"},{"targetType":"library","name":"library"}],"version":"0.1.0-beta.3","name":"onyx-serial"}
 {"dependencies":{"onyx-config":">=1.0.0-beta.2"},"configurations":[{"targetType":"executable","name":"test"},{"targetType":"library","name":"library"}],"version":"0.1.0-beta.4","name":"onyx-serial"}
+{"dependencies":{"onyx-config":">=1.1.1"},"configurations":[{"targetType":"executable","name":"test"},{"targetType":"library","name":"library"}],"version":"0.1.1","name":"onyx-serial"}
