@@ -1,2 +1,3 @@
 {"configurations":[{"targetType":"sourceLibrary","name":"library"},{"targetType":"library","name":"examples"},{"targetType":"executable","name":"benchmark"}],"version":"0.1.0","name":"quantities"}
 {"configurations":[{"targetType":"sourceLibrary","name":"library"},{"targetType":"library","name":"examples"},{"targetType":"executable","name":"benchmark"}],"version":"0.2.0","name":"quantities"}
+{"targetType":"library","version":"0.2.1","name":"quantities"}
