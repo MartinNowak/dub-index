@@ -1,3 +1,4 @@
 {"targetType":"library","version":"2.0.1+5.0.10","name":"allegro"}
 {"targetType":"library","version":"1.0.1+5.1.8","name":"allegro"}
 {"configurations":[{"targetType":"library","name":"no-libs"},{"targetType":"library","name":"allegro-only"},{"targetType":"library","name":"all-addons"}],"targetType":"library","version":"2.0.2+5.0.10","name":"allegro"}
+{"configurations":[{"targetType":"library","name":"no-libs"},{"targetType":"library","name":"allegro-only"},{"targetType":"library","name":"all-addons"}],"targetType":"library","version":"3.0.0+5.1.8","name":"allegro"}
