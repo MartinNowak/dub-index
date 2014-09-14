@@ -1,3 +1,4 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"0.1.0","name":"lock-free"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"0.1.1","name":"lock-free"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"~master","commitID":"beded71133a05143c371a8971302d17355f7b18f","name":"lock-free"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"0.1.2","name":"lock-free"}
