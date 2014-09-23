@@ -1,0 +1,1 @@
+{"dependencies":{"cairod":"~master","dmocks-revived":"~master","tested":"~master"},"configurations":[{"targetType":"library","name":"plotd"},{"targetType":"executable","name":"plot1"}],"version":"0.0.1","name":"plotd"}
