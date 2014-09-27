@@ -1,1 +1,2 @@
 {"dependencies":{"vibe-d":">=0.7.21-beta.4","dlogg":">=0.3.3","derelict-pq":"~master"},"configurations":[{"targetType":"library","name":"production"},{"targetType":"executable","name":"test1"},{"targetType":"executable","name":"test2"}],"version":"0.1.0","name":"pgator-backend"}
+{"dependencies":{"vibe-d":">=0.7.21-beta.4","dlogg":">=0.3.3","derelict-pq":"~master"},"configurations":[{"targetType":"library","name":"production"},{"targetType":"executable","name":"test1"},{"targetType":"executable","name":"test2"}],"version":"0.1.1","name":"pgator-backend"}
