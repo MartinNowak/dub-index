@@ -1,1 +1,2 @@
 {"configurations":[{"targetType":"executable","name":"nBodySim"},{"targetType":"executable","name":"nBodySim-serial"}],"version":"0.2.0","name":"nbodysim"}
+{"configurations":[{"targetType":"executable","name":"nBodySim"},{"targetType":"executable","name":"nBodySim-serial"}],"version":"~master","commitID":"a35b20e57732ddad92ec7de5735cb2666f578244","name":"nbodysim"}
