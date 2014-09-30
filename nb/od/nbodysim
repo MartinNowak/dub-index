@@ -1,0 +1,1 @@
+{"configurations":[{"targetType":"executable","name":"nBodySim"},{"targetType":"executable","name":"nBodySim-serial"}],"version":"0.2.0","name":"nbodysim"}
