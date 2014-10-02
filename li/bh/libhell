@@ -1,2 +1,3 @@
 {"dependencies":{"derelict-sdl2":"~>1.0.0"},"version":"0.1.0","name":"libhell"}
 {"dependencies":{"derelict-sdl2":"~>1.0.0"},"version":"~master","commitID":"4fba299bd801fb4dca04d40149aedce49a068f7b","name":"libhell"}
+{"dependencies":{"derelict-sdl2":"~>1.0.0"},"version":"0.1.1","name":"libhell"}
