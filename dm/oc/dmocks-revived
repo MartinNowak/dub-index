@@ -1,0 +1,1 @@
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"tests"}],"version":"~master","commitID":"507d4da07fbdcb902ac8c21bcc021d0e409b97d2","name":"dmocks-revived"}
