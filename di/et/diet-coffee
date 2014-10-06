@@ -1,1 +1,2 @@
 {"dependencies":{"vibe-d":{"version":"~>0.7","optional":true}},"version":"~master","commitID":"720094f5bd900df73af8a695a5867b2a1aa34727","name":"diet-coffee"}
+{"dependencies":{"vibe-d":{"version":"~>0.7","optional":true}},"version":"0.1.0","name":"diet-coffee"}
