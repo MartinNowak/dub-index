@@ -2,3 +2,4 @@
 {"dependencies":{"openssl":"~master"},"version":"1.1.0","name":"dcrypto"}
 {"dependencies":{"openssl":"~master"},"version":"1.1.1","name":"dcrypto"}
 {"dependencies":{"openssl":"~master"},"version":"1.2.0","name":"dcrypto"}
+{"dependencies":{"openssl":">=1.0.0+1.0.0e"},"version":"1.2.1","name":"dcrypto"}
