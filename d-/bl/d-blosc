@@ -1,2 +1,3 @@
 {"targetType":"sourceLibrary","version":"1.2.3-1","name":"d-blosc"}
 {"targetType":"sourceLibrary","version":"1.4.1-1","name":"d-blosc"}
+{"targetType":"sourceLibrary","version":"~master","commitID":"2a5d99fa3414a64559134a7001c162a3911282e3","name":"d-blosc"}
