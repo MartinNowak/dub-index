@@ -1,1 +1,2 @@
 {"dependencies":{"vibe-d":">=0.7.21-rc.2"},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"0.0.2","name":"memcached4d"}
+{"dependencies":{"vibe-d":">=0.7.21-rc.2"},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"~master","commitID":"44b64b3cab94509bd6e0af11835b6aac301642e8","name":"memcached4d"}
