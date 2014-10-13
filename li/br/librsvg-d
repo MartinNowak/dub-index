@@ -1,1 +1,2 @@
 {"dependencies":{"cairod":"~master"},"configurations":[{"targetType":"staticLibrary","name":"static-lib"}],"version":"0.0.2","name":"librsvg-d"}
+{"dependencies":{"cairod":"~master"},"configurations":[{"targetType":"staticLibrary","name":"static-lib"}],"version":"0.0.3","name":"librsvg-d"}
