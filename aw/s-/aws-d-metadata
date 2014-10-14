@@ -1,1 +1,2 @@
 {"dependencies":{"vibe-d":"0.7.20"},"version":"0.0.1","name":"aws-d-metadata"}
+{"dependencies":{"vibe-d":"0.7.20"},"version":"~master","commitID":"5563bbb573fd6eb787412f215ad4e08a43a300ec","name":"aws-d-metadata"}
