@@ -1,0 +1,1 @@
+{"subPackages":[{"dependencies":{"udis86-d":{"version":">=0.0.0","path":"../"}},"targetType":"executable","name":"example"}],"targetType":"sourceLibrary","version":"1.7.2-1","name":"udis86-d"}
