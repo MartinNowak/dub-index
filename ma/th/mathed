@@ -1,1 +1,2 @@
 {"configurations":[{"targetType":"library","name":"build"},{"targetType":"executable","name":"test"}],"version":"0.1.0","name":"mathed"}
+{"configurations":[{"targetType":"library","name":"lib"},{"targetType":"executable","name":"unittests"}],"version":"0.2.0","name":"mathed"}
