@@ -1,1 +1,2 @@
 {"dependencies":{"kxml":"~master"},"version":"0.1.0","name":"libdxmpp"}
+{"dependencies":{"kxml":"~master"},"version":"~master","commitID":"4573f100864eb5053c6a87715b88ae9619fea644","name":"libdxmpp"}
