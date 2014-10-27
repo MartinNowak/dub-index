@@ -1,3 +1,4 @@
 {"targetType":"sourceLibrary","version":"1.0.0+1.0.0e","name":"openssl"}
 {"configurations":[{"targetType":"sourceLibrary","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"1.1.0+1.0.1g","name":"openssl"}
 {"configurations":[{"targetType":"sourceLibrary","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"1.1.1+1.0.1g","name":"openssl"}
+{"configurations":[{"targetType":"sourceLibrary","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"1.1.2+1.0.1g","name":"openssl"}
