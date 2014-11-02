@@ -2,3 +2,4 @@
 {"dependencies":{"derelict-util":">=1.0.0"},"version":"1.0.0","name":"derelict-ode"}
 {"dependencies":{"derelict-util":">=1.0.0"},"version":"1.1.0","name":"derelict-ode"}
 {"dependencies":{"derelict-util":">=1.0.0"},"version":"1.0.1","name":"derelict-ode"}
+{"dependencies":{"derelict-util":">=1.0.0"},"version":"~0.13","commitID":"95fd9386fc7beac7092c5e46f01b097fc958b149","name":"derelict-ode"}
