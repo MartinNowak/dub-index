@@ -1,3 +1,4 @@
 {"configurations":[{"targetType":"library","name":"dfl_debug"},{"targetType":"library","name":"dfl"},{"targetType":"executable","name":"dflexe"}],"version":"1.0.0","name":"dfl2"}
 {"configurations":[{"targetType":"library","name":"dfl_debug"},{"targetType":"library","name":"dfl"},{"targetType":"executable","name":"dflexe"}],"version":"1.0.1","name":"dfl2"}
 {"targetType":"library","version":"1.0.2","name":"dfl2"}
+{"targetType":"library","version":"1.0.3","name":"dfl2"}
