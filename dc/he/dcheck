@@ -1,1 +1,2 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"0.1.0","name":"dcheck"}
+{"version":"~master","commitID":"9bf1246e5c6504718a83e06a98e034d7930a671f","name":"dcheck"}
