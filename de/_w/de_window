@@ -1,0 +1,1 @@
+{"subPackages":[{"name":"interfaces"},{"dependencies":{"derelict-gl3":">=1.0.4","de_window:interfaces":"~master","x11":">=1.0.0"},"targetType":"sourceLibrary","name":"platform"},{"dependencies":{"de_window:platform":"~master"},"targetType":"executable","name":"test"}],"version":"0.0.1","name":"de_window"}
