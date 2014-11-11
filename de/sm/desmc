@@ -1,2 +1,3 @@
 {"dependencies":{"descore":"1.0.11"},"targetType":"sourceLibrary","version":"0.1.0","name":"desmc"}
 {"dependencies":{"descore":"1.0.11"},"targetType":"sourceLibrary","version":"~master","commitID":"813f898878763c9e87ffade8a45ebc15857f1cdd","name":"desmc"}
+{"dependencies":{"descore":"1.0.11"},"targetType":"sourceLibrary","version":"0.1.1","name":"desmc"}
