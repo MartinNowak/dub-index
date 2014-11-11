@@ -6,3 +6,4 @@
 {"targetType":"library","version":"0.4.1","name":"d2sqlite3"}
 {"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"sizefmt":">=0.1.0"},"targetType":"executable","name":"dsqlar"}],"version":"0.5.0","name":"d2sqlite3"}
 {"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"sizefmt":">=0.1.0"},"targetType":"executable","name":"dsqlar"}],"version":"0.5.1","name":"d2sqlite3"}
+{"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"sizefmt":">=0.2.0"},"targetType":"executable","name":"dsqlar"}],"version":"0.5.2","name":"d2sqlite3"}
