@@ -1,1 +1,2 @@
 {"configurations":[{"targetType":"library","name":"application"},{"dependencies":{"dunit":">=1.0.9"},"targetType":"executable","name":"unittest"}],"version":"0.1.0","name":"tga"}
+{"configurations":[{"targetType":"library","name":"application"},{"dependencies":{"dunit":">=1.0.9"},"targetType":"executable","name":"unittest"}],"version":"~develop","commitID":"6143690c4810d9f0fd84eaf78eaf907c87dfe7b8","name":"tga"}
