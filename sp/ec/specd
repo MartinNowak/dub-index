@@ -1,2 +1,3 @@
 {"configurations":[{"targetType":"library","name":"build"},{"targetType":"executable","name":"test"}],"version":"0.1.0","name":"specd"}
 {"configurations":[{"targetType":"library","name":"build"},{"targetType":"executable","name":"test"}],"version":"~master","commitID":"2e71b3303e8d62bcc9559d3875e82c69011134ac","name":"specd"}
+{"configurations":[{"targetType":"library","name":"build"},{"targetType":"library","name":"unittest"}],"version":"~develop","commitID":"a8a36858943f527dc35427f84aacc821a5b3512c","name":"specd"}
