@@ -13,3 +13,4 @@
 {"dependencies":{"vibe-d":"~>0.7.20"},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"0.1.1","name":"userman"}
 {"dependencies":{"vibe-d":">=0.7.21-beta.2 <0.8.0-0"},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"0.2.0","name":"userman"}
 {"dependencies":{"vibe-d":">=0.7.21-beta.2 <0.8.0-0"},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"0.2.1","name":"userman"}
+{"dependencies":{"vibe-d":">=0.7.21-beta.2 <0.8.0-0"},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"0.2.2","name":"userman"}
