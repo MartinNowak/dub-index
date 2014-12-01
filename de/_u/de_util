@@ -1,0 +1,1 @@
+{"subPackages":[{"name":"core"},{"dependencies":{"derelict-gl3":">=1.0.10","gl3n":">=1.0.0","de_image:interfaces":">=0.1.4"},"name":"opengl"}],"targetType":"none","version":"0.0.1","name":"de_util"}
