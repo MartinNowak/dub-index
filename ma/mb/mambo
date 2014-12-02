@@ -1,3 +1,4 @@
 {"dependencies":{"tango":"~d2port"},"targetType":"staticLibrary","version":"0.0.1-alpha","name":"mambo"}
 {"dependencies":{"tango":"~d2port"},"targetType":"staticLibrary","version":"~commands","commitID":"d9f2e8d9f80f7f208725597b7db49707107a5f99","name":"mambo"}
 {"dependencies":{"tango":"1.0.0+2.066"},"targetType":"staticLibrary","version":"0.0.2","name":"mambo"}
+{"dependencies":{"tango":"1.0.0+2.066"},"targetType":"staticLibrary","version":"0.0.3","name":"mambo"}
