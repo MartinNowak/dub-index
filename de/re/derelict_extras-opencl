@@ -1,2 +1,3 @@
 {"dependencies":{"derelict-util":">=1.0.0"},"version":"1.2.0","name":"derelict_extras-opencl"}
 {"dependencies":{"derelict-util":">=1.0.0"},"version":"1.2.1","name":"derelict_extras-opencl"}
+{"dependencies":{"derelict-util":">=1.0.0"},"version":"~master","commitID":"5466e4f5d9629d75cdefc8a9796556305a906592","name":"derelict_extras-opencl"}
