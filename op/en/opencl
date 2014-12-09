@@ -1,1 +1,2 @@
 {"configurations":[{"targetType":"library","name":"debug"},{"targetType":"library","name":"release"},{"targetType":"executable","name":"test"},{"targetType":"executable","name":"sample"}],"version":"1.1.0","name":"opencl"}
+{"configurations":[{"targetType":"library","name":"debug"},{"targetType":"library","name":"release"},{"targetType":"executable","name":"test"},{"targetType":"executable","name":"sample"}],"version":"1.1.1","name":"opencl"}
