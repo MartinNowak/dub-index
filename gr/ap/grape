@@ -1,1 +1,2 @@
 {"dependencies":{"derelict-gl3":">=1.0.10","derelict-sdl2":">=1.2.9"},"targetType":"sourceLibrary","version":"~dev","commitID":"4b73a098b319ca6845442d1bbea5a6e8fea77e1d","name":"grape"}
+{"dependencies":{"derelict-gl3":">=1.0.10","derelict-sdl2":">=1.2.9"},"targetType":"sourceLibrary","version":"~master","commitID":"4b73a098b319ca6845442d1bbea5a6e8fea77e1d","name":"grape"}
