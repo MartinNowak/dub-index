@@ -1,0 +1,1 @@
+{"subPackages":[{"dependencies":{"dgraph":"0.0.1"},"targetType":"executable","name":"graphtest"},{"dependencies":{"dgraph":"0.0.1"},"targetType":"executable","name":"betweenness50"},{"dependencies":{"dgraph":"0.0.1"},"targetType":"executable","name":"betweenness10k"}],"targetType":"sourceLibrary","version":"0.0.1","name":"dgraph"}
