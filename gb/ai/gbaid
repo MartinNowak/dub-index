@@ -1,1 +1,2 @@
 {"dependencies":{"derelict-gl3":"1.0.10","derelict-sdl2":"1.2.9"},"version":"0.1.0-alpha","name":"gbaid"}
+{"dependencies":{"derelict-gl3":"1.0.10","derelict-sdl2":"1.2.9"},"version":"0.1.1-alpha","name":"gbaid"}
