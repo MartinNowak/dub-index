@@ -1,3 +1,4 @@
 {"dependencies":{"anchovy":">=0.0.0"},"targetType":"executable","version":"0.1.0","name":"voxelman"}
 {"dependencies":{"anchovy":">=0.0.0"},"targetType":"executable","version":"0.2.0","name":"voxelman"}
 {"dependencies":{"anchovy":"~master","cbor-d":">=0.3.0"},"targetType":"executable","version":"0.3.0","name":"voxelman"}
+{"dependencies":{"anchovy":"~master","cbor-d":">=0.3.0"},"targetType":"executable","version":"0.3.1","name":"voxelman"}
