@@ -1,3 +1,4 @@
 {"dependencies":{"vibe-d":">=0.7.21-alpha.1"},"version":"0.0.1","name":"stripe-d"}
 {"dependencies":{"vibe-d":">=0.7.21-alpha.1"},"version":"0.0.2","name":"stripe-d"}
 {"dependencies":{"vibe-d":">=0.7.21-alpha.1"},"version":"0.0.4","name":"stripe-d"}
+{"dependencies":{"vibe-d":">=0.7.21"},"targetType":"library","version":"~master","commitID":"539b4b71bf2f89b38beab50de0ef7ffd1851bad2","name":"stripe-d"}
