@@ -1,1 +1,2 @@
 {"dependencies":{"derelict-util":">=1.0.0","derelict-ogg":"~master"},"version":"1.0.0","name":"derelict-vorbis"}
+{"dependencies":{"derelict-util":">=1.0.3","derelict-ogg":">=1.0.0"},"version":"1.0.1","name":"derelict-vorbis"}
