@@ -1,1 +1,2 @@
 {"dependencies":{"derelict-util":">=1.0.3"},"version":"1.2.0","name":"derelict-lua"}
+{"dependencies":{"derelict-util":">=1.0.3"},"version":"1.2.1","name":"derelict-lua"}
