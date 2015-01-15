@@ -4,3 +4,4 @@
 {"dependencies":{"derelict-gl3":">=1.0.10","descore":">=1.0.5","derelict-sdl2":">=1.2.8"},"targetType":"sourceLibrary","version":"1.1.3","name":"des"}
 {"dependencies":{"derelict-gl3":">=1.0.10","derelict-ft":">=1.0.0","descore":">=1.0.5","derelict-sdl2":">=1.2.8"},"targetType":"sourceLibrary","version":"1.2.0","name":"des"}
 {"dependencies":{"derelict-gl3":">=1.0.10","derelict-ft":">=1.0.0","descore":">=1.0.5","derelict-sdl2":">=1.2.8"},"targetType":"sourceLibrary","version":"1.2.1","name":"des"}
+{"dependencies":{"derelict-gl3":">=1.0.10","derelict-ft":">=1.0.0","descore":">=1.1.1","derelict-sdl2":">=1.2.8"},"targetType":"sourceLibrary","version":"1.3.0","name":"des"}
