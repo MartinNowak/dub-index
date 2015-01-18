@@ -2,3 +2,4 @@
 {"dependencies":{"derelict-util":">=1.0.0"},"version":"~3.15","commitID":"7dc3401073911c9076ae5e2ac9ad27ec2d4a2bea","name":"derelict-fi"}
 {"dependencies":{"derelict-util":">=1.0.0"},"version":"1.0.1","name":"derelict-fi"}
 {"dependencies":{"derelict-util":">=1.9.0"},"version":"1.9.0","name":"derelict-fi"}
+{"dependencies":{"derelict-util":">=1.9.0"},"version":"~FreeImage-3.15.x","commitID":"a461a2b616ddc6c9543b7dfa34c8e8f6ce60c6de","name":"derelict-fi"}
