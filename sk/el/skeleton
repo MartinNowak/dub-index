@@ -1,1 +1,2 @@
 {"dependencies":{"vibe-d":"0.7.21-alpha.4","luad":"~master"},"configurations":[{"targetType":"executable","name":"tool"},{"targetType":"library","name":"library"}],"version":"0.0.1","name":"skeleton"}
+{"dependencies":{"vibe-d":">=0.7.22","luad":"~master"},"configurations":[{"targetType":"executable","name":"tool"},{"targetType":"library","name":"library"}],"version":"0.0.2","name":"skeleton"}
