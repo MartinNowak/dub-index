@@ -1,0 +1,1 @@
+{"dependencies":{"derelict-sass":">=1.0.0","libasync":">=0.6.6"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"exec"},{"targetType":"executable","name":"tests"}],"version":"0.1.0","name":"sassed"}
