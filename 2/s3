@@ -1,2 +1,3 @@
 {"targetType":"sourceLibrary","version":"~const_char_fix","commitID":"3b66281d99198c94fb5480787e110af51d31bb4f","name":"s3"}
 {"targetType":"sourceLibrary","version":"~S3PutProperties_fix","commitID":"73cf31eb955c3cb4ea13feb9c5328cf65661ae86","name":"s3"}
+{"targetType":"sourceLibrary","version":"~package_fix","commitID":"0a2147684b51acf3a1bd2c04469fe99a821308a2","name":"s3"}
