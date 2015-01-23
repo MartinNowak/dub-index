@@ -2,3 +2,4 @@
 {"dependencies":{"vibe-d":">=0.7.21"},"targetType":"library","version":"1.0.1","name":"vibeirc"}
 {"dependencies":{"vibe-d":">=0.7.21"},"targetType":"library","version":"1.0.2","name":"vibeirc"}
 {"dependencies":{"vibe-d":">=0.7.22"},"targetType":"library","version":"1.0.3","name":"vibeirc"}
+{"dependencies":{"vibe-d":">=0.7.22"},"targetType":"library","version":"1.0.4","name":"vibeirc"}
