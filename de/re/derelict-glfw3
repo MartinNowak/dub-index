@@ -1,3 +1,4 @@
 {"dependencies":{"derelict-util":">=1.0.0"},"version":"1.0.0","name":"derelict-glfw3"}
 {"dependencies":{"derelict-util":">=1.0.2"},"version":"1.0.1","name":"derelict-glfw3"}
 {"dependencies":{"derelict-util":">=1.0.2"},"version":"1.0.2","name":"derelict-glfw3"}
+{"dependencies":{"derelict-util":">=1.0.2"},"version":"~3.0","commitID":"d261827901a0198e8f1abdef782effd08213d253","name":"derelict-glfw3"}
