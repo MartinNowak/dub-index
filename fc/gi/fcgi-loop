@@ -1,2 +1,3 @@
 {"configurations":[{"targetType":"executable","name":"sample"}],"targetType":"sourceLibrary","version":"1.2.0","name":"fcgi-loop"}
 {"configurations":[{"targetType":"executable","name":"sample"}],"targetType":"sourceLibrary","version":"1.2.1","name":"fcgi-loop"}
+{"configurations":[{"targetType":"executable","name":"sample"}],"targetType":"sourceLibrary","version":"~master","commitID":"c34edead6cf116178b46678aa9b73448efbf09ef","name":"fcgi-loop"}
