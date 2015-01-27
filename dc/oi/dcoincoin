@@ -1,0 +1,1 @@
+{"configurations":[{"targetType":"executable","name":"curses"},{"targetType":"executable","name":"cli"},{"dependencies":{"gtk-d":">=2.4.2"},"targetType":"executable","name":"gtkd"}],"version":"2.1.0","name":"dcoincoin"}
