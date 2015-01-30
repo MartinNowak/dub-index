@@ -1,1 +1,2 @@
 {"dependencies":{"derelict-gl3":"~master","derelict-ft":"~master","derelict-sdl2":"~>1.0.0"},"targetType":"library","version":"0.1.0","name":"meatbox"}
+{"dependencies":{"derelict-gl3":"~master","derelict-sdl2":"~>1.0.0"},"targetType":"library","version":"0.1.1","name":"meatbox"}
