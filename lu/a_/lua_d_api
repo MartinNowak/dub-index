@@ -1,1 +1,2 @@
 {"dependencies":{"lua":">=5.2.0"},"version":"0.0.1","name":"lua_d_api"}
+{"dependencies":{"lua":">=5.2.0"},"version":"~master","commitID":"06dacd2e6b53d2d8c8edfddf9926215f81db5a42","name":"lua_d_api"}
