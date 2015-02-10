@@ -9,3 +9,4 @@
 {"targetType":"library","version":"0.8.0","name":"fdb-d"}
 {"targetType":"library","version":"0.8.1","name":"fdb-d"}
 {"targetType":"library","version":"0.9.0","name":"fdb-d"}
+{"targetType":"library","version":"~master","commitID":"1db201d4354e4a2dcaf53ef9a9ef0c654bc02848","name":"fdb-d"}
