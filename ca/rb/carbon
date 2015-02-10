@@ -8,3 +8,4 @@
 {"configurations":[{"targetType":"library","name":"use_as_lib"},{"targetType":"executable","name":"unittest"}],"targetType":"library","version":"0.0.8","name":"carbon"}
 {"configurations":[{"targetType":"library","name":"use_as_lib"},{"targetType":"executable","name":"unittest"}],"targetType":"library","version":"0.0.9","name":"carbon"}
 {"configurations":[{"targetType":"library","name":"use_as_lib"},{"targetType":"executable","name":"unittest"}],"targetType":"library","version":"0.0.10","name":"carbon"}
+{"dependencies":{"lock-free":">=0.1.1"},"targetType":"library","version":"1.0.0","configurations":[{"targetType":"library","name":"use_as_lib"},{"targetType":"executable","name":"unittest"}],"name":"carbon"}
