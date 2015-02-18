@@ -1,1 +1,2 @@
 {"subPackages":[{"dependencies":{"udis86-d":{"version":">=0.0.0","path":"../"}},"targetType":"executable","name":"example"}],"targetType":"sourceLibrary","version":"1.7.2-1","name":"udis86-d"}
+{"subPackages":[{"dependencies":{"udis86-d":{"version":">=0.0.0","path":"../"}},"targetType":"executable","name":"example"}],"targetType":"sourceLibrary","version":"~master","commitID":"fd4d0e0cd64a7262e5e470969adf19e33b01fe17","name":"udis86-d"}
