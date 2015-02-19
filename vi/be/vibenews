@@ -23,3 +23,4 @@
 {"dependencies":{"vibe-d":"~>0.7.18","antispam":"~>0.0.3","userman":"~>0.0.10"},"version":"0.6.2","name":"vibenews"}
 {"dependencies":{"vibe-d":"~>0.7.18","antispam":"~>0.0.3","userman":"~>0.0.10"},"version":"0.6.3","name":"vibenews"}
 {"dependencies":{"vibe-d":"~>0.7.18","antispam":"~>0.0.3","userman":"~>0.0.10"},"version":"0.6.4","name":"vibenews"}
+{"dependencies":{"vibe-d":"~>0.7.22","antispam":"~>0.0.5","userman":"~>0.2.3"},"version":"0.6.5","name":"vibenews"}
