@@ -1,2 +1,3 @@
 {"dependencies":{"serial-port":">=1.1.0"},"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"dmocks-revived":"~master","unit-threaded":">=0.4.3"},"targetType":"executable","name":"unittest"}],"version":"0.1.0","name":"dolina"}
 {"dependencies":{"serial-port":">=1.1.0"},"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"dmocks-revived":"~master","unit-threaded":">=0.4.3"},"targetType":"executable","name":"unittest"}],"version":"0.2.0","name":"dolina"}
+{"dependencies":{"serial-port":">=1.1.0"},"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"dmocks-revived":"~master","unit-threaded":">=0.4.3"},"targetType":"executable","name":"unittest"}],"version":"0.3.0","name":"dolina"}
