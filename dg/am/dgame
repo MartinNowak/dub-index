@@ -1,1 +1,2 @@
 {"dependencies":{"derelict-vorbis":">=1.0.1","derelict-gl3":">=1.0.9","derelict-ogg":">=1.0.1","derelict-sdl2":">=1.1.9","derelict-al":">=1.0.0"},"configurations":[{"targetType":"sourceLibrary","name":"lib"},{"targetType":"executable","name":"example"}],"version":"0.4.0","name":"dgame"}
+{"dependencies":{"derelict-vorbis":">=1.0.1","derelict-gl3":">=1.0.9","derelict-ogg":">=1.0.1","derelict-sdl2":">=1.1.9","derelict-al":">=1.0.0"},"configurations":[{"targetType":"sourceLibrary","name":"lib"},{"targetType":"executable","name":"example"}],"version":"0.4.1","name":"dgame"}
