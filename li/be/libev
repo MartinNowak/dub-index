@@ -1,2 +1,3 @@
 {"targetType":"sourceLibrary","version":"4.0.0+4.04","name":"libev"}
 {"targetType":"sourceLibrary","version":"~master","commitID":"abe87bdbf776ce890ac485fa2e595727e1c223a8","name":"libev"}
+{"targetType":"sourceLibrary","version":"5.0.0+4.04","name":"libev"}
