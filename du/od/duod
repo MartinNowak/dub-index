@@ -5,3 +5,4 @@
 {"dependencies":{"tested":"~>0.9.4"},"targetType":"library","version":"1.2.0","name":"duod"}
 {"dependencies":{"tested":"~>0.9.4"},"targetType":"library","version":"1.2.1","name":"duod"}
 {"dependencies":{"tested":"~>0.9.4"},"targetType":"library","version":"~master","commitID":"23a4106b2b3bd36eaea5966150b9b110e95192f5","name":"duod"}
+{"dependencies":{"tested":"~>0.9.4"},"targetType":"library","version":"~develop","commitID":"7c60b3554d435ade50709a725acb106071a14bc1","name":"duod"}
