@@ -2,3 +2,4 @@
 {"targetType":"library","version":"0.2.0","name":"digestx"}
 {"targetType":"library","version":"0.2.1","name":"digestx"}
 {"targetType":"library","version":"0.2.2","name":"digestx"}
+{"targetType":"library","version":"~master","commitID":"01b372e30fafef5f6f69775586e4951ef3eaac0b","name":"digestx"}
