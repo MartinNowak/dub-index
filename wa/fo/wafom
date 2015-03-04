@@ -1,3 +1,4 @@
 {"version":"0.0.0","name":"wafom"}
 {"dependencies":{"digitalnet":"~>0.1"},"version":"0.1.0","name":"wafom"}
 {"dependencies":{"digitalnet":"~>0.1"},"version":"0.1.1","name":"wafom"}
+{"dependencies":{"digitalnet":"~>0.1"},"version":"0.2.0","name":"wafom"}
