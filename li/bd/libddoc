@@ -1,1 +1,2 @@
 {"dependencies":{"libdparse":"~master"},"configurations":[{"targetType":"library","name":"lib"},{"targetType":"executable","name":"exe"}],"version":"~loop_fix","commitID":"ec561a0716b052ba10f8a7476d805cf435847ec8","name":"libddoc"}
+{"dependencies":{"libdparse":"~master"},"configurations":[{"targetType":"library","name":"lib"},{"targetType":"executable","name":"exe"}],"version":"0.1.0","name":"libddoc"}
