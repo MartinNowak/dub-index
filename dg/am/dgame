@@ -4,3 +4,4 @@
 {"dependencies":{"derelict-vorbis":">=1.0.1","derelict-gl3":">=1.0.9","derelict-ogg":">=1.0.1","derelict-sdl2":">=1.1.9","derelict-al":">=1.0.0"},"configurations":[{"targetType":"sourceLibrary","name":"lib"},{"targetType":"executable","name":"example"}],"version":"0.4.3","name":"dgame"}
 {"dependencies":{"derelict-gl3":"~>1.0.12","m3":"~>0.0.6","derelict-sdl2":"~>1.9.4"},"configurations":[{"targetType":"executable","name":"main"},{"targetType":"library","name":"lib"}],"version":"0.5.0-beta.1","name":"dgame"}
 {"dependencies":{"derelict-gl3":"~>1.0.12","m3":"~>0.0.6","derelict-sdl2":"~>1.9.4"},"configurations":[{"targetType":"executable","name":"main"},{"targetType":"library","name":"lib"}],"version":"0.5.0-beta.2","name":"dgame"}
+{"dependencies":{"derelict-gl3":"~>1.0.12","m3":"~>0.0.6","derelict-sdl2":"~>1.9.4"},"configurations":[{"targetType":"library","name":"lib"}],"version":"0.5.0-beta.3","name":"dgame"}
