@@ -4,3 +4,4 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"application"},{"targetType":"library","name":"tcltk-import"}],"version":"1.0.3","name":"x11"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"application"},{"targetType":"library","name":"tcltk-import"}],"version":"1.0.4","name":"x11"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"application"},{"targetType":"library","name":"tcltk-import"}],"version":"1.0.5","name":"x11"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"application"},{"targetType":"library","name":"tcltk-import"}],"version":"1.0.6","name":"x11"}
