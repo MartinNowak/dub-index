@@ -6,3 +6,4 @@
 {"configurations":[{"targetType":"library","name":"build"},{"targetType":"executable","name":"unittest"}],"version":"0.2.0","name":"poodinis"}
 {"configurations":[{"targetType":"library","name":"build"},{"targetType":"executable","name":"unittest"},{"targetType":"executable","name":"unittestVerbose"}],"version":"0.3.0","name":"poodinis"}
 {"configurations":[{"targetType":"library","name":"build"},{"targetType":"executable","name":"unittest"},{"targetType":"executable","name":"unittestVerbose"}],"version":"0.3.1","name":"poodinis"}
+{"configurations":[{"targetType":"library","name":"build"},{"targetType":"executable","name":"unittest"},{"targetType":"executable","name":"unittestVerbose"},{"targetType":"executable","name":"quickstartExample"},{"targetType":"executable","name":"qualifiersExample"}],"version":"1.0.0","name":"poodinis"}
