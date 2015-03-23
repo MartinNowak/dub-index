@@ -3,3 +3,4 @@
 {"targetType":"library","version":"3.1.4","name":"bessel"}
 {"targetType":"library","version":"3.1.5","name":"bessel"}
 {"targetType":"library","version":"3.1.6","name":"bessel"}
+{"targetType":"library","version":"~master","commitID":"fe78cc91da511dfd9889c571e4076ebe58a5c591","name":"bessel"}
