@@ -1,1 +1,2 @@
 {"dependencies":{"memutils":"~>0.3.1"},"targetType":"staticLibrary","version":"0.2.0","name":"libhttp2"}
+{"dependencies":{"memutils":"~>0.3.1"},"targetType":"staticLibrary","version":"0.2.1","name":"libhttp2"}
