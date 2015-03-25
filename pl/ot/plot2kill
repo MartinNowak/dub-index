@@ -1,1 +1,2 @@
 {"dependencies":{"gtk-d":"~>2.4.2"},"targetType":"library","version":"0.0.1","name":"plot2kill"}
+{"dependencies":{"gtk-d:gtkd":"~>3.0.0"},"targetType":"library","version":"~master","commitID":"fedf71caedd21fddd54250e3f4872b8f35369e84","name":"plot2kill"}
