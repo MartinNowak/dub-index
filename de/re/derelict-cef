@@ -1,3 +1,4 @@
 {"dependencies":{"derelict-util":">=1.0.3"},"version":"0.0.1","name":"derelict-cef"}
 {"dependencies":{"derelict-util":">=1.0.3"},"version":"0.0.2","name":"derelict-cef"}
 {"dependencies":{"derelict-util":">=1.0.3"},"version":"0.0.3","name":"derelict-cef"}
+{"dependencies":{"derelict-util":">=1.0.3"},"version":"~master","commitID":"33319b4e069d6fc880e5e1e46cbbab2b2d27c451","name":"derelict-cef"}
