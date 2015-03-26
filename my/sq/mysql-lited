@@ -2,3 +2,4 @@
 {"dependencies":{"vibe-d":">=0.7.22"},"targetType":"library","version":"0.1.1","name":"mysql-lited"}
 {"dependencies":{"vibe-d":">=0.7.22"},"targetType":"library","version":"0.1.3","name":"mysql-lited"}
 {"dependencies":{"vibe-d":">=0.7.22"},"targetType":"library","version":"0.1.4","name":"mysql-lited"}
+{"dependencies":{"vibe-d":">=0.7.22"},"targetType":"library","version":"0.1.5","name":"mysql-lited"}
