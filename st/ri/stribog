@@ -4,3 +4,4 @@
 {"targetType":"sourceLibrary","version":"1.2.0","name":"stribog"}
 {"targetType":"sourceLibrary","version":"1.3.0","name":"stribog"}
 {"targetType":"sourceLibrary","version":"1.4.0","name":"stribog"}
+{"targetType":"sourceLibrary","version":"~master","commitID":"6380892cd50925b776cf183fb3e3fb1f9bd40201","name":"stribog"}
