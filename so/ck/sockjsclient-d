@@ -1,3 +1,4 @@
 {"dependencies":{"vibe-d":">=0.7.19-rc.2"},"version":"0.0.2","name":"sockjsclient-d"}
 {"dependencies":{"vibe-d":">=0.7.19"},"version":"0.1.0","name":"sockjsclient-d"}
 {"dependencies":{"vibe-d":">=0.7.19"},"version":"0.2.0","name":"sockjsclient-d"}
+{"dependencies":{"vibe-d":">=0.7.19"},"version":"~master","commitID":"a54bb72b89936ca7ebc0b11a48a9bfcf2196f032","name":"sockjsclient-d"}
