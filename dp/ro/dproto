@@ -4,3 +4,4 @@
 {"subPackages":[{"dependencies":{"dproto":{"version":">=0.0.0","path":".."}},"targetType":"executable","name":"dprotoc"}],"targetType":"library","version":"1.2.0","name":"dproto"}
 {"subPackages":[{"dependencies":{"dproto":{"version":">=0.0.0","path":".."}},"targetType":"executable","name":"dprotoc"}],"targetType":"library","version":"1.2.1","name":"dproto"}
 {"subPackages":[{"dependencies":{"dproto":{"version":">=0.0.0","path":".."}},"targetType":"executable","name":"dprotoc"}],"targetType":"library","version":"1.2.2","name":"dproto"}
+{"subPackages":[{"dependencies":{"dproto":{"version":">=0.0.0","path":".."}},"targetType":"executable","name":"dprotoc"}],"targetType":"library","version":"1.2.3","name":"dproto"}
