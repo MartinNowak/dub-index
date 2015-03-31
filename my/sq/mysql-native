@@ -15,3 +15,4 @@
 {"dependencies":{"vibe-d":{"version":">=0.7.17","optional":true}},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"0.0.16","name":"mysql-native"}
 {"dependencies":{"vibe-d":{"version":">=0.7.17","optional":true}},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"0.1.0","name":"mysql-native"}
 {"dependencies":{"vibe-d":{"version":">=0.7.17","optional":true}},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"0.1.1","name":"mysql-native"}
+{"dependencies":{"vibe-d":{"version":">=0.7.17","optional":true}},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"0.1.2","name":"mysql-native"}
