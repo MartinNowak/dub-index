@@ -4,3 +4,4 @@
 {"dependencies":{"x11":">=1.0.0"},"version":"8.6.3","name":"tcltk"}
 {"dependencies":{"x11":">=1.0.0"},"version":"8.6.4","name":"tcltk"}
 {"dependencies":{"x11":">=1.0.6"},"version":"8.6.5","name":"tcltk"}
+{"dependencies":{"x11":">=1.0.6"},"version":"~master","commitID":"12310ca54634516f8f2210dd65e810b6cb3ef233","name":"tcltk"}
