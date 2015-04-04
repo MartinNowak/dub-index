@@ -12,3 +12,4 @@
 {"targetType":"library","version":"0.3.0","name":"jsonizer"}
 {"targetType":"library","version":"0.3.1","name":"jsonizer"}
 {"targetType":"library","version":"0.3.2","name":"jsonizer"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"unittest"}],"targetType":"library","version":"0.3.3","name":"jsonizer"}
