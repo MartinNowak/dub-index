@@ -1,3 +1,4 @@
 {"dependencies":{"msgpack-d":"~>0.9.1"},"targetType":"library","version":"0.1.0","name":"fluent-logger"}
 {"dependencies":{"msgpack-d":"~>0.9.1"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"post-example"},{"targetType":"executable","name":"post-mt-example"}],"version":"0.1.1","name":"fluent-logger"}
 {"dependencies":{"msgpack-d":"~>0.9.1"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"post-example"},{"targetType":"executable","name":"post-mt-example"}],"version":"~master","commitID":"cf142a90e74cbb5f02ae038ca37b886d682b54f6","name":"fluent-logger"}
+{"dependencies":{"msgpack-d":"~>0.9.1"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"post-example"},{"targetType":"executable","name":"post-mt-example"}],"version":"0.1.2","name":"fluent-logger"}
