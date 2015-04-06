@@ -1,3 +1,4 @@
 {"targetType":"sourceLibrary","version":"0.1.0","name":"dstruct"}
 {"configurations":[{"targetType":"sourceLibrary","name":"default"},{"targetType":"executable","name":"benchmark_hashmap"}],"targetType":"sourceLibrary","version":"0.2.0","name":"dstruct"}
 {"configurations":[{"targetType":"sourceLibrary","name":"default"},{"targetType":"executable","name":"benchmark_hashmap"}],"targetType":"sourceLibrary","version":"0.2.1","name":"dstruct"}
+{"configurations":[{"targetType":"sourceLibrary","name":"default"},{"targetType":"executable","name":"benchmark_hashmap"}],"targetType":"sourceLibrary","version":"0.2.2","name":"dstruct"}
