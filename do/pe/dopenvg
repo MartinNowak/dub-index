@@ -1,2 +1,3 @@
 {"targetType":"library","version":"0.0.1","name":"dopenvg"}
 {"targetType":"library","version":"0.0.2","name":"dopenvg"}
+{"targetType":"library","version":"~master","commitID":"e227aae1ee46556b1088227b689153106b63b08b","name":"dopenvg"}
