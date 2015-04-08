@@ -4,3 +4,4 @@
 {"configurations":[{"targetType":"sourceLibrary","name":"lib"}],"version":"0.0.4","name":"m3"}
 {"version":"0.0.5","name":"m3"}
 {"version":"0.0.6","name":"m3"}
+{"version":"~master","commitID":"f6e6e86c155de98b40913a43c6987c3c960685d8","name":"m3"}
