@@ -1,2 +1,3 @@
 {"configurations":[{"targetType":"staticLibrary","name":"static"},{"targetType":"dynamicLibrary","name":"shared"}],"version":"~2.065","commitID":"a2eff82db6954a437cc71d49cb83104df9cae993","name":"tango"}
 {"configurations":[{"targetType":"staticLibrary","name":"static"},{"targetType":"dynamicLibrary","name":"shared"}],"version":"1.0.0+2.066","name":"tango"}
+{"configurations":[{"targetType":"staticLibrary","name":"static"},{"targetType":"dynamicLibrary","name":"shared"}],"version":"1.0.1+2.067","name":"tango"}
