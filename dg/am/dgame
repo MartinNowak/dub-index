@@ -10,3 +10,4 @@
 {"dependencies":{"derelict-gl3":"~>1.0.12","m3":"~>0.0.6","derelict-sdl2":"~>1.9.4"},"configurations":[{"targetType":"library","name":"lib"}],"version":"0.5.0-rc.1","name":"dgame"}
 {"dependencies":{"derelict-gl3":"~>1.0.12","m3":"~>0.0.6","derelict-sdl2":"~>1.9.4"},"configurations":[{"targetType":"library","name":"lib"}],"version":"0.5.0-rc.2","name":"dgame"}
 {"dependencies":{"derelict-gl3":"~>1.0.12","derelict-sdl2":"~>1.9.4"},"configurations":[{"targetType":"library","name":"lib"}],"version":"0.5.0-rc.3","name":"dgame"}
+{"dependencies":{"derelict-gl3":"~>1.0.12","derelict-sdl2":"~>1.9.5"},"configurations":[{"targetType":"library","name":"lib"}],"version":"0.5.0","name":"dgame"}
