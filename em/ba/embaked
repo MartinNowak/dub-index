@@ -1,1 +1,2 @@
 {"dependencies":{"htmld":">=0.2.1","cssd":">=0.1.1"},"targetType":"library","version":"0.1.0","name":"embaked"}
+{"dependencies":{"htmld":"~>0.2.2","cssd":"~>0.1.1"},"targetType":"library","version":"0.1.1","name":"embaked"}
