@@ -1,3 +1,4 @@
 {"version":"0.3.0","name":"memutils"}
 {"version":"0.3.1","name":"memutils"}
 {"version":"0.3.2","name":"memutils"}
+{"configurations":[{"targetType":"library","name":"secure"},{"targetType":"library","name":"32mscoff"}],"version":"0.3.3","name":"memutils"}
