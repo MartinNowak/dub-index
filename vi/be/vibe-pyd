@@ -1,1 +1,2 @@
 {"dependencies":{"vibe-d":"0.7.23","pyd":">=0.9.7"},"targetType":"library","version":"0.0.1","name":"vibe-pyd"}
+{"dependencies":{"vibe-d":"0.7.23","pyd":">=0.9.7"},"targetType":"library","version":"~master","commitID":"f23d2972b8041d8de7f00d3333e6c6399206ed67","name":"vibe-pyd"}
