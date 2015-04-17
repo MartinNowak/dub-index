@@ -3,3 +3,4 @@
 {"dependencies":{"imageformats":">=3.0.3"},"targetType":"sourceLibrary","version":"1.0.0","configurations":[{"targetType":"executable","name":"sample"}],"name":"fpdf"}
 {"dependencies":{"imageformats":">=3.0.3"},"targetType":"sourceLibrary","version":"1.0.1","configurations":[{"targetType":"executable","name":"sample"}],"name":"fpdf"}
 {"dependencies":{"imageformats":">=3.0.3"},"targetType":"sourceLibrary","version":"1.0.2","configurations":[{"targetType":"executable","name":"sample"}],"name":"fpdf"}
+{"dependencies":{"imageformats":">=3.0.3"},"targetType":"sourceLibrary","version":"~master","configurations":[{"targetType":"executable","name":"sample"}],"commitID":"f6e3c07401bae01b7c7951235779e4823ee4c0b4","name":"fpdf"}
