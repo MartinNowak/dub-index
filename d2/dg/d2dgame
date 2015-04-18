@@ -1,0 +1,1 @@
+{"dependencies":{"derelict-gl3":"~>1.0.12","gl3n":"~>1.0.1","derelict-sdl2":"~>1.9.4"},"configurations":[{"targetType":"library","name":"lib"},{"targetType":"executable","name":"Demo"}],"version":"1.0.0","name":"d2dgame"}
