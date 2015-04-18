@@ -1,1 +1,2 @@
 {"dependencies":{"dirk":"~master"},"targetType":"library","version":"~admin","commitID":"a1d4d1226517f5019284fb28b309413ce216d0be","name":"diggler"}
+{"dependencies":{"dirk":"~master"},"targetType":"library","version":"0.1.0","name":"diggler"}
