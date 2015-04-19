@@ -1,1 +1,2 @@
 {"dependencies":{"vibe-d":"~>0.7.23"},"configurations":[{"targetType":"executable","name":"demo"},{"targetType":"library","name":"library"}],"version":"0.0.1-preview.1","name":"user-auth"}
+{"dependencies":{"vibe-d":"~>0.7.23"},"configurations":[{"targetType":"executable","name":"demo"},{"targetType":"library","name":"library"}],"version":"~master","commitID":"3c278876817f257edab9f8721d3d6c11030ebe61","name":"user-auth"}
