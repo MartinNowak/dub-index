@@ -7,3 +7,4 @@
 {"dependencies":{"lock-free":">=0.1.1","carbon":">=1.1.0"},"version":"1.4.0","name":"graphite"}
 {"dependencies":{"lock-free":">=0.1.1","carbon":">=1.1.0"},"version":"1.4.1","name":"graphite"}
 {"dependencies":{"lock-free":">=0.1.1","carbon":">=1.1.0"},"version":"1.4.2","name":"graphite"}
+{"dependencies":{"lock-free":">=0.1.1","carbon":"~>1.4.0"},"version":"1.4.3","name":"graphite"}
