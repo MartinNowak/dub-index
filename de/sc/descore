@@ -23,3 +23,4 @@
 {"targetType":"sourceLibrary","version":"1.2.5","name":"descore"}
 {"targetType":"sourceLibrary","version":"1.2.6","name":"descore"}
 {"targetType":"sourceLibrary","version":"1.2.7","name":"descore"}
+{"targetType":"sourceLibrary","version":"~master","commitID":"36830ef61360fac058e131f32eac7baafd25df55","name":"descore"}
