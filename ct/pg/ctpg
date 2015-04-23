@@ -5,3 +5,4 @@
 {"targetType":"library","version":"2.2.2","name":"ctpg"}
 {"targetType":"library","version":"2.2.3","name":"ctpg"}
 {"dependencies":{"selflinoin":"~>0.0.1","compile-time-unittest":"~>0.0.2"},"configurations":[{"targetType":"library","name":"unittest"},{"targetType":"library","name":"unittest-compiles"}],"version":"3.0.0","name":"ctpg"}
+{"dependencies":{"selflinoin":"~>0.0.1","compile-time-unittest":"~>0.0.2"},"configurations":[{"targetType":"library","name":"unittest"},{"targetType":"library","name":"unittest-compiles"}],"version":"~develop","commitID":"4977f50327359c094c228a8910795fead23ff747","name":"ctpg"}
