@@ -1,2 +1,3 @@
 {"targetType":"library","version":"0.0.1","name":"hollow"}
 {"targetType":"library","version":"0.0.2","name":"hollow"}
+{"targetType":"library","version":"~master","commitID":"33e8ea4c1f79d8ebb2c4138f39214a9442f9bab4","name":"hollow"}
