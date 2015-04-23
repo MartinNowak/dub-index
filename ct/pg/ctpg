@@ -4,3 +4,4 @@
 {"version":"2.2.1","name":"ctpg"}
 {"targetType":"library","version":"2.2.2","name":"ctpg"}
 {"targetType":"library","version":"2.2.3","name":"ctpg"}
+{"dependencies":{"selflinoin":"~>0.0.1","compile-time-unittest":"~>0.0.2"},"configurations":[{"targetType":"library","name":"unittest"},{"targetType":"library","name":"unittest-compiles"}],"version":"3.0.0","name":"ctpg"}
