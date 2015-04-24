@@ -1,1 +1,2 @@
 {"dependencies":{"libdparse":"~master"},"targetType":"executable","version":"0.3.0","name":"dfmt"}
+{"dependencies":{"libdparse":"~master"},"targetType":"executable","version":"0.3.1","name":"dfmt"}
