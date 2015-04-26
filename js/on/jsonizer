@@ -15,3 +15,4 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"unittest"}],"targetType":"library","version":"0.3.3","name":"jsonizer"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"unittest"}],"targetType":"library","version":"~dev","commitID":"2b9332f68453a9c02c87e8ecfcac207cdfb48209","name":"jsonizer"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"unittest"}],"targetType":"library","version":"0.3.4","name":"jsonizer"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"unittest"}],"targetType":"library","version":"0.4.0","name":"jsonizer"}
