@@ -1,0 +1,1 @@
+{"subPackages":[{"targetType":"executable","name":"basedir"},{"targetType":"executable","name":"basedir_fs"}],"targetType":"staticLibrary","version":"0.1.0","name":"xdg-basedir"}
