@@ -2,3 +2,4 @@
 {"dependencies":{"libdparse":"~master"},"targetType":"executable","version":"0.3.1","name":"dfmt"}
 {"dependencies":{"libdparse":"~master"},"targetType":"executable","version":"0.3.2","name":"dfmt"}
 {"dependencies":{"libdparse":"~master"},"targetType":"executable","version":"0.3.3","name":"dfmt"}
+{"dependencies":{"libdparse":"~master"},"targetType":"executable","version":"0.3.4","name":"dfmt"}
