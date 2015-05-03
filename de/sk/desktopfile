@@ -1,0 +1,1 @@
+{"subPackages":[{"dependencies":{"desktopfile":">=0.0.0"},"targetType":"executable","name":"desktoputil"}],"targetType":"library","version":"0.1.0","name":"desktopfile"}
