@@ -1,1 +1,2 @@
 {"configurations":[{"targetType":"library","name":"unittest"}],"version":"0.0.1","name":"selflinoin"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"unittest"}],"version":"0.0.2","name":"selflinoin"}
