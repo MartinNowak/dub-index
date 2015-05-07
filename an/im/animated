@@ -2,3 +2,4 @@
 {"targetType":"library","version":"0.1.0","name":"animated"}
 {"targetType":"library","version":"0.1.1","name":"animated"}
 {"dependencies":{"d-unit":">=0.7.1"},"targetType":"library","version":"0.1.2","name":"animated"}
+{"dependencies":{"d-unit":"~master"},"targetType":"library","version":"~master","commitID":"d9e39b9c82934c13d082e0f0ba55fc7a0076df39","name":"animated"}
