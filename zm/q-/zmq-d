@@ -1,2 +1,3 @@
 {"dependencies":{"zeromq":"~master"},"targetType":"library","version":"~master","commitID":"79211f54ec21fa7cd2c925ae806c2f6cccf94452","name":"zmq-d"}
 {"dependencies":{"zeromq":"~master"},"targetType":"library","version":"0.3.0","name":"zmq-d"}
+{"dependencies":{"zeromq":"~master"},"targetType":"library","version":"~develop","commitID":"d43c87dc588ca79e23f41da0d35d7f2d14fd8354","name":"zmq-d"}
