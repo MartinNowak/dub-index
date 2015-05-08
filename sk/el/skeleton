@@ -1,3 +1,4 @@
 {"dependencies":{"vibe-d":"0.7.21-alpha.4","luad":"~master"},"configurations":[{"targetType":"executable","name":"tool"},{"targetType":"library","name":"library"}],"version":"0.0.1","name":"skeleton"}
 {"dependencies":{"vibe-d":">=0.7.22","luad":"~master"},"configurations":[{"targetType":"executable","name":"tool"},{"targetType":"library","name":"library"}],"version":"0.0.2","name":"skeleton"}
 {"dependencies":{"vibe-d":">=0.7.22","luad":"~master","de_util:core":">=0.0.4"},"configurations":[{"targetType":"executable","name":"tool"},{"targetType":"library","name":"library"}],"version":"0.0.3","name":"skeleton"}
+{"dependencies":{"vibe-d":">=0.7.22","luad":"~master","de_util:core":">=0.0.4"},"configurations":[{"targetType":"executable","name":"tool"},{"targetType":"library","name":"library"}],"version":"~master","commitID":"26157c32ca52570ab3a8335f3b95fd9d07084d8d","name":"skeleton"}
