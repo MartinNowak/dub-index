@@ -1,1 +1,2 @@
 {"dependencies":{"libasync":"~master"},"targetType":"library","version":"0.1.0","configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"name":"asynchronous"}
+{"dependencies":{"libasync":"~>0.7.3"},"targetType":"library","version":"0.2.0","configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"name":"asynchronous"}
