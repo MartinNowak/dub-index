@@ -9,3 +9,4 @@
 {"dependencies":{"memutils":"~>0.3.1"},"targetType":"staticLibrary","version":"0.7.1","name":"libasync"}
 {"dependencies":{"memutils":"~>0.3.1"},"targetType":"staticLibrary","version":"0.7.2","name":"libasync"}
 {"dependencies":{"memutils":"~>0.3.5"},"targetType":"staticLibrary","version":"0.7.3","configurations":[{"targetType":"staticLibrary","name":"regular"},{"targetType":"staticLibrary","name":"32mscoff"}],"name":"libasync"}
+{"dependencies":{"memutils":"~>0.3.5"},"targetType":"staticLibrary","version":"0.7.4","configurations":[{"targetType":"staticLibrary","name":"regular"},{"targetType":"staticLibrary","name":"32mscoff"}],"name":"libasync"}
