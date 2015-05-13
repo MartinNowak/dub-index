@@ -1,3 +1,4 @@
 {"targetType":"library","version":"1.0.0","name":"sargon"}
 {"targetType":"library","version":"1.0.1","name":"sargon"}
 {"targetType":"library","version":"1.0.2","name":"sargon"}
+{"targetType":"library","version":"~master","commitID":"80bc8297342f1a30e6ccc129fb681ac64f9d60d1","name":"sargon"}
