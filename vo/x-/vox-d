@@ -3,3 +3,4 @@
 {"targetType":"library","version":"0.0.3","name":"vox-d"}
 {"targetType":"library","version":"0.0.4","name":"vox-d"}
 {"targetType":"library","version":"0.0.5","name":"vox-d"}
+{"targetType":"library","version":"~master","commitID":"f9a2a286550b075ec61918c7b1a6e208c6266a0e","name":"vox-d"}
