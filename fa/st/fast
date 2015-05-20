@@ -1,1 +1,2 @@
 {"configurations":[{"targetType":"executable","name":"benchmark"},{"targetType":"library","name":"library"}],"version":"0.1.0","name":"fast"}
+{"configurations":[{"targetType":"executable","name":"benchmark"},{"targetType":"library","name":"library"}],"version":"0.2.1","name":"fast"}
