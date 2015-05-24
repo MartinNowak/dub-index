@@ -1,3 +1,4 @@
 {"dependencies":{"derelict-util":">=1.0.0"},"version":"2.2.0","name":"derelict_extras-fann"}
 {"dependencies":{"derelict-util":">=1.0.0"},"configurations":[{"targetType":"library","name":"fixed"},{"targetType":"library","name":"float"},{"targetType":"library","name":"double"}],"version":"2.2.1","name":"derelict_extras-fann"}
 {"dependencies":{"derelict-util":">=1.0.2"},"configurations":[{"targetType":"library","name":"fixed"},{"targetType":"library","name":"float"},{"targetType":"library","name":"double"}],"version":"3.2.0","name":"derelict_extras-fann"}
+{"dependencies":{"derelict-util":"~>1"},"configurations":[{"targetType":"library","name":"fixed"},{"targetType":"library","name":"float"},{"targetType":"library","name":"double"}],"version":"3.2.1","name":"derelict_extras-fann"}
