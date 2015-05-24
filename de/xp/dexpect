@@ -1,2 +1,3 @@
 {"version":"0.0.1","name":"dexpect"}
 {"configurations":[{"dependencies":{"docopt":">=0.6.1-b.2 <0.7.0-0"},"targetType":"executable","name":"expect-app"}],"version":"0.0.2","name":"dexpect"}
+{"configurations":[{"dependencies":{"docopt":">=0.6.1-b.2 <0.7.0-0","pegged":"~>0.2.1"},"targetType":"executable","name":"expect-app"}],"version":"0.0.3","name":"dexpect"}
