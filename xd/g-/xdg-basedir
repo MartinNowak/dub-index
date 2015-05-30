@@ -1,3 +1,4 @@
 {"subPackages":[{"targetType":"executable","name":"basedir"},{"targetType":"executable","name":"basedir_fs"}],"targetType":"staticLibrary","version":"0.1.0","name":"xdg-basedir"}
 {"subPackages":[{"targetType":"executable","name":"basedir"},{"targetType":"executable","name":"basedir_fs"}],"targetType":"staticLibrary","version":"0.2.0","name":"xdg-basedir"}
 {"subPackages":[{"targetType":"executable","name":"basedir"},{"targetType":"executable","name":"basedir_fs"}],"targetType":"staticLibrary","version":"1.0.0","name":"xdg-basedir"}
+{"subPackages":[{"targetType":"executable","name":"basedir"},{"targetType":"executable","name":"basedir_fs"}],"targetType":"staticLibrary","version":"~master","commitID":"00d20ce902d6d329e2ff3c4c9caddeda8553fdaf","name":"xdg-basedir"}
