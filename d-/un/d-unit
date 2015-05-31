@@ -1,1 +1,2 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"example"}],"version":"0.7.1","name":"d-unit"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"example"}],"version":"0.7.2","name":"d-unit"}
