@@ -1,2 +1,3 @@
 {"dependencies":{"dests":"~>0.2.0"},"targetType":"sourceLibrary","version":"0.1.0","name":"desstdx"}
 {"dependencies":{"dests":"~>0.2.1"},"targetType":"sourceLibrary","version":"0.1.1","name":"desstdx"}
+{"dependencies":{"dests":"~>0.2.1"},"targetType":"sourceLibrary","version":"0.1.2","name":"desstdx"}
