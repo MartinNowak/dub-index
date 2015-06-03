@@ -3,3 +3,4 @@
 {"dependencies":{"libdparse":"~master"},"configurations":[{"targetType":"library","name":"lib"},{"targetType":"executable","name":"exe"}],"version":"~fix-example-code","commitID":"700dca7a5ddf55ae86b7cb9bb08c5d9c7e51ead0","name":"libddoc"}
 {"dependencies":{"libdparse":"~master"},"configurations":[{"targetType":"library","name":"lib"},{"targetType":"executable","name":"exe"}],"version":"~missing_parameters_fix","commitID":"da92b69ce71a62995fd4906798ff89911450ac3f","name":"libddoc"}
 {"dependencies":{"libdparse":"~master"},"configurations":[{"targetType":"library","name":"lib"},{"targetType":"executable","name":"exe"}],"version":"~fix_section_splitter","commitID":"1cd21eb60e88f0b8585ae8e7262c47f5dd7259ea","name":"libddoc"}
+{"dependencies":{"libdparse":"~master"},"configurations":[{"targetType":"library","name":"lib"},{"targetType":"executable","name":"exe"}],"version":"~issue-26","commitID":"93e754b24e38db98ceb6a0c69b5c861cec4b54a7","name":"libddoc"}
