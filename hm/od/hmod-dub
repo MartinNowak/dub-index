@@ -1,1 +1,2 @@
 {"dependencies":{"dyaml":">=0.5.0"},"version":"0.1.1","name":"hmod-dub"}
+{"dependencies":{"dyaml":">=0.5.0"},"version":"~master","commitID":"075ae88bfe8b7012efac8382b5dd12dccd99114d","name":"hmod-dub"}
