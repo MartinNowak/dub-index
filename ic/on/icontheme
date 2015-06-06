@@ -1,0 +1,1 @@
+{"subPackages":[{"dependencies":{"icontheme":">=0.0.0"},"targetType":"executable","name":"iconthemetest"},{"dependencies":{"icontheme":">=0.0.0"},"targetType":"executable","name":"findicon"},{"dependencies":{"icontheme":">=0.0.0"},"targetType":"executable","name":"describetheme"}],"dependencies":{"inilike":"~>0.1.1"},"targetType":"library","version":"0.1.0","name":"icontheme"}
