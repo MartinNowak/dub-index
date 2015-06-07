@@ -1,1 +1,2 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"test"}],"targetType":"library","version":"1.0.0","name":"nbtd"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"test"}],"targetType":"library","version":"1.0.1","name":"nbtd"}
