@@ -1,2 +1,3 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"test"}],"targetType":"library","version":"1.0.0","name":"nbtd"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"test"}],"targetType":"library","version":"1.0.1","name":"nbtd"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"test"}],"targetType":"library","version":"~master","commitID":"e87b3f1da37966307046f37166705212a44cef05","name":"nbtd"}
