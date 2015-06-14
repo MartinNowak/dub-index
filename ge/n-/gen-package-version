@@ -1,1 +1,2 @@
 {"dependencies":{"scriptlike":"~>0.8.0"},"targetType":"executable","version":"0.9.0","name":"gen-package-version"}
+{"dependencies":{"scriptlike":"~>0.8.0"},"targetType":"executable","version":"0.9.1","name":"gen-package-version"}
