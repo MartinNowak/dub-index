@@ -1,0 +1,1 @@
+{"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"},{"dependencies":{"vibe-d":{"version":">=0.7.19-rc.4 <0.8.0-0","optional":true}},"targetType":"library","name":"library-nonet"}],"version":"0.9.23-mod.1","name":"dub-data-mod"}
