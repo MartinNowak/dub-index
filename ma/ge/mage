@@ -1,1 +1,2 @@
 {"configurations":[{"targetType":"executable","name":"app"},{"targetType":"library","name":"lib"}],"version":"0.0.1","name":"mage"}
+{"subPackages":[{"dependencies":{"pathlib:lib":{"version":">=0.0.0","path":"thirdParty/pathlib"}},"targetType":"library","name":"lib"},{"dependencies":{"mage:lib":">=0.0.0"},"targetType":"executable","name":"app"},{"dependencies":{"mage:lib":">=0.0.0"},"targetType":"executable","name":"install"}],"targetType":"none","version":"~master","commitID":"99029cbef7d14449d27bc74ee8d788db0535724a","name":"mage"}
