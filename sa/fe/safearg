@@ -6,3 +6,4 @@
 {"dependencies":{"scriptlike":"~>0.8.0","gen-package-version":"~>0.9.3"},"targetType":"executable","version":"0.9.5","name":"safearg"}
 {"dependencies":{"scriptlike":"~>0.9.0","gen-package-version":"~>1.0.0"},"targetType":"executable","version":"0.9.6","name":"safearg"}
 {"dependencies":{"scriptlike":"~>0.9.1","gen-package-version":"~>1.0.1"},"targetType":"executable","version":"0.9.7","name":"safearg"}
+{"dependencies":{"scriptlike":"~>0.9.1","gen-package-version":"~>1.0.1"},"targetType":"executable","version":"~master","commitID":"8c8ef4068aa5f2160d55a3bceba0eb79c3b5b8c7","name":"safearg"}
