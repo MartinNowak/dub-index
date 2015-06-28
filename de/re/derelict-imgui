@@ -1,3 +1,4 @@
 {"dependencies":{"derelict-util":"~>1.9.1"},"version":"0.0.1","name":"derelict-imgui"}
 {"dependencies":{"derelict-util":"~>1.9.1"},"version":"0.1.0","name":"derelict-imgui"}
 {"dependencies":{"derelict-util":"~>1.9.1"},"version":"0.2.0","name":"derelict-imgui"}
+{"dependencies":{"derelict-util":"~>1.9.1"},"version":"0.3.0","name":"derelict-imgui"}
