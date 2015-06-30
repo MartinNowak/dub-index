@@ -4,3 +4,4 @@
 {"dependencies":{"jaypha-base":">=1.0.0"},"targetType":"sourceLibrary","version":"0.9.3","configurations":[{"targetType":"executable","name":"sample"}],"name":"jaypha-inet"}
 {"dependencies":{"jaypha-base":">=1.0.0"},"targetType":"sourceLibrary","version":"0.9.4","configurations":[{"targetType":"executable","name":"sample"},{"targetType":"executable","name":"test"}],"name":"jaypha-inet"}
 {"dependencies":{"jaypha-base":">=1.0.0"},"targetType":"sourceLibrary","version":"0.9.5","configurations":[{"targetType":"executable","name":"sample"},{"targetType":"executable","name":"test"}],"name":"jaypha-inet"}
+{"dependencies":{"jaypha-base":">=1.0.0"},"targetType":"sourceLibrary","version":"~master","configurations":[{"targetType":"executable","name":"sample"},{"targetType":"executable","name":"test"}],"commitID":"64e5902e9c0dc5a8b17b2f30f1ed9c117ec3f55c","name":"jaypha-inet"}
