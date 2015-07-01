@@ -5,3 +5,4 @@
 {"dependencies":{"scriptlike":"~>0.8.0"},"targetType":"executable","version":"0.9.4","name":"gen-package-version"}
 {"dependencies":{"scriptlike":"~>0.9.0"},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"1.0.0","name":"gen-package-version"}
 {"dependencies":{"scriptlike":"~>0.9.1"},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"1.0.1","name":"gen-package-version"}
+{"dependencies":{"scriptlike":"~>0.9.1"},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"1.0.2","name":"gen-package-version"}
