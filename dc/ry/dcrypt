@@ -1,1 +1,2 @@
 {"configurations":[{"targetType":"library","name":"libdcrypt"},{"targetType":"executable","name":"selftest"}],"version":"0.0.0","name":"dcrypt"}
+{"configurations":[{"targetType":"library","name":"libdcrypt"},{"targetType":"executable","name":"selftest"}],"version":"0.0.1","name":"dcrypt"}
