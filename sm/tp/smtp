@@ -6,3 +6,4 @@
 {"configurations":[{"targetType":"library","name":"no-ssl"},{"dependencies":{"openssl":"~master"},"targetType":"library","name":"ssl"}],"targetType":"library","version":"0.1.0","name":"smtp"}
 {"configurations":[{"targetType":"library","name":"no-ssl"},{"dependencies":{"openssl":"~master"},"targetType":"library","name":"ssl"}],"targetType":"library","version":"0.1.1","name":"smtp"}
 {"configurations":[{"targetType":"library","name":"no-ssl"},{"dependencies":{"openssl":"~master"},"targetType":"library","name":"ssl"}],"targetType":"library","version":"0.2.0","name":"smtp"}
+{"configurations":[{"targetType":"library","name":"no-ssl"},{"dependencies":{"openssl":"~master"},"targetType":"library","name":"ssl"},{"dependencies":{"openssl":"~master"},"targetType":"library","name":"ssl-no-ssl2"}],"targetType":"library","version":"0.2.1","name":"smtp"}
