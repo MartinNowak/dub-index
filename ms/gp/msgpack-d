@@ -7,3 +7,4 @@
 {"targetType":"library","version":"0.9.6","name":"msgpack-d"}
 {"targetType":"library","version":"1.0.0-beta.1","name":"msgpack-d"}
 {"targetType":"library","version":"1.0.0-beta.2","name":"msgpack-d"}
+{"targetType":"library","version":"~fix-enum-conflict","commitID":"2e6b91b9cba41990855a921096ef5c0039f6be57","name":"msgpack-d"}
