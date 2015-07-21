@@ -2,3 +2,4 @@
 {"dependencies":{"libx11":">=0.0.1"},"version":"0.0.2","name":"cobox-wm"}
 {"dependencies":{"libx11":">=0.0.1"},"version":"~develop","commitID":"8f333dd6fe899a0003663b231868cc50706f86d9","name":"cobox-wm"}
 {"dependencies":{"libx11":">=0.0.1"},"version":"0.0.3","name":"cobox-wm"}
+{"dependencies":{"libx11":">=0.0.1"},"version":"0.0.4","name":"cobox-wm"}
