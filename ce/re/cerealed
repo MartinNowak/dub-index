@@ -12,3 +12,4 @@
 {"targetType":"library","version":"0.5.2","name":"cerealed"}
 {"targetType":"library","version":"0.5.3","name":"cerealed"}
 {"targetType":"library","version":"0.5.4","name":"cerealed"}
+{"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":"~>0.4.10"},"targetType":"executable","name":"unittest"}],"targetType":"library","version":"0.6.0","name":"cerealed"}
