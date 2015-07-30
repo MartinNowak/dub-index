@@ -5,3 +5,4 @@
 {"dependencies":{"derelict-util":"~>2"},"version":"0.0.5","name":"derelict-cocoa"}
 {"dependencies":{"derelict-util":"~>2"},"version":"0.0.6","name":"derelict-cocoa"}
 {"dependencies":{"derelict-util":"~>2"},"version":"0.0.7","name":"derelict-cocoa"}
+{"dependencies":{"derelict-util":"~>2"},"version":"0.0.8","name":"derelict-cocoa"}
