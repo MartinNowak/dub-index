@@ -1,2 +1,3 @@
 {"dependencies":{"utga":">=0.0.1"},"targetType":"library","version":"0.0.1","name":"wavefront-obj"}
 {"dependencies":{"utga":">=0.0.1"},"targetType":"library","version":"0.0.2","name":"wavefront-obj"}
+{"dependencies":{"utga":">=0.0.1"},"targetType":"library","version":"~master","commitID":"28b18906a5b09ad0bd5f8119b02d70937009af74","name":"wavefront-obj"}
