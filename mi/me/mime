@@ -1,0 +1,1 @@
+{"subPackages":[{"dependencies":{"mime":">=0.0.0"},"targetType":"executable","name":"mimecache"},{"dependencies":{"mime":">=0.0.0"},"targetType":"executable","name":"mimedatabase"},{"dependencies":{"mime":">=0.0.0"},"targetType":"executable","name":"magic"}],"dependencies":{"standardpaths":"~>0.2.0"},"targetType":"library","version":"0.1.1","name":"mime"}
