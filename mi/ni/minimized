@@ -5,3 +5,4 @@
 {"targetType":"library","version":"0.1.5","name":"minimized"}
 {"targetType":"library","version":"0.1.6","name":"minimized"}
 {"targetType":"library","version":"0.1.7","name":"minimized"}
+{"targetType":"library","version":"~master","commitID":"59b01251f352ded3df513cccfff428e18bf670e9","name":"minimized"}
