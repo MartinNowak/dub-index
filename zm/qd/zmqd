@@ -10,3 +10,4 @@
 {"dependencies":{"zeromq":"~>3.2"},"targetType":"library","version":"0.5.2","name":"zmqd"}
 {"dependencies":{"zeromq":"~>4"},"targetType":"library","version":"1.0.0-alpha","name":"zmqd"}
 {"dependencies":{"zeromq":"~>4"},"targetType":"library","version":"1.0.0-beta","name":"zmqd"}
+{"dependencies":{"zeromq":"~>4"},"targetType":"library","version":"1.0.0","name":"zmqd"}
