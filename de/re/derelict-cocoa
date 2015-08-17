@@ -13,3 +13,4 @@
 {"dependencies":{"derelict-util":"~>2"},"version":"0.0.13","name":"derelict-cocoa"}
 {"dependencies":{"derelict-util":"~>2"},"version":"0.0.14","name":"derelict-cocoa"}
 {"dependencies":{"derelict-util":"~>2"},"version":"0.0.15","name":"derelict-cocoa"}
+{"dependencies":{"derelict-util":"~>2"},"version":"0.0.16","name":"derelict-cocoa"}
