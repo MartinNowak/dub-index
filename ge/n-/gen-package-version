@@ -6,3 +6,4 @@
 {"dependencies":{"scriptlike":"~>0.9.0"},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"1.0.0","name":"gen-package-version"}
 {"dependencies":{"scriptlike":"~>0.9.1"},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"1.0.1","name":"gen-package-version"}
 {"dependencies":{"scriptlike":"~>0.9.1"},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"1.0.2","name":"gen-package-version"}
+{"dependencies":{"scriptlike":"~>0.9.1"},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"1.0.3","name":"gen-package-version"}
