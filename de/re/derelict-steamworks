@@ -1,1 +1,2 @@
 {"dependencies":{"derelict-util":"~>1.9.1"},"version":"0.0.1","name":"derelict-steamworks"}
+{"dependencies":{"derelict-util":"~>2.0.3"},"version":"0.0.2","name":"derelict-steamworks"}
