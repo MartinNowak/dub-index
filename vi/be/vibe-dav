@@ -8,3 +8,4 @@
 {"dependencies":{"vibe-d":">=0.7.24"},"targetType":"library","version":"0.4.3","name":"vibe-dav"}
 {"dependencies":{"vibe-d":">=0.7.24"},"targetType":"library","version":"0.4.4","name":"vibe-dav"}
 {"dependencies":{"vibe-d":">=0.7.24"},"targetType":"library","version":"0.4.5","name":"vibe-dav"}
+{"dependencies":{"vibe-d":">=0.7.24","tested":"~master"},"targetType":"library","version":"0.4.6","name":"vibe-dav"}
