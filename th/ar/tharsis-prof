@@ -17,3 +17,4 @@
 {"dependencies":{"tinyendian":"~>0.1.1"},"version":"0.5.2","name":"tharsis-prof"}
 {"dependencies":{"tinyendian":"~>0.1.1"},"version":"0.5.3","name":"tharsis-prof"}
 {"dependencies":{"tinyendian":"~>0.1.1"},"version":"~master","commitID":"7c08d7cc471cd4a7bc1f8067f73e2581101df3b8","name":"tharsis-prof"}
+{"dependencies":{"tinyendian":"~>0.1.1"},"version":"0.5.4","name":"tharsis-prof"}
