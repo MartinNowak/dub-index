@@ -6,3 +6,4 @@
 {"version":"~mutability-checks","commitID":"e1d05a36023b9f66926d46cffee9ce4342fec8dc","name":"containers"}
 {"version":"~mutability-round-2","commitID":"2d8a6a6dfadf27688a0b9580053c39a2d2c7e7ba","name":"containers"}
 {"version":"~more_fixes","commitID":"7aaed94b7a11b23a7521424ad95fc0ea29315079","name":"containers"}
+{"version":"~experimental-allocator","commitID":"87132f688f8cbc8afa94ea9a272c0d652a7ff72f","name":"containers"}
