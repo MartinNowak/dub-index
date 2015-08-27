@@ -1,1 +1,2 @@
 {"dependencies":{"dstats":"~>1.0.2","scid":"~>0.3.0"},"targetType":"library","version":"0.0.1","name":"mintegrated"}
+{"dependencies":{"dstats":"~>1.0.2","scid":"~>0.3.0"},"targetType":"library","version":"0.0.2","name":"mintegrated"}
