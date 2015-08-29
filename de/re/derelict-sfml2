@@ -8,3 +8,4 @@
 {"dependencies":{"derelict-util":">=2.0.0"},"version":"2.0.3","name":"derelict-sfml2"}
 {"dependencies":{"derelict-util":"~>2.0.0"},"version":"2.0.4","name":"derelict-sfml2"}
 {"dependencies":{"derelict-util":"~>2.0.0"},"version":"3.0.0","name":"derelict-sfml2"}
+{"dependencies":{"derelict-util":"~>2.0.0"},"version":"~2.0.0","commitID":"bfde35689e2b630fbd7fccbb6db4aaafed196a7a","name":"derelict-sfml2"}
