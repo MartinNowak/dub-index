@@ -8,3 +8,4 @@
 {"version":"~more_fixes","commitID":"7aaed94b7a11b23a7521424ad95fc0ea29315079","name":"containers"}
 {"version":"~experimental-allocator","commitID":"87132f688f8cbc8afa94ea9a272c0d652a7ff72f","name":"containers"}
 {"version":"0.1.0","name":"containers"}
+{"version":"0.2.0","name":"containers"}
