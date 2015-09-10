@@ -3,3 +3,4 @@
 {"targetType":"library","version":"0.1.0","name":"hexchatd"}
 {"targetType":"library","version":"0.1.1","name":"hexchatd"}
 {"subPackages":[{"dependencies":{"hexchatd":{"version":">=0.0.0","path":"../../"}},"targetType":"dynamicLibrary","name":"autoop"},{"dependencies":{"hexchatd":{"version":">=0.0.0","path":"../../"}},"targetType":"dynamicLibrary","name":"autoop_capi"}],"targetType":"library","version":"0.1.2","name":"hexchatd"}
+{"subPackages":[{"dependencies":{"hexchatd":{"version":">=0.0.0","path":"../../"}},"targetType":"dynamicLibrary","name":"autoop"},{"dependencies":{"hexchatd":{"version":">=0.0.0","path":"../../"}},"targetType":"dynamicLibrary","name":"autoop_capi"}],"targetType":"library","version":"~master","commitID":"fa63ddeac5f19daad77479d24dd1f41649c5c65e","name":"hexchatd"}
