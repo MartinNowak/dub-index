@@ -1,0 +1,1 @@
+{"subPackages":[{"dependencies":{"jax:filters":">=0.0.0"},"targetType":"executable","name":"compiler"},{"targetType":"library","name":"filters"},{"dependencies":{"vibe-d":">=0.7.24","jax:filters":">=0.0.0"},"targetType":"executable","name":"example"}],"targetType":"none","version":"0.1.0","name":"jax"}
