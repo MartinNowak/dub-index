@@ -4,3 +4,4 @@
 {"dependencies":{"dstats":"~>1.0.2","scid":"~>0.3.0"},"targetType":"library","version":"0.1.0","name":"mintegrated"}
 {"dependencies":{"dstats":"~>1.0.2","scid":"~>0.3.0"},"targetType":"library","version":"0.1.1","name":"mintegrated"}
 {"dependencies":{"dstats":"~>1.0.3","scid":"~>0.3.0"},"targetType":"library","version":"0.1.2","name":"mintegrated"}
+{"dependencies":{"dstats":"~>1.0.3","scid":"~>0.3.0"},"targetType":"library","version":"0.2.0","name":"mintegrated"}
