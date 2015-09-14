@@ -16,3 +16,4 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"sourceLibrary","name":"import"}],"version":"0.6.1","name":"dlib"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"sourceLibrary","name":"import"}],"version":"0.6.2","name":"dlib"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"sourceLibrary","name":"import"}],"version":"0.6.3","name":"dlib"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"sourceLibrary","name":"import"}],"version":"0.6.4","name":"dlib"}
