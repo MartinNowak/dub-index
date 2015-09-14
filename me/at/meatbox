@@ -5,3 +5,4 @@
 {"dependencies":{"derelict-gl3":"~master","derelict-sdl2":"~>1.0.0"},"targetType":"library","version":"0.1.4","name":"meatbox"}
 {"dependencies":{"derelict-gl3":"~master","derelict-sdl2":"~>1.0.0"},"targetType":"library","version":"0.1.5","name":"meatbox"}
 {"dependencies":{"derelict-gl3":"~master","derelict-sdl2":"~>1.0.0"},"targetType":"library","version":"0.1.6","name":"meatbox"}
+{"dependencies":{"derelict-gl3":"~master","derelict-sdl2":"~>1.0.0"},"targetType":"library","version":"~master","commitID":"b269b76442c09fcdd9b0615cbaed1eb36e63c4e3","name":"meatbox"}
