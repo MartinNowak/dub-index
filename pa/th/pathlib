@@ -3,3 +3,4 @@
 {"configurations":[{"targetType":"library","name":"lib"}],"targetType":"library","version":"0.1.2","name":"pathlib"}
 {"subPackages":[{"targetType":"library","name":"lib"},{"targetType":"library","name":"lib64"}],"targetType":"none","version":"0.2.0","name":"pathlib"}
 {"subPackages":[{"targetType":"library","name":"lib"},{"targetType":"library","name":"lib64"}],"targetType":"none","version":"0.3.0","name":"pathlib"}
+{"subPackages":[{"targetType":"library","name":"lib"},{"targetType":"library","name":"lib64"}],"targetType":"none","version":"~master","commitID":"db8f54c879f2bd4d510ea2fba6e15a3d588edbe6","name":"pathlib"}
