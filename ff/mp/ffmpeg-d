@@ -1,1 +1,2 @@
 {"configurations":[{"targetType":"sourceLibrary","name":"include"},{"targetType":"executable","name":"posix-test-executable"},{"targetType":"executable","name":"windows-test-executable"}],"version":"2.4.3","name":"ffmpeg-d"}
+{"configurations":[{"targetType":"executable","name":"posix-test-executable"},{"targetType":"executable","name":"windows-test-executable"}],"targetType":"sourceLibrary","version":"2.4.3-swscale","name":"ffmpeg-d"}
