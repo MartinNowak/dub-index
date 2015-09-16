@@ -1,2 +1,3 @@
 {"dependencies":{"dests":"~>0.2.1","desmath":"~>0.2.0","desstdx":"~>0.1.0"},"targetType":"sourceLibrary","version":"0.2.0","name":"desil"}
 {"dependencies":{"dests":"~>0.2.2","desmath":"~>0.2.1","desstdx":"~>0.1.0"},"targetType":"sourceLibrary","version":"0.2.0-1","name":"desil"}
+{"dependencies":{"dests":"~>0.2.2","desmath":"~>0.2.4","desstdx":"~>0.1.0"},"targetType":"sourceLibrary","version":"0.2.1","name":"desil"}
