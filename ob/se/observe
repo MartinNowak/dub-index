@@ -1,3 +1,4 @@
 {"dependencies":{"vibe-d":"0.7.22"},"version":"0.0.1","name":"observe"}
 {"dependencies":{"vibe-d":"0.7.22"},"targetType":"library","version":"0.0.2","name":"observe"}
 {"dependencies":{"vibe-d":"0.7.22"},"targetType":"library","version":"0.0.3","name":"observe"}
+{"dependencies":{"vibe-d":"0.7.22"},"targetType":"library","version":"0.0.4","name":"observe"}
