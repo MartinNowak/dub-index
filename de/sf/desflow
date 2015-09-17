@@ -1,1 +1,2 @@
 {"dependencies":{"dests":"~>0.2.1","desarch":"~>0.2.0","deslog":"~>0.2.0","desstdx":"~>0.1.0"},"targetType":"sourceLibrary","version":"0.2.0","name":"desflow"}
+{"dependencies":{"dests":"~>0.2.1","desarch":"~>0.2.0","deslog":"~>0.2.0","desstdx":"~>0.1.0"},"targetType":"sourceLibrary","version":"~master","commitID":"79bc75aa73bfde3eb0b26cb39201606f0bdcf470","name":"desflow"}
