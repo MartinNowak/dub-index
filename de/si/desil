@@ -1,3 +1,4 @@
 {"dependencies":{"dests":"~>0.2.1","desmath":"~>0.2.0","desstdx":"~>0.1.0"},"targetType":"sourceLibrary","version":"0.2.0","name":"desil"}
 {"dependencies":{"dests":"~>0.2.2","desmath":"~>0.2.1","desstdx":"~>0.1.0"},"targetType":"sourceLibrary","version":"0.2.0-1","name":"desil"}
 {"dependencies":{"dests":"~>0.2.2","desmath":"~>0.2.4","desstdx":"~>0.1.0"},"targetType":"sourceLibrary","version":"0.2.1","name":"desil"}
+{"dependencies":{"dests":"~>0.2.5","desmath":"~>0.2.4","desstdx":"~>0.2.0"},"targetType":"sourceLibrary","version":"~master","commitID":"51a9daf9bf8d00f237d3f9c5fda1440271f27303","name":"desil"}
