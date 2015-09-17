@@ -1,2 +1,3 @@
 {"dependencies":{"dests":"~>0.2.1","desarch":"~>0.2.0","desmath":"~>0.2.0"},"targetType":"sourceLibrary","version":"0.2.0","name":"desspace"}
 {"dependencies":{"dests":"~>0.2.5","desarch":"~>0.2.0","desmath":"~>0.2.4"},"targetType":"sourceLibrary","version":"0.2.1","name":"desspace"}
+{"dependencies":{"dests":"~>0.2.5","desarch":"~>0.2.0","desmath":"~>0.2.4"},"targetType":"sourceLibrary","version":"~master","commitID":"9a2b370b18b44fe61a995cbae11c64e87f2c694f","name":"desspace"}
