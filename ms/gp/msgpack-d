@@ -8,3 +8,4 @@
 {"targetType":"library","version":"1.0.0-beta.1","name":"msgpack-d"}
 {"targetType":"library","version":"1.0.0-beta.2","name":"msgpack-d"}
 {"targetType":"library","version":"~fix-enum-conflict","commitID":"2e6b91b9cba41990855a921096ef5c0039f6be57","name":"msgpack-d"}
+{"targetType":"library","version":"~support-unpack-struct-withFieldName","commitID":"027b6f5f4262701b08cfaf7bbe0e211d4215ea09","name":"msgpack-d"}
