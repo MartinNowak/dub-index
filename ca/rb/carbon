@@ -19,3 +19,4 @@
 {"dependencies":{"lock-free":">=0.1.1"},"targetType":"library","version":"1.5.1","name":"carbon"}
 {"dependencies":{"lock-free":">=0.1.1"},"targetType":"library","version":"1.5.2","name":"carbon"}
 {"dependencies":{"lock-free":">=0.1.1"},"targetType":"library","version":"1.5.3","name":"carbon"}
+{"dependencies":{"lock-free":">=0.1.1"},"targetType":"library","version":"1.5.4","name":"carbon"}
