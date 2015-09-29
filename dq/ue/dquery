@@ -7,3 +7,4 @@
 {"configurations":[{"targetType":"executable","name":"demo"},{"targetType":"library","name":"library"}],"version":"0.1.6","name":"dquery"}
 {"configurations":[{"targetType":"executable","name":"demo"},{"targetType":"library","name":"library"}],"version":"0.1.7","name":"dquery"}
 {"configurations":[{"targetType":"executable","name":"demo"},{"targetType":"library","name":"library"}],"version":"~master","commitID":"eb0688880e471b13d5a5dad418ba852e924b745f","name":"dquery"}
+{"configurations":[{"targetType":"executable","name":"demo"},{"targetType":"library","name":"library"}],"version":"0.1.8","name":"dquery"}
