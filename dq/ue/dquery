@@ -5,3 +5,4 @@
 {"configurations":[{"targetType":"executable","name":"demo"},{"targetType":"library","name":"library"}],"version":"0.1.4","name":"dquery"}
 {"configurations":[{"targetType":"executable","name":"demo"},{"targetType":"library","name":"library"}],"version":"0.1.5","name":"dquery"}
 {"configurations":[{"targetType":"executable","name":"demo"},{"targetType":"library","name":"library"}],"version":"0.1.6","name":"dquery"}
+{"configurations":[{"targetType":"executable","name":"demo"},{"targetType":"library","name":"library"}],"version":"0.1.7","name":"dquery"}
