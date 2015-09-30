@@ -1,3 +1,4 @@
 {"dependencies":{"jsonizer":"~>0.4.0"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"unittest"}],"version":"0.1.0","name":"dtiled"}
 {"dependencies":{"jsonizer":"~>0.5.0"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"unittest"}],"version":"0.2.0","name":"dtiled"}
 {"dependencies":{"jsonizer":"~>0.5.0"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"unittest"}],"version":"~pathfinder","commitID":"b66fa884c29542869981ac245aa30a0ea7bb103b","name":"dtiled"}
+{"dependencies":{"jsonizer":"~>0.5.0"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"unittest"}],"version":"0.3.0","name":"dtiled"}
