@@ -3,3 +3,4 @@
 {"targetType":"sourceLibrary","version":"~package_fix","commitID":"0a2147684b51acf3a1bd2c04469fe99a821308a2","name":"s3"}
 {"targetType":"sourceLibrary","version":"1.0.0","name":"s3"}
 {"targetType":"sourceLibrary","version":"1.0.1","name":"s3"}
+{"targetType":"sourceLibrary","version":"~master","commitID":"4c53222d249947516f4c257cb9f8dd2fe75c7aa6","name":"s3"}
