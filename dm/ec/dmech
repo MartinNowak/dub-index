@@ -5,3 +5,4 @@
 {"dependencies":{"dlib":">=0.5.2"},"version":"0.2.2","name":"dmech"}
 {"dependencies":{"dlib":">=0.5.2"},"version":"0.2.3","name":"dmech"}
 {"dependencies":{"dlib":">=0.6.0"},"version":"0.2.4","name":"dmech"}
+{"dependencies":{"dlib":">=0.6.0"},"configurations":[{"targetType":"library","name":"library"}],"version":"0.2.5","name":"dmech"}
