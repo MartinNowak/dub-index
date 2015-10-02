@@ -1,3 +1,4 @@
 {"targetType":"library","version":"1.0.0","name":"dexcel"}
 {"targetType":"library","version":"1.0.1","name":"dexcel"}
 {"targetType":"staticLibrary","version":"1.0.2","name":"dexcel"}
+{"targetType":"staticLibrary","version":"~master","commitID":"1235a338d8cae7dc8e72ecb59979163ef8440dc3","name":"dexcel"}
