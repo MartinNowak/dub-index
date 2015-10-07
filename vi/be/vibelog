@@ -18,3 +18,4 @@
 {"dependencies":{"vibe-d":"~>0.7.23"},"version":"0.3.0","name":"vibelog"}
 {"dependencies":{"vibe-d":"~>0.7.23"},"version":"0.4.0","name":"vibelog"}
 {"dependencies":{"vibe-d":"~>0.7.23"},"version":"0.4.1","name":"vibelog"}
+{"dependencies":{"vibe-d":">=0.7.26-alpha.2 <0.8.0-0"},"version":"0.4.2","name":"vibelog"}
