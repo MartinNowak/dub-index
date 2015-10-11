@@ -1,2 +1,3 @@
 {"targetType":"sourceLibrary","version":"1.0.0","name":"libco"}
 {"targetType":"sourceLibrary","version":"1.0.1","name":"libco"}
+{"targetType":"sourceLibrary","version":"~master","commitID":"b1d8f525eb48968e5f8d70dc03c7cec4db1728ed","name":"libco"}
