@@ -1,1 +1,2 @@
 {"dependencies":{"cairod":"~master","glib-d":">=0.0.1"},"targetType":"library","version":"0.0.1","name":"pango-d"}
+{"dependencies":{"cairod":"~master","glib-d":">=0.0.1"},"targetType":"library","version":"~master","commitID":"58e3a65b78a612b7abc602c4a253f8db20ad9313","name":"pango-d"}
