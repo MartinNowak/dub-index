@@ -1,2 +1,3 @@
 {"dependencies":{"jsonizer":"~>0.5.1"},"targetType":"library","version":"0.1.0","name":"delegram"}
 {"dependencies":{"jsonizer":"~>0.5.1"},"targetType":"library","version":"0.1.1","name":"delegram"}
+{"dependencies":{"jsonizer":"~>0.5.1"},"targetType":"library","version":"0.1.2","name":"delegram"}
