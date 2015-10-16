@@ -12,3 +12,4 @@
 {"targetType":"library","version":"0.7.0","name":"d2sqlite3"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"travis"}],"targetType":"library","version":"0.7.1","name":"d2sqlite3"}
 {"targetType":"library","version":"0.7.2","name":"d2sqlite3"}
+{"configurations":[{"targetType":"library","name":"with-lib"},{"targetType":"library","name":"without-lib"}],"targetType":"library","version":"0.7.3","name":"d2sqlite3"}
