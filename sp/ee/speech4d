@@ -1,2 +1,3 @@
 {"targetType":"library","version":"0.1.0","name":"speech4d"}
 {"targetType":"library","version":"0.1.1","name":"speech4d"}
+{"targetType":"library","version":"~master","commitID":"81adf86f092421859a48a56299b37db662996c5a","name":"speech4d"}
