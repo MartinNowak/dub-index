@@ -26,3 +26,4 @@
 {"dependencies":{"vibe-d":"~>0.7.22","libdparse":{"version":"~>0.2.0","optional":true}},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"0.11.2","name":"ddox"}
 {"dependencies":{"vibe-d":"~>0.7.22","libdparse":{"version":"~>0.2.0","optional":true}},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"0.11.3","name":"ddox"}
 {"dependencies":{"vibe-d":"~>0.7.22","libdparse":{"version":"~>0.2.0","optional":true}},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"0.11.4","name":"ddox"}
+{"dependencies":{"vibe-d":"~>0.7.22","libdparse":{"version":"~>0.2.0","optional":true}},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"0.11.5","name":"ddox"}
