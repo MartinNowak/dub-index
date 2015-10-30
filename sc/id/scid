@@ -2,3 +2,4 @@
 {"targetType":"library","version":"0.2.0","name":"scid"}
 {"targetType":"library","version":"0.2.1","name":"scid"}
 {"targetType":"library","version":"0.3.0","name":"scid"}
+{"targetType":"library","version":"~master","commitID":"e20175cb72e7dbec7e04ec92cd7bb4ab1018bc39","name":"scid"}
