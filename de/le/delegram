@@ -2,3 +2,4 @@
 {"dependencies":{"jsonizer":"~>0.5.1"},"targetType":"library","version":"0.1.1","name":"delegram"}
 {"dependencies":{"jsonizer":"~>0.5.1"},"targetType":"library","version":"0.1.2","name":"delegram"}
 {"dependencies":{"jsonizer":"~>0.5.1"},"targetType":"library","version":"0.1.3","name":"delegram"}
+{"dependencies":{"jsonizer":"~>0.5.1"},"targetType":"library","version":"~master","commitID":"85525e7a907286fc3ce9fb8e3451f01ccbecdbc0","name":"delegram"}
