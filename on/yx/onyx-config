@@ -15,3 +15,4 @@
 {"configurations":[{"targetType":"executable","name":"test"},{"targetType":"library","name":"library"}],"version":"~dev","commitID":"be31f80112cdf067aa600b7b1e931542aac256ce","name":"onyx-config"}
 {"configurations":[{"targetType":"executable","name":"test"},{"targetType":"library","name":"library"}],"version":"2.0.1","name":"onyx-config"}
 {"configurations":[{"targetType":"executable","name":"test"},{"targetType":"library","name":"library"}],"version":"2.0.2","name":"onyx-config"}
+{"configurations":[{"targetType":"executable","name":"test"},{"targetType":"library","name":"library"}],"version":"2.0.3","name":"onyx-config"}
