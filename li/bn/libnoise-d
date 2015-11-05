@@ -1,3 +1,4 @@
 {"targetType":"library","version":"1.0.0","name":"libnoise-d"}
 {"targetType":"library","version":"1.0.1","name":"libnoise-d"}
 {"targetType":"library","version":"1.0.2","name":"libnoise-d"}
+{"targetType":"library","version":"~master","commitID":"1aaef0784819180cf12840ba8272b42653a200bb","name":"libnoise-d"}
