@@ -1,3 +1,4 @@
 {"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"derelict-sdl2":"~>1.9"},"targetType":"executable","name":"example"}],"version":"0.1.0","name":"entitysysd"}
 {"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"derelict-sdl2":"~>1.9"},"targetType":"executable","name":"example"}],"version":"1.0.0","name":"entitysysd"}
 {"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"derelict-sdl2":"~>1.9"},"targetType":"executable","name":"example"}],"version":"1.0.1","name":"entitysysd"}
+{"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"derelict-sdl2":"~>1.9"},"targetType":"executable","name":"example"}],"version":"1.1.0","name":"entitysysd"}
