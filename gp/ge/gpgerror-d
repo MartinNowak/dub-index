@@ -1,1 +1,2 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"1.17.0","name":"gpgerror-d"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"~master","commitID":"13c6a1f073f5caa0292c686d0f2ce7ebb6538c21","name":"gpgerror-d"}
