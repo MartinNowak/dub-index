@@ -1,0 +1,1 @@
+{"dependencies":{"pegged":"~>0.2.1"},"configurations":[{"targetType":"library","name":"default"},{"targetType":"executable","name":"generate"}],"version":"0.0.9","name":"es6-grammar"}
