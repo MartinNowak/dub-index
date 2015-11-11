@@ -1,1 +1,2 @@
 {"dependencies":{"cairod":"~master","color":"~>0.0.2","dunit":"~>1.0.11"},"version":"0.1.1","name":"ggplotd"}
+{"dependencies":{"cairod":"~master","color":"~>0.0.2","dunit":"~>1.0.11"},"version":"0.1.2","name":"ggplotd"}
