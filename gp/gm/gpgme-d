@@ -1,0 +1,1 @@
+{"dependencies":{"gpgerror-d":"~>1.17.0"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"~master","commitID":"8bcfe52f2c973eeb016e1dee920f672af3ac2917","name":"gpgme-d"}
