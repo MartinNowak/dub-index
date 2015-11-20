@@ -1,1 +1,2 @@
 {"dependencies":{"vibe-d":">=0.7.18"},"version":"1.0.0","name":"vibe_recaptcha"}
+{"dependencies":{"vibe-d":">=0.7.18"},"version":"~master","commitID":"9ee1777d62da5b9940854f79ffaf0dd21159e6ea","name":"vibe_recaptcha"}
