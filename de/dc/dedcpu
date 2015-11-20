@@ -1,0 +1,1 @@
+{"subPackages":[{"dependencies":{"gtk-d:gtkd":"~>3.2.0"},"targetType":"executable","name":"lem1802"},{"targetType":"executable","name":"bconv"},{"targetType":"executable","name":"ddis"}],"targetType":"none","version":"0.3.1","name":"dedcpu"}
