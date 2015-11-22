@@ -1,1 +1,2 @@
 {"dependencies":{"derelict-gl3":"~master"},"targetType":"library","version":"0.0.1","name":"moggle"}
+{"dependencies":{"derelict-gl3":"~master"},"targetType":"library","version":"~master","commitID":"586ece5b432949d54d0bcb1d2508b0a9b6282e00","name":"moggle"}
