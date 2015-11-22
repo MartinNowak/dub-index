@@ -1,0 +1,1 @@
+{"dependencies":{"ddbc":"~>0.2.24"},"targetType":"staticLibrary","version":"0.1.0","configurations":[{"targetType":"staticLibrary","name":"full"},{"targetType":"staticLibrary","name":"MySQL"},{"targetType":"staticLibrary","name":"PostgreSQL"},{"targetType":"staticLibrary","name":"SQLite"}],"name":"quill-d"}
