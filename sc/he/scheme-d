@@ -13,3 +13,4 @@
 {"targetType":"library","version":"1.0.1","name":"scheme-d"}
 {"targetType":"library","version":"1.0.2","name":"scheme-d"}
 {"targetType":"library","version":"1.0.3","name":"scheme-d"}
+{"targetType":"library","version":"~master","commitID":"756a86a66f351637dc30655784e6734fdad25028","name":"scheme-d"}
