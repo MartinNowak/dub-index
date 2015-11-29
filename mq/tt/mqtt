@@ -2,3 +2,4 @@
 {"dependencies":{"vibe-d":"~master","cerealed":"~master"},"targetType":"executable","version":"~reuse_cereal","commitID":"1077b764cac6a426a7febe889a4dd8f15874fd92","name":"mqtt"}
 {"dependencies":{"vibe-d":"~master","cerealed":"~master"},"targetType":"executable","version":"0.1.0","name":"mqtt"}
 {"dependencies":{"vibe-d":"~master","cerealed":"~master"},"targetType":"executable","version":"~murmur","configurations":[{"targetType":"executable","name":"executable"},{"dependencies":{"unit-threaded":"~>0.5.3"},"targetType":"executable","name":"unittest"}],"commitID":"10f1988b6bf489d1b00054e5005dc8667ab34dc7","name":"mqtt"}
+{"dependencies":{"vibe-d":"~master","cerealed":"~master"},"targetType":"executable","version":"~weird_tree","configurations":[{"targetType":"executable","name":"executable"},{"dependencies":{"unit-threaded":"~>0.5.3"},"targetType":"executable","name":"unittest"}],"commitID":"8337be2c2126b21475d946695d9a25880fd138f2","name":"mqtt"}
