@@ -11,3 +11,4 @@
 {"dependencies":{"libgit2":">=0.19.2 <0.21.0"},"version":"0.50.4","name":"dlibgit"}
 {"dependencies":{"libgit2":">=0.19.2 <0.21.0"},"version":"0.50.5","name":"dlibgit"}
 {"dependencies":{"libgit2":">=0.19.2 <0.21.0"},"version":"~modernize-examples","commitID":"fdc4d236d7d672d14fd9fb3daa8a85d1bc509a12","name":"dlibgit"}
+{"dependencies":{"libgit2":">=0.19.2 <0.21.0"},"version":"~master","commitID":"307f74dbb5e64534df2a00ae5d0f0aeb04e99a95","name":"dlibgit"}
