@@ -1,3 +1,4 @@
 {"version":"1.0.0","name":"knocker"}
 {"targetType":"executable","version":"1.0.1","name":"knocker"}
 {"targetType":"executable","version":"1.0.2","name":"knocker"}
+{"targetType":"executable","version":"~master","commitID":"3abd795023b79a28dfab46a28f45e1b2bd52e5d2","name":"knocker"}
