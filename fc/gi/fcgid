@@ -1,1 +1,2 @@
 {"subPackages":[{"dependencies":{"fcgid":">=0.0.0"},"targetType":"executable","name":"echo"}],"targetType":"library","version":"0.0.1","name":"fcgid"}
+{"subPackages":[{"dependencies":{"fcgid":">=0.0.0"},"targetType":"executable","name":"echo"}],"targetType":"library","version":"0.0.2","name":"fcgid"}
