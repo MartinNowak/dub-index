@@ -5,3 +5,4 @@
 {"dependencies":{"jsonizer":"~>0.5.0"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"unittest"}],"version":"~wip","commitID":"098845d3cfbcd133f4085f769151ff8f9ee7a320","name":"dtiled"}
 {"dependencies":{"jsonizer":"~>0.5.0"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"unittest"}],"version":"0.3.1","name":"dtiled"}
 {"dependencies":{"jsonizer":"~>0.5.0"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"unittest"}],"version":"0.3.2","name":"dtiled"}
+{"dependencies":{"jsonizer":"~>0.5.0"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"unittest"}],"version":"0.3.3","name":"dtiled"}
