@@ -1,1 +1,2 @@
 {"targetType":"executable","version":"1.0.0","name":"cssexpand"}
+{"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"targetType":"executable","version":"~master","commitID":"1d24cdd3bcf44146511992800f9b46b027328b1e","name":"cssexpand"}
