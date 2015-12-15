@@ -10,3 +10,4 @@
 {"dependencies":{"derelict-util":">=1.9.1"},"version":"1.3.0","name":"derelict-fmod"}
 {"dependencies":{"derelict-util":">=1.9.1"},"version":"1.4.0","name":"derelict-fmod"}
 {"dependencies":{"derelict-util":">=1.9.1"},"version":"2.0.0","name":"derelict-fmod"}
+{"dependencies":{"derelict-util":">=1.9.1"},"version":"2.0.1","name":"derelict-fmod"}
