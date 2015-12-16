@@ -4,3 +4,4 @@
 {"targetType":"sourceLibrary","version":"0.2.3","name":"dests"}
 {"targetType":"sourceLibrary","version":"0.2.4","name":"dests"}
 {"targetType":"sourceLibrary","version":"0.2.5","name":"dests"}
+{"targetType":"sourceLibrary","version":"~master","commitID":"a844b999afa5496676fcc7203c142668a37d2f5e","name":"dests"}
