@@ -2,3 +2,4 @@
 {"dependencies":{"dests":"~>0.2.1"},"targetType":"sourceLibrary","version":"0.1.1","name":"desstdx"}
 {"dependencies":{"dests":"~>0.2.1"},"targetType":"sourceLibrary","version":"0.1.2","name":"desstdx"}
 {"dependencies":{"dests":"~>0.2.5"},"targetType":"sourceLibrary","version":"0.2.0","name":"desstdx"}
+{"dependencies":{"dests":"~>0.3.0"},"targetType":"sourceLibrary","version":"~master","commitID":"41025b974c3eac7329bcc0fedf1800e04c1c66cc","name":"desstdx"}
