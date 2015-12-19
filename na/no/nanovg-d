@@ -1,3 +1,4 @@
 {"dependencies":{"derelict-gl3":"1.0.17","derelict-glfw3":"~>1.1.0"},"version":"0.1.0","name":"nanovg-d"}
 {"dependencies":{"derelict-gl3":"1.0.17","derelict-glfw3":"~>1.1.0"},"version":"0.1.1","name":"nanovg-d"}
 {"dependencies":{"derelict-gl3":"1.0.17","derelict-glfw3":"~>1.1.0"},"version":"~develop","commitID":"232b9ea9236e472c2790e35b81f4ef827cde825d","name":"nanovg-d"}
+{"dependencies":{"derelict-gl3":"1.0.17"},"version":"~master","commitID":"2bc2338ffed1ff67148ae4796f5061a63f4ca145","name":"nanovg-d"}
