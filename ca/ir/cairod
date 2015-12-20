@@ -1,1 +1,2 @@
 {"configurations":[{"targetType":"staticLibrary","name":"static-lib"},{"targetType":"executable","name":"unittest"}],"version":"0.0.1-alpha.1+1.10.2","name":"cairod"}
+{"dependencies":{"derelict-ft":"~>1.0.2","x11":"~>1.0.9"},"configurations":[{"targetType":"staticLibrary","name":"stlib"},{"targetType":"staticLibrary","name":"stlib-minimal"},{"targetType":"executable","name":"unittest"},{"targetType":"executable","name":"unittest-minimal"}],"version":"0.0.1-alpha.2+1.10.2","name":"cairod"}
