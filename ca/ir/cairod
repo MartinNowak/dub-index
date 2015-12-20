@@ -1,0 +1,1 @@
+{"configurations":[{"targetType":"staticLibrary","name":"static-lib"},{"targetType":"executable","name":"unittest"}],"version":"0.0.1-alpha.1+1.10.2","name":"cairod"}
