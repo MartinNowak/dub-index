@@ -3,3 +3,4 @@
 {"dependencies":{"dirk":"~>0.1"},"targetType":"library","version":"0.1.1","name":"diggler"}
 {"dependencies":{"dirk":"~>0.1"},"targetType":"library","version":"0.2.0","name":"diggler"}
 {"dependencies":{"dirk":"~>0.2"},"targetType":"library","version":"0.2.1","name":"diggler"}
+{"dependencies":{"dirk":"~>0.2"},"targetType":"library","version":"~master","commitID":"4dd8d8854bc608718f9d02addc03a7fcdb717290","name":"diggler"}
