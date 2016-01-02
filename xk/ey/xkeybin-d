@@ -1,1 +1,2 @@
 {"dependencies":{"x11":"~>1.0.9"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"xkeybind-test"}],"version":"1.0.0","name":"xkeybin-d"}
+{"dependencies":{"x11":"~>1.0.9"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"xkeybind-test"}],"version":"~master","commitID":"bdf16a67d7183861dd1b77a5466201c9dbd53476","name":"xkeybin-d"}
