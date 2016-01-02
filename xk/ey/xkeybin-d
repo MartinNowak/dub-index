@@ -1,0 +1,1 @@
+{"dependencies":{"x11":"~>1.0.9"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"xkeybind-test"}],"version":"1.0.0","name":"xkeybin-d"}
