@@ -1,1 +1,2 @@
 {"subPackages":[{"dependencies":{"seekingwhirl":{"version":">=0.0.0","path":"../../"}},"name":"ddgtest"},{"dependencies":{"seekingwhirl":{"version":">=0.0.0","path":"../../"}},"name":"dinkydoo"}],"targetType":"library","version":"1.0.2","name":"seekingwhirl"}
+{"subPackages":[{"dependencies":{"seekingwhirl":{"version":">=0.0.0","path":"../../"}},"name":"ddgtest"},{"dependencies":{"seekingwhirl":{"version":">=0.0.0","path":"../../"}},"name":"dinkydoo"}],"targetType":"library","version":"1.0.3","name":"seekingwhirl"}
