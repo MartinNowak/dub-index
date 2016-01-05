@@ -16,3 +16,4 @@
 {"configurations":[{"targetType":"executable","name":"test"},{"targetType":"library","name":"library"}],"version":"2.0.1","name":"onyx-config"}
 {"configurations":[{"targetType":"executable","name":"test"},{"targetType":"library","name":"library"}],"version":"2.0.2","name":"onyx-config"}
 {"configurations":[{"targetType":"executable","name":"test"},{"targetType":"library","name":"library"}],"version":"2.0.3","name":"onyx-config"}
+{"configurations":[{"targetType":"executable","name":"test"},{"targetType":"library","name":"library"}],"version":"2.0.4","name":"onyx-config"}
