@@ -1,3 +1,4 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"example"}],"targetType":"library","version":"1.0.0","name":"mcrcd"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"example"}],"targetType":"library","version":"1.0.1","name":"mcrcd"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"example"}],"targetType":"library","version":"1.0.2","name":"mcrcd"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"example"}],"targetType":"library","version":"~master","commitID":"764eb21785e50e4888802aca54197a49dc6ca040","name":"mcrcd"}
