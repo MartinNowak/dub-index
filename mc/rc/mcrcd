@@ -1,2 +1,3 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"example"}],"targetType":"library","version":"1.0.0","name":"mcrcd"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"example"}],"targetType":"library","version":"1.0.1","name":"mcrcd"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"example"}],"targetType":"library","version":"1.0.2","name":"mcrcd"}
