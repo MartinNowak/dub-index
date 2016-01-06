@@ -4,3 +4,4 @@
 {"dependencies":{"dests":"~>0.2.4","desstdx":"~>0.1.2"},"targetType":"sourceLibrary","version":"0.2.3","name":"desmath"}
 {"dependencies":{"dests":"~>0.2.4","desstdx":"~>0.1.2"},"targetType":"sourceLibrary","version":"0.2.4","name":"desmath"}
 {"dependencies":{"dests":"~>0.3.0","desstdx":"~>0.2.1"},"targetType":"sourceLibrary","version":"0.2.5","name":"desmath"}
+{"dependencies":{"dests":"~>0.3.0","desstdx":"~>0.2.1"},"targetType":"sourceLibrary","version":"~master","commitID":"2c6795a1a3945f0143287969f13076f5d85b7ef6","name":"desmath"}
