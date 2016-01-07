@@ -1,3 +1,4 @@
 {"version":"1.0.0","name":"dtrie"}
 {"targetType":"library","version":"1.0.1","name":"dtrie"}
 {"targetType":"library","version":"1.0.2","name":"dtrie"}
+{"targetType":"library","version":"~master","commitID":"d2ac7b1a764a0903b3fd469354fb39ebef4a988b","name":"dtrie"}
