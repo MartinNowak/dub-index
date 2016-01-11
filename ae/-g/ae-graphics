@@ -7,3 +7,4 @@
 {"targetType":"library","version":"0.0.7","name":"ae-graphics"}
 {"targetType":"library","version":"0.0.8","name":"ae-graphics"}
 {"targetType":"library","version":"0.0.9","name":"ae-graphics"}
+{"targetType":"library","version":"~master","commitID":"cc5561f5eec5fa435174522b2e9651d70a1ad7d1","name":"ae-graphics"}
