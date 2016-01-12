@@ -5,3 +5,4 @@
 {"dependencies":{"memutils":"~>0.3.8"},"targetType":"staticLibrary","version":"0.2.4","configurations":[{"targetType":"staticLibrary","name":"regular"},{"targetType":"staticLibrary","name":"32mscoff"}],"name":"libhttp2"}
 {"dependencies":{"memutils":"~>0.4.0"},"targetType":"staticLibrary","version":"0.2.5","configurations":[{"targetType":"staticLibrary","name":"regular"},{"targetType":"staticLibrary","name":"32mscoff"}],"name":"libhttp2"}
 {"dependencies":{"memutils":"~>0.4.3"},"targetType":"staticLibrary","version":"0.2.6","configurations":[{"targetType":"staticLibrary","name":"regular"},{"targetType":"staticLibrary","name":"32mscoff"}],"name":"libhttp2"}
+{"dependencies":{"memutils":"~>0.4.4"},"targetType":"staticLibrary","version":"0.2.7","configurations":[{"targetType":"staticLibrary","name":"regular"},{"targetType":"staticLibrary","name":"32mscoff"}],"name":"libhttp2"}
