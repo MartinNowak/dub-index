@@ -21,3 +21,4 @@
 {"dependencies":{"lock-free":">=0.1.1"},"targetType":"library","version":"1.5.3","name":"carbon"}
 {"dependencies":{"lock-free":">=0.1.1"},"targetType":"library","version":"1.5.4","name":"carbon"}
 {"dependencies":{"lock-free":">=0.1.1"},"targetType":"library","version":"1.6.0","name":"carbon"}
+{"dependencies":{"lock-free":"~>0.1.1","msgpack-d":">=1.0.0-beta.2 <1.1.0-0"},"targetType":"library","version":"1.7.0","name":"carbon"}
