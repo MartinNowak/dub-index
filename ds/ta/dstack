@@ -2,3 +2,4 @@
 {"dependencies":{"mambo":"0.0.3"},"targetType":"staticLibrary","version":"0.0.2","name":"dstack"}
 {"dependencies":{"mambo":"0.0.4"},"targetType":"staticLibrary","version":"0.0.3","name":"dstack"}
 {"dependencies":{"mambo":"~>0.0.6"},"targetType":"staticLibrary","version":"0.0.4","name":"dstack"}
+{"dependencies":{"mambo":"~>0.0.7"},"targetType":"staticLibrary","version":"0.0.5","name":"dstack"}
