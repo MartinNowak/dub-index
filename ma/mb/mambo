@@ -6,3 +6,4 @@
 {"dependencies":{"tango":"1.0.1+2.067"},"targetType":"staticLibrary","version":"0.0.5","name":"mambo"}
 {"dependencies":{"tango":"1.0.3+2.068"},"targetType":"staticLibrary","version":"0.0.6","name":"mambo"}
 {"dependencies":{"tango":"1.0.3+2.068"},"targetType":"staticLibrary","version":"0.0.7","name":"mambo"}
+{"dependencies":{"tango":"1.0.3+2.068"},"targetType":"staticLibrary","version":"~master","commitID":"2d8a6646b4e6eeb90c96f47bd116a2cb697c5acb","name":"mambo"}
