@@ -5,3 +5,4 @@
 {"dependencies":{"tango":"1.0.1+2.067"},"targetType":"staticLibrary","version":"0.0.4","name":"mambo"}
 {"dependencies":{"tango":"1.0.1+2.067"},"targetType":"staticLibrary","version":"0.0.5","name":"mambo"}
 {"dependencies":{"tango":"1.0.3+2.068"},"targetType":"staticLibrary","version":"0.0.6","name":"mambo"}
+{"dependencies":{"tango":"1.0.3+2.068"},"targetType":"staticLibrary","version":"0.0.7","name":"mambo"}
