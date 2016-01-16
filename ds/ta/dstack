@@ -3,3 +3,4 @@
 {"dependencies":{"mambo":"0.0.4"},"targetType":"staticLibrary","version":"0.0.3","name":"dstack"}
 {"dependencies":{"mambo":"~>0.0.6"},"targetType":"staticLibrary","version":"0.0.4","name":"dstack"}
 {"dependencies":{"mambo":"~>0.0.7"},"targetType":"staticLibrary","version":"0.0.5","name":"dstack"}
+{"dependencies":{"mambo":"~>0.0.7"},"targetType":"staticLibrary","version":"~master","commitID":"6dc876e680e2c56ddb5e3b6fd7cef9197edca744","name":"dstack"}
