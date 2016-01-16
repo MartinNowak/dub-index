@@ -3,3 +3,4 @@
 {"configurations":[{"targetType":"library","name":"libddmd"}],"version":"0.0.3","name":"ddmd"}
 {"configurations":[{"targetType":"library","name":"libddmd"}],"version":"0.0.4","name":"ddmd"}
 {"configurations":[{"targetType":"library","name":"libddmd"}],"version":"0.0.5","name":"ddmd"}
+{"configurations":[{"targetType":"library","name":"libddmd"}],"version":"0.0.6","name":"ddmd"}
