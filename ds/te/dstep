@@ -2,3 +2,4 @@
 {"dependencies":{"dstack":"0.0.2"},"targetType":"executable","version":"0.1.1","name":"dstep"}
 {"dependencies":{"dstack":"0.0.4"},"targetType":"executable","version":"0.2.0","configurations":[{"targetType":"executable","name":"default"},{"targetType":"executable","name":"test"}],"name":"dstep"}
 {"dependencies":{"dstack":"0.0.4"},"targetType":"executable","version":"0.2.1","configurations":[{"targetType":"executable","name":"default"},{"targetType":"executable","name":"test"}],"name":"dstep"}
+{"dependencies":{"dstack":"~>0.0.5"},"targetType":"executable","version":"0.2.2","configurations":[{"targetType":"executable","name":"default"},{"targetType":"executable","name":"test"}],"name":"dstep"}
