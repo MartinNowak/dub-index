@@ -9,3 +9,4 @@
 {"dependencies":{"libdparse":"~>0.3.0"},"targetType":"executable","version":"0.4.2","name":"dfmt"}
 {"dependencies":{"libdparse":"~>0.3.0"},"targetType":"executable","version":"0.4.3","name":"dfmt"}
 {"dependencies":{"libdparse":"~>0.3.0"},"targetType":"executable","version":"0.4.4","name":"dfmt"}
+{"dependencies":{"libdparse":"~>0.3.0"},"targetType":"executable","version":"0.4.5","name":"dfmt"}
