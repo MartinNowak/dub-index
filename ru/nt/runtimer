@@ -1,0 +1,1 @@
+{"dependencies":{"vibe-d:data":">=0.7.27-alpha.3 <0.8.0-0"},"targetType":"staticLibrary","version":"0.1.0","name":"runtimer"}
