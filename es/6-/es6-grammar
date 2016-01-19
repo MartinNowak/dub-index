@@ -3,3 +3,4 @@
 {"dependencies":{"pegged":"~>0.2.1"},"configurations":[{"targetType":"library","name":"default"},{"targetType":"executable","name":"generate"}],"version":"0.6.0","name":"es6-grammar"}
 {"dependencies":{"pegged":"~>0.2.1"},"configurations":[{"targetType":"library","name":"default"},{"targetType":"executable","name":"generate"}],"version":"0.6.1","name":"es6-grammar"}
 {"dependencies":{"pegged":"~>0.2.1"},"configurations":[{"targetType":"library","name":"default"},{"targetType":"executable","name":"generate"}],"version":"0.6.2","name":"es6-grammar"}
+{"dependencies":{"pegged":"~>0.2.1"},"configurations":[{"targetType":"library","name":"default"},{"targetType":"executable","name":"generate"}],"version":"0.6.3","name":"es6-grammar"}
