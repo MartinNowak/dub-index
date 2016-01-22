@@ -16,3 +16,4 @@
 {"configurations":[{"targetType":"library","name":"with-lib"},{"targetType":"library","name":"without-lib"}],"targetType":"library","version":"0.8.0","name":"d2sqlite3"}
 {"configurations":[{"targetType":"library","name":"with-lib"},{"targetType":"library","name":"without-lib"}],"targetType":"library","version":"0.8.1","name":"d2sqlite3"}
 {"configurations":[{"targetType":"library","name":"with-lib"},{"targetType":"library","name":"without-lib"}],"targetType":"library","version":"0.9.0","name":"d2sqlite3"}
+{"configurations":[{"targetType":"library","name":"with-lib"},{"targetType":"library","name":"without-lib"}],"targetType":"library","version":"0.9.1","name":"d2sqlite3"}
