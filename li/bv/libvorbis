@@ -1,1 +1,2 @@
 {"dependencies":{"libogg":"~>1.0.0"},"targetType":"sourceLibrary","version":"1.0.0+17021","name":"libvorbis"}
+{"dependencies":{"libogg":"~>1.0.0"},"targetType":"sourceLibrary","version":"~master","commitID":"980501597f99758b87c982f136e40e99e1846135","name":"libvorbis"}
