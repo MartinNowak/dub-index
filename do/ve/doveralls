@@ -14,3 +14,4 @@
 {"dependencies":{"dlibgit":{"version":"~>0.50","optional":true}},"targetType":"executable","version":"1.1.4","name":"doveralls"}
 {"dependencies":{"dlibgit":{"version":"~>0.50","optional":true}},"targetType":"executable","version":"1.1.5","name":"doveralls"}
 {"dependencies":{"dlibgit":{"version":"~>0.50","optional":true}},"targetType":"executable","version":"1.1.6","name":"doveralls"}
+{"dependencies":{"dlibgit":{"version":"~>0.50","optional":true}},"targetType":"executable","version":"1.2.0","name":"doveralls"}
