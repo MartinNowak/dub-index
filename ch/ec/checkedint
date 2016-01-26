@@ -1,2 +1,3 @@
 {"subPackages":[{"dependencies":{"checkedint":">=0.0.0"},"targetType":"executable","name":"tests"}],"targetType":"library","version":"0.1.0","name":"checkedint"}
 {"subPackages":[{"dependencies":{"checkedint":">=0.0.0"},"targetType":"executable","name":"tests"}],"targetType":"library","version":"0.1.1","name":"checkedint"}
+{"subPackages":[{"dependencies":{"checkedint":">=0.0.0"},"targetType":"executable","name":"tests"}],"targetType":"library","version":"0.1.2","name":"checkedint"}
