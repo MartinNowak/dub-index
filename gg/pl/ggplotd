@@ -10,3 +10,4 @@
 {"dependencies":{"cairod":"~master","color":"~>0.0.2","dunit":"~>1.0.11"},"version":"0.3.2","name":"ggplotd"}
 {"dependencies":{"cairod":"~master","color":"~>0.0.2","dunit":"~>1.0.11"},"version":"0.3.4","name":"ggplotd"}
 {"dependencies":{"cairod":">=0.0.1-alpha.2+1.10.2 <0.1.0-0","painlesstraits":"~>0.0.3","dunit":"~>1.0.11"},"version":"0.4.0","name":"ggplotd"}
+{"dependencies":{"cairod":">=0.0.1-alpha.2+1.10.2 <0.1.0-0","painlesstraits":"~>0.0.3","dunit":"~>1.0.11"},"version":"0.4.1","name":"ggplotd"}
