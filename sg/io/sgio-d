@@ -3,3 +3,4 @@
 {"targetType":"library","version":"0.0.3","name":"sgio-d"}
 {"targetType":"library","version":"0.0.4","name":"sgio-d"}
 {"targetType":"library","version":"0.0.5","name":"sgio-d"}
+{"targetType":"library","version":"~master","commitID":"2d44f98fe9fab4f24f0297ec8bc6b9721f03778e","name":"sgio-d"}
