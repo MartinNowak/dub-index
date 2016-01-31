@@ -1,2 +1,3 @@
 {"configurations":[{"targetType":"library","name":"library"}],"version":"1.0.0-alpha","name":"wrend"}
 {"configurations":[{"targetType":"library","name":"library"}],"version":"1.0.1-alpha","name":"wrend"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"example"}],"version":"~master","commitID":"a9bcf2656b5f1c0330fcbcee9b6c8ad42fcee0dd","name":"wrend"}
