@@ -5,3 +5,4 @@
 {"dependencies":{"derelict-pq":"1.0.1"},"targetType":"library","version":"0.2.0","name":"dpq"}
 {"dependencies":{"derelict-pq":"1.0.1"},"targetType":"library","version":"0.2.1","name":"dpq"}
 {"dependencies":{"derelict-pq":"1.0.1"},"targetType":"library","version":"0.2.2","name":"dpq"}
+{"dependencies":{"derelict-pq":"1.0.1"},"targetType":"library","version":"0.2.3","name":"dpq"}
