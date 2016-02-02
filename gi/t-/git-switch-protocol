@@ -1,3 +1,4 @@
 {"dependencies":{"colorize":">=1.0.5"},"version":"0.0.2","name":"git-switch-protocol"}
 {"dependencies":{"colorize":">=1.0.5"},"version":"0.0.3","name":"git-switch-protocol"}
 {"dependencies":{"colorize":">=1.0.5"},"version":"0.0.4","name":"git-switch-protocol"}
+{"dependencies":{"colorize":">=1.0.5"},"version":"~master","commitID":"40b37ce72f3a7d1b44bcb2dfb96d6e9f90237f70","name":"git-switch-protocol"}
