@@ -6,3 +6,4 @@
 {"dependencies":{"derelict-pq":"~>1.0.1"},"configurations":[{"targetType":"library","name":"static"},{"targetType":"library","name":"dynamic"}],"version":"0.1.4","name":"dpq2"}
 {"dependencies":{"derelict-pq":"~>1.0.1"},"configurations":[{"targetType":"library","name":"static"},{"targetType":"library","name":"dynamic"}],"version":"0.1.5","name":"dpq2"}
 {"dependencies":{"derelict-pq":"~>1.0.1"},"configurations":[{"targetType":"library","name":"static"},{"targetType":"library","name":"dynamic"}],"version":"0.1.7","name":"dpq2"}
+{"dependencies":{"derelict-pq":"~>2.0.0"},"configurations":[{"targetType":"library","name":"static"},{"targetType":"library","name":"dynamic"}],"version":"0.1.8","name":"dpq2"}
