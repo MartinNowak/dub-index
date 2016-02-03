@@ -1,3 +1,4 @@
 {"targetType":"library","version":"0.1.0","name":"simpletotpd"}
 {"targetType":"library","version":"0.1.1","name":"simpletotpd"}
 {"targetType":"library","version":"0.1.2","name":"simpletotpd"}
+{"targetType":"library","version":"~master","commitID":"d0db72e262897e851af50a5a4be27b4bca3d4383","name":"simpletotpd"}
