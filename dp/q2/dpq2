@@ -10,3 +10,4 @@
 {"dependencies":{"derelict-pq":"~>2.0.0"},"configurations":[{"targetType":"library","name":"static"},{"targetType":"library","name":"dynamic"}],"version":"0.1.9","name":"dpq2"}
 {"dependencies":{"derelict-pq":"~>2.0.0"},"configurations":[{"targetType":"library","name":"static"},{"targetType":"library","name":"dynamic"}],"version":"0.2.0","name":"dpq2"}
 {"dependencies":{"derelict-pq":"~>2.0.0"},"configurations":[{"targetType":"library","name":"static"},{"targetType":"library","name":"dynamic"}],"version":"0.2.1","name":"dpq2"}
+{"dependencies":{"derelict-pq":"~>2.0.0"},"configurations":[{"targetType":"library","name":"static"},{"targetType":"library","name":"dynamic"}],"version":"0.2.2","name":"dpq2"}
