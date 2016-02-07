@@ -3,3 +3,4 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"targetType":"library","version":"0.5.4","name":"unit-threaded"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"targetType":"library","version":"0.5.5","name":"unit-threaded"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"targetType":"library","version":"~experimental","commitID":"efe0ebfa991dc3df0284c7ab3b1fa54b88141d03","name":"unit-threaded"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"targetType":"library","version":"0.5.6","name":"unit-threaded"}
