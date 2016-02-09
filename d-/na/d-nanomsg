@@ -2,3 +2,4 @@
 {"version":"0.0.1","name":"d-nanomsg"}
 {"targetType":"library","version":"0.1.1","name":"d-nanomsg"}
 {"targetType":"library","version":"0.1.0","name":"d-nanomsg"}
+{"targetType":"library","version":"~cleanfiles","commitID":"f48cadee9cd5f8be8f0f9bdb1e788698b157acd1","name":"d-nanomsg"}
