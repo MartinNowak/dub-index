@@ -4,3 +4,4 @@
 {"dependencies":{"derelict-util":">=1.0.2"},"version":"~3.0","commitID":"d261827901a0198e8f1abdef782effd08213d253","name":"derelict-glfw3"}
 {"dependencies":{"derelict-util":">=1.0.2"},"version":"1.1.0","name":"derelict-glfw3"}
 {"dependencies":{"derelict-util":">=1.0.2"},"version":"1.1.1","name":"derelict-glfw3"}
+{"dependencies":{"derelict-util":">=1.0.2"},"version":"~3.1","commitID":"d0b5a4f9b5812d7f3706b0fc15ca4744cb146bdd","name":"derelict-glfw3"}
