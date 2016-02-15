@@ -1,0 +1,1 @@
+{"dependencies":{"dpq2":"~>0.3.9","vibe-d:core":"~>0.7.27"},"targetType":"none","version":"0.0.1","configurations":[{"targetType":"none","name":"release_app"},{"targetType":"executable","name":"integration_test"}],"name":"vibe-d-postgresql"}
