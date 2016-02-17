@@ -34,3 +34,4 @@
 {"dependencies":{"vibe-d:data":">=0.7.27-rc.2 <0.8.0-0","derelict-pq":"2.0.0"},"configurations":[{"targetType":"library","name":"static"},{"targetType":"library","name":"dynamic"}],"version":"0.3.9","name":"dpq2"}
 {"dependencies":{"vibe-d:data":">=0.7.27-rc.2 <0.8.0-0","derelict-pq":"2.0.0"},"configurations":[{"targetType":"library","name":"static"},{"targetType":"library","name":"dynamic"}],"version":"0.3.10","name":"dpq2"}
 {"dependencies":{"vibe-d:data":">=0.7.27-rc.2 <0.8.0-0","derelict-pq":"2.0.0"},"configurations":[{"targetType":"library","name":"static"},{"targetType":"library","name":"dynamic"}],"version":"0.3.11","name":"dpq2"}
+{"dependencies":{"vibe-d:data":">=0.7.27-rc.2 <0.8.0-0","derelict-pq":"2.0.0"},"configurations":[{"targetType":"library","name":"static"},{"targetType":"library","name":"dynamic"}],"version":"0.4.0","name":"dpq2"}
