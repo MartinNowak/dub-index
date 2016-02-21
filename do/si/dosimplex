@@ -3,3 +3,4 @@
 {"targetType":"staticLibrary","version":"0.3.1-beta","name":"dosimplex"}
 {"targetType":"staticLibrary","version":"0.3.0-beta","name":"dosimplex"}
 {"targetType":"staticLibrary","version":"0.3.2-beta","name":"dosimplex"}
+{"targetType":"staticLibrary","version":"~master","commitID":"fe0513d2ff4a2aad58c41266d9d9ffbae38beb2f","name":"dosimplex"}
