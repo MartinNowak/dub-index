@@ -1,1 +1,2 @@
 {"dependencies":{"ddox":"~>0.13.2"},"version":"~master","commitID":"1a38f593387e54627b03b3798ff59e6edf07a566","name":"subdox"}
+{"dependencies":{"ddox":"~>0.13.2"},"version":"0.1.0","name":"subdox"}
