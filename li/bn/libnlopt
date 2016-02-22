@@ -1,0 +1,1 @@
+{"configurations":[{"targetType":"library","name":"libnlopt-library"},{"targetType":"executable","name":"example"}],"version":"0.2.0","name":"libnlopt"}
