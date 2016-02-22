@@ -1,0 +1,1 @@
+{"dependencies":{"libnlopt":">=0.2.0"},"configurations":[{"targetType":"library","name":"nloptd-library"},{"targetType":"executable","name":"example"}],"version":"0.2.1","name":"nloptd"}
