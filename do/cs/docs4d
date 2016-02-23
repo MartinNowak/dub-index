@@ -1,1 +1,2 @@
 {"dependencies":{"dmarkdown":"~>0.2.1","mustache-d":"~>0.1.1"},"configurations":[{"targetType":"library","name":"docs4d"},{"targetType":"executable","name":"docs"}],"version":"0.0.1","name":"docs4d"}
+{"dependencies":{"dmarkdown":"~>0.2.1","mustache-d":"~>0.1.1"},"configurations":[{"targetType":"library","name":"docs4d"},{"targetType":"executable","name":"docs"}],"version":"~master","commitID":"bfafc882192d6861d65a75eef87bd4b4863b79a8","name":"docs4d"}
