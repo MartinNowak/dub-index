@@ -1,0 +1,1 @@
+{"subPackages":[{"dependencies":{"brightproof":{"version":">=0.0.0","path":"../"}},"name":"example"}],"targetType":"library","version":"0.0.1","name":"brightproof"}
