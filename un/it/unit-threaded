@@ -12,3 +12,4 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"},{"targetType":"executable","name":"gen_ut_main"}],"targetType":"library","version":"0.6.0","name":"unit-threaded"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"},{"targetType":"executable","name":"gen_ut_main"}],"targetType":"library","version":"0.6.1","name":"unit-threaded"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"},{"targetType":"executable","name":"gen_ut_main"}],"targetType":"library","version":"0.6.2","name":"unit-threaded"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"},{"targetType":"executable","name":"gen_ut_main"}],"targetType":"library","version":"0.6.3","name":"unit-threaded"}
