@@ -7,3 +7,4 @@
 {"targetType":"executable","version":"0.2.5","name":"dtest"}
 {"targetType":"executable","version":"0.2.6","name":"dtest"}
 {"dependencies":{"unit-threaded":"~>0.5.11"},"targetType":"executable","version":"~experimental","commitID":"ad94c38416378721d9c81ee6e15427071a8fbae0","name":"dtest"}
+{"targetType":"executable","version":"~master","commitID":"e6bf0512341e4a38ea403aaedf70f0fc8f8331fb","name":"dtest"}
