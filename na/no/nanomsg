@@ -1,2 +1,3 @@
 {"configurations":[{"targetType":"sourceLibrary","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"0.1.0","name":"nanomsg"}
 {"configurations":[{"targetType":"sourceLibrary","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"0.1.1","name":"nanomsg"}
+{"configurations":[{"targetType":"sourceLibrary","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"~master","commitID":"cb878b0cf69bb0878289f780de565ef11fcb412f","name":"nanomsg"}
