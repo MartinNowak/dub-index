@@ -12,3 +12,4 @@
 {"dependencies":{"pegged":"~>0.2.1"},"configurations":[{"targetType":"library","name":"default"},{"targetType":"executable","name":"generate"}],"version":"0.6.9","name":"es6-grammar"}
 {"dependencies":{"pegged":"~>0.2.1"},"configurations":[{"targetType":"library","name":"default"},{"targetType":"executable","name":"generate"}],"version":"0.7.0","name":"es6-grammar"}
 {"dependencies":{"pegged":"~>0.2.1"},"configurations":[{"targetType":"library","name":"default"},{"targetType":"executable","name":"generate"}],"version":"0.8.0","name":"es6-grammar"}
+{"dependencies":{"pegged":"~>0.2.1"},"configurations":[{"targetType":"library","name":"default"},{"targetType":"executable","name":"generate"}],"version":"0.9.0","name":"es6-grammar"}
