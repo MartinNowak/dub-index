@@ -1,1 +1,2 @@
 {"dependencies":{"isfreedesktop":"0.1.0"},"targetType":"library","version":"0.1.0","name":"xdgpaths"}
+{"dependencies":{"isfreedesktop":"~>0.1.0"},"targetType":"library","version":"0.1.1","name":"xdgpaths"}
