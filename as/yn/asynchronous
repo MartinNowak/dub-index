@@ -8,3 +8,4 @@
 {"dependencies":{"libasync":"~>0.7.5"},"targetType":"library","version":"0.4.3","configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"name":"asynchronous"}
 {"dependencies":{"libasync":"~>0.7.5"},"targetType":"library","version":"0.4.4","configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"name":"asynchronous"}
 {"dependencies":{"libasync":"~>0.7.5"},"targetType":"library","version":"0.5.0","configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"name":"asynchronous"}
+{"dependencies":{"libasync":"~>0.7.7"},"targetType":"library","version":"0.5.1","configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"name":"asynchronous"}
