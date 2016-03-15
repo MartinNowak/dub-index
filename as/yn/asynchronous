@@ -11,3 +11,4 @@
 {"dependencies":{"libasync":"~>0.7.7"},"targetType":"library","version":"0.5.1","configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"name":"asynchronous"}
 {"dependencies":{"libasync":"~>0.7.7"},"targetType":"library","version":"0.5.2","configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"name":"asynchronous"}
 {"dependencies":{"libasync":"~>0.7.7"},"targetType":"library","version":"0.5.3","configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"name":"asynchronous"}
+{"dependencies":{"libasync":"~>0.7.7"},"targetType":"library","version":"0.5.6","configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"name":"asynchronous"}
