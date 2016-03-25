@@ -1,1 +1,2 @@
 {"dependencies":{"std_data_json":"~>0.17.0","dunit":"~>1.0.12"},"version":"0.0.1","name":"jsonserialized"}
+{"dependencies":{"std_data_json":"~>0.17.0","dunit":"~>1.0.12"},"version":"0.1.0","name":"jsonserialized"}
