@@ -1,1 +1,2 @@
 {"dependencies":{"markov":"~>1.0.3"},"version":"1.0.0","name":"polo"}
+{"dependencies":{"markov":"~>1.0.8"},"version":"~master","commitID":"938db46192609867aa2779ff71acee3fad14354a","name":"polo"}
