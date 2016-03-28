@@ -1,1 +1,2 @@
 {"dependencies":{"experimental_allocator":">=2.70.0-b1 <2.71.0-0"},"version":"0.3.0","name":"emsi_containers"}
+{"dependencies":{"experimental_allocator":">=2.70.0-b1 <2.71.0-0"},"version":"0.4.0","name":"emsi_containers"}
