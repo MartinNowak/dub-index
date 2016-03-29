@@ -6,3 +6,4 @@
 {"dependencies":{"derelict-util":">=1.0.0"},"targetType":"library","version":"0.0.6","name":"derelict-vulkan"}
 {"dependencies":{"derelict-util":">=1.0.0"},"targetType":"library","version":"0.0.7","name":"derelict-vulkan"}
 {"dependencies":{"derelict-util":">=1.0.0"},"targetType":"library","version":"0.0.9","name":"derelict-vulkan"}
+{"dependencies":{"derelict-util":">=1.0.0"},"targetType":"library","version":"0.0.10","name":"derelict-vulkan"}
