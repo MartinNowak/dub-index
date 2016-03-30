@@ -2,3 +2,4 @@
 {"version":"1.0.1","name":"gelfd"}
 {"version":"1.2.1","name":"gelfd"}
 {"version":"1.2.2","name":"gelfd"}
+{"configurations":[{"targetType":"library","name":"default"},{"targetType":"executable","name":"example"}],"version":"1.2.3","name":"gelfd"}
