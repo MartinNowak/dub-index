@@ -4,3 +4,4 @@
 {"configurations":[{"targetType":"staticLibrary","name":"static"},{"targetType":"dynamicLibrary","name":"shared"}],"version":"1.0.2+2.068","name":"tango"}
 {"configurations":[{"targetType":"staticLibrary","name":"static"},{"targetType":"dynamicLibrary","name":"shared"}],"version":"~travis_test","commitID":"e713e1c7d675a32fc75814768dae7757a7a78c29","name":"tango"}
 {"configurations":[{"targetType":"staticLibrary","name":"static"},{"targetType":"dynamicLibrary","name":"shared"}],"version":"1.0.3+2.068","name":"tango"}
+{"configurations":[{"targetType":"staticLibrary","name":"static"},{"targetType":"dynamicLibrary","name":"shared"}],"version":"~d2port","commitID":"1d9cd719a1193f83efc395c82c7ad88b320ae25a","name":"tango"}
