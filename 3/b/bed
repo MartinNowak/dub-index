@@ -5,3 +5,4 @@
 {"dependencies":{"colorize":">=1.0.1"},"version":"0.0.4","name":"bed"}
 {"dependencies":{"colorize":">=1.0.1"},"version":"0.0.5","name":"bed"}
 {"dependencies":{"colorize":">=1.0.1"},"version":"~master","commitID":"bc485925a44a1f54b386e39d1d503492a8c61dbc","name":"bed"}
+{"dependencies":{"colorize":">=1.0.1"},"configurations":[{"targetType":"library","name":"bed"},{"targetType":"executable","name":"unittest"},{"targetType":"executable","name":"examples"}],"version":"~dev","commitID":"097bdbb75967eeb8b14c4b3273eac7ca8fed2e30","name":"bed"}
