@@ -1,1 +1,2 @@
 {"configurations":[{"dependencies":{"pyjamas":">=0.2.1"},"targetType":"library","name":"commander"}],"version":"1.0.1","name":"commander"}
+{"configurations":[{"dependencies":{"bed":">=0.0.0","pyjamas":">=0.2.1"},"targetType":"library","name":"commander"}],"version":"~testing/dub","commitID":"d1f925aabc06cc11a3e259911aaebcb317b5db93","name":"commander"}
