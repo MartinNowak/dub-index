@@ -1,1 +1,2 @@
 {"version":"0.1.0","name":"i18n"}
+{"configurations":[{"targetType":"library","name":"test-empty"},{"targetType":"library","name":"test-ja-de"}],"version":"~master","commitID":"b416652242d231e90a97c281bd1ddbe6b1ec1019","name":"i18n"}
