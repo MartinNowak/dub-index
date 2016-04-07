@@ -1,1 +1,2 @@
 {"dependencies":{"io":"~master","bzip2":"~>0.1.0"},"targetType":"library","version":"~master","commitID":"cd0d800ee643a0bb6a2d0c5601cb7b937cd5f4b4","name":"streams"}
+{"dependencies":{"io":"~master","bzip2":"~>0.1.0"},"targetType":"library","version":"0.0.1","name":"streams"}
