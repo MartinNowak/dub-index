@@ -2,3 +2,4 @@
 {"dependencies":{"htmld":"~>0.2.6"},"targetType":"library","version":"0.1.1","name":"plain"}
 {"dependencies":{"htmld":"~>0.2.6"},"targetType":"library","version":"0.1.2","name":"plain"}
 {"dependencies":{"htmld":"~>0.2.6"},"targetType":"library","version":"0.1.3","name":"plain"}
+{"dependencies":{"htmld":"~>0.2.6"},"targetType":"library","version":"0.1.4","name":"plain"}
