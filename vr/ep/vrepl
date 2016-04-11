@@ -1,2 +1,3 @@
 {"dependencies":{"dutil":">=0.0.0","dexpect":">=0.0.0"},"version":"0.0.2","name":"vrepl"}
 {"dependencies":{"dutil":">=0.0.0","dexpect":">=0.0.0"},"version":"0.0.3","name":"vrepl"}
+{"dependencies":{"dutil":">=0.0.0","dexpect":">=0.0.0"},"version":"~master","commitID":"1c6fc9ae853e4440523bfb404a2ad635d54e6595","name":"vrepl"}
