@@ -1,1 +1,2 @@
 {"dependencies":{"dutil":">=0.0.0","dexpect":">=0.0.0"},"version":"0.0.2","name":"vrepl"}
+{"dependencies":{"dutil":">=0.0.0","dexpect":">=0.0.0"},"version":"0.0.3","name":"vrepl"}
