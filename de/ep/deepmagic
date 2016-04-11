@@ -1,1 +1,2 @@
 {"dependencies":{"hibernated":"~>0.2.26"},"version":"0.1.5","name":"deepmagic"}
+{"dependencies":{"vibe-d":"~>0.7.23","hibernated":"~>0.2.26"},"version":"~master","commitID":"1e084ebd525fdeb6fcd48ad34c908b26d7658e7b","name":"deepmagic"}
