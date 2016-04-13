@@ -3,3 +3,4 @@
 {"dependencies":{"derelict-util":">=1.0.0"},"version":"0.0.3","name":"derelict-allegro5"}
 {"dependencies":{"derelict-util":"~2.0.4"},"version":"0.0.4","name":"derelict-allegro5"}
 {"dependencies":{"derelict-util":"~>2.0.4"},"version":"0.0.5","name":"derelict-allegro5"}
+{"dependencies":{"derelict-util":"~>2.0.4"},"version":"0.0.6","name":"derelict-allegro5"}
