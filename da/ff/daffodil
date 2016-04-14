@@ -1,0 +1,1 @@
+{"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":"~master"},"targetType":"executable","name":"unittest"},{"targetType":"none","name":"docs"}],"version":"0.1.0","name":"daffodil"}
