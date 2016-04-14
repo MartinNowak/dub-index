@@ -9,3 +9,4 @@
 {"subPackages":[{"dependencies":{"inilike":">=0.0.0"},"targetType":"executable","name":"derived"}],"targetType":"library","version":"0.5.0","name":"inilike"}
 {"subPackages":[{"dependencies":{"inilike":">=0.0.0"},"targetType":"executable","name":"derived"}],"targetType":"library","version":"0.5.1","name":"inilike"}
 {"subPackages":[{"dependencies":{"inilike":">=0.0.0"},"targetType":"executable","name":"derived"}],"targetType":"library","version":"0.6.0","name":"inilike"}
+{"subPackages":[{"dependencies":{"inilike":">=0.0.0"},"targetType":"executable","name":"derived"}],"targetType":"library","version":"0.6.1","name":"inilike"}
