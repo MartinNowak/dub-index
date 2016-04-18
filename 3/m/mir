@@ -17,3 +17,4 @@
 {"configurations":[{"targetType":"sourceLibrary","name":"d_source_library"}],"version":"0.15.0-beta3","name":"mir"}
 {"configurations":[{"targetType":"sourceLibrary","name":"d_source_library"}],"version":"0.15.0-beta4","name":"mir"}
 {"configurations":[{"targetType":"sourceLibrary","name":"d_source_library"},{"dependencies":{"imageformats":"~>6.0.0"},"targetType":"executable","name":"median-filter"}],"version":"0.13.2","name":"mir"}
+{"configurations":[{"targetType":"sourceLibrary","name":"d_source_library"},{"dependencies":{"imageformats":"~>6.0.0"},"targetType":"executable","name":"median-filter"}],"version":"0.15.1-beta","name":"mir"}
