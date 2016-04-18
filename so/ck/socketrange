@@ -3,3 +3,4 @@
 {"version":"0.2.0","name":"socketrange"}
 {"version":"1.0.0","name":"socketrange"}
 {"version":"1.0.1","name":"socketrange"}
+{"version":"~master","commitID":"5eaae43a9b8215c96010f95d9a01cbfa2e7f9a73","name":"socketrange"}
