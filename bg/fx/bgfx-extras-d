@@ -1,1 +1,2 @@
 {"dependencies":{"derelict-ft":"~>1.1.1","bgfx-d":"~>0.13.2"},"version":"0.1.0","name":"bgfx-extras-d"}
+{"dependencies":{"derelict-ft":"~>1.1.1","bgfx-d":"~>0.13.2"},"version":"~master","commitID":"6abab266cc7e2d51fe3cf51bba6ff7bbdcaa067f","name":"bgfx-extras-d"}
