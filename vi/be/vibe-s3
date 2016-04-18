@@ -1,0 +1,1 @@
+{"dependencies":{"vibe-d":"~>0.7.28","kxml":"~>1.0.1","memutils":"~>0.4.3"},"targetType":"library","version":"0.0.1","name":"vibe-s3"}
