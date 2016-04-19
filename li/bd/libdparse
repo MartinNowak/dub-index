@@ -16,3 +16,4 @@
 {"dependencies":{"experimental_allocator":">=2.70.0-b1 <2.71.0-0"},"targetType":"library","version":"0.7.0-alpha5","name":"libdparse"}
 {"dependencies":{"experimental_allocator":">=2.70.0-b1 <2.71.0-0"},"targetType":"library","version":"0.7.0-alpha6","name":"libdparse"}
 {"dependencies":{"experimental_allocator":">=2.70.0-b1 <2.71.0-0"},"targetType":"library","version":"0.7.0-alpha7","name":"libdparse"}
+{"dependencies":{"experimental_allocator":">=2.70.0-b1 <2.71.0-0"},"targetType":"library","version":"0.7.0-alpha8","name":"libdparse"}
