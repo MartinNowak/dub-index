@@ -19,3 +19,4 @@
 {"configurations":[{"targetType":"sourceLibrary","name":"d_source_library"},{"dependencies":{"imageformats":"~>6.0.0"},"targetType":"executable","name":"median-filter"}],"version":"0.13.2","name":"mir"}
 {"configurations":[{"targetType":"sourceLibrary","name":"d_source_library"},{"dependencies":{"imageformats":"~>6.0.0"},"targetType":"executable","name":"median-filter"}],"version":"0.15.1-beta","name":"mir"}
 {"configurations":[{"targetType":"sourceLibrary","name":"d_source_library"},{"dependencies":{"imageformats":"~>6.0.0"},"targetType":"executable","name":"median-filter"}],"version":"0.15.1-beta2","name":"mir"}
+{"configurations":[{"targetType":"sourceLibrary","name":"d_source_library"},{"dependencies":{"imageformats":"~>6.0.0"},"targetType":"executable","name":"median-filter"},{"targetType":"executable","name":"means-of-columns"}],"version":"0.13.3","name":"mir"}
