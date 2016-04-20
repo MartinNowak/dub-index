@@ -2,3 +2,4 @@
 {"configurations":[{"dependencies":{"vibe-d":"~>0.7.25"},"targetType":"library","name":"vibed"}],"targetType":"library","version":"0.1.1","name":"vibe-mqtt"}
 {"configurations":[{"dependencies":{"vibe-d":"~>0.7.25"},"targetType":"library","name":"vibed"}],"targetType":"library","version":"0.1.2","name":"vibe-mqtt"}
 {"configurations":[{"dependencies":{"vibe-d":"~>0.7.25"},"targetType":"library","name":"vibed"}],"targetType":"library","version":"0.1.3","name":"vibe-mqtt"}
+{"configurations":[{"dependencies":{"vibe-d":"~>0.7.25"},"targetType":"library","name":"vibed"}],"targetType":"library","version":"0.1.4","name":"vibe-mqtt"}
