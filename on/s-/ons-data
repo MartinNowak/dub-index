@@ -1,3 +1,4 @@
 {"targetType":"library","version":"0.0.1","name":"ons-data"}
 {"targetType":"library","version":"0.0.2","name":"ons-data"}
 {"targetType":"library","version":"0.0.3","name":"ons-data"}
+{"targetType":"library","version":"~master","commitID":"7301db2f872497f617218f72653265ef78c2f30a","name":"ons-data"}
