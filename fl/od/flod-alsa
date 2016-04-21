@@ -1,2 +1,3 @@
 {"dependencies":{"flod":{"version":">=0.0.0","path":"../flod"},"alsa-lib":"~>1.0.0"},"version":"0.0.1","name":"flod-alsa"}
 {"dependencies":{"flod":"0.0.1","alsa-lib":"~>1.0.0"},"version":"0.0.2","name":"flod-alsa"}
+{"dependencies":{"flod":"0.0.2","alsa-lib":"~>1.0.0"},"version":"~master","commitID":"081bbf5d4a2cb852a60c54714cb66c8d40f6da74","name":"flod-alsa"}
