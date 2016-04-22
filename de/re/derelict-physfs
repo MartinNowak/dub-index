@@ -1,1 +1,2 @@
 {"dependencies":{"derelict-util":">=1.0.0"},"version":"1.0.0","name":"derelict-physfs"}
+{"dependencies":{"derelict-util":"~>2.0.6"},"version":"~2.0","commitID":"e20b09dcb86a863f4f7d3a50733b73e959d3aa63","name":"derelict-physfs"}
