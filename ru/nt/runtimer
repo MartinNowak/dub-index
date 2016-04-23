@@ -1,1 +1,2 @@
 {"dependencies":{"vibe-d:data":">=0.7.27-alpha.3 <0.8.0-0"},"targetType":"staticLibrary","version":"0.1.0","name":"runtimer"}
+{"dependencies":{"vibe-d:data":"~>0.7.28"},"targetType":"staticLibrary","version":"~master","commitID":"3c09aefa4177f7cd14e2f9e57bac5a2deeb8c32e","name":"runtimer"}
