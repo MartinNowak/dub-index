@@ -2,3 +2,4 @@
 {"dependencies":{"derelict-physfs":"1.0.0"},"targetType":"library","version":"0.0.2","name":"defile"}
 {"dependencies":{"derelict-physfs":"1.0.0"},"targetType":"library","version":"0.0.3","name":"defile"}
 {"dependencies":{"derelict-physfs":"~>2.0.0"},"targetType":"staticLibrary","version":"0.0.4","name":"defile"}
+{"dependencies":{"derelict-physfs":"~>2.0.0"},"targetType":"staticLibrary","version":"0.0.5","name":"defile"}
