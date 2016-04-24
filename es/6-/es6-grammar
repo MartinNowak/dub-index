@@ -16,3 +16,4 @@
 {"dependencies":{"pegged":"~>0.2.1"},"configurations":[{"targetType":"library","name":"default"},{"targetType":"executable","name":"generate"}],"version":"0.9.2","name":"es6-grammar"}
 {"dependencies":{"pegged":"~>0.2.1"},"configurations":[{"targetType":"library","name":"default"},{"targetType":"executable","name":"generate"}],"version":"0.9.1","name":"es6-grammar"}
 {"dependencies":{"pegged":"~>0.2.1"},"configurations":[{"targetType":"library","name":"default"},{"targetType":"executable","name":"generate"}],"version":"0.9.3","name":"es6-grammar"}
+{"dependencies":{"pegged":"~>0.2.1"},"configurations":[{"targetType":"library","name":"default"},{"targetType":"executable","name":"generate"}],"version":"~master","commitID":"57e0c27267a644f83184a8e38780d37d77299fdd","name":"es6-grammar"}
