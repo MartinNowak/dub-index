@@ -1,0 +1,1 @@
+{"dependencies":{"hdf5-d":"~>0.0.2"},"configurations":[{"targetType":"sourceLibrary","name":"main"},{"targetType":"executable","name":"test"}],"version":"0.0.3","name":"dhdf5-simple"}
