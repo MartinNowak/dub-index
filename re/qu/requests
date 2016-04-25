@@ -2,3 +2,4 @@
 {"dependencies":{"pegged":">=0.2.1"},"version":"0.0.2","name":"requests"}
 {"version":"0.0.3","name":"requests"}
 {"version":"0.0.4","name":"requests"}
+{"version":"0.0.5","name":"requests"}
