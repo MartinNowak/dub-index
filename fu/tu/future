@@ -1,1 +1,2 @@
 {"dependencies":{"universal":"0.1.0"},"targetType":"sourceLibrary","version":"0.1.0","name":"future"}
+{"dependencies":{"universal":{"version":">=0.0.0","path":"../universal/"}},"targetType":"sourceLibrary","version":"~temp","commitID":"42c733ac19d911f39e3f302143aa42e334e5c0b0","name":"future"}
