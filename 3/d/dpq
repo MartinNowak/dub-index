@@ -27,3 +27,4 @@
 {"dependencies":{"derelict-pq":"1.0.1"},"targetType":"library","version":"0.5.10","name":"dpq"}
 {"dependencies":{"derelict-pq":"1.0.1"},"targetType":"library","version":"0.5.11","name":"dpq"}
 {"dependencies":{"derelict-pq":"1.0.1"},"targetType":"library","version":"0.5.12","name":"dpq"}
+{"targetType":"library","version":"0.6.0","name":"dpq"}
