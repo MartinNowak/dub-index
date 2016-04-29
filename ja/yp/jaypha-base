@@ -2,3 +2,4 @@
 {"targetType":"sourceLibrary","version":"1.0.1","name":"jaypha-base"}
 {"targetType":"sourceLibrary","version":"1.0.2","name":"jaypha-base"}
 {"configurations":[{"targetType":"executable","name":"tester"}],"targetType":"sourceLibrary","version":"1.0.3","name":"jaypha-base"}
+{"configurations":[{"targetType":"executable","name":"unittest"}],"targetType":"sourceLibrary","version":"1.0.4","name":"jaypha-base"}
