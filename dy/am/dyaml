@@ -2,3 +2,4 @@
 {"targetType":"staticLibrary","version":"0.4.6","name":"dyaml"}
 {"dependencies":{"tinyendian":"~>0.1.0"},"version":"0.5.1","name":"dyaml"}
 {"dependencies":{"tinyendian":"~>0.1.0"},"version":"0.5.2","name":"dyaml"}
+{"dependencies":{"tinyendian":"~>0.1.0"},"version":"0.5.3","name":"dyaml"}
