@@ -26,3 +26,4 @@
 {"dependencies":{"derelict-util":"~>2"},"version":"0.0.26","name":"derelict-cocoa"}
 {"dependencies":{"derelict-util":"~>2"},"version":"0.0.27","name":"derelict-cocoa"}
 {"dependencies":{"derelict-util":"~>2"},"version":"0.0.29","name":"derelict-cocoa"}
+{"dependencies":{"derelict-util":"~>2"},"version":"0.0.28","name":"derelict-cocoa"}
