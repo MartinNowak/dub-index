@@ -1,3 +1,4 @@
 {"targetType":"sourceLibrary","version":"0.0.1","name":"simd"}
 {"targetType":"sourceLibrary","version":"0.0.2","name":"simd"}
 {"targetType":"sourceLibrary","version":"~master","commitID":"f04d4849dcd0b92b1d57b5a7974a9c686ff421e3","name":"simd"}
+{"targetType":"sourceLibrary","version":"~wip","commitID":"5d7c2a1ab32406b296867028a0d02a1ac5feade2","name":"simd"}
