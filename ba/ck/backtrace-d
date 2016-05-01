@@ -1,3 +1,4 @@
 {"targetType":"sourceLibrary","version":"0.1.0","name":"backtrace-d"}
 {"targetType":"sourceLibrary","version":"0.1.1","name":"backtrace-d"}
 {"configurations":[{"targetType":"executable","name":"sample"}],"targetType":"sourceLibrary","version":"~master","commitID":"ecd7cef21bab385c1873212fff1319e59208694b","name":"backtrace-d"}
+{"configurations":[{"targetType":"executable","name":"sample"}],"targetType":"sourceLibrary","version":"0.1.2","name":"backtrace-d"}
