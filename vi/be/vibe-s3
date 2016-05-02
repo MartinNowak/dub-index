@@ -1,1 +1,2 @@
 {"dependencies":{"vibe-d":"~>0.7.28","kxml":"~>1.0.1","memutils":"~>0.4.3"},"targetType":"library","version":"0.0.1","name":"vibe-s3"}
+{"dependencies":{"vibe-d":"~>0.7.28","kxml":"~>1.0.1","memutils":"~>0.4.3"},"targetType":"library","version":"~upload","commitID":"109a39c0c9ab12b2117c5055c8fefd0cfb340ddd","name":"vibe-s3"}
