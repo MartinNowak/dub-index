@@ -1,1 +1,2 @@
 {"configurations":[{"targetType":"library","name":"fulltest"}],"version":"0.0.1","name":"tweetnacl"}
+{"configurations":[{"targetType":"library","name":"fulltest"}],"version":"~master","commitID":"f18f3f64451f190a1d8aa92faa2120acf646a730","name":"tweetnacl"}
