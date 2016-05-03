@@ -1,2 +1,3 @@
 {"version":"1.0.0","name":"itertools"}
 {"version":"1.1.0","name":"itertools"}
+{"version":"~master","commitID":"f85779eef7e5063b26a96428b4f3d6f2de512712","name":"itertools"}
