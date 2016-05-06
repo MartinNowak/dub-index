@@ -1,3 +1,4 @@
 {"targetType":"executable","version":"~old","commitID":"460e221fae4dd44ce369e039d2bf4e8dc13d917b","name":"draklib"}
 {"targetType":"library","version":"1.0.0","name":"draklib"}
 {"targetType":"library","version":"1.0.1","name":"draklib"}
+{"targetType":"library","version":"1.0.2","name":"draklib"}
