@@ -4,3 +4,4 @@
 {"configurations":[{"targetType":"library","name":"libddmd"}],"version":"0.0.4","name":"ddmd"}
 {"configurations":[{"targetType":"library","name":"libddmd"}],"version":"0.0.5","name":"ddmd"}
 {"configurations":[{"targetType":"library","name":"libddmd"}],"version":"0.0.6","name":"ddmd"}
+{"configurations":[{"targetType":"library","name":"libddmd"}],"version":"~master","commitID":"79fe17897860426b0e5cb4c83d21e3b5d9b1cd6d","name":"ddmd"}
