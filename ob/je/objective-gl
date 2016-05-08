@@ -1,1 +1,2 @@
 {"dependencies":{"derelict-gl3":">=0.0.0"},"targetType":"sourceLibrary","version":"0.0.1","name":"objective-gl"}
+{"dependencies":{"derelict-gl3":">=0.0.0"},"targetType":"sourceLibrary","version":"0.0.2","name":"objective-gl"}
