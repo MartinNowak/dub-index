@@ -4,3 +4,4 @@
 {"version":"2.0.5","name":"tinyredis"}
 {"version":"2.0.6","name":"tinyredis"}
 {"configurations":[{"targetType":"library","name":"default"},{"targetType":"executable","name":"example"},{"targetType":"executable","name":"console"},{"targetType":"executable","name":"benchmark"}],"version":"~collections","commitID":"ed74e1d03108294fd4c9492a3bfb22d69ae186ef","name":"tinyredis"}
+{"configurations":[{"targetType":"library","name":"default"},{"targetType":"executable","name":"example"},{"targetType":"executable","name":"console"},{"targetType":"executable","name":"benchmark"}],"version":"~connections-refactor","commitID":"6c75194189b0cb20d4e4bff66432a5dab156ecc1","name":"tinyredis"}
