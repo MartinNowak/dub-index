@@ -1,1 +1,2 @@
 {"dependencies":{"libdparse":">=0.7.0-alpha10 <0.8.0-0","libddoc":"~>0.2.0"},"targetType":"executable","version":"0.1.0","name":"harbored"}
+{"dependencies":{"libdparse":">=0.7.0-alpha10 <0.8.0-0","libddoc":"~>0.2.0"},"targetType":"executable","version":"0.1.1","name":"harbored"}
