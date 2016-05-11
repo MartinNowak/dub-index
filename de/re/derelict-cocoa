@@ -28,3 +28,4 @@
 {"dependencies":{"derelict-util":"~>2"},"version":"0.0.29","name":"derelict-cocoa"}
 {"dependencies":{"derelict-util":"~>2"},"version":"0.0.28","name":"derelict-cocoa"}
 {"dependencies":{"derelict-util":"~>2"},"version":"0.0.30","name":"derelict-cocoa"}
+{"dependencies":{"derelict-util":"~>2"},"version":"1.0.0","name":"derelict-cocoa"}
