@@ -23,3 +23,4 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"sourceLibrary","name":"import"}],"version":"0.8.0-beta.1","name":"dlib"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"sourceLibrary","name":"import"}],"version":"0.8.0","name":"dlib"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"sourceLibrary","name":"import"}],"version":"0.8.1","name":"dlib"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"sourceLibrary","name":"import"}],"version":"0.9.0-beta.1","name":"dlib"}
