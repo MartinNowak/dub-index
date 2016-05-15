@@ -1,1 +1,2 @@
 {"subPackages":[{"targetType":"executable","name":"benchmark"}],"targetType":"library","version":"0.1.0","name":"dxorshift"}
+{"subPackages":[{"targetType":"executable","name":"benchmark"}],"targetType":"library","version":"~master","commitID":"02b8a59c5f934c895d468a5fbe2553cea42ba238","name":"dxorshift"}
