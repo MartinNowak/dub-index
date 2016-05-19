@@ -8,3 +8,4 @@
 {"dependencies":{"containers":"~>0.2.2"},"configurations":[{"targetType":"executable","name":"unittest"},{"targetType":"library","name":"library"}],"version":"1.2.0","name":"dateparser"}
 {"dependencies":{"emsi_containers":"0.3.0"},"configurations":[{"targetType":"executable","name":"unittest"},{"targetType":"library","name":"library"}],"version":"~2.0","commitID":"49eafccf0234a102d3a8e29bc8917080d0e2feb3","name":"dateparser"}
 {"dependencies":{"emsi_containers":"0.3.0"},"configurations":[{"targetType":"executable","name":"unittest"},{"targetType":"library","name":"library"}],"version":"2.0.0","name":"dateparser"}
+{"dependencies":{"emsi_containers":"0.4.3"},"configurations":[{"targetType":"executable","name":"unittest"},{"targetType":"library","name":"library"}],"version":"2.0.1","name":"dateparser"}
