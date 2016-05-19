@@ -5,3 +5,4 @@
 {"dependencies":{"dsymbol":">=0.2.0-alpha6 <0.3.0-0","libdparse":">=0.7.0-alpha9 <0.8.0-0","inifiled":">=0.0.6"},"targetType":"executable","version":"0.4.0-alpha3","name":"dscanner"}
 {"dependencies":{"dsymbol":">=0.2.0-alpha6 <0.3.0-0","libdparse":">=0.7.0-alpha9 <0.8.0-0","inifiled":">=0.0.6"},"targetType":"executable","version":"0.4.0-alpha4","name":"dscanner"}
 {"dependencies":{"dsymbol":">=0.2.0-alpha6 <0.3.0-0","libdparse":">=0.7.0-alpha11 <0.8.0-0","inifiled":">=0.0.6"},"targetType":"executable","version":"0.4.0-alpha5","name":"dscanner"}
+{"dependencies":{"dsymbol":">=0.2.0-alpha7 <0.3.0-0","libdparse":">=0.7.0-alpha11 <0.8.0-0","inifiled":">=0.0.6"},"targetType":"executable","version":"0.4.0-alpha6","name":"dscanner"}
