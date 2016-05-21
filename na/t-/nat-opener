@@ -1,0 +1,1 @@
+{"dependencies":{"vibe-d":"~master","kxml":"1.0.0","windows-headers":"1.0.1","memutils":"~>0.4.5"},"targetType":"staticLibrary","version":"0.2.0","configurations":[{"targetType":"staticLibrary","name":"client_x64"},{"targetType":"staticLibrary","name":"client_32mscoff"}],"name":"nat-opener"}
