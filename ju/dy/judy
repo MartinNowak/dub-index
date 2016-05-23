@@ -1,2 +1,3 @@
 {"targetType":"library","version":"1.0.0","name":"judy"}
 {"targetType":"library","version":"1.0.1","name":"judy"}
+{"targetType":"library","version":"~master","commitID":"b866ce67f241bc7fed6d4786506951543eba18c2","name":"judy"}
