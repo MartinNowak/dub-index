@@ -1,1 +1,2 @@
 {"targetType":"sourceLibrary","version":"1.0.0+1.0.27.2","name":"alsa-lib"}
+{"targetType":"sourceLibrary","version":"~master","commitID":"ac6dbc7803edbbb3756dc4cccef8fc71c1cacb4a","name":"alsa-lib"}
