@@ -1,1 +1,2 @@
 {"dependencies":{"derelict-util":"~>2.0.4"},"targetType":"library","version":"1.0.0-alpha","name":"derelict-portmidi"}
+{"dependencies":{"derelict-util":"~>2.0.4"},"targetType":"library","version":"1.0.0-beta","name":"derelict-portmidi"}
