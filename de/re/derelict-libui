@@ -2,3 +2,4 @@
 {"dependencies":{"derelict-util":">=2.0.6"},"version":"0.0.2","name":"derelict-libui"}
 {"dependencies":{"derelict-util":">=2.0.6"},"version":"0.1.0","name":"derelict-libui"}
 {"dependencies":{"derelict-util":">=2.0.6"},"version":"0.2.0","name":"derelict-libui"}
+{"dependencies":{"derelict-util":">=2.0.6"},"targetType":"library","version":"0.3.0","configurations":[{"targetType":"library","name":"lib"},{"targetType":"executable","name":"test"}],"name":"derelict-libui"}
