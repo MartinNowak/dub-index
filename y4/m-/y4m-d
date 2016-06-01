@@ -3,3 +3,4 @@
 {"targetType":"library","version":"0.2.1","name":"y4m-d"}
 {"targetType":"library","version":"0.3.0","name":"y4m-d"}
 {"targetType":"library","version":"1.0.0","name":"y4m-d"}
+{"targetType":"library","version":"~master","commitID":"d9a8918430d45b526ef9b055464ebc27e0de686d","name":"y4m-d"}
