@@ -1,2 +1,3 @@
 {"dependencies":{"dlib":">=0.0.0"},"version":"0.0.2","name":"rip"}
 {"dependencies":{"dlib":">=0.0.0"},"version":"0.0.2-2","name":"rip"}
+{"dependencies":{"dlib":">=0.0.0"},"version":"~parallelism","commitID":"1751a548926bbe9439aae28118376ef60bd5ce5b","name":"rip"}
