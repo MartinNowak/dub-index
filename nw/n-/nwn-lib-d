@@ -1,1 +1,2 @@
 {"subPackages":[{"dependencies":{"dyaml":"~>0.5.3"},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"unittest"}],"name":"nwn-gff"}],"targetType":"library","version":"~yaml","commitID":"387fdb93bbebb21aaf436ef3975cc372cac3f9d2","name":"nwn-lib-d"}
+{"subPackages":[{"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"unittest"}],"name":"nwn-gff"}],"targetType":"library","version":"0.0.1","name":"nwn-lib-d"}
