@@ -1,1 +1,2 @@
 {"configurations":[{"targetType":"sourceLibrary","name":"library"},{"targetType":"executable","name":"lxc-test"}],"version":"~master","commitID":"079082b0e11dc5568987fa4ed0a5fc821da0dcd3","name":"lxc"}
+{"configurations":[{"targetType":"sourceLibrary","name":"library"},{"targetType":"executable","name":"lxc-test"}],"version":"1.0.0","name":"lxc"}
