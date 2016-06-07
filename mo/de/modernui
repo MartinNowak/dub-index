@@ -1,0 +1,1 @@
+{"subPackages":[{"targetType":"library","name":"directx-d"}],"dependencies":{"modernui:directx-d":">=0.0.0"},"version":"0.0.1","name":"modernui"}
