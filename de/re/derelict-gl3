@@ -17,3 +17,4 @@
 {"dependencies":{"derelict-util":">=1.0.3"},"version":"1.0.16","name":"derelict-gl3"}
 {"dependencies":{"derelict-util":">=1.0.3"},"version":"1.0.17","name":"derelict-gl3"}
 {"dependencies":{"derelict-util":">=1.0.3"},"version":"1.0.18","name":"derelict-gl3"}
+{"dependencies":{"derelict-util":">=1.0.3"},"version":"~mixins","commitID":"bbe54d23ab0975a55ae98c2544678228d70474c7","name":"derelict-gl3"}
