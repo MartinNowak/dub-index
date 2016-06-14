@@ -6,3 +6,4 @@
 {"version":"0.14.0","name":"bgfx-d"}
 {"version":"0.14.1","name":"bgfx-d"}
 {"version":"0.16.0","name":"bgfx-d"}
+{"version":"~master","commitID":"92ab073b8d657f0c9a5f680ed82e7e45eb829bd8","name":"bgfx-d"}
