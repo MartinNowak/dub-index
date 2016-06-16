@@ -1,3 +1,4 @@
 {"dependencies":{"vibe-d":"~>0.7.28","shaker":"~>0.0.7","dcad":"~>0.0.1","libasync":"~>0.7.9"},"targetType":"library","version":"0.0.1","name":"dscord"}
 {"dependencies":{"vibe-d":"~>0.7.29","shaker":"~>0.0.7","dcad":"~>0.0.1"},"targetType":"library","version":"0.0.2","name":"dscord"}
 {"dependencies":{"vibe-d":"~>0.7.29","shaker":"~>0.0.7","dcad":"~>0.0.1"},"targetType":"library","version":"0.0.3","name":"dscord"}
+{"dependencies":{"vibe-d":"~>0.7.29","fast":"~>0.3.1","shaker":"~>0.0.7","dcad":"~>0.0.1"},"targetType":"library","version":"0.0.4","name":"dscord"}
