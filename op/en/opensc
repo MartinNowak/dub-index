@@ -1,1 +1,2 @@
 {"configurations":[{"targetType":"sourceLibrary","name":"library"}],"version":"0.15.0","name":"opensc"}
+{"targetType":"library","version":"0.15.1","name":"opensc"}
