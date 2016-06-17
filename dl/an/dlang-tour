@@ -1,1 +1,2 @@
 {"dependencies":{"vibe-d":"~>0.7.28","dyaml":"~>0.5.2"},"configurations":[{"targetType":"executable","name":"executable"},{"targetType":"executable","name":"static"},{"targetType":"library","name":"library"}],"version":"1.0.0","name":"dlang-tour"}
+{"dependencies":{"vibe-d":"~>0.7.28","dyaml":"~>0.5.2"},"configurations":[{"targetType":"executable","name":"executable"},{"targetType":"executable","name":"static"},{"targetType":"library","name":"library"}],"version":"1.0.1","name":"dlang-tour"}
