@@ -1,2 +1,3 @@
 {"dependencies":{"twitter4d":"~>0.0.65"},"version":"1.0.0","name":"update_name"}
 {"dependencies":{"twitter4d":"~>0.0.65"},"version":"1.0.1","name":"update_name"}
+{"dependencies":{"twitter4d":"~>0.0.65"},"version":"~master","commitID":"6d58ef6ac8968546118595c3fc2d31731dc8a44e","name":"update_name"}
