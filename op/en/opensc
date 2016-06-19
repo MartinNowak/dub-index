@@ -2,3 +2,4 @@
 {"targetType":"library","version":"0.15.1","name":"opensc"}
 {"configurations":[{"targetType":"sourceLibrary","name":"library"}],"version":"0.15.2","name":"opensc"}
 {"dependencies":{"openssl":"~>1.1.4"},"configurations":[{"targetType":"sourceLibrary","name":"library"}],"version":"0.15.3","name":"opensc"}
+{"dependencies":{"openssl":"~>1.1.4"},"configurations":[{"targetType":"sourceLibrary","name":"library"}],"version":"0.15.4","name":"opensc"}
