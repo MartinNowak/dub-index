@@ -6,3 +6,4 @@
 {"configurations":[{"targetType":"library","name":"generic"},{"targetType":"library","name":"native-sse42"}],"version":"0.0.6","name":"asdf"}
 {"configurations":[{"targetType":"library","name":"generic"},{"targetType":"library","name":"native-sse42"}],"version":"0.0.7","name":"asdf"}
 {"configurations":[{"targetType":"library","name":"generic"},{"targetType":"library","name":"native-sse42"}],"version":"0.0.8","name":"asdf"}
+{"configurations":[{"targetType":"library","name":"generic"},{"targetType":"library","name":"native-sse42"}],"version":"0.0.9","name":"asdf"}
