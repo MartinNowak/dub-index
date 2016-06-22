@@ -1,1 +1,2 @@
 {"dependencies":{"derelict-util":"~>2.0.4","xcb-d":"~>1.11.1"},"version":"0.1.0","name":"xlib-d"}
+{"dependencies":{"derelict-util":"~>2.0.6","xcb-d":"~>2.1.0"},"version":"0.1.1","name":"xlib-d"}
