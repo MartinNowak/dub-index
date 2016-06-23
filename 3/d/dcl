@@ -1,1 +1,2 @@
 {"dependencies":{"derelict-cl":"~>2.0.0"},"configurations":[{"targetType":"sourceLibrary","name":"default"},{"dependencies":{"derelict-gl3":"~>1.0.18"},"targetType":"sourceLibrary","name":"clglinterop"}],"version":"~master","commitID":"2b0315facea83d6536c7589e8fb3c45143cc5d0d","name":"dcl"}
+{"dependencies":{"derelict-cl":"~>2.0.0"},"configurations":[{"targetType":"sourceLibrary","name":"default"},{"dependencies":{"derelict-gl3":"~>1.0.18"},"targetType":"sourceLibrary","name":"clglinterop"}],"version":"0.6.0","name":"dcl"}
