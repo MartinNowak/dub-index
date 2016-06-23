@@ -1,0 +1,1 @@
+{"subPackages":[{"dependencies":{"trashcan":">=0.0.0"},"targetType":"executable","name":"put"}],"dependencies":{"xdgpaths":"~>0.2.2"},"targetType":"library","version":"0.1.0","name":"trashcan"}
