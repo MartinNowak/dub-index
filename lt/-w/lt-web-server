@@ -1,0 +1,1 @@
+{"dependencies":{"vibe-d":">=0.7.30-alpha.3 <0.8.0-0","daemonize":"~>0.1.0"},"version":"1.0.0","name":"lt-web-server"}
