@@ -23,3 +23,4 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"unittest"}],"targetType":"library","version":"0.5.1","name":"jsonizer"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"unittest"}],"targetType":"library","version":"0.5.2","name":"jsonizer"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"unittest"}],"targetType":"library","version":"0.6.0","name":"jsonizer"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"unittest"}],"targetType":"library","version":"0.7.0","name":"jsonizer"}
