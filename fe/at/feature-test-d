@@ -4,3 +4,4 @@
 {"dependencies":{"colorize":"~>1.0.5"},"configurations":[{"targetType":"library","name":"feature-test-d"}],"version":"1.0.2","name":"feature-test-d"}
 {"dependencies":{"colorize":"~>1.0.5"},"configurations":[{"targetType":"library","name":"feature-test-d"}],"version":"1.0.3","name":"feature-test-d"}
 {"dependencies":{"colorize":"~>1.0.5"},"configurations":[{"targetType":"library","name":"feature-test-d"}],"version":"1.0.4","name":"feature-test-d"}
+{"dependencies":{"colorize":"~>1.0.5"},"configurations":[{"targetType":"library","name":"feature-test-d"}],"version":"~master","commitID":"d4878b1539a5006326c55df780f99da97c31366e","name":"feature-test-d"}
