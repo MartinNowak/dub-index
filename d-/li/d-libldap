@@ -1,2 +1,3 @@
 {"targetType":"library","version":"0.0.2","name":"d-libldap"}
 {"targetType":"library","version":"0.0.3","name":"d-libldap"}
+{"targetType":"library","version":"~master","commitID":"876b021f8cb355c6313da69da5b55cc3b682fa0c","name":"d-libldap"}
