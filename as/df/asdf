@@ -9,3 +9,4 @@
 {"configurations":[{"targetType":"library","name":"generic"},{"targetType":"library","name":"native-sse42"}],"version":"0.0.9","name":"asdf"}
 {"configurations":[{"targetType":"library","name":"generic"},{"targetType":"library","name":"native-sse42"}],"version":"0.0.10","name":"asdf"}
 {"configurations":[{"targetType":"library","name":"generic"},{"targetType":"library","name":"native-sse42"}],"version":"0.0.11","name":"asdf"}
+{"configurations":[{"targetType":"library","name":"generic"},{"targetType":"library","name":"native-sse42"}],"version":"~ranges","commitID":"5169a2ac298332a0d3d979a4b1d32ac868933cc3","name":"asdf"}
