@@ -3,3 +3,4 @@
 {"version":"1.2.0-png-with-icon","name":"ithoxd-qrcode"}
 {"version":"1.2.1","name":"ithoxd-qrcode"}
 {"version":"1.2.2","name":"ithoxd-qrcode"}
+{"version":"~master","commitID":"2424b6edf947a0d7fd6dcf04bd39363aba2b2930","name":"ithoxd-qrcode"}
