@@ -4,3 +4,4 @@
 {"targetType":"executable","version":"0.1.0","name":"dco"}
 {"targetType":"executable","version":"0.1.1","name":"dco"}
 {"targetType":"executable","version":"0.1.2","name":"dco"}
+{"targetType":"executable","version":"~master","commitID":"fbe2efd14141e763f9c406d76060727251d638ee","name":"dco"}
