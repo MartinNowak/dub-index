@@ -2,3 +2,4 @@
 {"targetType":"staticLibrary","version":"3.18.1","name":"iupd"}
 {"targetType":"staticLibrary","version":"3.18.2","name":"iupd"}
 {"targetType":"staticLibrary","version":"~master","commitID":"f96ccad438255d7eae691c8a583a22c35177f205","name":"iupd"}
+{"targetType":"staticLibrary","version":"3.18.3","name":"iupd"}
