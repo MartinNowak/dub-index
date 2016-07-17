@@ -2,3 +2,4 @@
 {"dependencies":{"vibe-d":"~>0.7.19"},"version":"1.1.0","name":"mongoschemad"}
 {"dependencies":{"vibe-d":"~>0.7.19"},"version":"1.2.0","name":"mongoschemad"}
 {"dependencies":{"vibe-d":"~>0.7.19"},"version":"1.2.1","name":"mongoschemad"}
+{"dependencies":{"vibe-d":"~>0.7.19"},"version":"2.0.0","name":"mongoschemad"}
