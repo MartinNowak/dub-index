@@ -2,3 +2,4 @@
 {"targetType":"library","version":"0.2.0","name":"dformlib"}
 {"targetType":"library","version":"0.2.1","name":"dformlib"}
 {"targetType":"library","version":"0.2.2","name":"dformlib"}
+{"targetType":"library","version":"~master","commitID":"9bf8270032b1a3b610526c6df254f5151a587b7d","name":"dformlib"}
