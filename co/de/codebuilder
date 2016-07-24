@@ -2,3 +2,4 @@
 {"version":"0.5.1","name":"codebuilder"}
 {"configurations":[{"targetType":"library","name":"Standard"},{"targetType":"library","name":"Testing"}],"version":"0.5.2","name":"codebuilder"}
 {"configurations":[{"targetType":"library","name":"Mixin"},{"targetType":"library","name":"FileWriter"}],"version":"0.5.3","name":"codebuilder"}
+{"configurations":[{"targetType":"library","name":"Mixin"},{"targetType":"library","name":"FileWriter"}],"version":"0.5.4","name":"codebuilder"}
