@@ -4,3 +4,4 @@
 {"configurations":[{"targetType":"library","name":"Mixin"},{"targetType":"library","name":"FileWriter"}],"version":"0.5.3","name":"codebuilder"}
 {"configurations":[{"targetType":"library","name":"Mixin"},{"targetType":"library","name":"FileWriter"}],"version":"0.5.4","name":"codebuilder"}
 {"configurations":[{"targetType":"library","name":"Mixin"},{"targetType":"library","name":"FileWriter"}],"version":"0.6.0","name":"codebuilder"}
+{"configurations":[{"targetType":"library","name":"Mixin"},{"targetType":"library","name":"FileWriter"}],"version":"0.6.1","name":"codebuilder"}
