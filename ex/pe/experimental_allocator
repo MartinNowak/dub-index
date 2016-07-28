@@ -1,1 +1,2 @@
 {"targetType":"library","version":"2.70.0-b1","name":"experimental_allocator"}
+{"targetType":"library","version":"~master","commitID":"3f35361f5ea46f0a3a5cf38523c47838c008dce0","name":"experimental_allocator"}
