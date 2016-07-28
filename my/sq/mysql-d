@@ -3,3 +3,4 @@
 {"dependencies":{"dunit":"~master"},"targetType":"library","version":"0.3.0","name":"mysql-d"}
 {"configurations":[{"targetType":"library","name":"mysql-d"},{"dependencies":{"dunit":"1.0.10"},"targetType":"library","name":"test"}],"targetType":"library","version":"0.3.1","name":"mysql-d"}
 {"configurations":[{"targetType":"library","name":"mysql-d"},{"dependencies":{"dunit":"1.0.10"},"targetType":"library","name":"test"}],"targetType":"library","version":"0.3.2","name":"mysql-d"}
+{"configurations":[{"targetType":"library","name":"mysql-d"},{"dependencies":{"dunit":"1.0.12"},"targetType":"library","name":"test"}],"targetType":"library","version":"0.3.3","name":"mysql-d"}
