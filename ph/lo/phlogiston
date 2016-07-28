@@ -7,3 +7,4 @@
 {"version":"2.0.0","name":"phlogiston"}
 {"configurations":[{"targetType":"library","name":"static_library"},{"targetType":"executable","name":"app"}],"targetType":"library","version":"2.0.1","name":"phlogiston"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"app"}],"targetType":"library","version":"2.0.2","name":"phlogiston"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"app"}],"targetType":"library","version":"~master","commitID":"164280421919bda52feeed6e7d8dcb88bdb4b3fd","name":"phlogiston"}
