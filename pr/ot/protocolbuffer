@@ -1,1 +1,2 @@
 {"configurations":[{"targetType":"library","name":"dprotobuf"},{"targetType":"executable","name":"pbcompiler"}],"targetType":"library","version":"0.0.0","name":"protocolbuffer"}
+{"dependencies":{"protocolbuffer:wireformat":">=0.0.0","codebuilder":"~>0.6.1"},"targetType":"library","version":"~master","configurations":[{"targetType":"library","name":"dprotobuf"},{"targetType":"library","name":"unittest"},{"targetType":"executable","name":"pbcompiler"}],"commitID":"1e1fa7ef01b87879e13080c4b48ca857b2e42318","name":"protocolbuffer"}
