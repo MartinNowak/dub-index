@@ -26,3 +26,4 @@
 {"configurations":[{"targetType":"sourceLibrary","name":"d_source_library"},{"targetType":"staticLibrary","name":"static-lib"},{"targetType":"dynamicLibrary","name":"dynamic-lib"}],"version":"0.16.0-alpha2","name":"mir"}
 {"configurations":[{"targetType":"sourceLibrary","name":"d_source_library"},{"targetType":"staticLibrary","name":"static-lib"},{"targetType":"dynamicLibrary","name":"dynamic-lib"}],"version":"0.16.0-alpha3","name":"mir"}
 {"configurations":[{"targetType":"sourceLibrary","name":"d_source_library"},{"targetType":"staticLibrary","name":"static-lib"},{"targetType":"dynamicLibrary","name":"dynamic-lib"}],"version":"0.16.0-alpha4","name":"mir"}
+{"configurations":[{"targetType":"sourceLibrary","name":"d_source_library"},{"targetType":"staticLibrary","name":"static-lib"},{"targetType":"dynamicLibrary","name":"dynamic-lib"}],"version":"0.16.0-alpha5","name":"mir"}
