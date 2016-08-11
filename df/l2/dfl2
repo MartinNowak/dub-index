@@ -6,3 +6,4 @@
 {"targetType":"library","version":"1.0.5","name":"dfl2"}
 {"targetType":"library","version":"1.0.6","name":"dfl2"}
 {"targetType":"library","version":"1.0.7","name":"dfl2"}
+{"targetType":"library","version":"~master","commitID":"fd652fb32da5307b3b3dedf2ce0d7ae3761dd8a1","name":"dfl2"}
