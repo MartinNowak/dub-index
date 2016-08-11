@@ -3,3 +3,4 @@
 {"subPackages":[{"dependencies":{"colourfulmoon":{"version":">=0.0.0","path":"../"}},"name":"example"}],"targetType":"library","version":"1.0.0","name":"colourfulmoon"}
 {"subPackages":[{"dependencies":{"colourfulmoon":{"version":">=0.0.0","path":"../"}},"name":"example"}],"targetType":"library","version":"1.0.1","name":"colourfulmoon"}
 {"subPackages":[{"dependencies":{"colourfulmoon":{"version":">=0.0.0","path":"../"}},"name":"example"}],"targetType":"library","version":"~master","commitID":"fee890512774196e299afb950e2ef7469401a67d","name":"colourfulmoon"}
+{"subPackages":[{"dependencies":{"colourfulmoon":{"version":">=0.0.0","path":"../"}},"name":"example"}],"targetType":"library","version":"1.0.2","name":"colourfulmoon"}
