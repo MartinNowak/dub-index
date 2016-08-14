@@ -4,3 +4,4 @@
 {"dependencies":{"opus":{"version":">=0.0.0","path":"../opus-d"}},"targetType":"executable","version":"0.0.4","name":"dcad"}
 {"dependencies":{"opus":"~>0.0.1"},"targetType":"executable","version":"0.0.5","name":"dcad"}
 {"dependencies":{"opus":"~>0.0.1"},"version":"0.0.6","name":"dcad"}
+{"dependencies":{"opus":"~>0.0.1"},"version":"0.0.7","name":"dcad"}
