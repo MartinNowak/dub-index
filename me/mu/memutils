@@ -14,3 +14,4 @@
 {"configurations":[{"targetType":"library","name":"secure"},{"targetType":"library","name":"32mscoff"}],"version":"0.4.4","name":"memutils"}
 {"configurations":[{"targetType":"library","name":"secure"},{"targetType":"library","name":"32mscoff"}],"version":"0.4.5","name":"memutils"}
 {"configurations":[{"targetType":"library","name":"secure"},{"targetType":"library","name":"32mscoff"},{"targetType":"library","name":"unittest"}],"version":"0.4.6","name":"memutils"}
+{"configurations":[{"targetType":"library","name":"secure"},{"targetType":"library","name":"32mscoff"},{"targetType":"library","name":"unittest"}],"version":"0.4.7","name":"memutils"}
