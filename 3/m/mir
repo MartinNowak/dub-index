@@ -32,3 +32,4 @@
 {"dependencies":{"cpuid":"~>0.2.6"},"configurations":[{"targetType":"sourceLibrary","name":"source"},{"targetType":"staticLibrary","name":"static"},{"targetType":"dynamicLibrary","name":"dynamic"}],"version":"0.16.0-alpha8","name":"mir"}
 {"dependencies":{"cpuid":"~>0.2.6"},"configurations":[{"targetType":"sourceLibrary","name":"source"},{"targetType":"staticLibrary","name":"static"},{"targetType":"dynamicLibrary","name":"dynamic"}],"version":"0.16.0-alpha9","name":"mir"}
 {"dependencies":{"cpuid":"~>0.2.6"},"configurations":[{"targetType":"sourceLibrary","name":"source"},{"targetType":"staticLibrary","name":"static"},{"targetType":"dynamicLibrary","name":"dynamic"}],"version":"0.16.0-alpha10","name":"mir"}
+{"dependencies":{"cpuid":"~>0.2.6"},"configurations":[{"targetType":"sourceLibrary","name":"source"},{"targetType":"staticLibrary","name":"static"},{"targetType":"dynamicLibrary","name":"dynamic"}],"version":"0.16.0-beta0","name":"mir"}
