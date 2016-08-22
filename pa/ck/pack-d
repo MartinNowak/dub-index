@@ -3,3 +3,4 @@
 {"targetType":"library","version":"0.3.0","name":"pack-d"}
 {"targetType":"library","version":"1.0.0","name":"pack-d"}
 {"targetType":"library","version":"1.0.1","name":"pack-d"}
+{"targetType":"library","version":"~master","commitID":"08a812799eceaa873695c74d1be55032ad3462c1","name":"pack-d"}
