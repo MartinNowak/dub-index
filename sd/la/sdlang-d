@@ -7,3 +7,4 @@
 {"dependencies":{"libinputvisitor":"~>1.2.0"},"version":"0.9.3","name":"sdlang-d"}
 {"dependencies":{"libinputvisitor":"~>1.2.0"},"version":"0.9.4","name":"sdlang-d"}
 {"dependencies":{"libinputvisitor":"~>1.2.0"},"version":"0.9.5","name":"sdlang-d"}
+{"dependencies":{"libinputvisitor":"~>1.2.0"},"version":"0.9.6","name":"sdlang-d"}
