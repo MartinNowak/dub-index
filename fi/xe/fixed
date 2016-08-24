@@ -3,3 +3,4 @@
 {"targetType":"sourceLibrary","version":"1.0.3","name":"fixed"}
 {"targetType":"sourceLibrary","version":"1.0.4","name":"fixed"}
 {"targetType":"sourceLibrary","version":"1.0.5","name":"fixed"}
+{"targetType":"sourceLibrary","version":"~master","commitID":"69c1b7518d81b156f889ae5923dad36c8e508ce0","name":"fixed"}
