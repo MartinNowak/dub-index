@@ -1,3 +1,4 @@
 {"configurations":[{"targetType":"library","name":"lib"},{"targetType":"executable","name":"example1"}],"targetType":"library","version":"0.0.1","name":"libuid"}
 {"configurations":[{"targetType":"library","name":"lib"},{"targetType":"executable","name":"example1"}],"targetType":"library","version":"0.0.2","name":"libuid"}
 {"configurations":[{"targetType":"library","name":"lib"},{"targetType":"executable","name":"example1"}],"targetType":"library","version":"0.0.3","name":"libuid"}
+{"configurations":[{"targetType":"library","name":"lib"},{"targetType":"executable","name":"example1"}],"targetType":"library","version":"0.0.4","name":"libuid"}
