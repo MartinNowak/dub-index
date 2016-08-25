@@ -1,0 +1,1 @@
+{"configurations":[{"dependencies":{"derelict_extras-sndfile":"~>2.0.1","derelict-al":"~>1.0.1"},"targetType":"staticLibrary","name":"openal-backend"}],"version":"1.0.0","name":"blocksound"}
