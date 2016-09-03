@@ -3,3 +3,4 @@
 {"version":"0.2.1","name":"logd-html"}
 {"version":"0.3.0","name":"logd-html"}
 {"version":"0.3.1","name":"logd-html"}
+{"version":"~master","commitID":"a465cdccfea959a32c925f0eb2c8113184682ce9","name":"logd-html"}
