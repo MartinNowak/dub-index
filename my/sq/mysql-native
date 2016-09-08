@@ -19,3 +19,4 @@
 {"dependencies":{"vibe-d":{"version":">=0.7.17","optional":true}},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"0.1.3","name":"mysql-native"}
 {"dependencies":{"vibe-d":{"version":">=0.7.17","optional":true}},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"0.1.4","name":"mysql-native"}
 {"dependencies":{"vibe-d:core":{"version":"~>0.7.28","optional":true}},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"~s-ludwig-patch-1","commitID":"b8361148f821b4307af987b0b98f824ee45ba21f","name":"mysql-native"}
+{"dependencies":{"vibe-d:core":{"version":"~>0.7.28","optional":true}},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"0.1.5","name":"mysql-native"}
