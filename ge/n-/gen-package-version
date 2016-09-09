@@ -8,3 +8,4 @@
 {"dependencies":{"scriptlike":"~>0.9.1"},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"1.0.2","name":"gen-package-version"}
 {"dependencies":{"scriptlike":"~>0.9.1"},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"1.0.3","name":"gen-package-version"}
 {"dependencies":{"scriptlike":"~>0.9.1"},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"1.0.4","name":"gen-package-version"}
+{"dependencies":{"scriptlike":"~>0.9.1"},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"1.0.5","name":"gen-package-version"}
