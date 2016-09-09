@@ -9,3 +9,4 @@
 {"dependencies":{"scriptlike":"~>0.9.1"},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"1.0.3","name":"gen-package-version"}
 {"dependencies":{"scriptlike":"~>0.9.1"},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"1.0.4","name":"gen-package-version"}
 {"dependencies":{"scriptlike":"~>0.9.1"},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"1.0.5","name":"gen-package-version"}
+{"dependencies":{"scriptlike":"~>0.9.1"},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"~master","commitID":"515138077fb78af5c4154f13990cee23e54ed9e7","name":"gen-package-version"}
