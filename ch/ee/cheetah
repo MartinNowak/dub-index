@@ -1,2 +1,3 @@
 {"dependencies":{"vibe-d":"~>0.7.28"},"targetType":"sourceLibrary","version":"~v0.2.3","commitID":"baa22aefc826ac46dd985009c75adc954c982d90","name":"cheetah"}
 {"dependencies":{"vibe-d":"~>0.7.28"},"targetType":"sourceLibrary","version":"0.2.3","name":"cheetah"}
+{"dependencies":{"vibe-d":"~>0.7.28"},"targetType":"sourceLibrary","version":"0.2.4","name":"cheetah"}
