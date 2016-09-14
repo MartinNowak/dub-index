@@ -3,3 +3,4 @@
 {"targetType":"sourceLibrary","version":"0.0.3","name":"termbox"}
 {"targetType":"sourceLibrary","version":"0.0.4","name":"termbox"}
 {"targetType":"sourceLibrary","version":"0.0.5","name":"termbox"}
+{"targetType":"sourceLibrary","version":"~master","commitID":"f5158b34f9a6ba51fe86f1b0377326a24b1a00f1","name":"termbox"}
