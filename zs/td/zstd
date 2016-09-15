@@ -1,2 +1,3 @@
 {"targetType":"sourceLibrary","version":"0.1.0","name":"zstd"}
 {"targetType":"sourceLibrary","version":"0.2.0","name":"zstd"}
+{"targetType":"sourceLibrary","version":"~master","commitID":"cdeb4b0fe733bf391540f1bc2ed17465bcc64bea","name":"zstd"}
