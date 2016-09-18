@@ -1,3 +1,4 @@
 {"targetType":"sourceLibrary","version":"~dub","commitID":"f294276190bd4ec43ebec7d5eb9b8d227de84f0d","name":"traildb"}
 {"targetType":"sourceLibrary","version":"0.0.1","name":"traildb"}
 {"targetType":"sourceLibrary","version":"0.0.2","name":"traildb"}
+{"targetType":"sourceLibrary","version":"~master","commitID":"f5a6fed326d51ad0ac4c8f5f2e97f6930a613d3d","name":"traildb"}
