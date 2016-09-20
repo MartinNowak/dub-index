@@ -1,0 +1,1 @@
+{"dependencies":{"derelict-cl":"~>2.0.0","derelict-cuda":"~>2.0.1"},"version":"0.0.0-alpha0","name":"dcompute"}
