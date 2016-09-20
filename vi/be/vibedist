@@ -1,2 +1,3 @@
 {"version":"0.0.1","name":"vibedist"}
 {"dependencies":{"vibe-d":"~master"},"version":"0.0.2","name":"vibedist"}
+{"dependencies":{"vibe-d":"~>0.7.29"},"version":"~master","commitID":"7212fc1d174392dc199c32aa39cfa615b0326ecf","name":"vibedist"}
