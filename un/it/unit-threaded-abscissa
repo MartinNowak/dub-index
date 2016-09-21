@@ -1,1 +1,2 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"},{"targetType":"executable","name":"gen_ut_main"}],"targetType":"library","version":"0.0.1","name":"unit-threaded-abscissa"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"},{"targetType":"executable","name":"gen_ut_main"}],"targetType":"library","version":"~master","commitID":"988a59355790e7c2a74c65d074261a3553f61177","name":"unit-threaded-abscissa"}
