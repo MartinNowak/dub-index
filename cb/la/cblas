@@ -5,3 +5,4 @@
 {"targetType":"library","version":"0.0.3","name":"cblas"}
 {"targetType":"library","version":"0.1.0","name":"cblas"}
 {"targetType":"library","version":"~John-Colvin-patch-1","commitID":"7048aa63657411e08f7cd662f1b4e4072b85d950","name":"cblas"}
+{"targetType":"library","version":"~link","commitID":"287220ca3d4325140dd60ab653988389fbd4aae5","name":"cblas"}
