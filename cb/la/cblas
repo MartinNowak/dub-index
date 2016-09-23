@@ -8,3 +8,4 @@
 {"targetType":"library","version":"~link","commitID":"287220ca3d4325140dd60ab653988389fbd4aae5","name":"cblas"}
 {"targetType":"library","version":"~link-1","commitID":"4ee3f68d2446dbbce529aeff173f8fef2e716dd1","name":"cblas"}
 {"targetType":"library","version":"~remove-unittest","commitID":"4bd9c277ce0175c74f3b5985a4116ca670510fe1","name":"cblas"}
+{"targetType":"library","version":"0.2.0","name":"cblas"}
