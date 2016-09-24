@@ -66,3 +66,4 @@
 {"dependencies":{"derelict-util":"~>2.0.0"},"version":"1.9.7","name":"derelict-sdl2"}
 {"dependencies":{"derelict-util":"~>2.0.4"},"version":"2.0.0","name":"derelict-sdl2"}
 {"dependencies":{"derelict-util":"~>2.0.4"},"version":"2.0.1","name":"derelict-sdl2"}
+{"dependencies":{"derelict-util":"~>2.0.4"},"version":"~2.0.4","commitID":"b4242fb6ca7ab9b4a6d12b5d2341ba8cbde88f5f","name":"derelict-sdl2"}
