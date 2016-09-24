@@ -11,3 +11,4 @@
 {"dependencies":{"vibe-d":">=0.7.24","tested":"~master"},"targetType":"library","version":"0.4.6","name":"vibe-dav"}
 {"dependencies":{"vibe-d":"~>0.7.28","tested":"~>0.9.4"},"targetType":"library","version":"0.4.7","name":"vibe-dav"}
 {"dependencies":{"vibe-d":">=0.7.30-beta.1 <0.8.0-0"},"targetType":"library","version":"0.4.8","name":"vibe-dav"}
+{"dependencies":{"vibe-d":">=0.7.30-beta.1 <0.8.0-0"},"targetType":"library","version":"~master","commitID":"6c6652b2c8176c55d3743f9e43294e65ccfac5fa","name":"vibe-dav"}
