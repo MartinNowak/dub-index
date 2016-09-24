@@ -1,2 +1,3 @@
 {"dependencies":{"derelict-util":">=1.0.2"},"version":"1.0.0","name":"derelict-al"}
 {"dependencies":{"derelict-util":"~>2.0.3"},"version":"1.0.1","name":"derelict-al"}
+{"dependencies":{"derelict-util":"~>2.0.3"},"version":"1.0.2","name":"derelict-al"}
