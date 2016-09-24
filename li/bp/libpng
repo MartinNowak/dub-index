@@ -1,2 +1,3 @@
 {"targetType":"sourceLibrary","version":"1.5.14","name":"libpng"}
 {"targetType":"sourceLibrary","version":"1.6.16","name":"libpng"}
+{"targetType":"sourceLibrary","version":"~master","commitID":"e27e90baf9b101fb94d90fe9b272282af12980de","name":"libpng"}
