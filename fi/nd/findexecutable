@@ -1,2 +1,3 @@
 {"subPackages":[{"dependencies":{"findexecutable":">=0.0.0"},"targetType":"executable","name":"findexecutable"}],"targetType":"library","version":"0.1.0","name":"findexecutable"}
 {"subPackages":[{"dependencies":{"findexecutable":">=0.0.0"},"targetType":"executable","name":"findexecutable"}],"targetType":"library","version":"0.1.1","name":"findexecutable"}
+{"subPackages":[{"dependencies":{"findexecutable":">=0.0.0"},"targetType":"executable","name":"findexecutable"}],"targetType":"library","version":"~master","commitID":"36f1a31f9ba4a06f8e3bb454cd07aa2480b4d68e","name":"findexecutable"}
