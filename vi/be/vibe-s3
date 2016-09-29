@@ -2,3 +2,4 @@
 {"dependencies":{"vibe-d":"~>0.7.28","kxml":"~>1.0.1","memutils":"~>0.4.3"},"targetType":"library","version":"~upload","commitID":"109a39c0c9ab12b2117c5055c8fefd0cfb340ddd","name":"vibe-s3"}
 {"dependencies":{"vibe-d":"~>0.7.28","kxml":"~>1.0.1","memutils":"~>0.4.3"},"targetType":"library","version":"~download","commitID":"cd4ac80371adf5b4c71fc5e7646c0242d2c36677","name":"vibe-s3"}
 {"dependencies":{"vibe-d":"~>0.7.28","kxml":"~>1.0.1","memutils":"~>0.4.3"},"targetType":"library","version":"0.0.2","name":"vibe-s3"}
+{"dependencies":{"vibe-d":"~>0.7.28","kxml":"~>1.0.1","memutils":"~>0.4.3"},"targetType":"library","version":"0.0.3","name":"vibe-s3"}
