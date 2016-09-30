@@ -1,0 +1,1 @@
+{"subPackages":[{"dependencies":{"ae":"0.0.1808"},"targetType":"executable","name":"web"}],"dependencies":{"ae":"0.0.1808"},"targetType":"executable","version":"3.0.0-alpha-1","name":"digger"}
