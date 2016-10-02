@@ -1,3 +1,4 @@
 {"targetType":"library","version":"1.0.0","name":"dini"}
 {"targetType":"library","version":"1.0.1","name":"dini"}
 {"version":"2.0.0-rc","name":"dini"}
+{"version":"~master","commitID":"cd7b10258cfab958c4cb67c00a0486067b5fe9b0","name":"dini"}
