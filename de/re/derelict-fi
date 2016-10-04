@@ -7,3 +7,4 @@
 {"dependencies":{"derelict-util":">=2.0.0"},"version":"2.0.1","name":"derelict-fi"}
 {"dependencies":{"derelict-util":">=2.0.0"},"version":"2.0.2","name":"derelict-fi"}
 {"dependencies":{"derelict-util":"~>3.0.0"},"version":"~2.1","commitID":"33ab311a412c0ef3df7f3ba3a4522146a629fed6","name":"derelict-fi"}
+{"dependencies":{"derelict-util":"~>2.0.6"},"version":"~2.0","commitID":"6f77ffc30b48b203945d6c058f175b3977bb169f","name":"derelict-fi"}
