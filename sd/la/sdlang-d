@@ -9,3 +9,4 @@
 {"dependencies":{"libinputvisitor":"~>1.2.0"},"version":"0.9.5","name":"sdlang-d"}
 {"dependencies":{"libinputvisitor":"~>1.2.0"},"version":"0.9.6","name":"sdlang-d"}
 {"dependencies":{"libinputvisitor":"~>1.2.2","taggedalgebraic":"~>0.10.2"},"version":"0.10.0","name":"sdlang-d"}
+{"dependencies":{"libinputvisitor":"~>1.2.2","taggedalgebraic":"~>0.10.2"},"version":"0.10.1","name":"sdlang-d"}
