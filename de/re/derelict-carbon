@@ -14,3 +14,4 @@
 {"dependencies":{"derelict-util":"~>2"},"version":"0.0.15","name":"derelict-carbon"}
 {"dependencies":{"derelict-util":"~>2"},"version":"1.0.0","name":"derelict-carbon"}
 {"dependencies":{"derelict-util":"~>2"},"version":"1.1.0","name":"derelict-carbon"}
+{"dependencies":{"dplug:derelict-nogc":"~>4"},"version":"2.0.0","name":"derelict-carbon"}
