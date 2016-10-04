@@ -11,3 +11,4 @@
 {"dependencies":{"derelict-util":"~>2.0.4"},"version":"1.0.1","name":"derelict-allegro5"}
 {"dependencies":{"derelict-util":"~>2.0.6"},"version":"1.0.2","name":"derelict-allegro5"}
 {"dependencies":{"derelict-util":"~>2.0.6"},"version":"~master","commitID":"4ff9596080ef20676d8d16391a6ae682671ae8e4","name":"derelict-allegro5"}
+{"dependencies":{"derelict-util":"~>2.0.6"},"version":"~5.2","commitID":"4ff9596080ef20676d8d16391a6ae682671ae8e4","name":"derelict-allegro5"}
