@@ -9,3 +9,4 @@
 {"dependencies":{"derelict-util":"~>2.0.4"},"version":"~5.0","commitID":"274dceb3536b5329fb1274a7bc29565e7e2f7523","name":"derelict-allegro5"}
 {"dependencies":{"derelict-util":"~>2.0.4"},"version":"1.0.0","name":"derelict-allegro5"}
 {"dependencies":{"derelict-util":"~>2.0.4"},"version":"1.0.1","name":"derelict-allegro5"}
+{"dependencies":{"derelict-util":"~>2.0.6"},"version":"1.0.2","name":"derelict-allegro5"}
