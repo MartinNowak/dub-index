@@ -1,3 +1,4 @@
 {"version":"0.1.1","name":"eventcore"}
 {"version":"0.1.2","name":"eventcore"}
 {"version":"0.2.0","name":"eventcore"}
+{"configurations":[{"targetType":"library","name":"native"},{"dependencies":{"libasync":"~>0.7.9"},"targetType":"library","name":"libasync"}],"targetType":"library","version":"0.3.0","name":"eventcore"}
