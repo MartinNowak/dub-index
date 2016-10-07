@@ -1,3 +1,4 @@
 {"dependencies":{"derelict-util":">=1.0.3"},"version":"0.1.0","name":"derelict-wintab"}
 {"dependencies":{"derelict-util":">=1.0.3"},"version":"0.1.1","name":"derelict-wintab"}
 {"dependencies":{"derelict-util":">=1.0.3"},"version":"0.1.2","name":"derelict-wintab"}
+{"dependencies":{"derelict-util":">=1.0.3"},"version":"~master","commitID":"b411c80a57bbac5066afbcca3ee8b8cc037a9865","name":"derelict-wintab"}
