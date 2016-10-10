@@ -19,3 +19,4 @@
 {"dependencies":{"taggedalgebraic":"~>0.9.3"},"version":"0.17.0","name":"std_data_json"}
 {"dependencies":{"taggedalgebraic":"~>0.10.1"},"version":"0.18.0","name":"std_data_json"}
 {"dependencies":{"taggedalgebraic":"~>0.10.1"},"version":"0.18.1","name":"std_data_json"}
+{"dependencies":{"taggedalgebraic":"~>0.10.1"},"version":"0.18.2","name":"std_data_json"}
