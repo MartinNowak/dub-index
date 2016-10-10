@@ -14,3 +14,4 @@
 {"dependencies":{"emsi_containers":"0.4.3"},"configurations":[{"targetType":"executable","name":"unittest"},{"targetType":"library","name":"library"}],"version":"2.1.0","name":"dateparser"}
 {"dependencies":{"emsi_containers":"0.4.3"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"},{"targetType":"executable","name":"benchmark"}],"version":"2.1.1","name":"dateparser"}
 {"dependencies":{"emsi_containers":"~>0.5.0"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"},{"targetType":"executable","name":"benchmark"}],"version":"~2068","commitID":"665c40929c5dd35ae95a18809ab1bfe3c91ff8dd","name":"dateparser"}
+{"dependencies":{"emsi_containers":"~>0.5.2"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"},{"targetType":"executable","name":"benchmark"}],"version":"3.0.0","name":"dateparser"}
