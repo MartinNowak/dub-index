@@ -1,1 +1,2 @@
 {"dependencies":{"dcd":"~>0.8.0","dlangui":"0.9.7"},"targetType":"executable","version":"0.7.8","configurations":[{"targetType":"executable","name":"default"},{"targetType":"executable","name":"minimal"},{"targetType":"executable","name":"console"}],"name":"dlangide"}
+{"dependencies":{"dcd":"~>0.8.0","dlangui":"0.9.7"},"targetType":"executable","version":"0.7.9","configurations":[{"targetType":"executable","name":"default"},{"targetType":"executable","name":"minimal"},{"targetType":"executable","name":"console"}],"name":"dlangide"}
