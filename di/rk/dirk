@@ -4,3 +4,4 @@
 {"targetType":"library","version":"~eventloop_file_events","commitID":"ee0aa79f86c5c2dfb856ab0c3c3d99415e4ce184","name":"dirk"}
 {"targetType":"library","version":"0.2.0","name":"dirk"}
 {"targetType":"library","version":"~independent_event_loop","commitID":"e6dcaa94ea9f8e4609101cb909d47a13813d5f73","name":"dirk"}
+{"targetType":"library","version":"~master","commitID":"e09e8b4456ab186cf0d425e233f2d37e2669a59c","name":"dirk"}
