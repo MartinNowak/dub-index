@@ -5,3 +5,4 @@
 {"dependencies":{"vibe-d":">=0.7.21-rc.2 <0.8.0-0","userman":"~>0.2.0","dub":"~>0.9.22"},"version":"1.4.0","name":"dub-registry"}
 {"dependencies":{"vibe-d":">=0.7.21-rc.2 <0.8.0-0","userman":"~>0.2.0","dub":"~>0.9.22"},"version":"1.5.0","name":"dub-registry"}
 {"dependencies":{"vibe-d":">=0.7.26-alpha.1 <0.8.0-0","userman":"~>0.3.0","dub":"~>0.9.22"},"version":"1.6.0","name":"dub-registry"}
+{"dependencies":{"vibe-d":">=0.7.30-alpha.2 <0.8.0-0","userman":"~>0.3.2","dub":"~>1"},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"2.0.0","name":"dub-registry"}
