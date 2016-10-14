@@ -1,0 +1,1 @@
+{"subPackages":[{"targetType":"executable","name":"multi-wrapper"}],"dependencies":{"painlessjson":"~>1.3.7","scriptlike":"~>0.9.6","consoled":"~>1.0.4"},"targetType":"executable","version":"0.0.1","name":"gcc-build-script"}
