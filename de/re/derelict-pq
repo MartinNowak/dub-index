@@ -8,3 +8,4 @@
 {"dependencies":{"derelict-util":"~>2.0.6"},"version":"~9.3a","commitID":"492d383e66e3f08610f09d7a4a5a6b01ac381bf4","name":"derelict-pq"}
 {"dependencies":{"derelict-util":"~>2.0.6"},"version":"2.1.0","name":"derelict-pq"}
 {"dependencies":{"derelict-util":"~>2.0.6"},"version":"~9.5","commitID":"0d2d65cfeba0abd503287ee9505284b0c4a55e41","name":"derelict-pq"}
+{"dependencies":{"derelict-util":"~>2.0.6"},"version":"~9.6","commitID":"e7a93158003cb9fcfa438950bd532c1e0a5cdb05","name":"derelict-pq"}
