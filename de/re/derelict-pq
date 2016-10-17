@@ -5,3 +5,4 @@
 {"dependencies":{"derelict-util":">=1.0.0"},"version":"2.0.1","name":"derelict-pq"}
 {"dependencies":{"derelict-util":">=1.0.0"},"version":"2.0.2","name":"derelict-pq"}
 {"dependencies":{"derelict-util":"~>2.0.6"},"version":"2.0.3","name":"derelict-pq"}
+{"dependencies":{"derelict-util":"~>2.0.6"},"version":"~9.3a","commitID":"492d383e66e3f08610f09d7a4a5a6b01ac381bf4","name":"derelict-pq"}
