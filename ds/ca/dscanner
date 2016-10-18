@@ -9,3 +9,4 @@
 {"dependencies":{"inifiled":">=0.0.6","dsymbol":"0.2.0-alpha.9","libdparse":"0.7.0-alpha.14","emsi_containers":"0.5.0"},"targetType":"executable","version":"0.4.0-alpha.7","name":"dscanner"}
 {"dependencies":{"inifiled":">=0.0.6","dsymbol":"0.2.0-alpha.10","libdparse":"0.7.0-alpha.15","emsi_containers":"0.5.0"},"targetType":"executable","version":"0.4.0-alpha.8","name":"dscanner"}
 {"dependencies":{"inifiled":">=0.0.6","dsymbol":"0.2.0-beta.1","libdparse":"0.7.0-beta.1","emsi_containers":"0.5.2"},"targetType":"executable","version":"0.4.0-beta.1","name":"dscanner"}
+{"dependencies":{"inifiled":">=0.0.6","dsymbol":"0.2.0-beta.1","libdparse":"0.7.0-beta.2","emsi_containers":"0.5.2"},"targetType":"executable","version":"0.4.0-beta.2","name":"dscanner"}
