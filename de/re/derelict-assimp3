@@ -1,3 +1,4 @@
 {"dependencies":{"derelict-util":">=1.0.0"},"version":"1.0.0","name":"derelict-assimp3"}
 {"dependencies":{"derelict-util":">=1.0.0"},"version":"1.0.1","name":"derelict-assimp3"}
 {"dependencies":{"derelict-util":"~>2.0.6"},"version":"1.0.2","name":"derelict-assimp3"}
+{"dependencies":{"derelict-util":"~>2.0.6"},"version":"1.0.3","name":"derelict-assimp3"}
