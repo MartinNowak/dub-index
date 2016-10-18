@@ -2,3 +2,4 @@
 {"dependencies":{"derelict-util":"~>2.0.3"},"version":"1.0.1","name":"derelict-al"}
 {"dependencies":{"derelict-util":"~>2.0.3"},"version":"1.0.2","name":"derelict-al"}
 {"dependencies":{"derelict-util":"~>2.0.6"},"version":"1.0.3","name":"derelict-al"}
+{"dependencies":{"derelict-util":"~>2.0.6"},"version":"~1.1","commitID":"a40c66c491c053dca879dbcd199f3f365e28643d","name":"derelict-al"}
