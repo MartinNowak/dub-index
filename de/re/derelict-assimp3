@@ -7,3 +7,4 @@
 {"dependencies":{"derelict-util":"~>2.0.6"},"version":"~AI-3.2","commitID":"b54ee20df374ef3b5fc8d33f1bb73d57bfd2d536","name":"derelict-assimp3"}
 {"dependencies":{"derelict-util":"~>2.0.6"},"version":"1.2.0","name":"derelict-assimp3"}
 {"dependencies":{"derelict-util":"~>2.0.6"},"version":"1.1.1","name":"derelict-assimp3"}
+{"dependencies":{"derelict-util":"~>2.0.6"},"version":"~AI-3.1","commitID":"947e6a70486e74c9ed61910a725610c78e791092","name":"derelict-assimp3"}
