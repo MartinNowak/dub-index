@@ -1,0 +1,1 @@
+{"dependencies":{"vibe-d:core":"~>0.7.23"},"configurations":[{"targetType":"library","name":"default"},{"targetType":"executable","name":"log"}],"version":"0.0.1","name":"easymeshed"}
