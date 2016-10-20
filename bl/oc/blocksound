@@ -3,3 +3,4 @@
 {"configurations":[{"dependencies":{"derelict_extras-sndfile":"~>2.0.1","derelict-al":"~>1.0.1"},"targetType":"staticLibrary","name":"openal-backend"}],"version":"~streaming","commitID":"15a8832d8f0ca5dc1a7aae52bf829464aae361ed","name":"blocksound"}
 {"configurations":[{"dependencies":{"derelict_extras-sndfile":"~>2.0.1","derelict-al":"~>1.0.1"},"targetType":"staticLibrary","name":"openal-backend"}],"version":"1.1.0-alpha1","name":"blocksound"}
 {"configurations":[{"dependencies":{"derelict_extras-sndfile":"~>2.0.1","derelict-al":"~>1.0.1"},"targetType":"staticLibrary","name":"openal-backend"}],"version":"1.1.1-alpha1","name":"blocksound"}
+{"configurations":[{"dependencies":{"derelict_extras-sndfile":"~>2.0.1","derelict-al":"~>1.0.1"},"targetType":"staticLibrary","name":"openal-backend"}],"version":"1.1.1-alpha2","name":"blocksound"}
