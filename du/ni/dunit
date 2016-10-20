@@ -14,3 +14,4 @@
 {"configurations":[{"targetType":"library","name":"library"}],"version":"1.0.12","name":"dunit"}
 {"configurations":[{"targetType":"library","name":"library"}],"version":"1.0.13","name":"dunit"}
 {"configurations":[{"targetType":"library","name":"library"}],"version":"~master","commitID":"6fde3c4a5841a866c49511cf24ca57ecf4a900fa","name":"dunit"}
+{"configurations":[{"targetType":"library","name":"library"}],"version":"1.0.14","name":"dunit"}
