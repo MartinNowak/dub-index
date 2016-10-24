@@ -2,3 +2,4 @@
 {"targetType":"library","version":"0.7.3-2","name":"libssh-d"}
 {"targetType":"library","version":"0.7.3-3","name":"libssh-d"}
 {"targetType":"library","version":"0.7.3-4","name":"libssh-d"}
+{"targetType":"library","version":"~master","commitID":"78ef21580e6fc3194ee178905ba793eb25bbcd66","name":"libssh-d"}
