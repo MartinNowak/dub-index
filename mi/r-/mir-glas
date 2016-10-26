@@ -1,0 +1,1 @@
+{"configurations":[{"targetType":"sourceLibrary","name":"header"},{"targetType":"staticLibrary","name":"static"},{"targetType":"dynamicLibrary","name":"dynamic"}],"version":"0.0.3","name":"mir-glas"}
