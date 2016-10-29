@@ -1,2 +1,3 @@
 {"targetType":"sourceLibrary","version":"0.3.1","name":"libwebp"}
 {"targetType":"sourceLibrary","version":"0.4.4","name":"libwebp"}
+{"targetType":"sourceLibrary","version":"~master","commitID":"9f5c52a0be019f22efe25f8f78c7bc33694d2c09","name":"libwebp"}
