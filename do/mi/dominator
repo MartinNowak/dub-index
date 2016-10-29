@@ -2,3 +2,4 @@
 {"dependencies":{"libdominator":"~>0.9"},"version":"1.0.0","name":"dominator"}
 {"dependencies":{"libdominator":"~>0.9"},"version":"1.0.1","name":"dominator"}
 {"dependencies":{"libdominator":"~>1.0.1"},"version":"1.0.2","name":"dominator"}
+{"dependencies":{"libdominator":"~>1.0.3"},"version":"1.0.3","name":"dominator"}
