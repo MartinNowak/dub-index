@@ -17,3 +17,4 @@
 {"dependencies":{"memutils":"~>0.4.4"},"targetType":"staticLibrary","version":"~patch-1","configurations":[{"targetType":"staticLibrary","name":"regular"},{"targetType":"staticLibrary","name":"32mscoff"}],"commitID":"ce9cd117cf5eb4e23d66af643637eca1ee88b1b1","name":"libasync"}
 {"dependencies":{"memutils":"~>0.4.5"},"targetType":"staticLibrary","version":"0.7.9","configurations":[{"targetType":"staticLibrary","name":"regular"},{"targetType":"staticLibrary","name":"32mscoff"}],"name":"libasync"}
 {"dependencies":{"memutils":"~>0.4.5"},"targetType":"staticLibrary","version":"0.8.0","configurations":[{"targetType":"staticLibrary","name":"regular"},{"targetType":"staticLibrary","name":"32mscoff"}],"name":"libasync"}
+{"dependencies":{"memutils":"~>0.4.5"},"targetType":"staticLibrary","version":"0.8.1","configurations":[{"targetType":"staticLibrary","name":"regular"},{"targetType":"staticLibrary","name":"32mscoff"}],"name":"libasync"}
