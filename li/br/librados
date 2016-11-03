@@ -1,2 +1,3 @@
 {"targetType":"sourceLibrary","version":"0.0.1","name":"librados"}
 {"targetType":"sourceLibrary","version":"0.0.2","name":"librados"}
+{"targetType":"sourceLibrary","version":"~master","commitID":"bb4ad6c992e6e94fba997ac77d52ed27c9193b00","name":"librados"}
