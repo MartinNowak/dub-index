@@ -1,1 +1,2 @@
 {"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":"~>0.7.0"},"targetType":"executable","name":"unittest"}],"targetType":"library","version":"0.1.0","name":"timer"}
+{"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":"~>0.7.0"},"targetType":"executable","name":"unittest"}],"targetType":"library","version":"0.2.0","name":"timer"}
