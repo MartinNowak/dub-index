@@ -29,3 +29,4 @@
 {"dependencies":{"vibe-d":"~>0.7.26","antispam":"~>0.0.5","userman":"~>0.3.0"},"version":"0.7.0","name":"vibenews"}
 {"dependencies":{"vibe-d":"~>0.7.26","antispam":"~>0.0.5","userman":"~>0.3.0"},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"unittest"}],"version":"0.7.1","name":"vibenews"}
 {"dependencies":{"vibe-d":"~>0.7.26","antispam":"~>0.0.5","userman":"~>0.3.0"},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"unittest"}],"version":"0.7.2","name":"vibenews"}
+{"dependencies":{"vibe-d":"~>0.7.26","antispam":"~>0.0.5","userman":"~>0.3.0"},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"unittest"}],"version":"0.7.3","name":"vibenews"}
