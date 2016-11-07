@@ -20,3 +20,4 @@
 {"configurations":[{"targetType":"library","name":"std"},{"dependencies":{"vibe-d":"~>0.7.29"},"targetType":"library","name":"vibed"}],"version":"0.2.0","name":"requests"}
 {"configurations":[{"targetType":"library","name":"std"},{"dependencies":{"vibe-d":"~>0.7.29"},"targetType":"library","name":"vibed"}],"version":"0.2.1","name":"requests"}
 {"configurations":[{"targetType":"library","name":"std"},{"dependencies":{"vibe-d":"~>0.7.29"},"targetType":"library","name":"vibed"}],"version":"0.3.0","name":"requests"}
+{"configurations":[{"targetType":"library","name":"std"},{"dependencies":{"vibe-d":"~>0.7.29"},"targetType":"library","name":"vibed"}],"version":"0.3.1","name":"requests"}
