@@ -3,3 +3,4 @@
 {"targetType":"library","version":"0.0.3","name":"painlesstraits"}
 {"targetType":"library","version":"0.1.0","name":"painlesstraits"}
 {"targetType":"library","version":"0.2.0","name":"painlesstraits"}
+{"configurations":[{"targetType":"library","name":"unittest"}],"targetType":"library","version":"0.3.0","name":"painlesstraits"}
