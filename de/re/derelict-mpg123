@@ -1,3 +1,4 @@
 {"dependencies":{"derelict-util":">=1.0.3"},"version":"0.1.0","name":"derelict-mpg123"}
 {"dependencies":{"derelict-util":">=1.0.3"},"version":"0.1.1","name":"derelict-mpg123"}
 {"dependencies":{"derelict-util":">=1.0.3"},"version":"0.1.2","name":"derelict-mpg123"}
+{"dependencies":{"derelict-util":">=1.0.3"},"version":"~master","commitID":"0ef5ebd28adea00021b9ba47e9b5915582c93277","name":"derelict-mpg123"}
