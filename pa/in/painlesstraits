@@ -4,3 +4,4 @@
 {"targetType":"library","version":"0.1.0","name":"painlesstraits"}
 {"targetType":"library","version":"0.2.0","name":"painlesstraits"}
 {"configurations":[{"targetType":"library","name":"unittest"}],"targetType":"library","version":"0.3.0","name":"painlesstraits"}
+{"configurations":[{"targetType":"library","name":"unittest"}],"targetType":"library","version":"~master","commitID":"7a73ae7329a58feec14a2b8d4f13ad7c59207ce1","name":"painlesstraits"}
