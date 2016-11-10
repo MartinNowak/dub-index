@@ -18,3 +18,4 @@
 {"dependencies":{"memutils":"~>0.4.5"},"targetType":"staticLibrary","version":"0.7.9","configurations":[{"targetType":"staticLibrary","name":"regular"},{"targetType":"staticLibrary","name":"32mscoff"}],"name":"libasync"}
 {"dependencies":{"memutils":"~>0.4.5"},"targetType":"staticLibrary","version":"0.8.0","configurations":[{"targetType":"staticLibrary","name":"regular"},{"targetType":"staticLibrary","name":"32mscoff"}],"name":"libasync"}
 {"dependencies":{"memutils":"~>0.4.5"},"targetType":"staticLibrary","version":"0.8.1","configurations":[{"targetType":"staticLibrary","name":"regular"},{"targetType":"staticLibrary","name":"32mscoff"}],"name":"libasync"}
+{"dependencies":{"memutils":"~>0.4.8"},"targetType":"staticLibrary","version":"0.8.2","configurations":[{"targetType":"staticLibrary","name":"regular"},{"targetType":"staticLibrary","name":"32mscoff"}],"name":"libasync"}
