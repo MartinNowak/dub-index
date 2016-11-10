@@ -20,3 +20,4 @@
 {"dependencies":{"derelict-util":">=1.0.3"},"version":"~mixins","commitID":"bbe54d23ab0975a55ae98c2544678228d70474c7","name":"derelict-gl3"}
 {"dependencies":{"derelict-util":">=1.0.3"},"version":"1.0.19","name":"derelict-gl3"}
 {"dependencies":{"derelict-util":">=3.0.0-alpha.1 <3.1.0-0"},"version":"2.0.0-alpha.1","name":"derelict-gl3"}
+{"dependencies":{"derelict-util":">=3.0.0-alpha.1 <3.1.0-0"},"version":"2.0.0-alpha.2","name":"derelict-gl3"}
