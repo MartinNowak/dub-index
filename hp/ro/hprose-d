@@ -12,3 +12,4 @@
 {"dependencies":{"vibe-d":"~>0.7.26"},"targetType":"library","version":"1.2.1","name":"hprose-d"}
 {"dependencies":{"vibe-d":"~>0.7.28"},"targetType":"library","version":"1.2.2","name":"hprose-d"}
 {"dependencies":{"vibe-d":"~>0.7.28"},"targetType":"library","version":"1.2.3","name":"hprose-d"}
+{"dependencies":{"vibe-d":"~>0.7.28"},"targetType":"library","version":"~master","commitID":"79dcac7c54651dcfad1450b067b2bde11ab894f1","name":"hprose-d"}
