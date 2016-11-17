@@ -2,3 +2,4 @@
 {"dependencies":{"vibe-d:core":"~>0.7.23"},"configurations":[{"targetType":"library","name":"default"},{"targetType":"executable","name":"log"}],"version":"0.0.2","name":"easymeshed"}
 {"dependencies":{"vibe-d:core":"~>0.7.23"},"configurations":[{"targetType":"library","name":"default"},{"targetType":"executable","name":"log"}],"version":"0.0.3","name":"easymeshed"}
 {"dependencies":{"vibe-d:core":"~>0.7.23"},"configurations":[{"targetType":"library","name":"default"},{"targetType":"executable","name":"log"}],"version":"0.0.5","name":"easymeshed"}
+{"dependencies":{"vibe-d:core":"~>0.7.23"},"configurations":[{"targetType":"library","name":"default"},{"targetType":"executable","name":"log"}],"version":"~master","commitID":"8ec2c3fa569608cda49b39c685cf7e2160685ad2","name":"easymeshed"}
