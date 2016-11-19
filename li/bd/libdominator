@@ -7,3 +7,4 @@
 {"targetType":"library","version":"1.0.4","name":"libdominator"}
 {"targetType":"library","version":"1.0.5","name":"libdominator"}
 {"targetType":"library","version":"1.0.6","name":"libdominator"}
+{"targetType":"library","version":"~trimtags","commitID":"cd27d01ecaf812e69a3ca43fd584842a3d82ba2b","name":"libdominator"}
