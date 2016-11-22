@@ -4,3 +4,4 @@
 {"dependencies":{"libdominator":"~>1.0.1"},"version":"1.0.2","name":"dominator"}
 {"dependencies":{"libdominator":"~>1.0.3"},"version":"1.0.3","name":"dominator"}
 {"dependencies":{"libdominator":"1.0.6"},"version":"1.0.6","name":"dominator"}
+{"dependencies":{"libdominator":"1.1.1"},"version":"1.1.1","name":"dominator"}
