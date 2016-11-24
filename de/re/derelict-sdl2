@@ -70,3 +70,4 @@
 {"dependencies":{"derelict-util":"~>2.0.4"},"version":"2.0.2","name":"derelict-sdl2"}
 {"dependencies":{"derelict-util":"~>2.0.4"},"version":"2.1.0","name":"derelict-sdl2"}
 {"dependencies":{"derelict-util":"3.0.0-alpha.1"},"configurations":[{"targetType":"library","name":"derelict-sdl2-dynamic"},{"targetType":"library","name":"derelict-sdl2-static"}],"version":"3.0.0-alpha.1","name":"derelict-sdl2"}
+{"dependencies":{"derelict-util":"3.0.0-alpha.1"},"configurations":[{"targetType":"library","name":"derelict-sdl2-dynamic"},{"targetType":"library","name":"derelict-sdl2-static"}],"version":"3.0.0-alpha.2","name":"derelict-sdl2"}
