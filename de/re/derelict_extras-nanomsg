@@ -1,3 +1,4 @@
 {"dependencies":{"derelict-util":">=1.0.2"},"version":"0.0.1","name":"derelict_extras-nanomsg"}
 {"dependencies":{"derelict-util":">=1.0.2"},"version":"0.0.2","name":"derelict_extras-nanomsg"}
 {"dependencies":{"derelict-util":">=1.0.2"},"version":"0.0.3","name":"derelict_extras-nanomsg"}
+{"dependencies":{"derelict-util":">=1.0.2"},"version":"~master","commitID":"e4d08cfaef6bc26fbd6afea0a2a07dbe59dff5b0","name":"derelict_extras-nanomsg"}
