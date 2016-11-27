@@ -10,3 +10,4 @@
 {"dependencies":{"dsfml":"~>2.1.1"},"targetType":"sourceLibrary","version":"~0.0.6","commitID":"339dddaecd17d59a25c2d78d1f8a7bbee563a674","name":"poison"}
 {"dependencies":{"dsfml":"~>2.1.1"},"targetType":"sourceLibrary","version":"0.0.6","name":"poison"}
 {"dependencies":{"dsfml":"~>2.1.1"},"targetType":"sourceLibrary","version":"0.0.7","name":"poison"}
+{"dependencies":{"dsfml":"~>2.1.1"},"targetType":"sourceLibrary","version":"~0.0.7","commitID":"074056a6cf5e81db8f62e9a77343a20d4634846e","name":"poison"}
