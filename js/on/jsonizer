@@ -27,3 +27,4 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"unittest"}],"targetType":"library","version":"~refactor","commitID":"78f6f02d580096ad845d06bc7cdca40fc1430147","name":"jsonizer"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"unittest"}],"targetType":"library","version":"0.7.1","name":"jsonizer"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"unittest"}],"targetType":"library","version":"0.7.2","name":"jsonizer"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"unittest"}],"targetType":"library","version":"0.7.3","name":"jsonizer"}
