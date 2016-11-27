@@ -1,3 +1,4 @@
 {"targetType":"library","version":"0.0.1","name":"anansi"}
 {"targetType":"library","version":"0.0.2","name":"anansi"}
 {"targetType":"library","version":"0.0.3","name":"anansi"}
+{"targetType":"library","version":"~master","commitID":"7c6063ab26991003f2bb64426e7ae3069d9b2407","name":"anansi"}
