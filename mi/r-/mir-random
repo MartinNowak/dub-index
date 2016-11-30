@@ -3,3 +3,4 @@
 {"version":"0.0.1-beta2","name":"mir-random"}
 {"dependencies":{"mir-math":"~>0.0.1"},"version":"0.0.1-beta3","name":"mir-random"}
 {"dependencies":{"mir-math":"~>0.0.1"},"version":"0.0.1-beta4","name":"mir-random"}
+{"dependencies":{"mir-math":"~>0.0.1"},"version":"0.0.1-beta5","name":"mir-random"}
