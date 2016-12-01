@@ -4,3 +4,4 @@
 {"dependencies":{"htmld":"~>0.2.2","cssd":"~>0.1.1"},"targetType":"library","version":"0.1.3","name":"embaked"}
 {"dependencies":{"htmld":"~>0.2.9","cssd":"~>0.1.1"},"targetType":"library","version":"0.1.4","name":"embaked"}
 {"dependencies":{"htmld":"~>0.2.9","cssd":"~>0.1.1"},"targetType":"library","version":"0.1.5","name":"embaked"}
+{"dependencies":{"htmld":"~>0.2.9","cssd":"~>0.1.1"},"targetType":"library","version":"0.1.6","name":"embaked"}
