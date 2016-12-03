@@ -5,3 +5,4 @@
 {"version":"2.0.1","name":"glfw3d"}
 {"version":"2.0.2","name":"glfw3d"}
 {"dependencies":{"derelict-glfw3":{"version":">=4.0.0-alpha.3 <4.1.0-0","optional":true}},"version":"~master","commitID":"44892c606e728566a3b6754a4b25263336f01124","name":"glfw3d"}
+{"dependencies":{"derelict-glfw3":{"version":">=4.0.0-alpha.3 <4.1.0-0","optional":true}},"version":"2.1.0","name":"glfw3d"}
