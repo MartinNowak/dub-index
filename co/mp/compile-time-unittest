@@ -1,3 +1,4 @@
 {"version":"0.0.1","name":"compile-time-unittest"}
 {"version":"0.0.2","name":"compile-time-unittest"}
 {"version":"0.0.3","name":"compile-time-unittest"}
+{"version":"~master","commitID":"dec150ac6074cf66565ad14001a9be37dbbcbb6b","name":"compile-time-unittest"}
