@@ -2,3 +2,4 @@
 {"version":"0.0.2","name":"assert_that"}
 {"version":"0.0.3","name":"assert_that"}
 {"version":"0.0.4","name":"assert_that"}
+{"version":"~master","commitID":"ee5589227f4e27d868ad01a16af9bc2fa7ef8fab","name":"assert_that"}
