@@ -4,3 +4,4 @@
 {"configurations":[{"targetType":"library","name":"mysql-d"},{"dependencies":{"dunit":"1.0.10"},"targetType":"library","name":"test"}],"targetType":"library","version":"0.3.1","name":"mysql-d"}
 {"configurations":[{"targetType":"library","name":"mysql-d"},{"dependencies":{"dunit":"1.0.10"},"targetType":"library","name":"test"}],"targetType":"library","version":"0.3.2","name":"mysql-d"}
 {"configurations":[{"targetType":"library","name":"mysql-d"},{"dependencies":{"dunit":"1.0.12"},"targetType":"library","name":"test"}],"targetType":"library","version":"0.3.3","name":"mysql-d"}
+{"configurations":[{"targetType":"library","name":"mysql-d"},{"dependencies":{"dunit":"1.0.12"},"targetType":"library","name":"test"}],"targetType":"library","version":"~master","commitID":"4c8be97c26a13f1f2cfb4c8aedfe2b7dfb9d181e","name":"mysql-d"}
