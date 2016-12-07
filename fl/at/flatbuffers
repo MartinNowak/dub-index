@@ -4,3 +4,4 @@
 {"targetType":"library","version":"0.0.5","name":"flatbuffers"}
 {"targetType":"library","version":"0.0.6","name":"flatbuffers"}
 {"targetType":"library","version":"0.0.7","name":"flatbuffers"}
+{"targetType":"library","version":"0.1.0","name":"flatbuffers"}
