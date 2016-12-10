@@ -1,3 +1,4 @@
 {"dependencies":{"tinyendian":"~>0.1.0"},"version":"0.5.6","name":"dyaml-yamlserialized"}
 {"dependencies":{"tinyendian":"~>0.1.0"},"version":"0.5.7","name":"dyaml-yamlserialized"}
 {"dependencies":{"tinyendian":"~>0.1.0"},"version":"~master","commitID":"c9787acb4c9781a35e38f26edabdfc02fc8415b4","name":"dyaml-yamlserialized"}
+{"dependencies":{"tinyendian":"~>0.1.0"},"version":"0.6.0","name":"dyaml-yamlserialized"}
