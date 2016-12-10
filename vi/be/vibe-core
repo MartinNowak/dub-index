@@ -2,3 +2,4 @@
 {"dependencies":{"eventcore":"~>0.5.0"},"configurations":[{"targetType":"library","name":"unittest"}],"version":"1.0.0-alpha.2","name":"vibe-core"}
 {"dependencies":{"eventcore":"~>0.5.0"},"configurations":[{"targetType":"library","name":"unittest"}],"version":"1.0.0-alpha.3","name":"vibe-core"}
 {"dependencies":{"eventcore":"~>0.5.0"},"configurations":[{"targetType":"library","name":"unittest"}],"version":"1.0.0-alpha.4","name":"vibe-core"}
+{"dependencies":{"eventcore":"~>0.5.0"},"configurations":[{"targetType":"library","name":"unittest"}],"version":"1.0.0-alpha.5","name":"vibe-core"}
