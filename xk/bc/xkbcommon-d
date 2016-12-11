@@ -1,1 +1,2 @@
 {"dependencies":{"xcb-d":"~>1.11.1"},"targetType":"library","version":"0.5.0","name":"xkbcommon-d"}
+{"dependencies":{"xcb-d":"~>2.1.0"},"targetType":"library","version":"0.5.1","name":"xkbcommon-d"}
