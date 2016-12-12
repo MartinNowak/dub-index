@@ -12,3 +12,4 @@
 {"dependencies":{"libdparse":">=0.7.0-alpha.14 <0.8.0-0","emsi_containers":"~>0.5.0"},"targetType":"library","version":"0.2.0-alpha.9","name":"dsymbol"}
 {"dependencies":{"libdparse":"0.7.0-alpha.15","emsi_containers":"~>0.5.0"},"targetType":"library","version":"0.2.0-alpha.10","name":"dsymbol"}
 {"dependencies":{"libdparse":"0.7.0-beta.1","emsi_containers":"~>0.5.2"},"targetType":"library","version":"0.2.0-beta.1","name":"dsymbol"}
+{"dependencies":{"libdparse":"0.7.0-beta.1","emsi_containers":"~>0.5.2"},"targetType":"library","version":"0.2.0-beta.2","name":"dsymbol"}
