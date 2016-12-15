@@ -1,3 +1,4 @@
 {"targetType":"executable","version":"0.1.0","name":"bin2d"}
 {"targetType":"executable","version":"0.2.0","name":"bin2d"}
 {"targetType":"executable","version":"~master","commitID":"3c968c28f979c6e687f545e3a23ee7f76e2a25de","name":"bin2d"}
+{"targetType":"executable","version":"0.2.1","name":"bin2d"}
