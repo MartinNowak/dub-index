@@ -1,3 +1,4 @@
 {"dependencies":{"vibe-d":{"version":"~master","optional":true}},"targetType":"library","version":"0.0.1","name":"cassandra-d"}
 {"dependencies":{"vibe-d":{"version":"~>0.7.19","optional":true}},"targetType":"library","version":"0.0.2","name":"cassandra-d"}
 {"dependencies":{"vibe-d":{"version":"~>0.7.19","optional":true}},"targetType":"library","version":"0.0.3","name":"cassandra-d"}
+{"configurations":[{"dependencies":{"vibe-d":{"version":"~>0.7.19","optional":true}},"targetType":"library","name":"library"},{"targetType":"library","name":"library-no-vibe"}],"version":"~master","commitID":"995eaf4b14b90e50a4ac0237dac63eea4bd63047","name":"cassandra-d"}
