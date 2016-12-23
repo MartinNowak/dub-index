@@ -8,3 +8,4 @@
 {"dependencies":{"vibe-d":">=0.7.19-beta.3"},"version":"~vibe-timer-bug-workaround","commitID":"99aff34e84c4ff3661cc546f6dfd76ba0323547d","name":"sockjs-d"}
 {"dependencies":{"vibe-d":">=0.7.19"},"version":"0.1.0","name":"sockjs-d"}
 {"dependencies":{"vibe-d":"~>0.7.30"},"targetType":"library","version":"0.2.0","configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"application"}],"name":"sockjs-d"}
+{"dependencies":{"vibe-d":"~>0.7.30"},"targetType":"library","version":"~master","configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"application"}],"commitID":"e74bfc17b91f12c6fd484a1bb4c86f4e810b3325","name":"sockjs-d"}
