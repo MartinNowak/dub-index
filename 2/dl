@@ -1,2 +1,3 @@
 {"configurations":[{"targetType":"executable","name":"executable"},{"targetType":"library","name":"library"}],"targetType":"executable","version":"1.0.0","name":"dl"}
 {"configurations":[{"targetType":"executable","name":"executable"},{"targetType":"library","name":"library"}],"targetType":"executable","version":"~master","commitID":"af4e319457328898e423127b44b45cd4aa1f029a","name":"dl"}
+{"configurations":[{"targetType":"executable","name":"executable"},{"targetType":"library","name":"library"}],"targetType":"executable","version":"1.0.1","name":"dl"}
