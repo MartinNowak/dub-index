@@ -3,3 +3,4 @@
 {"targetType":"library","version":"0.0.4","name":"ironcache-d"}
 {"targetType":"library","version":"0.0.5","name":"ironcache-d"}
 {"targetType":"library","version":"0.0.6","name":"ironcache-d"}
+{"targetType":"library","version":"~master","commitID":"6fbf9feb92c2e25fd8edcc3e24882a3b6de96a90","name":"ironcache-d"}
