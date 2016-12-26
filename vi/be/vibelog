@@ -24,3 +24,4 @@
 {"dependencies":{"vibe-d":"~>0.7.29","stringex":"~>0.0.2"},"configurations":[{"targetType":"executable","name":"standalone"},{"targetType":"library","name":"library"}],"version":"0.5.0-beta.1","name":"vibelog"}
 {"dependencies":{"vibe-d":"~>0.7.29","stringex":"~>0.0.2"},"configurations":[{"targetType":"executable","name":"standalone"},{"targetType":"library","name":"library"}],"version":"0.5.0-beta.2","name":"vibelog"}
 {"dependencies":{"vibe-d":"~>0.7.29","stringex":"~>0.0.2"},"configurations":[{"targetType":"executable","name":"standalone"},{"targetType":"library","name":"library"}],"version":"0.5.0-beta.3","name":"vibelog"}
+{"dependencies":{"vibe-d":"~>0.7.29","stringex":"~>0.0.2"},"configurations":[{"targetType":"executable","name":"standalone"},{"targetType":"library","name":"library"}],"version":"0.5.0-beta.4","name":"vibelog"}
