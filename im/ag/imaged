@@ -1,2 +1,3 @@
 {"configurations":[{"targetType":"library","name":"standard"},{"dependencies":{"derelict-gl3":">=1.0.4"},"targetType":"library","name":"opengl"}],"targetType":"library","version":"1.0.0","name":"imaged"}
 {"configurations":[{"targetType":"library","name":"standard"},{"dependencies":{"derelict-gl3":">=1.0.4"},"targetType":"library","name":"opengl"}],"targetType":"library","version":"1.0.1","name":"imaged"}
+{"dependencies":{"undead":"~>1.0.6"},"targetType":"library","version":"~master","configurations":[{"targetType":"library","name":"standard"},{"dependencies":{"derelict-gl3":">=1.0.4"},"targetType":"library","name":"opengl"}],"commitID":"e6e0ec97ceeef14c5e4a808919ba3b8ac6bedf89","name":"imaged"}
