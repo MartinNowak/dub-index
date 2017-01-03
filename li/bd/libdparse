@@ -26,3 +26,4 @@
 {"dependencies":{"experimental_allocator":">=2.70.0-b1 <2.71.0-0"},"targetType":"library","version":"0.7.0-alpha.15","name":"libdparse"}
 {"targetType":"library","version":"0.7.0-beta.1","name":"libdparse"}
 {"targetType":"library","version":"0.7.0-beta.2","name":"libdparse"}
+{"targetType":"library","version":"0.7.0-beta.3","name":"libdparse"}
