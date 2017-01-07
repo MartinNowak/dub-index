@@ -1,3 +1,4 @@
 {"subPackages":[{"targetType":"sourceLibrary","name":"experimental"}],"targetType":"sourceLibrary","version":"1.0.0-rc.1","name":"hap"}
 {"subPackages":[{"targetType":"sourceLibrary","name":"experimental"}],"targetType":"sourceLibrary","version":"1.0.0-rc.2","name":"hap"}
 {"subPackages":[{"targetType":"sourceLibrary","name":"experimental"}],"targetType":"sourceLibrary","version":"1.0.0-rc.2.1","name":"hap"}
+{"subPackages":[{"targetType":"sourceLibrary","name":"experimental"}],"targetType":"sourceLibrary","version":"~master","commitID":"5d34df2ed20095f29a55c2416fbbabf44aacaac8","name":"hap"}
