@@ -5,3 +5,4 @@
 {"dependencies":{"dests":"~>0.3.0","vibe-d:core":"~>0.7.28"},"version":"1.0.5","name":"jin-go"}
 {"dependencies":{"dests":"~>0.3.0","vibe-d:core":"~>0.7.28"},"version":"~master","commitID":"4756b4878a15ac6fa75cd5291dc9fa00e567ed17","name":"jin-go"}
 {"dependencies":{"dests":"~>0.3.0","vibe-d:core":"~>0.7.28"},"version":"~safe-channels","commitID":"de94263bcb2627ec8a9b1371a215624df3d06cd5","name":"jin-go"}
+{"dependencies":{"dests":"~>0.3.0"},"version":"~lock-free","commitID":"b2a6106b161a9ec6e8b60330924426594dcffa97","name":"jin-go"}
