@@ -1,3 +1,4 @@
 {"targetType":"sourceLibrary","version":"1.0.0","name":"portaudio"}
 {"targetType":"sourceLibrary","version":"1.0.1","name":"portaudio"}
 {"targetType":"sourceLibrary","version":"1.0.2","name":"portaudio"}
+{"targetType":"sourceLibrary","version":"~master","commitID":"b0de3befa2d0ea87e94584bb6ae8658233a13606","name":"portaudio"}
