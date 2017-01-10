@@ -1,3 +1,4 @@
 {"dependencies":{"derelict-gl3":">=0.0.0"},"targetType":"sourceLibrary","version":"0.0.1","name":"objective-gl"}
 {"dependencies":{"derelict-gl3":">=0.0.0"},"targetType":"sourceLibrary","version":"0.0.2","name":"objective-gl"}
 {"dependencies":{"derelict-gl3":">=0.0.0"},"targetType":"sourceLibrary","version":"~stable","commitID":"bfd62677af86f7c2e8c59e79741513386e69849c","name":"objective-gl"}
+{"dependencies":{"derelict-gl3":">=0.0.0"},"targetType":"sourceLibrary","version":"~master","commitID":"412719417e10a913ac3411b20a6c391a75419b33","name":"objective-gl"}
