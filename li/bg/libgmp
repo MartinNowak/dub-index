@@ -1,1 +1,2 @@
 {"targetType":"library","version":"1.0.0","name":"libgmp"}
+{"targetType":"library","version":"~master","commitID":"73b446f4848bb745e0ea3addedf1169e501939c4","name":"libgmp"}
