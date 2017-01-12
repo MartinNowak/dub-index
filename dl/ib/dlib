@@ -28,3 +28,4 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"sourceLibrary","name":"import"}],"version":"0.9.1","name":"dlib"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"sourceLibrary","name":"import"}],"version":"0.9.2","name":"dlib"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"sourceLibrary","name":"import"}],"version":"~crypto","commitID":"4fe130bbd0c73620afd3d88d6a31c80af3418745","name":"dlib"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"sourceLibrary","name":"import"}],"version":"0.10.0-beta.1","name":"dlib"}
