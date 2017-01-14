@@ -1,3 +1,4 @@
 {"dependencies":{"vibe-d":"~>0.7.21"},"targetType":"library","version":"0.0.1-alpha","name":"oauth"}
 {"dependencies":{"vibe-d:data":">=0.0.0","vibe-d:core":"~>0.7.27","vibe-d:http":">=0.0.0"},"targetType":"library","version":"0.1.0","name":"oauth"}
 {"dependencies":{"vibe-d:data":">=0.0.0","vibe-d:core":"~>0.7.27","vibe-d:http":">=0.0.0"},"targetType":"library","version":"0.1.1","name":"oauth"}
+{"dependencies":{"vibe-d:data":">=0.0.0","vibe-d:core":"~>0.7.27","vibe-d:http":">=0.0.0"},"targetType":"library","version":"0.1.2","name":"oauth"}
