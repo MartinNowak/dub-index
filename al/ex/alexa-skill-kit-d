@@ -7,3 +7,4 @@
 {"dependencies":{"vibe-d:data":"~>0.7.30"},"version":"0.2.4","name":"alexa-skill-kit-d"}
 {"dependencies":{"vibe-d:data":"~>0.7.30"},"version":"0.3.0","name":"alexa-skill-kit-d"}
 {"dependencies":{"vibe-d":"~>0.7.30"},"targetType":"library","version":"0.4.0","name":"alexa-skill-kit-d"}
+{"dependencies":{"vibe-d":"~>0.7.30"},"targetType":"library","version":"0.4.1","configurations":[{"targetType":"library","name":"ddox"}],"name":"alexa-skill-kit-d"}
