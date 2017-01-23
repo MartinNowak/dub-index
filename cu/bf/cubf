@@ -1,1 +1,2 @@
 {"subPackages":[{"targetType":"executable","name":"test"}],"targetType":"library","version":"~master","commitID":"33e3ad3b71f3da98b27dd00a241b0db9f6ef348f","name":"cubf"}
+{"subPackages":[{"targetType":"executable","name":"test"}],"targetType":"library","version":"0.1.0","name":"cubf"}
