@@ -3,3 +3,4 @@
 {"dependencies":{"exceptionhandling":"~>0.0.9"},"version":"0.1.1","name":"fixedsizearray"}
 {"dependencies":{"exceptionhandling":"~>0.0.9"},"version":"0.1.3","name":"fixedsizearray"}
 {"dependencies":{"exceptionhandling":"~>0.0.9"},"version":"1.0.0","name":"fixedsizearray"}
+{"dependencies":{"exceptionhandling":">=0.1.0"},"version":"1.0.1","name":"fixedsizearray"}
