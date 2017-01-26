@@ -3,3 +3,4 @@
 {"dependencies":{"dlib":">=0.0.0"},"version":"~parallelism","commitID":"1751a548926bbe9439aae28118376ef60bd5ce5b","name":"rip"}
 {"dependencies":{"dlib":">=0.0.0"},"version":"~replacement","commitID":"80db430fb9bbbb57aca2323607d1787f992acb0a","name":"rip"}
 {"dependencies":{"dlib":">=0.0.0"},"version":"0.0.3","name":"rip"}
+{"dependencies":{"dlib":">=0.0.0"},"version":"0.0.4","name":"rip"}
