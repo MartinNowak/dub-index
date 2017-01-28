@@ -3,3 +3,4 @@
 {"configurations":[{"targetType":"sourceLibrary","name":"lib"},{"targetType":"executable","name":"example"}],"version":"~feature/example","commitID":"f2aa830739cd0b6acf8fbb5d25249e994b03895c","name":"lincount"}
 {"configurations":[{"targetType":"sourceLibrary","name":"lib"},{"targetType":"executable","name":"example"}],"version":"0.0.2","name":"lincount"}
 {"version":"~travis","commitID":"493c6f7384ac6465f817c5b984508a2b0692a2b8","name":"lincount"}
+{"dependencies":{"mir-algorithm":"~>0.0.13"},"version":"0.0.3","name":"lincount"}
