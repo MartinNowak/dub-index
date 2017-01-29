@@ -1,0 +1,1 @@
+{"dependencies":{"dlib":"~>0.10.0"},"targetType":"staticLibrary","version":"1.0.0","name":"random-dlib-image"}
