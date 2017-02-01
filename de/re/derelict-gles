@@ -1,1 +1,2 @@
 {"dependencies":{"derelict-util":"~>2.0.1"},"version":"0.0.1","name":"derelict-gles"}
+{"dependencies":{"derelict-util":"~>2.0.1"},"version":"~master","commitID":"7814b2104a48ea1c49f0dc3b78b9ac739025ff5a","name":"derelict-gles"}
