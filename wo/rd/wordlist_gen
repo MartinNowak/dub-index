@@ -1,0 +1,1 @@
+{"dependencies":{"dateparser":"~>3.0.0"},"targetType":"executable","version":"1.0.0","name":"wordlist_gen"}
