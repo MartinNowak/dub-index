@@ -2,3 +2,4 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"1.0.0-docs","name":"serial-port"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"1.1.0","name":"serial-port"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"~issue-10","commitID":"8b9849266b6b47652edcfda7800abc74450614ce","name":"serial-port"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"1.2.0","name":"serial-port"}
