@@ -3,3 +3,4 @@
 {"dependencies":{"dlib":"~>0.10.0"},"targetType":"staticLibrary","version":"1.0.2","name":"random-dlib-image"}
 {"dependencies":{"dlib":"~>0.10.0"},"targetType":"staticLibrary","version":"1.0.3","name":"random-dlib-image"}
 {"dependencies":{"dlib":"~>0.10.0"},"targetType":"staticLibrary","version":"1.0.4","name":"random-dlib-image"}
+{"dependencies":{"dlib":"~>0.10.0"},"targetType":"staticLibrary","version":"~master","commitID":"2e64780bf0dcd209e7469aec43cf45ff9acbe2f4","name":"random-dlib-image"}
