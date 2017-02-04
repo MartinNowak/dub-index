@@ -12,3 +12,4 @@
 {"dependencies":{"inifiled":">=0.0.6","dsymbol":"0.2.0-beta.1","libdparse":"0.7.0-beta.2","emsi_containers":"0.5.2"},"targetType":"executable","version":"0.4.0-beta.2","name":"dscanner"}
 {"dependencies":{"inifiled":">=0.0.6","dsymbol":"0.2.0-beta.1","libdparse":"0.7.0-beta.2","emsi_containers":"0.5.2"},"targetType":"executable","version":"0.4.0-beta.3","name":"dscanner"}
 {"dependencies":{"inifiled":">=0.0.6","dsymbol":"0.2.0-beta.2","libdparse":"0.7.0-beta.4","emsi_containers":"0.5.3"},"targetType":"executable","version":"0.4.0-beta.4","name":"dscanner"}
+{"dependencies":{"inifiled":">=0.0.6","dsymbol":"0.2.0-beta.2","libdparse":"0.7.0-beta.6","emsi_containers":"0.5.3"},"targetType":"executable","version":"0.4.0-beta.5","name":"dscanner"}
