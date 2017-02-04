@@ -5,3 +5,4 @@
 {"subPackages":[{"targetType":"executable","name":"test"}],"version":"0.2.2","name":"csuf"}
 {"subPackages":[{"targetType":"executable","name":"test"}],"version":"0.2.3","name":"csuf"}
 {"subPackages":[{"targetType":"executable","name":"test"}],"version":"~master","commitID":"c3fdee6c6d27cb7f0d70b42c6b94e47b83bfb2cf","name":"csuf"}
+{"subPackages":[{"targetType":"executable","name":"test"}],"version":"0.2.4","name":"csuf"}
