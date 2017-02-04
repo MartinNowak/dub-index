@@ -8,3 +8,4 @@
 {"configurations":[{"dependencies":{"vibe-d:core":"~>0.7.25"},"targetType":"library","name":"vibed"}],"targetType":"library","version":"0.1.7","name":"vibe-mqtt"}
 {"configurations":[{"dependencies":{"vibe-d:core":"~>0.7.25"},"targetType":"library","name":"vibed"}],"targetType":"library","version":"0.1.8","name":"vibe-mqtt"}
 {"configurations":[{"dependencies":{"vibe-d:core":"~>0.7.25"},"targetType":"library","name":"vibed"}],"targetType":"library","version":"~0.1.7_fixes","commitID":"baa3b1a7b268d9f01f0624f1669cbb8726f2ec75","name":"vibe-mqtt"}
+{"configurations":[{"dependencies":{"vibe-d:core":">=0.8.0-beta <0.9.0-0"},"targetType":"library","name":"vibed"}],"targetType":"library","version":"0.2.0-alpha.1","name":"vibe-mqtt"}
