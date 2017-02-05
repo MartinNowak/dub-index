@@ -1,1 +1,2 @@
 {"targetType":"executable","version":"1.0.0","name":"wayland-scanner-d"}
+{"targetType":"executable","version":"~master","commitID":"a3caad2eed170cbcbadecaf739bd9985e0dfb35f","name":"wayland-scanner-d"}
