@@ -1,1 +1,2 @@
 {"dependencies":{"openssl":"~>1.1.5"},"targetType":"sourceLibrary","version":"0.0.1","name":"libssh2_d"}
+{"dependencies":{"openssl":"~>1.1.5"},"targetType":"sourceLibrary","version":"~master","commitID":"35413316abf2efd436a386d413f425a54a5e69c6","name":"libssh2_d"}
