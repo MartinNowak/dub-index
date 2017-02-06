@@ -4,3 +4,4 @@
 {"targetType":"library","version":"~master","commitID":"4084a7cb98d4c225bc3b33db24d57bb27860fd56","name":"flod"}
 {"targetType":"library","version":"0.0.2","name":"flod"}
 {"targetType":"library","version":"~parallel","commitID":"72be1ac22510d190a24fb5e443840ae229b71fe6","name":"flod"}
+{"targetType":"library","version":"~develop","commitID":"1d6c8c671889c8b5cb8fa8eb01d336fb2df8fee9","name":"flod"}
