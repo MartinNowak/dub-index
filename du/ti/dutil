@@ -1,2 +1,3 @@
 {"dependencies":{"emsi_containers":">=0.0.0"},"version":"0.0.1","name":"dutil"}
 {"dependencies":{"emsi_containers":">=0.0.0"},"version":"0.0.2","name":"dutil"}
+{"dependencies":{"emsi_containers":">=0.0.0"},"version":"~master","commitID":"7dee5edf4a92f5ea754c6c037e9e6484dcfa235b","name":"dutil"}
