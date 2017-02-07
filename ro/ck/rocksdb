@@ -3,3 +3,4 @@
 {"targetType":"library","version":"0.0.3","name":"rocksdb"}
 {"targetType":"library","version":"0.0.4","name":"rocksdb"}
 {"targetType":"library","version":"~feature/column-families","commitID":"5d3407474f4c6bbdd59b2f25998bad19d72604b0","name":"rocksdb"}
+{"targetType":"library","version":"0.0.5","name":"rocksdb"}
