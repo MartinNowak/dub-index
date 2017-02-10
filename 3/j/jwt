@@ -2,3 +2,4 @@
 {"version":"0.2.0","name":"jwt"}
 {"version":"0.3.0","name":"jwt"}
 {"version":"0.4.0","name":"jwt"}
+{"version":"~master","commitID":"eea60b1f6871eaa1d19cb6a6813ef0944be4e65a","name":"jwt"}
