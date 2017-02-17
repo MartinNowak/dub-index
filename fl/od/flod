@@ -6,3 +6,4 @@
 {"targetType":"library","version":"~parallel","commitID":"72be1ac22510d190a24fb5e443840ae229b71fe6","name":"flod"}
 {"targetType":"library","version":"~develop","commitID":"1d6c8c671889c8b5cb8fa8eb01d336fb2df8fee9","name":"flod"}
 {"targetType":"library","version":"~buffer","commitID":"f1b8abd5e713ec8700e6be697598cda0cf11b714","name":"flod"}
+{"configurations":[{"targetType":"library","name":"default"},{"targetType":"executable","name":"unittest"}],"version":"~test","commitID":"9dfb06045afde63d75138062c818452349c49349","name":"flod"}
