@@ -4,3 +4,4 @@
 {"dependencies":{"wasapi":"~>0.1.2","derelict-mpg123":"~>0.1.2","derelict-wintab":"~>0.1.2","dlangui":"~>0.9.46"},"targetType":"executable","version":"0.1.3","name":"soundtab"}
 {"dependencies":{"wasapi":"~>0.1.2","derelict-mpg123":"~>0.1.2","derelict-wintab":"~>0.1.2","dlangui":"~>0.9.46"},"targetType":"executable","version":"0.1.4","name":"soundtab"}
 {"dependencies":{"wasapi":"~>0.1.2","derelict-mpg123":"~>0.1.2","derelict-wintab":"~>0.1.2","dlangui":"~>0.9.46"},"targetType":"executable","version":"0.1.5","name":"soundtab"}
+{"dependencies":{"wasapi":"~>0.1.2","derelict-mpg123":"~>0.1.2","derelict-wintab":"~>0.1.3","dlangui":"~>0.9.46"},"targetType":"executable","version":"~master","commitID":"c52110abfb89098527c345359717c38bce59d8bc","name":"soundtab"}
