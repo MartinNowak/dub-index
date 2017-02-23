@@ -11,3 +11,4 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"},{"targetType":"library","name":"no-build"}],"version":"0.9.4","name":"scriptlike"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"},{"targetType":"library","name":"no-build"}],"version":"0.9.5","name":"scriptlike"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"},{"targetType":"library","name":"no-build"}],"version":"0.9.6","name":"scriptlike"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"},{"targetType":"library","name":"no-build"}],"version":"0.9.7","name":"scriptlike"}
