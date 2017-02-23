@@ -1,0 +1,1 @@
+{"dependencies":{"dsfml":"~>2.1.1"},"targetType":"sourceLibrary","version":"0.0.1","configurations":[{"targetType":"sourceLibrary","name":"default"},{"targetType":"sourceLibrary","name":"unittest"}],"name":"dspine"}
