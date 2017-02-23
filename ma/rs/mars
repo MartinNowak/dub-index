@@ -2,3 +2,4 @@
 {"dependencies":{"ddb":"~>0.2.5","msgpack-d":">=1.0.0-beta.5 <1.1.0-0","vibe-d:core":"0.7.30","vibe-d:http":"0.7.30"},"version":"0.0.2","name":"mars"}
 {"dependencies":{"ddb":"~master","msgpack-d":">=1.0.0-beta.5 <1.1.0-0","vibe-d:core":"0.7.30","vibe-d:http":"0.7.30"},"version":"0.0.3","name":"mars"}
 {"dependencies":{"ddb":"~master","msgpack-d":">=1.0.0-beta.5 <1.1.0-0","vibe-d:core":"0.7.30","vibe-d:http":"0.7.30"},"version":"0.0.4","name":"mars"}
+{"dependencies":{"ddb":"~master","msgpack-d":">=1.0.0-beta.6 <1.1.0-0","vibe-d:core":"0.8.0-beta.3","vibe-d:http":"0.8.0-beta.3"},"version":"0.0.5","name":"mars"}
