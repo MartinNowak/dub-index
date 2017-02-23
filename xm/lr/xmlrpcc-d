@@ -1,3 +1,4 @@
 {"targetType":"library","version":"0.1.1","name":"xmlrpcc-d"}
 {"targetType":"library","version":"0.2.0","name":"xmlrpcc-d"}
 {"targetType":"library","version":"0.2.1","name":"xmlrpcc-d"}
+{"targetType":"library","version":"~master","commitID":"6d4ad6ccec02309e5999e2d0cc5eceb680820f62","name":"xmlrpcc-d"}
