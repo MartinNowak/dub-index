@@ -1,1 +1,2 @@
 {"dependencies":{"derelict-util":">=3.0.0-alpha.2 <3.1.0-0"},"targetType":"library","version":"1.0.0","name":"derelict_extras-jwt"}
+{"dependencies":{"derelict-util":">=3.0.0-alpha.2 <3.1.0-0"},"targetType":"library","version":"~master","commitID":"7eb6cb24e820f3ab35a07b2dec1e7f39483a6cfa","name":"derelict_extras-jwt"}
