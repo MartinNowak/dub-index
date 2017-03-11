@@ -1,2 +1,3 @@
 {"version":"0.1.0","name":"marsrestclient"}
 {"version":"0.2.0","name":"marsrestclient"}
+{"dependencies":{"requests":"~>0.4.0"},"version":"0.3.0-alpha.1","name":"marsrestclient"}
