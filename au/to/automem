@@ -1,1 +1,2 @@
 {"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"test_allocator":"~>0.0.1","unit-threaded":"~>0.7.5"},"targetType":"executable","name":"unittest"}],"targetType":"library","version":"0.0.1","name":"automem"}
+{"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"test_allocator":"~>0.0.1","unit-threaded":"~>0.7.5"},"targetType":"executable","name":"unittest"}],"targetType":"library","version":"0.0.2","name":"automem"}
