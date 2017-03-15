@@ -1,1 +1,2 @@
 {"dependencies":{"eventcore":"~>0.8.4"},"version":"0.0.0","name":"dpromise"}
+{"dependencies":{"eventcore":"~>0.8.4"},"version":"0.0.1","name":"dpromise"}
