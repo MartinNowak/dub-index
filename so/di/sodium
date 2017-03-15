@@ -6,3 +6,4 @@
 {"targetType":"library","version":"0.0.6","name":"sodium"}
 {"configurations":[{"targetType":"sourceLibrary","name":"library"}],"version":"0.0.7","name":"sodium"}
 {"configurations":[{"targetType":"sourceLibrary","name":"library"}],"version":"0.0.8","name":"sodium"}
+{"dependencies":{"sodium:deimos":">=0.0.0"},"targetType":"none","version":"0.1.0","name":"sodium"}
