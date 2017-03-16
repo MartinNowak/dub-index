@@ -1,3 +1,4 @@
 {"dependencies":{"vibe-d:web":"~>0.7.30","antispam":"~>0.1.0","fuzzydate":"~>1.0.0","vibe-d:mongodb":"~>0.7.30"},"version":"1.0.0","name":"diskuto"}
 {"dependencies":{"vibe-d:web":"~>0.7.30","antispam":"~>0.1.0","fuzzydate":"~>1.0.0","vibe-d:mongodb":"~>0.7.30"},"version":"1.1.0","name":"diskuto"}
 {"dependencies":{"vibe-d:web":"~>0.7.30","antispam":"~>0.1.0","fuzzydate":"~>1.0.0","vibe-d:mongodb":"~>0.7.30"},"version":"1.2.0","name":"diskuto"}
+{"dependencies":{"vibe-d:web":"~>0.7.30","diet-ng":"~>1.2","antispam":"~>0.1.0","fuzzydate":"~>1.0.0","vibe-d:mongodb":"~>0.7.30"},"version":"1.3.0","name":"diskuto"}
