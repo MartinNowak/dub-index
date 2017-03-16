@@ -3,3 +3,4 @@
 {"dependencies":{"hdf5-d":"~>0.0.2"},"configurations":[{"targetType":"sourceLibrary","name":"main"},{"targetType":"executable","name":"test"}],"version":"0.0.5","name":"dhdf5-simple"}
 {"dependencies":{"hdf5-d":"~>0.0.2"},"configurations":[{"targetType":"sourceLibrary","name":"main"},{"targetType":"executable","name":"test"}],"version":"0.0.6","name":"dhdf5-simple"}
 {"configurations":[{"targetType":"sourceLibrary","name":"main"},{"targetType":"executable","name":"test"}],"version":"0.0.7","name":"dhdf5-simple"}
+{"configurations":[{"targetType":"sourceLibrary","name":"main"},{"targetType":"executable","name":"test"}],"version":"0.0.8","name":"dhdf5-simple"}
