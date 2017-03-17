@@ -1,3 +1,4 @@
 {"dependencies":{"derelict-fi":"~FreeImage-3.15.x","derelict-sdl2":"~>2.0.2"},"version":"2.0.0","name":"ca-lib2"}
 {"dependencies":{"derelict-fi":"~FreeImage-3.15.x","derelict-sdl2":"~>2.0.2"},"version":"2.0.1","name":"ca-lib2"}
 {"dependencies":{"derelict-fi":"~FreeImage-3.15.x","derelict-sdl2":"~>2.0.2"},"version":"2.0.2","name":"ca-lib2"}
+{"dependencies":{"derelict-fi":"~FreeImage-3.15.x","derelict-sdl2":"~>2.0.2"},"version":"2.1.0","name":"ca-lib2"}
