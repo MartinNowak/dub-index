@@ -1,2 +1,3 @@
 {"dependencies":{"eventcore":"~>0.8.4"},"version":"0.0.0","name":"dpromise"}
 {"dependencies":{"eventcore":"~>0.8.4"},"version":"0.0.1","name":"dpromise"}
+{"dependencies":{"libuv":"~>1.11.0"},"version":"~no-eventcore","commitID":"97c0159e7d3bb52ef6dc8338f4c48328a6844c7f","name":"dpromise"}
