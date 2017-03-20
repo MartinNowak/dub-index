@@ -1,1 +1,2 @@
 {"dependencies":{"vibe-d:data":"~>0.7.30","vibe-d:core":"~>0.7.30","vibe-d:http":"~>0.7.30"},"version":"0.0.1","name":"hb-web"}
+{"dependencies":{"vibe-d:data":"~>0.7.30","vibe-d:core":"~>0.7.30","vibe-d:http":"~>0.7.30"},"version":"~master","commitID":"f97d88f0f7d9988a1c84f7dbab5719475f6f3e68","name":"hb-web"}
