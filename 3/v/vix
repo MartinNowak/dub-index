@@ -1,2 +1,3 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"demo"}],"targetType":"library","version":"1.14.1","name":"vix"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"demo"}],"targetType":"library","version":"1.14.2","name":"vix"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"demo"}],"targetType":"library","version":"~master","commitID":"82425d53947e2fae8b8b0ee42579b9b89eb9d0ed","name":"vix"}
