@@ -7,3 +7,4 @@
 {"targetType":"staticLibrary","version":"0.2.1","name":"exceptions"}
 {"targetType":"staticLibrary","version":"0.2.2","name":"exceptions"}
 {"targetType":"staticLibrary","version":"0.2.3","name":"exceptions"}
+{"targetType":"staticLibrary","version":"~master","commitID":"7127cbbca2a6ca47be20a1c1daecf6eb079cde2e","name":"exceptions"}
