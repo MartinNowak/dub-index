@@ -1,1 +1,2 @@
 {"dependencies":{"requests":"~>0.4.0"},"version":"0.1.0","name":"matrix-client"}
+{"dependencies":{"requests":"~>0.4.0"},"version":"~master","commitID":"e999bec476300629459114d6cdeb529e219a4ab1","name":"matrix-client"}
