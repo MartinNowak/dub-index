@@ -2,3 +2,4 @@
 {"version":"0.2.0","name":"librdkafka"}
 {"version":"~update_version","commitID":"d9b1c12769eff1b8c83baaec010df0faa8e97817","name":"librdkafka"}
 {"version":"0.3.0","name":"librdkafka"}
+{"version":"~master","commitID":"2b3574558b3f43b96f52cbc78af0b09d853ec39a","name":"librdkafka"}
