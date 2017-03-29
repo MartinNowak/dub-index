@@ -1,1 +1,2 @@
 {"configurations":[{"dependencies":{"dlogg":">=0.3.2"},"targetType":"library","name":"default"},{"dependencies":{"dlogg":">=0.3.3"},"targetType":"library","name":"colorized"}],"version":"0.1.0","name":"daemonize"}
+{"configurations":[{"dependencies":{"dlogg":">=0.3.3"},"targetType":"library","name":"default"},{"dependencies":{"dlogg":">=0.3.3"},"targetType":"library","name":"colorized"}],"version":"0.1.1","name":"daemonize"}
