@@ -1,3 +1,4 @@
 {"dependencies":{"derelict-util":">=1.0.0"},"version":"1.0.0","name":"derelict-ogg"}
 {"dependencies":{"derelict-util":">=1.0.3"},"version":"1.0.1","name":"derelict-ogg"}
 {"dependencies":{"derelict-util":"~>2.0.6"},"version":"1.0.2","name":"derelict-ogg"}
+{"dependencies":{"derelict-util":">=3.0.0-alpha.2 <3.1.0-0"},"version":"2.0.0-alpha.1","name":"derelict-ogg"}
