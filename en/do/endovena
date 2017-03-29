@@ -3,3 +3,4 @@
 {"targetType":"library","version":"0.3.0","name":"endovena"}
 {"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":"~>0.4.7"},"targetType":"executable","name":"unittest"}],"targetType":"library","version":"0.3.1","name":"endovena"}
 {"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":"~>0.6.25"},"targetType":"executable","name":"unittest"}],"targetType":"library","version":"0.3.3","name":"endovena"}
+{"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":"~>0.7.8"},"targetType":"executable","name":"unittest"}],"targetType":"library","version":"0.3.4","name":"endovena"}
