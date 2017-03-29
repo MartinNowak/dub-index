@@ -5,3 +5,4 @@
 {"version":"~travis","commitID":"493c6f7384ac6465f817c5b984508a2b0692a2b8","name":"lincount"}
 {"dependencies":{"mir-algorithm":"~>0.0.13"},"version":"0.0.3","name":"lincount"}
 {"dependencies":{"mir-algorithm":"~>0.4.2"},"version":"0.1.0","name":"lincount"}
+{"dependencies":{"mir-algorithm":"~>0.4.2"},"version":"~master","commitID":"725d3aad61e0c38a0529524f43f52dc2e7be680f","name":"lincount"}
