@@ -9,3 +9,4 @@
 {"dependencies":{"derelict-fi":"~FreeImage-3.15.x","derelict-sdl2":"~>2.0.2"},"version":"2.3.3","name":"ca-lib2"}
 {"dependencies":{"derelict-fi":"~FreeImage-3.15.x","derelict-sdl2":"~>2.0.2"},"version":"2.3.4","name":"ca-lib2"}
 {"dependencies":{"derelict-fi":"~FreeImage-3.15.x","derelict-sdl2":"~>2.0.2"},"version":"2.3.5","name":"ca-lib2"}
+{"dependencies":{"derelict-fi":"~FreeImage-3.15.x","derelict-sdl2":"~>2.0.2"},"version":"~master","commitID":"7ec5a87d4cdb9d6e000264f43718b7dfc35734a2","name":"ca-lib2"}
