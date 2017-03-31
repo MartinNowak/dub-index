@@ -2,3 +2,4 @@
 {"targetType":"library","version":"0.0.2","name":"miao-string"}
 {"targetType":"library","version":"0.0.3","name":"miao-string"}
 {"targetType":"library","version":"0.0.4","name":"miao-string"}
+{"targetType":"library","version":"~master","commitID":"534cf528489de263bef3043e7b075ebf4625bd1e","name":"miao-string"}
