@@ -1,1 +1,2 @@
 {"dependencies":{"libasync":"~>0.8.3"},"version":"0.0.1","name":"workermanager"}
+{"dependencies":{"libasync":"~>0.8.3"},"version":"~master","commitID":"c94f6512364e54635e0565062dfee94e6ac3c594","name":"workermanager"}
