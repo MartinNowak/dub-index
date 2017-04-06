@@ -6,3 +6,4 @@
 {"dependencies":{"vibe-d":"~>0.7.29","kxml":"~>1.0.1","memutils":"~>0.4.7"},"targetType":"library","version":"0.0.4","name":"vibe-s3"}
 {"dependencies":{"vibe-d":"~>0.7.29","kxml":"~>1.0.1","memutils":"~>0.4.7"},"targetType":"library","version":"0.0.5","name":"vibe-s3"}
 {"dependencies":{"vibe-d":"~>0.7.29","kxml":"~>1.0.1","memutils":"~>0.4.7"},"targetType":"library","version":"0.0.6","name":"vibe-s3"}
+{"dependencies":{"vibe-d":"~>0.7.29","kxml":"~>1.0.1","memutils":"~>0.4.7"},"targetType":"library","version":"0.0.7","name":"vibe-s3"}
