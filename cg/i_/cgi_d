@@ -1,2 +1,3 @@
 {"configurations":[{"targetType":"library","name":"lib"},{"targetType":"executable","name":"test_app"}],"version":"0.1.1","name":"cgi_d"}
 {"configurations":[{"targetType":"library","name":"lib"},{"targetType":"executable","name":"test_app"}],"version":"0.1.3","name":"cgi_d"}
+{"configurations":[{"targetType":"library","name":"lib"},{"targetType":"executable","name":"test_app"}],"version":"0.1.4","name":"cgi_d"}
