@@ -5,3 +5,4 @@
 {"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"test_allocator":"~>0.0.1","unit-threaded":"~>0.7.5"},"targetType":"executable","name":"unittest"}],"targetType":"library","version":"0.0.5","name":"automem"}
 {"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"test_allocator":"~>0.0.2","unit-threaded":"~>0.7.11"},"targetType":"executable","name":"unittest"}],"targetType":"library","version":"0.0.6","name":"automem"}
 {"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"test_allocator":"~>0.0.2","unit-threaded":"~>0.7.11"},"targetType":"executable","name":"unittest"}],"targetType":"library","version":"0.0.7","name":"automem"}
+{"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"test_allocator":"~>0.0.2","unit-threaded":"~>0.7.11"},"targetType":"executable","name":"unittest"}],"targetType":"library","version":"0.0.8","name":"automem"}
