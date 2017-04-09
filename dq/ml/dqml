@@ -1,2 +1,3 @@
 {"targetType":"sourceLibrary","version":"0.4.5","name":"dqml"}
 {"configurations":[{"targetType":"sourceLibrary","name":"library"},{"targetType":"sourceLibrary","name":"library-static"}],"targetType":"sourceLibrary","version":"0.5.0","name":"dqml"}
+{"configurations":[{"targetType":"sourceLibrary","name":"library"},{"targetType":"sourceLibrary","name":"library-static"}],"targetType":"sourceLibrary","version":"0.6.0","name":"dqml"}
