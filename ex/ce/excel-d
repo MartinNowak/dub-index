@@ -2,3 +2,4 @@
 {"configurations":[{"targetType":"sourceLibrary","name":"sourceLibrary"},{"dependencies":{"unit-threaded":"~>0.7.3"},"targetType":"executable","name":"unittest"}],"targetType":"sourceLibrary","version":"0.0.2","name":"excel-d"}
 {"configurations":[{"targetType":"sourceLibrary","name":"sourceLibrary"},{"dependencies":{"unit-threaded":"~>0.7.3"},"targetType":"executable","name":"unittest"}],"targetType":"sourceLibrary","version":"0.0.3","name":"excel-d"}
 {"configurations":[{"targetType":"sourceLibrary","name":"sourceLibrary"},{"dependencies":{"unit-threaded":"~>0.7.3"},"targetType":"executable","name":"unittest"}],"targetType":"sourceLibrary","version":"0.0.4","name":"excel-d"}
+{"configurations":[{"targetType":"sourceLibrary","name":"sourceLibrary"},{"dependencies":{"unit-threaded":"~>0.7.3"},"targetType":"executable","name":"unittest"}],"targetType":"sourceLibrary","version":"0.0.5","name":"excel-d"}
