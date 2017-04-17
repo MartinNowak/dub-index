@@ -1,0 +1,1 @@
+{"configurations":[{"targetType":"library","name":"lib"},{"targetType":"executable","name":"test"},{"targetType":"executable","name":"benchmark-carsales"},{"targetType":"executable","name":"benchmark-catrank"},{"targetType":"executable","name":"benchmark-eval"}],"version":"0.1.2","name":"capnproto-dlang"}
