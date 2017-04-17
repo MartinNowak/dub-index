@@ -14,3 +14,4 @@
 {"dependencies":{"derelict-util":">=1.9.1"},"version":"2.0.2","name":"derelict-fmod"}
 {"dependencies":{"derelict-util":">=1.9.1"},"version":"2.0.3","name":"derelict-fmod"}
 {"dependencies":{"derelict-util":">=1.9.1"},"version":"2.0.4","name":"derelict-fmod"}
+{"dependencies":{"derelict-util":">=1.9.1"},"version":"3.0.0","name":"derelict-fmod"}
