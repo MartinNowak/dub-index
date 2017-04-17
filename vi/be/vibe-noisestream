@@ -1,2 +1,3 @@
 {"dependencies":{"sodium:deimos":"~>0.1.1","vibe-d":"0.7.31-beta.2"},"targetType":"library","version":"0.1.0","name":"vibe-noisestream"}
 {"dependencies":{"sodium:deimos":"~>0.1.1","vibe-d":"~>0.7.30"},"targetType":"library","version":"0.1.1","name":"vibe-noisestream"}
+{"dependencies":{"sodium:deimos":"~>0.1.1","vibe-d":"~>0.7.30"},"targetType":"library","version":"~master","commitID":"608848df2e49d75be37e616183ffcf9273ebea3a","name":"vibe-noisestream"}
