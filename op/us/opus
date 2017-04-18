@@ -1,2 +1,3 @@
 {"version":"0.0.1","name":"opus"}
 {"version":"0.0.2","name":"opus"}
+{"configurations":[{"targetType":"library","name":"opus-dynamic"},{"targetType":"library","name":"opus-static-x64"}],"version":"0.0.3","name":"opus"}
