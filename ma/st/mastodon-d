@@ -5,3 +5,4 @@
 {"targetType":"library","version":"0.0.5","name":"mastodon-d"}
 {"targetType":"library","version":"0.0.6","name":"mastodon-d"}
 {"targetType":"library","version":"0.0.7","name":"mastodon-d"}
+{"targetType":"library","version":"~master","commitID":"fd4f98cf5288f9c9b22c441b1cfb4f687e20abd1","name":"mastodon-d"}
