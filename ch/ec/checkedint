@@ -15,3 +15,4 @@
 {"subPackages":[{"dependencies":{"checkedint":">=0.0.0"},"targetType":"executable","name":"tests"}],"targetType":"library","version":"0.5.1","name":"checkedint"}
 {"subPackages":[{"dependencies":{"checkedint":">=0.0.0"},"targetType":"executable","name":"tests"}],"targetType":"library","version":"0.5.2","name":"checkedint"}
 {"subPackages":[{"dependencies":{"checkedint":">=0.0.0"},"targetType":"executable","name":"tests"}],"targetType":"library","version":"0.5.3","name":"checkedint"}
+{"subPackages":[{"dependencies":{"checkedint":">=0.0.0"},"targetType":"executable","name":"tests"}],"targetType":"library","version":"~master","commitID":"a3304de110ba970c6b745e57625f39044de864de","name":"checkedint"}
