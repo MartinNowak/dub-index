@@ -6,3 +6,4 @@
 {"configurations":[{"targetType":"sourceLibrary","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"0.0.6","name":"mrss"}
 {"configurations":[{"targetType":"sourceLibrary","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"0.0.7","name":"mrss"}
 {"configurations":[{"targetType":"sourceLibrary","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"0.1.0","name":"mrss"}
+{"configurations":[{"targetType":"sourceLibrary","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"~master","commitID":"1b8083e7049cafd0c88a969140080b7390b410ef","name":"mrss"}
