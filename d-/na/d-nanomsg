@@ -5,3 +5,4 @@
 {"targetType":"library","version":"~cleanfiles","commitID":"f48cadee9cd5f8be8f0f9bdb1e788698b157acd1","name":"d-nanomsg"}
 {"targetType":"library","version":"0.1.2","name":"d-nanomsg"}
 {"targetType":"library","version":"0.2.0","name":"d-nanomsg"}
+{"configurations":[{"targetType":"sourceLibrary","name":"sourceLibrary"},{"targetType":"library","name":"library"},{"targetType":"dynamicLibrary","name":"dynamicLibrary"}],"targetType":"library","version":"~master","commitID":"25134501a392d901ae2cb37fc8071bbbcbcddd0a","name":"d-nanomsg"}
