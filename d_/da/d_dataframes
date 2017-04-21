@@ -1,1 +1,2 @@
 {"dependencies":{"d_hdf5":"~master"},"targetType":"executable","version":"0.0.10","name":"d_dataframes"}
+{"dependencies":{"d_hdf5":"~master"},"targetType":"executable","version":"~master","commitID":"c01a2259624049e6cb1ee5678a21dbbb5de303f3","name":"d_dataframes"}
