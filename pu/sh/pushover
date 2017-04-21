@@ -4,3 +4,4 @@
 {"version":"0.2.1","name":"pushover"}
 {"version":"0.3.0","name":"pushover"}
 {"version":"0.3.1","name":"pushover"}
+{"version":"~master","commitID":"b32c4baac6d0ff36ded82ceaad69de1128293a2c","name":"pushover"}
