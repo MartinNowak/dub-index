@@ -1,3 +1,4 @@
 {"dependencies":{"librdkafka":"~>0.3.0"},"version":"0.0.1","name":"librdkafka-d"}
 {"dependencies":{"librdkafka":"~>0.3.1"},"version":"0.2.0","name":"librdkafka-d"}
 {"dependencies":{"librdkafka":"~>0.3.1"},"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"vibe-d":"~>0.7.30"},"targetType":"library","name":"vibe-d"}],"version":"0.2.2","name":"librdkafka-d"}
+{"dependencies":{"librdkafka":"~>0.3.1"},"version":"0.3.0","name":"librdkafka-d"}
