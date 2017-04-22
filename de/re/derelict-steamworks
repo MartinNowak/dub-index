@@ -4,3 +4,4 @@
 {"dependencies":{"derelict-util":"~>2.0.3"},"version":"0.0.4","name":"derelict-steamworks"}
 {"dependencies":{"derelict-util":"~>2.0.3"},"version":"~feature/new_structure","commitID":"476cc4d11f415c3c52cc80755ee964d164f5d75f","name":"derelict-steamworks"}
 {"dependencies":{"derelict-util":"~>2.0.3"},"version":"0.0.5","name":"derelict-steamworks"}
+{"dependencies":{"derelict-util":"~>2.0.3"},"version":"0.0.6","name":"derelict-steamworks"}
