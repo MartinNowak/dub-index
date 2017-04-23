@@ -6,3 +6,4 @@
 {"dependencies":{"derelict-util":"~>2.0.3"},"version":"0.0.5","name":"derelict-steamworks"}
 {"dependencies":{"derelict-util":"~>2.0.3"},"version":"0.0.6","name":"derelict-steamworks"}
 {"dependencies":{"derelict-util":"~>2.0.3"},"version":"0.0.7","name":"derelict-steamworks"}
+{"dependencies":{"derelict-util":"~>2.0.3"},"version":"0.0.8","name":"derelict-steamworks"}
