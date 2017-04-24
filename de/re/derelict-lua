@@ -8,3 +8,4 @@
 {"dependencies":{"derelict-util":"~>2.0.4"},"version":"~5.3","commitID":"ca8f678324173e3c1850f80e1a5a89dc79a914e9","name":"derelict-lua"}
 {"dependencies":{"derelict-util":">=3.0.0-alpha.2 <3.1.0-0"},"version":"2.0.0-alpha.2","name":"derelict-lua"}
 {"dependencies":{"derelict-util":"~>2.0.4"},"version":"1.2.4","name":"derelict-lua"}
+{"dependencies":{"derelict-util":"~>2.0.4"},"version":"~5.2","commitID":"bf97253ec156b15d1599f36c7c80659e6a9c8df3","name":"derelict-lua"}
