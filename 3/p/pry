@@ -3,3 +3,4 @@
 {"targetType":"library","version":"0.3.0","name":"pry"}
 {"targetType":"library","version":"0.3.1","name":"pry"}
 {"targetType":"library","version":"0.3.2","name":"pry"}
+{"targetType":"library","version":"~master","commitID":"c9c014471c6cb20a8c088977fd856a93de76ecaf","name":"pry"}
