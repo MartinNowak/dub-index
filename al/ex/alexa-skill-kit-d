@@ -16,3 +16,4 @@
 {"dependencies":{"vibe-d":"~>0.7.30"},"targetType":"library","version":"0.4.7","configurations":[{"targetType":"library","name":"lib"},{"targetType":"library","name":"ddox"}],"name":"alexa-skill-kit-d"}
 {"dependencies":{"vibe-d":"~>0.7.30"},"targetType":"library","version":"0.4.8","configurations":[{"targetType":"library","name":"lib"},{"targetType":"library","name":"ddox"}],"name":"alexa-skill-kit-d"}
 {"dependencies":{"vibe-d":"~>0.7.30"},"targetType":"library","version":"0.4.9","configurations":[{"targetType":"library","name":"lib"},{"targetType":"library","name":"ddox"}],"name":"alexa-skill-kit-d"}
+{"dependencies":{"vibe-d":"~>0.7.30"},"targetType":"library","version":"0.4.10","configurations":[{"targetType":"library","name":"lib"},{"targetType":"library","name":"ddox"}],"name":"alexa-skill-kit-d"}
