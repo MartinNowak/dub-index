@@ -1,0 +1,1 @@
+{"configurations":[{"targetType":"sourceLibrary","name":"posix"},{"targetType":"sourceLibrary","name":"windows"}],"targetType":"sourceLibrary","version":"3.0.0","name":"dwtlib"}
