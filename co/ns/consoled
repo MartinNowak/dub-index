@@ -3,3 +3,4 @@
 {"targetType":"library","version":"1.0.1","name":"consoled"}
 {"targetType":"library","version":"1.0.3","name":"consoled"}
 {"targetType":"library","version":"1.0.4","name":"consoled"}
+{"dependencies":{"arsd-official:terminal":"~master"},"targetType":"library","version":"~master","commitID":"a694b27aab8f8bcfa3b5bf2e730919f98bd2efe7","name":"consoled"}
