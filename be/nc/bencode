@@ -1,2 +1,3 @@
 {"targetType":"library","version":"1.0.0","name":"bencode"}
 {"targetType":"library","version":"~master","commitID":"a647f8a74f0594551c90375fc5d9101a2a2c2cdf","name":"bencode"}
+{"targetType":"library","version":"1.0.1","name":"bencode"}
