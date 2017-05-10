@@ -3,3 +3,4 @@
 {"targetType":"library","version":"~developer","commitID":"598309f16986b2994a4ef607d23512fd0e80b3a1","name":"directx-d"}
 {"targetType":"library","version":"0.10.0","name":"directx-d"}
 {"targetType":"library","version":"0.11.0","name":"directx-d"}
+{"targetType":"library","version":"0.12.0","name":"directx-d"}
