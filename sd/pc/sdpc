@@ -1,2 +1,3 @@
 {"targetType":"library","version":"0.1.0","name":"sdpc"}
 {"targetType":"library","version":"0.1.1","name":"sdpc"}
+{"targetType":"library","version":"~master","commitID":"40b26a1a4d6f8b29d131fb1fd19af5e8f049d93e","name":"sdpc"}
