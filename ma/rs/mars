@@ -26,3 +26,4 @@
 {"dependencies":{"ddb":">=0.2.6","vibe-d:core":">=0.8.0-beta.5","vibe-d:http":">=0.8.0-beta.5"},"version":"0.0.26","name":"mars"}
 {"dependencies":{"ddb":"~master","vibe-d:core":">=0.7.31","vibe-d:http":">=0.7.31"},"version":"0.0.27","name":"mars"}
 {"dependencies":{"ddb":"~master","vibe-d:core":">=0.7.31","vibe-d:http":">=0.7.31"},"version":"0.0.28","name":"mars"}
+{"dependencies":{"ddb":"~master","vibe-d:core":">=0.7.31","vibe-d:http":">=0.7.31"},"version":"0.0.29","name":"mars"}
