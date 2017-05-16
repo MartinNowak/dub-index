@@ -6,3 +6,4 @@
 {"dependencies":{"vibe-d":"~>0.7.28"},"targetType":"sourceLibrary","version":"0.2.5","name":"cheetah"}
 {"dependencies":{"vibe-d":"~>0.7.28"},"targetType":"sourceLibrary","version":"0.2.6","name":"cheetah"}
 {"dependencies":{"vibe-d":"~>0.7.28"},"targetType":"sourceLibrary","version":"~master","commitID":"9646fd407d274a94c37dc1b0297541963aeb3e6d","name":"cheetah"}
+{"dependencies":{"vibe-d":"~>0.7.28"},"targetType":"sourceLibrary","version":"~v0.2.6","commitID":"9646fd407d274a94c37dc1b0297541963aeb3e6d","name":"cheetah"}
