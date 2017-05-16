@@ -1,1 +1,2 @@
 {"subPackages":[{"dependencies":{"tinyendian":"~>0.1.0"},"targetType":"executable","name":"test"}],"dependencies":{"tinyendian":"~>0.1.0"},"version":"~dev","commitID":"bf3478aa88f19d7c2f0d088e92aaf8142c6dc229","name":"yaml-d"}
+{"subPackages":[{"dependencies":{"tinyendian":"~>0.1.0"},"targetType":"executable","name":"test"}],"dependencies":{"tinyendian":"~>0.1.0"},"version":"~master","commitID":"3fdab9de81ed8dd21c4c37be4bbba6fbe9b76a14","name":"yaml-d"}
