@@ -5,3 +5,4 @@
 {"dependencies":{"vibe-d":"~>0.7.30"},"version":"0.1.4","name":"openwebif-client-d"}
 {"dependencies":{"vibe-d":"~>0.7.30"},"version":"0.1.5","name":"openwebif-client-d"}
 {"dependencies":{"vibe-d":"~>0.7.30"},"version":"0.1.6","name":"openwebif-client-d"}
+{"dependencies":{"vibe-d":"~>0.7.30"},"version":"~master","commitID":"a8ca397d0e855ca82152fe2599134d64b3e8579f","name":"openwebif-client-d"}
