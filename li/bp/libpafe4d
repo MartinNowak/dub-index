@@ -1,1 +1,2 @@
 {"dependencies":{"libusb-d":">=0.0.0"},"version":"0.0.1","name":"libpafe4d"}
+{"dependencies":{"libusb-d":">=0.0.0"},"version":"~master","commitID":"950ea8aaeb86c9bf6eb96fdd38c469cb7a097d95","name":"libpafe4d"}
