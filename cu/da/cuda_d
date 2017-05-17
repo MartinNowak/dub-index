@@ -1,0 +1,1 @@
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"sourceLibrary","name":"source"},{"targetType":"staticLibrary","name":"static"},{"targetType":"dynamicLibrary","name":"dynamic"},{"targetType":"executable","name":"binary"}],"version":"0.1.0","name":"cuda_d"}
