@@ -1,0 +1,1 @@
+{"subPackages":[{"dependencies":{"xymodem":">=0.0.0"},"targetType":"executable","name":"integration_test"}],"targetType":"sourceLibrary","version":"0.0.1","name":"xymodem"}
