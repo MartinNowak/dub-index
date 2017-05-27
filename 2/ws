@@ -7,3 +7,4 @@
 {"dependencies":{"derelict-gl3":">=1.0.0","derelict-ft":"1.0.2","derelict-fi":">=1.0.0","x11":">=1.0.8"},"targetType":"library","version":"1.0.6","name":"ws"}
 {"dependencies":{"derelict-gl3":">=1.0.0","derelict-ft":"1.0.2","derelict-fi":">=1.0.0","x11":">=1.0.8"},"targetType":"library","version":"1.0.7","name":"ws"}
 {"dependencies":{"derelict-gl3":">=1.0.0","derelict-ft":"1.0.2","derelict-fi":">=1.0.0","x11":">=1.0.14"},"targetType":"library","version":"1.0.8","name":"ws"}
+{"dependencies":{"derelict-gl3":">=1.0.19","derelict-ft":"1.0.2","derelict-fi":">=1.0.0","x11":">=1.0.14"},"targetType":"library","version":"1.0.9","name":"ws"}
