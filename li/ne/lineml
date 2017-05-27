@@ -1,2 +1,3 @@
 {"dependencies":{"fluent-asserts:core":"~>0.3.0","pegged":"~>0.4.1"},"targetType":"library","version":"0.9.0","name":"lineml"}
 {"dependencies":{"fluent-asserts:core":"~>0.3.0","pegged":"~>0.4.1"},"targetType":"library","version":"0.9.8","name":"lineml"}
+{"dependencies":{"fluent-asserts":"~>0.4.1","pegged":"~>0.4.1"},"targetType":"library","version":"~master","commitID":"3e76fe8ef8ac137b1fc32c0dd5b84fdc154a9d1d","name":"lineml"}
