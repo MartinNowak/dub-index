@@ -1,1 +1,2 @@
 {"dependencies":{"lapack77":"~>0.0.1","mir-algorithm":"~>0.6.5"},"targetType":"sourceLibrary","version":"0.0.1","name":"mir-lapack"}
+{"dependencies":{"lapack":"~>0.0.2","mir-algorithm":"~>0.6.5"},"targetType":"sourceLibrary","version":"0.0.2","name":"mir-lapack"}
