@@ -18,3 +18,4 @@
 {"dependencies":{"tcltk":">=8.6.5"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"example"}],"version":"1.1.8","name":"tkd"}
 {"dependencies":{"tcltk":">=8.6.5"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"example"}],"version":"1.1.9","name":"tkd"}
 {"dependencies":{"tcltk":">=8.6.5"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"example"}],"version":"1.1.10","name":"tkd"}
+{"dependencies":{"tcltk":">=8.6.5"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"example"}],"version":"~master","commitID":"35e1d91c24a73a0abd0ca8cbac017e4694ae49ff","name":"tkd"}
