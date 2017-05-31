@@ -1,0 +1,1 @@
+{"subPackages":[{"targetType":"sourceLibrary","name":"gl2"},{"targetType":"sourceLibrary","name":"gl3"},{"targetType":"sourceLibrary","name":"gl4"},{"targetType":"sourceLibrary","name":"gl2-static"},{"targetType":"sourceLibrary","name":"gl3-static"},{"targetType":"sourceLibrary","name":"gl4-static"}],"targetType":"none","version":"1.0.0","name":"opengl"}
