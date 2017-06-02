@@ -2,3 +2,4 @@
 {"version":"0.0.2","name":"opus"}
 {"configurations":[{"targetType":"library","name":"opus-dynamic"},{"targetType":"library","name":"opus-static-x64"}],"version":"0.0.3","name":"opus"}
 {"version":"~master","commitID":"1590d683f9b8e20643ec2b23d1583b2d7450e2a7","name":"opus"}
+{"version":"1.0.0","name":"opus"}
