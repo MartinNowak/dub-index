@@ -9,3 +9,4 @@
 {"dependencies":{"opus":"~>0.0.2"},"version":"0.0.9","name":"dcad"}
 {"dependencies":{"opus":"~>0.0.3"},"version":"0.0.10","name":"dcad"}
 {"dependencies":{"opus":"~>1.0.0"},"version":"~master","commitID":"47dd3fad0efac822289ce765e5337f216ed2d9b4","name":"dcad"}
+{"dependencies":{"opus":"~>1.0.0"},"version":"1.0.0","name":"dcad"}
