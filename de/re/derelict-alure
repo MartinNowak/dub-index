@@ -3,3 +3,4 @@
 {"dependencies":{"derelict-util":"~>2.0.6","derelict-al":"~>1.0.3"},"version":"1.0.2","name":"derelict-alure"}
 {"dependencies":{"derelict-util":"~>2.0.6","derelict-al":"~>1.0.3"},"version":"~1.2","commitID":"e51459046bddf2b222c3ac888859890f3630de4b","name":"derelict-alure"}
 {"dependencies":{"derelict-util":">=3.0.0-alpha.2 <3.1.0-0","derelict-al":">=2.0.0-alpha.1 <2.1.0-0"},"version":"2.0.0-alpha.1","name":"derelict-alure"}
+{"dependencies":{"derelict-al":">=2.0.0-beta.1 <2.1.0-0"},"version":"2.0.0-beta.1","name":"derelict-alure"}
