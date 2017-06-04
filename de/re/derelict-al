@@ -5,3 +5,4 @@
 {"dependencies":{"derelict-util":"~>2.0.6"},"version":"~1.1","commitID":"a40c66c491c053dca879dbcd199f3f365e28643d","name":"derelict-al"}
 {"dependencies":{"derelict-util":">=3.0.0-alpha.2 <3.1.0-0"},"version":"2.0.0-alpha.1","name":"derelict-al"}
 {"configurations":[{"dependencies":{"derelict-util":">=3.0.0-alpha.2 <3.1.0-0"},"targetType":"library","name":"derelict-al-dynamic"},{"targetType":"library","name":"derelict-al-static"}],"targetType":"library","version":"2.0.0-alpha.2","name":"derelict-al"}
+{"configurations":[{"dependencies":{"derelict-util":">=3.0.0-beta.1 <3.1.0-0"},"targetType":"library","name":"derelict-al-dynamic"},{"targetType":"library","name":"derelict-al-static"}],"targetType":"library","version":"2.0.0-beta.1","name":"derelict-al"}
