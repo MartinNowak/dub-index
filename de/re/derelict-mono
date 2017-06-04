@@ -1,1 +1,2 @@
 {"dependencies":{"derelict-util":">=2.0.4 <3.1.0"},"version":"1.0.0","name":"derelict-mono"}
+{"configurations":[{"dependencies":{"derelict-util":">=2.0.4 <3.1.0"},"targetType":"library","name":"derelict-mono-dynamic"},{"targetType":"library","name":"derelict-mono-static"}],"version":"1.1.0","name":"derelict-mono"}
