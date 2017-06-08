@@ -33,3 +33,4 @@
 {"dependencies":{"derelict-util":"~>2"},"version":"1.0.1","name":"derelict-cocoa"}
 {"dependencies":{"derelict-util":"~>2"},"version":"1.0.3","name":"derelict-cocoa"}
 {"dependencies":{"dplug:derelict-nogc":"~>4"},"version":"2.0.0","name":"derelict-cocoa"}
+{"dependencies":{"derelict-util":">=3.0.0-beta.1 <3.1.0-0"},"version":"~master","commitID":"62f8f99201e1a2932728b1bb070d613cd634e0d7","name":"derelict-cocoa"}
