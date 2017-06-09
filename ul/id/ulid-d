@@ -1,0 +1,1 @@
+{"configurations":[{"dependencies":{"fluent-asserts":"~>0.5"},"targetType":"library","name":"unittest"}],"version":"0.0.1","name":"ulid-d"}
