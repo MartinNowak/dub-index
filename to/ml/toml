@@ -1,2 +1,3 @@
 {"subPackages":[{"dependencies":{"toml":">=0.0.0"},"name":"json"}],"version":"0.4.0-rc.1","name":"toml"}
 {"subPackages":[{"dependencies":{"toml":">=0.0.0"},"name":"json"}],"version":"0.4.0-rc.2","name":"toml"}
+{"subPackages":[{"dependencies":{"toml":">=0.0.0"},"name":"json"}],"version":"0.4.0-rc.3","name":"toml"}
