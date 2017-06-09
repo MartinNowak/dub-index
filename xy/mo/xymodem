@@ -1,3 +1,4 @@
 {"subPackages":[{"dependencies":{"xymodem":">=0.0.0"},"targetType":"executable","name":"integration_test"}],"targetType":"sourceLibrary","version":"0.0.1","name":"xymodem"}
 {"subPackages":[{"dependencies":{"xymodem":">=0.0.0"},"targetType":"executable","name":"integration_test"}],"targetType":"sourceLibrary","version":"0.0.2","name":"xymodem"}
 {"subPackages":[{"dependencies":{"xymodem":">=0.0.0"},"targetType":"executable","name":"integration_test"}],"targetType":"sourceLibrary","version":"~master","commitID":"f6c248221c2926e32261fde1d3e4e58433032748","name":"xymodem"}
+{"subPackages":[{"dependencies":{"xymodem":">=0.0.0"},"targetType":"executable","name":"integration_test"}],"targetType":"sourceLibrary","version":"0.0.3","name":"xymodem"}
