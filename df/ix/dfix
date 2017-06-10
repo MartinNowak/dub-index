@@ -5,3 +5,4 @@
 {"dependencies":{"libdparse":">=0.1.1"},"targetType":"executable","version":"0.2.2","name":"dfix"}
 {"dependencies":{"libdparse":">=0.2.1"},"targetType":"executable","version":"0.3.0","name":"dfix"}
 {"dependencies":{"libdparse":"~>0.3.0"},"targetType":"executable","version":"0.3.1","name":"dfix"}
+{"dependencies":{"libdparse":"~>0.7.0"},"targetType":"executable","version":"0.3.2","name":"dfix"}
