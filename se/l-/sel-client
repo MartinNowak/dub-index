@@ -1,1 +1,2 @@
 {"dependencies":{"sel-utils":"1.2.27"},"version":"0.0.1","name":"sel-client"}
+{"dependencies":{"sel-utils":"~>1.2.48","sel-stream":"~>0.0.1"},"version":"0.1.0","name":"sel-client"}
