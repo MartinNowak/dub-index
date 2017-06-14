@@ -1,1 +1,2 @@
 {"targetType":"library","version":"1.0.0","name":"sqlite3"}
+{"targetType":"library","version":"~master","commitID":"996ae7943a893a23ca6d571ef573c9f6ac51114a","name":"sqlite3"}
