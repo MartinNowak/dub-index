@@ -9,3 +9,4 @@
 {"dependencies":{"derelict-util":">=1.0.0"},"version":"1.1.2","name":"derelict-ode"}
 {"dependencies":{"derelict-util":">=1.0.0"},"version":"~0.13.1","commitID":"daa576d87f18b94fa714ddcf31bb7ccce8c18c46","name":"derelict-ode"}
 {"dependencies":{"derelict-util":">=1.0.0"},"version":"2.0.0","name":"derelict-ode"}
+{"dependencies":{"derelict-util":"~>2.0.6"},"targetType":"library","version":"~0.14","commitID":"895a5efff452bbbb5d87c8fbbc9089d337c7ffdc","name":"derelict-ode"}
