@@ -12,3 +12,4 @@
 {"dependencies":{"derelict-util":"~>2.0.6"},"targetType":"library","version":"~0.14","commitID":"895a5efff452bbbb5d87c8fbbc9089d337c7ffdc","name":"derelict-ode"}
 {"dependencies":{"derelict-util":"~>2.0.6"},"targetType":"library","version":"2.0.1","name":"derelict-ode"}
 {"dependencies":{"derelict-util":">=3.0.0-beta.1 <3.1.0-0"},"targetType":"library","version":"~3.0","configurations":[{"targetType":"library","name":"ode-single"},{"targetType":"library","name":"ode-double"}],"commitID":"b97ecacd99d3a0208c7ff76840b261cc74c252ff","name":"derelict-ode"}
+{"dependencies":{"derelict-util":">=3.0.0-beta.1 <3.1.0-0"},"targetType":"library","version":"3.0.0-beta.1","configurations":[{"targetType":"library","name":"ode-single"},{"targetType":"library","name":"ode-double"}],"name":"derelict-ode"}
