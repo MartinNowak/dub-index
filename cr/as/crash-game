@@ -1,2 +1,3 @@
 {"dependencies":{"dgame":"~>0.6"},"version":"0.1.0","name":"crash-game"}
 {"dependencies":{"dgame":"~>0.6"},"version":"0.1.1","name":"crash-game"}
+{"dependencies":{"dgame":"~>0.6"},"version":"~master","commitID":"8542a74a27d2e11c40c6cb265f7729d2a5bc2401","name":"crash-game"}
