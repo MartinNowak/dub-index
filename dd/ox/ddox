@@ -59,3 +59,4 @@
 {"dependencies":{"hyphenate":"~>1.1.0","libdparse":">=0.7.0-beta.2 <0.8.0-0","vibe-d:web":"~>0.7.28"},"version":"0.15.17","name":"ddox"}
 {"dependencies":{"hyphenate":"~>1.1.0","libdparse":">=0.7.0-beta.2 <0.8.0-0","vibe-d:web":"~>0.7.28"},"version":"0.15.18","name":"ddox"}
 {"dependencies":{"hyphenate":"~>1.1.0","libdparse":">=0.7.0-beta.2 <0.8.0-0","vibe-d:web":">=0.7.31-beta <0.8.0-0"},"version":"0.16.0","name":"ddox"}
+{"dependencies":{"hyphenate":"~>1.1.0","libdparse":">=0.7.0-beta.2 <0.8.0-0","vibe-d:web":">=0.7.31-beta <0.8.0-0"},"version":"0.16.1","name":"ddox"}
