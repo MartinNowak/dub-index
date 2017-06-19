@@ -4,3 +4,4 @@
 {"targetType":"sourceLibrary","version":"1.1.1","name":"rdub"}
 {"targetType":"sourceLibrary","version":"2.0.0","name":"rdub"}
 {"targetType":"executable","version":"3.0.0","name":"rdub"}
+{"targetType":"executable","version":"~master","commitID":"60a8411a68bd1b6cbebef8c162df8ae790d0e52e","name":"rdub"}
