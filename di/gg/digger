@@ -2,3 +2,4 @@
 {"subPackages":[{"dependencies":{"ae":"0.0.1923"},"targetType":"executable","name":"web"}],"dependencies":{"ae":"0.0.1923"},"targetType":"executable","version":"3.0.0-alpha-2","name":"digger"}
 {"subPackages":[{"dependencies":{"ae":"0.0.1948"},"targetType":"executable","name":"web"}],"dependencies":{"ae":"0.0.1948"},"targetType":"executable","version":"3.0.0-alpha-3","name":"digger"}
 {"subPackages":[{"dependencies":{"ae":"0.0.1949"},"targetType":"executable","name":"web"}],"dependencies":{"ae":"0.0.1949"},"targetType":"executable","version":"3.0.0-alpha-4","name":"digger"}
+{"subPackages":[{"dependencies":{"ae":"0.0.1959"},"targetType":"executable","name":"web"}],"dependencies":{"ae":"0.0.1959"},"targetType":"executable","version":"3.0.0-alpha-5","name":"digger"}
