@@ -11,3 +11,4 @@
 {"configurations":[{"dependencies":{"serialport":"~>0.2.0"},"targetType":"library","name":"serialport"},{"targetType":"library","name":"custom"}],"targetType":"library","version":"0.4.1","name":"modbus"}
 {"configurations":[{"dependencies":{"serialport":"~>0.2.0"},"targetType":"library","name":"serialport"},{"targetType":"library","name":"custom"}],"targetType":"library","version":"0.5.0","name":"modbus"}
 {"configurations":[{"dependencies":{"serialport":"~>0.2.1"},"targetType":"library","name":"serialport"},{"targetType":"library","name":"custom"}],"targetType":"library","version":"0.5.1","name":"modbus"}
+{"configurations":[{"dependencies":{"serialport":"~>0.2.1"},"targetType":"library","name":"serialport"},{"targetType":"library","name":"custom"}],"targetType":"library","version":"0.5.2","name":"modbus"}
