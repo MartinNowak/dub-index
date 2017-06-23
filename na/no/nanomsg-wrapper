@@ -4,3 +4,4 @@
 {"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":"~>0.7.0"},"targetType":"executable","name":"unittest"}],"targetType":"library","version":"0.4.0","name":"nanomsg-wrapper"}
 {"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":"~>0.7.0"},"targetType":"executable","name":"unittest"}],"targetType":"library","version":"0.4.1","name":"nanomsg-wrapper"}
 {"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":"~>0.7.0"},"targetType":"executable","name":"unittest"}],"targetType":"library","version":"0.4.2","name":"nanomsg-wrapper"}
+{"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":"~>0.7.0"},"targetType":"executable","name":"unittest"}],"targetType":"library","version":"0.4.3","name":"nanomsg-wrapper"}
