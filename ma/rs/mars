@@ -38,3 +38,4 @@
 {"dependencies":{"ddb":"~master","vibe-d:core":">=0.7.31","vibe-d:http":">=0.7.31"},"version":"0.0.38","name":"mars"}
 {"dependencies":{"ddb":"~master","vibe-d:core":">=0.7.31","vibe-d:http":">=0.7.31"},"version":"0.0.39","name":"mars"}
 {"dependencies":{"ddb":"~master","vibe-d:core":">=0.7.31","vibe-d:http":">=0.7.31"},"version":"0.0.40","name":"mars"}
+{"dependencies":{"ddb":"~master","vibe-d:core":">=0.7.31","vibe-d:http":">=0.7.31"},"version":"0.0.41","name":"mars"}
