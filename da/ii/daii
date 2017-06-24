@@ -1,3 +1,4 @@
 {"configurations":[{"targetType":"executable","name":"unit"}],"targetType":"library","version":"0.1.0","name":"daii"}
 {"configurations":[{"targetType":"executable","name":"unit"}],"targetType":"library","version":"0.2.0","name":"daii"}
 {"configurations":[{"targetType":"executable","name":"unit"}],"targetType":"library","version":"0.2.1","name":"daii"}
+{"configurations":[{"targetType":"executable","name":"unit"}],"targetType":"library","version":"~master","commitID":"382327a5ff53d0922c502e2e8f93218d29dfda5d","name":"daii"}
