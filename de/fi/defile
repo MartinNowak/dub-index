@@ -3,3 +3,4 @@
 {"dependencies":{"derelict-physfs":"1.0.0"},"targetType":"library","version":"0.0.3","name":"defile"}
 {"dependencies":{"derelict-physfs":"~>2.0.0"},"targetType":"staticLibrary","version":"0.0.4","name":"defile"}
 {"dependencies":{"derelict-physfs":"~>2.0.0"},"targetType":"staticLibrary","version":"0.0.5","name":"defile"}
+{"dependencies":{"derelict-physfs":">=3.0.0-beta <3.1.0-0"},"targetType":"staticLibrary","version":"~master","commitID":"7ad07626877f32ad92e50c225a790355121c4f12","name":"defile"}
