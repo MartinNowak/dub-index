@@ -1,1 +1,2 @@
 {"dependencies":{"vibe-d:http":">=0.8.0-beta <0.9.0-0"},"version":"0.0.1-alpha.1","name":"vibe-loxone"}
+{"dependencies":{"vibe-d:http":">=0.8.0-beta <0.9.0-0"},"version":"~master","commitID":"aae0e960aa5b057401a21a72cfe4eff91ee15336","name":"vibe-loxone"}
