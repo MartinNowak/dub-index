@@ -3,3 +3,4 @@
 {"dependencies":{"dunit":"~>1.0.10"},"version":"~dicts","commitID":"433a4d94e651f086565b02e0027c7c3f9ca58011","name":"ddbus"}
 {"dependencies":{"dunit":"~>1.0.14"},"version":"2.0.0","name":"ddbus"}
 {"dependencies":{"dunit":"~>1.0.14"},"version":"2.1.0","name":"ddbus"}
+{"dependencies":{"dunit":"~>1.0.14"},"version":"2.2.0","name":"ddbus"}
