@@ -1,1 +1,2 @@
 {"subPackages":[{"dependencies":{"geany_d_binding":">=0.0.0"},"targetType":"dynamicLibrary","name":"example"}],"dependencies":{"gtk-d:gtkd":"~>3.6.5"},"targetType":"sourceLibrary","version":"0.0.1","name":"geany_d_binding"}
+{"subPackages":[{"dependencies":{"geany_d_binding":">=0.0.0"},"targetType":"dynamicLibrary","name":"example"}],"dependencies":{"gtk-d:gtkd":"~>3.6.5"},"targetType":"sourceLibrary","version":"~master","commitID":"d452fc4155e2718780313fc6dea0f5617a3b3fea","name":"geany_d_binding"}
