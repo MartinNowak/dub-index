@@ -1,0 +1,1 @@
+{"dependencies":{"colored":"0.0.3"},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"staticLibrary","name":"library"},{"dependencies":{"unit-threaded":"0.7.25"},"targetType":"executable","name":"unittest"},{"dependencies":{"unit-threaded":"0.7.25"},"targetType":"executable","name":"ut"}],"version":"0.0.1","name":"dime"}
