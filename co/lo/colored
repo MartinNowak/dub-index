@@ -1,0 +1,1 @@
+{"configurations":[{"dependencies":{"unit-threaded":"0.7.25"},"targetType":"executable","name":"ut"},{"dependencies":{"unit-threaded":"0.7.25"},"targetType":"executable","name":"unittest"}],"version":"0.0.1","name":"colored"}
