@@ -10,3 +10,4 @@
 {"version":"4.1.4","name":"zeromq"}
 {"version":"4.2.0","name":"zeromq"}
 {"version":"4.2.1","name":"zeromq"}
+{"version":"~master","commitID":"8442c6fdcfcc1a8c6b0518174480a623618f8770","name":"zeromq"}
