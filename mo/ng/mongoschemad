@@ -8,3 +8,4 @@
 {"dependencies":{"vibe-d":"~>0.7.29"},"version":"2.2.0","name":"mongoschemad"}
 {"dependencies":{"vibe-d":"~>0.7.29"},"version":"2.2.1","name":"mongoschemad"}
 {"dependencies":{"vibe-d":"~>0.7.29"},"version":"2.3.0","name":"mongoschemad"}
+{"dependencies":{"vibe-d":"~>0.7.29"},"version":"2.4.0","name":"mongoschemad"}
