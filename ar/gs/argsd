@@ -1,2 +1,3 @@
 {"version":"0.0.1","name":"argsd"}
 {"dependencies":{"stringbuffer":">=1.1.2"},"version":"0.1.0","name":"argsd"}
+{"dependencies":{"stringbuffer":">=1.1.2"},"version":"0.1.1","name":"argsd"}
