@@ -1,3 +1,4 @@
 {"dependencies":{"ncurses":"~master"},"targetType":"library","version":"0.1.0","configurations":[{"targetType":"library","name":"full"},{"targetType":"library","name":"minimal"}],"name":"nice-curses"}
 {"dependencies":{"ncurses":"~master"},"targetType":"library","version":"0.1.1","configurations":[{"targetType":"library","name":"full"},{"targetType":"library","name":"minimal"}],"name":"nice-curses"}
 {"dependencies":{"ncurses":"~master"},"targetType":"library","version":"0.1.2","configurations":[{"targetType":"library","name":"full"},{"targetType":"library","name":"minimal"}],"name":"nice-curses"}
+{"dependencies":{"ncurses":"~master"},"targetType":"library","version":"0.1.3","configurations":[{"targetType":"library","name":"full"},{"targetType":"library","name":"base-ui"},{"targetType":"library","name":"minimal"}],"name":"nice-curses"}
