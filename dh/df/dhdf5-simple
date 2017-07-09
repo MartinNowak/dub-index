@@ -5,3 +5,4 @@
 {"configurations":[{"targetType":"sourceLibrary","name":"main"},{"targetType":"executable","name":"test"}],"version":"0.0.7","name":"dhdf5-simple"}
 {"configurations":[{"targetType":"sourceLibrary","name":"main"},{"targetType":"executable","name":"test"}],"version":"0.0.8","name":"dhdf5-simple"}
 {"configurations":[{"targetType":"sourceLibrary","name":"main"},{"targetType":"executable","name":"test"}],"version":"0.1.0","name":"dhdf5-simple"}
+{"configurations":[{"targetType":"sourceLibrary","name":"main"},{"targetType":"executable","name":"test"}],"version":"~master","commitID":"3d7fd2ee4695c8549ae1b8b55a5ba39c5ad9f3d3","name":"dhdf5-simple"}
