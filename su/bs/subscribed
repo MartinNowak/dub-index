@@ -13,3 +13,4 @@
 {"dependencies":{"experimental_allocator":">=2.70.0-b1 <2.71.0-0"},"targetType":"library","version":"1.5.0","name":"subscribed"}
 {"dependencies":{"experimental_allocator":">=2.70.0-b1 <2.71.0-0"},"targetType":"library","version":"1.6.0","name":"subscribed"}
 {"dependencies":{"experimental_allocator":">=2.70.0-b1 <2.71.0-0"},"targetType":"library","version":"1.6.1","name":"subscribed"}
+{"dependencies":{"experimental_allocator":">=2.70.0-b1 <2.71.0-0"},"targetType":"library","version":"~master","commitID":"de336b66fcfd1bd32b3cd2a27920b525ea36e450","name":"subscribed"}
