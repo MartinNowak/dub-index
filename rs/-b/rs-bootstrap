@@ -3,3 +3,4 @@
 {"dependencies":{"vibe-d":"~>0.7.25"},"targetType":"sourceLibrary","version":"1.0.2","name":"rs-bootstrap"}
 {"dependencies":{"vibe-d":"~>0.7.25"},"targetType":"sourceLibrary","version":"~dark-theme","commitID":"ae3a4e8ee9131208a764dbcc0a107780b29c890a","name":"rs-bootstrap"}
 {"dependencies":{"vibe-d":"~>0.7.25"},"targetType":"sourceLibrary","version":"1.0.3","name":"rs-bootstrap"}
+{"dependencies":{"vibe-d":">=0.7.30 <0.9.0"},"targetType":"sourceLibrary","version":"~master","commitID":"03ad0081d6cedc22e48d4425aec519cc53a59b62","name":"rs-bootstrap"}
