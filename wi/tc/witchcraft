@@ -8,3 +8,4 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"aggressive"}],"targetType":"library","version":"0.1.7","name":"witchcraft"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"aggressive"}],"targetType":"library","version":"0.1.8","name":"witchcraft"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"aggressive"}],"targetType":"library","version":"0.1.9","name":"witchcraft"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"aggressive"}],"targetType":"library","version":"~master","commitID":"385e949ab11c83e3abf992440286bc7d82c78630","name":"witchcraft"}
