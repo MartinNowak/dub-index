@@ -1,1 +1,2 @@
 {"dependencies":{"glib-d":">=0.0.0"},"version":"0.0.1","name":"libnotify4d"}
+{"dependencies":{"glib-d":">=0.0.0"},"version":"~master","commitID":"9a37bd22522f6faf8b748b35982309d23573183a","name":"libnotify4d"}
