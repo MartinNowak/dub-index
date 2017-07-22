@@ -9,3 +9,4 @@
 {"targetType":"library","version":"2.2.1","name":"easing"}
 {"targetType":"library","version":"2.2.2","name":"easing"}
 {"targetType":"library","version":"2.2.3","name":"easing"}
+{"targetType":"library","version":"~master","commitID":"dc2191ddaa99c0bf89ef27ab195a99f579983da7","name":"easing"}
