@@ -1,1 +1,2 @@
 {"dependencies":{"requests":"~>0.4.2"},"version":"0.1.0","name":"hubtel"}
+{"dependencies":{"requests":"~>0.4.2"},"version":"0.1.1","name":"hubtel"}
