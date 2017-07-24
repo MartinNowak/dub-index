@@ -1,3 +1,4 @@
 {"dependencies":{"dyaml":"~>0.5.0"},"version":"0.0.1","name":"stringex"}
 {"dependencies":{"dyaml":"~>0.5.0"},"version":"0.0.2","name":"stringex"}
 {"dependencies":{"dyaml-dlang-tour":"~>0.5.5"},"version":"0.0.3","name":"stringex"}
+{"version":"~master","commitID":"a550e905f89f4507bc15305da8d61ff9c3f7ebe0","name":"stringex"}
