@@ -2,3 +2,4 @@
 {"configurations":[{"targetType":"sourceLibrary","name":"library"},{"targetType":"sourceLibrary","name":"library-static"}],"targetType":"sourceLibrary","version":"0.5.0","name":"dqml"}
 {"configurations":[{"targetType":"sourceLibrary","name":"library"},{"targetType":"sourceLibrary","name":"library-static"}],"targetType":"sourceLibrary","version":"0.6.0","name":"dqml"}
 {"configurations":[{"targetType":"sourceLibrary","name":"library"},{"targetType":"sourceLibrary","name":"library-static"}],"targetType":"sourceLibrary","version":"0.6.1","name":"dqml"}
+{"configurations":[{"targetType":"sourceLibrary","name":"library"},{"targetType":"sourceLibrary","name":"library-static"}],"targetType":"sourceLibrary","version":"~master","commitID":"a59fe7ed34154f3dd56d8f7350dd5ad63f8320c7","name":"dqml"}
