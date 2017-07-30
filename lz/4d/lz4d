@@ -6,3 +6,4 @@
 {"version":"~memmgmt","commitID":"a3ffc9fb9eef85961ca58f9e40c6439eca56d5af","name":"lz4d"}
 {"version":"~specialize","commitID":"5af553e0b2c8bedfd12079139624cf4da733c533","name":"lz4d"}
 {"version":"~fastCpy","commitID":"8b21f6ec4b308b62b6c41e018db95645dd313af1","name":"lz4d"}
+{"version":"0.1.1","name":"lz4d"}
