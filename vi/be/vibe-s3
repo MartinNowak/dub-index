@@ -10,3 +10,4 @@
 {"dependencies":{"vibe-d":"~>0.7.29","kxml":"~>1.0.1","memutils":"~>0.4.7"},"targetType":"library","version":"0.0.8","name":"vibe-s3"}
 {"dependencies":{"vibe-d":">=0.8.0-beta.5 <0.9.0-0","kxml":"~>1.0.1","memutils":"~>0.4.7"},"targetType":"library","version":"0.1.0","name":"vibe-s3"}
 {"dependencies":{"vibe-d":"~>0.8.0","kxml":"~>1.0.1","memutils":"~>0.4.7"},"targetType":"library","version":"~master","commitID":"8782ce5aaa9fedf925613c950773722b289c1dd9","name":"vibe-s3"}
+{"dependencies":{"vibe-d":"~>0.8.0","kxml":"~>1.0.1","memutils":"~>0.4.7"},"targetType":"library","version":"0.1.1","name":"vibe-s3"}
