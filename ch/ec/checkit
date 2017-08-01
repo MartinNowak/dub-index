@@ -2,3 +2,4 @@
 {"subPackages":[{"targetType":"executable","name":"test"}],"targetType":"library","version":"0.0.2","name":"checkit"}
 {"subPackages":[{"targetType":"executable","name":"test"}],"targetType":"library","version":"0.0.3","name":"checkit"}
 {"subPackages":[{"targetType":"executable","name":"test"}],"targetType":"library","version":"0.0.4","name":"checkit"}
+{"subPackages":[{"targetType":"executable","name":"test"}],"targetType":"library","version":"0.0.5","name":"checkit"}
