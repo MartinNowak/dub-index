@@ -3,3 +3,4 @@
 {"dependencies":{"std_data_json":"~>0.18.2","dunit":"~>1.0.14"},"version":"0.1.1","name":"jsonserialized"}
 {"dependencies":{"std_data_json":"~>0.18.2","dunit":"~>1.0.14"},"version":"0.2.0","name":"jsonserialized"}
 {"dependencies":{"std_data_json":"~>0.18.2","dunit":"~>1.0.14"},"version":"0.2.1","name":"jsonserialized"}
+{"dependencies":{"std_data_json":"~>0.18.2","dunit":"~>1.0.14"},"version":"~master","commitID":"2330570a65e0ae91cc0cbf851d8f7c9960897ecc","name":"jsonserialized"}
