@@ -1,2 +1,3 @@
 {"dependencies":{"luad":"~master","tested":"~>0.9.4"},"configurations":[{"targetType":"executable","name":"executable"},{"targetType":"library","name":"unittest"}],"version":"0.0.1","name":"bluejay"}
 {"dependencies":{"luad":"~master","tested":"~>0.9.4"},"configurations":[{"targetType":"executable","name":"executable"},{"targetType":"library","name":"unittest"}],"version":"0.0.2","name":"bluejay"}
+{"dependencies":{"luad":"~master","tested":"~>0.9.4"},"configurations":[{"targetType":"executable","name":"executable"},{"targetType":"library","name":"unittest"}],"version":"0.0.4","name":"bluejay"}
