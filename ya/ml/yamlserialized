@@ -2,3 +2,4 @@
 {"dependencies":{"dunit":"~>1.0.14","dyaml-yamlserialized":"~>0.5.6"},"version":"0.1.1","name":"yamlserialized"}
 {"dependencies":{"dunit":"~>1.0.14","dyaml-yamlserialized":"~>0.6.0"},"version":"0.2.0","name":"yamlserialized"}
 {"dependencies":{"dyaml":"~>0.6.3","dunit":"~>1.0.14"},"version":"0.3.0","name":"yamlserialized"}
+{"dependencies":{"dyaml":"~>0.6.3","dunit":"~>1.0.14"},"version":"~master","commitID":"f21c31374032f8aeedea7fa236dce9a90899dbe7","name":"yamlserialized"}
