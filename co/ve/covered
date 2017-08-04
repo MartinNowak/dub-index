@@ -9,3 +9,4 @@
 {"version":"0.2.5","name":"covered"}
 {"configurations":[{"targetType":"executable","name":"executable"},{"dependencies":{"fluent-asserts":"~>0.6.1","unit-threaded":"~>0.7.28"},"targetType":"executable","name":"unittest"}],"version":"1.0.0-alpha.1","name":"covered"}
 {"configurations":[{"targetType":"executable","name":"executable"},{"dependencies":{"fluent-asserts":"~>0.6.1","unit-threaded":"~>0.7.28"},"targetType":"executable","name":"unittest"}],"version":"1.0.0-beta.1","name":"covered"}
+{"configurations":[{"targetType":"executable","name":"executable"},{"dependencies":{"fluent-asserts":"~>0.6.5","unit-threaded":"~>0.7.28"},"targetType":"executable","name":"unittest"}],"version":"1.0.0-rc.1","name":"covered"}
