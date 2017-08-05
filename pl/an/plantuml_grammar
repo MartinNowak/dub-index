@@ -1,1 +1,2 @@
 {"dependencies":{"pegged":"~>0.4.2"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"generate"},{"targetType":"executable","name":"unittest"}],"version":"0.0.1","name":"plantuml_grammar"}
+{"dependencies":{"pegged":"~>0.4.2"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"generate"},{"targetType":"executable","name":"unittest"}],"version":"~master","commitID":"28fb41f9fbf9dae9e61056f58bca87e6dd6a7723","name":"plantuml_grammar"}
