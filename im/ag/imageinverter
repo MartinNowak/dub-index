@@ -1,0 +1,1 @@
+{"dependencies":{"color":"~>0.0.5"},"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"imageformats":"~>6.1.1"},"targetType":"executable","name":"application"}],"version":"~master","commitID":"757115dd528fac9b300e4b8c4cc9b27f2e4a9ef5","name":"imageinverter"}
