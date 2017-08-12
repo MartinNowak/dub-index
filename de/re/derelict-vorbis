@@ -10,3 +10,4 @@
 {"dependencies":{"derelict-ogg":">=2.0.0-beta.1 <2.1.0-0"},"version":"2.0.0-beta.1","name":"derelict-vorbis"}
 {"dependencies":{"derelict-ogg":">=2.0.0-beta.1 <2.1.0-0"},"version":"~master","commitID":"60ffa29a8973999f6f7d1af29696799cf579e13e","name":"derelict-vorbis"}
 {"dependencies":{"derelict-ogg":">=2.0.0-beta.1 <2.1.0-0"},"version":"2.0.0-beta.2","name":"derelict-vorbis"}
+{"dependencies":{"derelict-ogg":">=2.0.0-beta.1 <2.1.0-0"},"version":"~2.0","commitID":"60ffa29a8973999f6f7d1af29696799cf579e13e","name":"derelict-vorbis"}
