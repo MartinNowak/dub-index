@@ -6,3 +6,4 @@
 {"dependencies":{"vibe-d:web":"~>0.7.30","diet-ng":"~>1.2","antispam":"~>0.1.0","fuzzydate":"~>1.0.0","vibe-d:mongodb":"~>0.7.30"},"version":"1.4.1","name":"diskuto"}
 {"dependencies":{"vibe-d:web":"~>0.7.30","diet-ng":"~>1.2","antispam":"~>0.1.2","fuzzydate":"~>1.0.0","vibe-d:mongodb":"~>0.7.30"},"version":"1.5.0","name":"diskuto"}
 {"dependencies":{"vibe-d:web":">=0.7.30 <0.9.0","diet-ng":"~>1.2","antispam":"~>0.1.2","fuzzydate":"~>1.0.0","vibe-d:mongodb":">=0.7.30 <0.9.0"},"version":"1.5.1","name":"diskuto"}
+{"dependencies":{"vibe-d:web":">=0.7.30 <0.9.0","diet-ng":"~>1.2","antispam":"~>0.1.2","fuzzydate":"~>1.0.0","vibe-d:mongodb":">=0.7.30 <0.9.0"},"version":"~notifications","commitID":"843946fdd8f066eebbccf15e7f2a598d0a31f6de","name":"diskuto"}
