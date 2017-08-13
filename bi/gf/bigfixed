@@ -13,3 +13,4 @@
 {"targetType":"library","version":"0.7.1","name":"bigfixed"}
 {"targetType":"library","version":"1.0.0","name":"bigfixed"}
 {"targetType":"library","version":"1.0.1","name":"bigfixed"}
+{"targetType":"library","version":"~master","commitID":"d1113d46427f68c00423e2d8d66931c01aaeebbe","name":"bigfixed"}
