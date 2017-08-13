@@ -1,2 +1,3 @@
 {"targetType":"staticLibrary","version":"0.0.1","name":"rainbow"}
 {"version":"0.0.2","name":"rainbow"}
+{"version":"~master","commitID":"4089c53f9db45aa5e5c08e7880f96c0160121093","name":"rainbow"}
