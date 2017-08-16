@@ -12,3 +12,4 @@
 {"subPackages":[{"dependencies":{"vibe-d:core":">=0.8.1-rc.2 <0.9.0-0","vibe-mqtt":">=0.2.0-alpha.6 <0.3.0-0","drmi":{"version":">=0.0.0","path":"./drmi"}},"targetType":"library","name":"mqtt"}],"targetType":"library","version":"0.6.0-alpha.1","name":"drmi"}
 {"subPackages":[{"dependencies":{"drmi":{"version":">=0.0.0","path":"./drmi"}},"targetType":"library","name":"mqtt"}],"targetType":"library","version":"0.7.0","name":"drmi"}
 {"subPackages":[{"dependencies":{"drmi":{"version":">=0.0.0","path":"./drmi"}},"targetType":"library","name":"mqtt"}],"targetType":"library","version":"0.7.1","name":"drmi"}
+{"subPackages":[{"dependencies":{"drmi":{"version":">=0.0.0","path":"./drmi"}},"configurations":[{"targetType":"library","name":"rtload"},{"targetType":"library","name":"ctlink"}],"name":"mqtt"}],"targetType":"library","version":"0.7.2","name":"drmi"}
