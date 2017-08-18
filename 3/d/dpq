@@ -43,3 +43,4 @@
 {"targetType":"library","version":"0.8.9-beta.1","name":"dpq"}
 {"targetType":"library","version":"0.9.0-alpha.1","name":"dpq"}
 {"targetType":"library","version":"0.9.1","name":"dpq"}
+{"targetType":"library","version":"~develop","commitID":"942f47ce4539f204abfc0a71d5d12410899ecec2","name":"dpq"}
