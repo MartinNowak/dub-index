@@ -1,1 +1,2 @@
 {"dependencies":{"kiss":"~>0.0.5"},"version":"0.0.1","name":"netkit"}
+{"dependencies":{"kiss":"~>0.0.6"},"version":"~master","commitID":"122ceb0b0b22d3da57ba7ab50a1583e57f42b14d","name":"netkit"}
