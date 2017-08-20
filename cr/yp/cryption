@@ -1,3 +1,4 @@
 {"configurations":[{"targetType":"library","name":"default"},{"targetType":"executable","name":"unittest"}],"version":"0.0.1","name":"cryption"}
 {"configurations":[{"targetType":"library","name":"default"},{"targetType":"executable","name":"unittest"}],"version":"0.0.2","name":"cryption"}
 {"configurations":[{"targetType":"library","name":"default"},{"targetType":"executable","name":"unittest"}],"version":"0.0.3","name":"cryption"}
+{"configurations":[{"targetType":"library","name":"default"},{"targetType":"executable","name":"unittest"}],"version":"0.0.4","name":"cryption"}
