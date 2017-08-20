@@ -18,3 +18,4 @@
 {"version":"1.3.0","name":"diet-ng"}
 {"version":"1.4.0","name":"diet-ng"}
 {"version":"1.4.1","name":"diet-ng"}
+{"version":"~dmd_segfault","commitID":"90c033ade2bf187460fa9e3a3eaedc32142d6f54","name":"diet-ng"}
