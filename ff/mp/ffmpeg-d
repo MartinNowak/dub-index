@@ -4,3 +4,4 @@
 {"configurations":[{"targetType":"sourceLibrary","name":"source"},{"targetType":"staticLibrary","name":"static"}],"version":"2.5.1","name":"ffmpeg-d"}
 {"configurations":[{"targetType":"sourceLibrary","name":"source"},{"targetType":"staticLibrary","name":"static"}],"version":"~release/2.8","commitID":"89901fca298530b942956af0cf6511ad9274c55e","name":"ffmpeg-d"}
 {"configurations":[{"targetType":"sourceLibrary","name":"source"},{"targetType":"staticLibrary","name":"static"},{"targetType":"executable","name":"remux_example"},{"targetType":"executable","name":"encode_example"}],"version":"3.0.0","name":"ffmpeg-d"}
+{"configurations":[{"targetType":"sourceLibrary","name":"source"},{"targetType":"staticLibrary","name":"static"},{"targetType":"executable","name":"remux_example"},{"targetType":"executable","name":"encode_example"}],"version":"~release/3.0","commitID":"ea1fc007686ab7d9baa1a9cfcd86811aab9f0802","name":"ffmpeg-d"}
