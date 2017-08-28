@@ -2,3 +2,4 @@
 {"dependencies":{"derelict-gl3":"~>1.0.23","derelict-sdl2":"~>2.1.4"},"version":"0.1.0","name":"dgt"}
 {"dependencies":{"derelict-gl3":"~>1.0.23","derelict-sdl2":"~>2.1.4"},"version":"0.1.1","name":"dgt"}
 {"dependencies":{"derelict-gl3":">=2.0.0-beta.3 <2.1.0-0","derelict-sdl2":">=3.0.0-beta.4 <3.1.0-0"},"version":"~stb-image-loading","commitID":"586fc0759c288c0212ecaf2bb211133be0c01bda","name":"dgt"}
+{"dependencies":{"derelict-gl3":">=2.0.0-beta.3 <2.1.0-0","derelict-sdl2":">=3.0.0-beta.4 <3.1.0-0"},"version":"0.2.0","name":"dgt"}
