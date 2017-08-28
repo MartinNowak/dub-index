@@ -1,0 +1,1 @@
+{"subPackages":[{"dependencies":{"vibe-d:core":">=0.8.1-rc.3 <0.9.0-0"},"targetType":"library","name":"log"},{"dependencies":{"big-d:log":">=0.0.0","vibe-d:core":">=0.8.1-rc.3 <0.9.0-0","checkit":"~>0.0.5"},"targetType":"executable","name":"test"}],"dependencies":{"big-d:log":">=0.0.0"},"targetType":"library","version":"0.0.1","name":"big-d"}
