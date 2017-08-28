@@ -1,2 +1,3 @@
 {"targetType":"library","version":"0.0.1","name":"markov-d"}
 {"targetType":"library","version":"0.0.2","name":"markov-d"}
+{"targetType":"library","version":"~master","commitID":"bbdf8dc7e021fa39bbdeb9adf566e9f943524122","name":"markov-d"}
