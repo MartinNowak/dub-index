@@ -1,1 +1,2 @@
 {"configurations":[{"targetType":"sourceLibrary","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"0.1.0","name":"dython"}
+{"configurations":[{"targetType":"sourceLibrary","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"~master","commitID":"ed5c038ec3bd0f7e601f2ca4cf039a7162cb9e04","name":"dython"}
