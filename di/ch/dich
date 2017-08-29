@@ -1,1 +1,2 @@
 {"subPackages":[{"dependencies":{"bdd":"~>1.1.0"},"targetType":"executable","name":"tests"}],"targetType":"library","version":"0.0.1","name":"dich"}
+{"subPackages":[{"dependencies":{"bdd":"~>1.1.0"},"targetType":"executable","name":"tests"}],"targetType":"library","version":"0.0.2","name":"dich"}
