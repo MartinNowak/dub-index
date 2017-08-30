@@ -1,0 +1,1 @@
+{"dependencies":{"bdd":"~>1.1.0"},"targetType":"staticLibrary","version":"1.1.0","name":"lru_eviction_queue"}
