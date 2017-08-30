@@ -9,3 +9,4 @@
 {"dependencies":{"cryption":"~>0.0.7"},"targetType":"library","version":"0.0.9","name":"ice"}
 {"dependencies":{"cryption":"~>0.0.7"},"targetType":"library","version":"0.1.0","name":"ice"}
 {"dependencies":{"cryption":"~>0.0.7"},"targetType":"library","version":"0.1.1","name":"ice"}
+{"dependencies":{"cryption":"~>0.0.7"},"targetType":"library","version":"0.2.0","name":"ice"}
