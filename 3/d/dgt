@@ -5,3 +5,4 @@
 {"dependencies":{"derelict-gl3":">=2.0.0-beta.3 <2.1.0-0","derelict-sdl2":">=3.0.0-beta.4 <3.1.0-0"},"version":"0.2.0","name":"dgt"}
 {"dependencies":{"derelict-gl3":">=2.0.0-beta.3 <2.1.0-0","derelict-sdl2":">=3.0.0-beta.4 <3.1.0-0"},"version":"0.2.1","name":"dgt"}
 {"dependencies":{"derelict-gl3":">=2.0.0-beta.3 <2.1.0-0","derelict-sdl2":">=3.0.0-beta.4 <3.1.0-0"},"version":"0.2.2","name":"dgt"}
+{"dependencies":{"opengl":"~>1.0.0","opengl:gl3":"~>1.0.0","derelict-sdl2":">=3.0.0-beta.4 <3.1.0-0"},"version":"~nogc-opengl-loading","commitID":"bb45bb851483b977812cd31df21ae21f71e72624","name":"dgt"}
