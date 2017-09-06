@@ -24,3 +24,4 @@
 {"dependencies":{"libdparse":">=0.7.1-beta.7 <0.8.0-0","emsi_containers":"~>0.5.3"},"targetType":"library","version":"0.2.6","name":"dsymbol"}
 {"dependencies":{"libdparse":">=0.7.1-beta.7 <0.8.0-0","emsi_containers":"~>0.5.3"},"targetType":"library","version":"0.2.7","name":"dsymbol"}
 {"dependencies":{"libdparse":">=0.7.1-beta.7 <0.8.0-0","emsi_containers":"~>0.5.3"},"targetType":"library","version":"0.2.8","name":"dsymbol"}
+{"dependencies":{"libdparse":"~>0.7.1","emsi_containers":"~>0.5.3"},"targetType":"library","version":"0.2.9","name":"dsymbol"}
