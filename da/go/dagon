@@ -3,3 +3,4 @@
 {"dependencies":{"dlib":"0.11.1"},"configurations":[{"targetType":"library","name":"library"}],"version":"0.1.0","name":"dagon"}
 {"dependencies":{"dlib":"0.11.1"},"configurations":[{"targetType":"library","name":"library"}],"version":"0.1.1","name":"dagon"}
 {"dependencies":{"dlib":"0.11.1"},"configurations":[{"targetType":"library","name":"library"}],"version":"0.2.0","name":"dagon"}
+{"dependencies":{"dlib":"0.11.1"},"configurations":[{"targetType":"library","name":"library"}],"version":"0.3.0","name":"dagon"}
