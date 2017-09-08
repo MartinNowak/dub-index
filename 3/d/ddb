@@ -6,3 +6,4 @@
 {"dependencies":{"vibe-d":{"version":">=0.7.19","optional":true}},"version":"0.2.4","name":"ddb"}
 {"dependencies":{"vibe-d:core":{"version":">=0.7.29","optional":true}},"version":"0.2.5","name":"ddb"}
 {"dependencies":{"vibe-d:core":{"version":">=0.7.29","optional":true}},"version":"0.2.6","name":"ddb"}
+{"dependencies":{"vibe-d:core":{"version":">=0.7.29","optional":true}},"version":"0.3.0","name":"ddb"}
