@@ -1,0 +1,1 @@
+{"subPackages":[{"targetType":"executable","name":"free"},{"dependencies":{"nice-curses":">=0.0.0"},"targetType":"executable","name":"watch"},{"targetType":"executable","name":"plotbar"},{"targetType":"executable","name":"jq"}],"targetType":"none","version":"0.0.1","name":"dusybox"}
