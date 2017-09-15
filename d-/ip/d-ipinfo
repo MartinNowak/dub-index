@@ -1,1 +1,2 @@
 {"dependencies":{"bdd":"~>1.3.0"},"targetType":"staticLibrary","version":"1.0.0","name":"d-ipinfo"}
+{"configurations":[{"targetType":"staticLibrary","name":"default"},{"dependencies":{"bdd":"~>1.3.0"},"targetType":"executable","name":"unittest"}],"version":"1.1.0","name":"d-ipinfo"}
