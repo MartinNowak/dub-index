@@ -11,3 +11,4 @@
 {"dependencies":{"exceptionhandling":">=0.1.0"},"version":"1.0.6","name":"fixedsizearray"}
 {"dependencies":{"exceptionhandling":">=0.1.0"},"version":"1.1.0","name":"fixedsizearray"}
 {"dependencies":{"exceptionhandling":">=0.1.0"},"version":"1.1.1","name":"fixedsizearray"}
+{"dependencies":{"exceptionhandling":">=0.1.0"},"version":"~master","commitID":"7b928634b5d4e1166542cfabf44a7c583414d3b5","name":"fixedsizearray"}
