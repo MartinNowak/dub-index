@@ -1,3 +1,4 @@
 {"version":"1.0.1","name":"gitcompatibledubpackage"}
 {"version":"1.0.2","name":"gitcompatibledubpackage"}
 {"targetType":"executable","version":"1.0.3","name":"gitcompatibledubpackage"}
+{"configurations":[{"targetType":"executable","name":"exe"},{"targetType":"library","name":"lib"}],"version":"1.0.4","name":"gitcompatibledubpackage"}
