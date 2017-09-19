@@ -1,3 +1,4 @@
 {"targetType":"sourceLibrary","version":"0.0.1","name":"jive"}
 {"targetType":"library","version":"0.1.0","name":"jive"}
 {"targetType":"library","version":"0.2.0","name":"jive"}
+{"targetType":"library","version":"~master","commitID":"9fbbfbd7ae8b1a738f1b719a4d830a18fee1b173","name":"jive"}
