@@ -1,1 +1,2 @@
 {"dependencies":{"exceptionhandling":"~>0.1.0"},"version":"~master","commitID":"503372d7fd8a51b955f35ae7ed9d2a427f34a7fd","name":"darray"}
+{"dependencies":{"exceptionhandling":"~>0.1.0"},"version":"0.0.2","name":"darray"}
