@@ -19,3 +19,4 @@
 {"version":"3.0.0-beta.1","name":"derelict-util"}
 {"version":"3.0.0-beta.2","name":"derelict-util"}
 {"version":"~master","commitID":"8dda33953e05e228a8a0459954023de2c0b375b5","name":"derelict-util"}
+{"version":"~3.0","commitID":"8dda33953e05e228a8a0459954023de2c0b375b5","name":"derelict-util"}
