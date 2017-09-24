@@ -10,3 +10,4 @@
 {"dependencies":{"derelict-gl3":">=2.0.0-beta.3 <2.1.0-0","derelict-sdl2":">=3.0.0-beta.4 <3.1.0-0"},"version":"0.3.1","name":"dgt"}
 {"dependencies":{"derelict-gl3":">=2.0.0-beta.3 <2.1.0-0","derelict-sdl2":">=3.0.0-beta.4 <3.1.0-0"},"version":"0.3.2","name":"dgt"}
 {"dependencies":{"derelict-gl3":">=2.0.0-beta.3 <2.1.0-0","derelict-sdl2":">=3.0.0-beta.4 <3.1.0-0"},"version":"~master","commitID":"acfe5dac70eb31a24d6b210925b515caeba88eac","name":"dgt"}
+{"dependencies":{"derelict-gl3":">=2.0.0-beta.3 <2.1.0-0","derelict-sdl2":">=3.0.0-beta.4 <3.1.0-0"},"version":"~texture-atlas","commitID":"61cfd053121910aa0d8cdb59dbb5cef90744ce16","name":"dgt"}
