@@ -1,0 +1,1 @@
+{"configurations":[{"dependencies":{"gtk-d:gtkd":"~>3.6.6"},"targetType":"library","name":"gtk"},{"dependencies":{"dlangui":"~>0.9.120"},"targetType":"library","name":"dlangui"}],"version":"0.1.0","name":"plot2d"}
