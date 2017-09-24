@@ -1,3 +1,4 @@
 {"dependencies":{"sodium":">0.0.4"},"targetType":"library","version":"0.1.0","name":"chloride"}
 {"dependencies":{"sodium":"~>0.0.8"},"targetType":"library","version":"0.2.0","name":"chloride"}
 {"dependencies":{"sodium":"~>0.1.1"},"targetType":"library","version":"0.2.1","name":"chloride"}
+{"dependencies":{"sodium:deimos":"~>0.1.4"},"targetType":"library","version":"~master","commitID":"7902a9aaaa6739dd3503841d9854b8e92bd8ee67","name":"chloride"}
