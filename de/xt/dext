@@ -2,3 +2,4 @@
 {"targetType":"library","version":"0.1.1","name":"dext"}
 {"targetType":"library","version":"0.1.2","name":"dext"}
 {"targetType":"library","version":"0.1.3","name":"dext"}
+{"targetType":"library","version":"~master","commitID":"aed1406b3d95e61c1badc574fad74351fba9c5c9","name":"dext"}
