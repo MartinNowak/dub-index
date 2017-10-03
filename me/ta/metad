@@ -1,2 +1,3 @@
 {"dependencies":{"pegged":"~master","embd":"~>0.2.1"},"version":"0.0.1","name":"metad"}
 {"dependencies":{"pegged":"~master"},"targetType":"library","version":"0.0.2","name":"metad"}
+{"dependencies":{"pegged":"~master"},"targetType":"library","version":"~master","commitID":"f170410b69111f465d51423822f932554fbbd6b6","name":"metad"}
