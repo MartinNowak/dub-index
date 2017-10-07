@@ -1,2 +1,3 @@
 {"dependencies":{"dsfml":"~>2.1.1"},"targetType":"sourceLibrary","version":"0.0.1","configurations":[{"targetType":"sourceLibrary","name":"default"},{"targetType":"sourceLibrary","name":"unittest"}],"name":"dspine"}
 {"dependencies":{"dsfml":"~>2.1.1"},"targetType":"sourceLibrary","version":"~master","configurations":[{"targetType":"sourceLibrary","name":"default"},{"targetType":"sourceLibrary","name":"unittest"}],"commitID":"ad3713fcfd2bb42d0a8def1bdd638ec8c22e10cf","name":"dspine"}
+{"dependencies":{"dsfml":"~>2.1.1"},"targetType":"sourceLibrary","version":"0.0.2","configurations":[{"targetType":"sourceLibrary","name":"default"},{"targetType":"sourceLibrary","name":"unittest"}],"name":"dspine"}
