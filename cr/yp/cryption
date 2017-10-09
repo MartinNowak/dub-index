@@ -8,3 +8,4 @@
 {"configurations":[{"targetType":"library","name":"default"},{"targetType":"executable","name":"unittest"}],"version":"0.0.8","name":"cryption"}
 {"configurations":[{"targetType":"library","name":"default"},{"targetType":"executable","name":"unittest"}],"version":"0.0.9","name":"cryption"}
 {"configurations":[{"targetType":"library","name":"default"},{"targetType":"executable","name":"unittest"}],"version":"0.0.10","name":"cryption"}
+{"configurations":[{"targetType":"library","name":"default"},{"targetType":"executable","name":"unittest"}],"version":"0.0.11","name":"cryption"}
