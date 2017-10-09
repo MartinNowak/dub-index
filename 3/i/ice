@@ -15,3 +15,4 @@
 {"dependencies":{"cryption":"~>0.0.8"},"targetType":"library","version":"0.2.3","name":"ice"}
 {"dependencies":{"cryption":"~>0.0.9"},"targetType":"library","version":"0.2.4","name":"ice"}
 {"dependencies":{"cryption":"~>0.0.10"},"targetType":"library","version":"0.2.5","name":"ice"}
+{"dependencies":{"cryption":"~>0.0.11"},"targetType":"library","version":"0.2.6","name":"ice"}
