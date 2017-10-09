@@ -13,3 +13,4 @@
 {"targetType":"library","version":"0.4.2","name":"serialport"}
 {"targetType":"library","version":"0.5.0","name":"serialport"}
 {"targetType":"library","version":"0.6.0","name":"serialport"}
+{"targetType":"library","version":"0.7.0","name":"serialport"}
