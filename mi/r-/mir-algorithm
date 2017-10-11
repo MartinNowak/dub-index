@@ -7,3 +7,4 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"sourceLibrary","name":"sourceLibrary"}],"version":"0.6.18","name":"mir-algorithm"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"sourceLibrary","name":"sourceLibrary"}],"version":"0.6.17","name":"mir-algorithm"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"sourceLibrary","name":"sourceLibrary"}],"version":"0.6.19","name":"mir-algorithm"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"sourceLibrary","name":"sourceLibrary"}],"version":"0.6.20","name":"mir-algorithm"}
