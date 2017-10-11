@@ -14,3 +14,4 @@
 {"version":"1.0.13","name":"quantum-random"}
 {"version":"1.1.0","name":"quantum-random"}
 {"dependencies":{"fluent-asserts":"~>0.5.0"},"version":"1.2.0","name":"quantum-random"}
+{"dependencies":{"fluent-asserts":"~>0.7"},"version":"1.2.1","name":"quantum-random"}
