@@ -2,3 +2,4 @@
 {"dependencies":{"imageformats":"~>6.1.1"},"version":"0.0.1","name":"dtiv"}
 {"dependencies":{"imageformats":"~>6.1.1"},"version":"0.0.2","name":"dtiv"}
 {"dependencies":{"imageformats":"~>6.1.1"},"version":"0.0.3","name":"dtiv"}
+{"dependencies":{"color":"~>0.0.5","imageformats":"~>6.1.1"},"version":"~move_to_std_experimental_color","commitID":"5bf0f4f5ac0b59e9d1ae64e00ff4a81be6c3912e","name":"dtiv"}
