@@ -1,1 +1,2 @@
 {"dependencies":{"std-experimental-xml":"~master"},"version":"1.0.0","name":"ogl_gen"}
+{"dependencies":{"std-experimental-xml-live":"~>0.1.4"},"version":"~master","commitID":"722ef0a213fb2bd4b0c29d772ddba2e6976490ae","name":"ogl_gen"}
