@@ -1,2 +1,3 @@
 {"dependencies":{"imageformats":"~>6.1.1"},"version":"~braille","commitID":"30f75f570b9c24ad97de9a4379e0395ab2809bb8","name":"dtiv"}
 {"dependencies":{"imageformats":"~>6.1.1"},"version":"0.0.1","name":"dtiv"}
+{"dependencies":{"imageformats":"~>6.1.1"},"version":"0.0.2","name":"dtiv"}
