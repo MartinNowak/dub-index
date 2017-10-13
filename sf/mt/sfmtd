@@ -1,1 +1,2 @@
 {"configurations":[{"targetType":"executable","name":"with-32"},{"targetType":"executable","name":"only-64"}],"version":"0.0.0","name":"sfmtd"}
+{"configurations":[{"targetType":"executable","name":"with-32"},{"targetType":"executable","name":"only-64"}],"version":"~hotfix-assureLongPeriod","commitID":"e89d1184bd444e4ea5cfb9cf36b263ee50e20159","name":"sfmtd"}
