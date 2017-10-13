@@ -4,3 +4,4 @@
 {"dependencies":{"imageformats":"~>6.1.1"},"version":"0.0.3","name":"dtiv"}
 {"dependencies":{"color":"~>0.0.5","imageformats":"~>6.1.1"},"version":"~move_to_std_experimental_color","commitID":"5bf0f4f5ac0b59e9d1ae64e00ff4a81be6c3912e","name":"dtiv"}
 {"dependencies":{"imageformats":"~>6.1.1"},"version":"~palette_fixing","commitID":"0f28b5e099210946c944eed599647a71df438171","name":"dtiv"}
+{"dependencies":{"imageformats":"~>6.1.1"},"version":"~master","commitID":"b64dd3f517a084b95c1316a6702c4df31d5b48aa","name":"dtiv"}
