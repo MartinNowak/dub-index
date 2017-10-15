@@ -2,3 +2,4 @@
 {"configurations":[{"targetType":"executable","name":"with-32"},{"targetType":"executable","name":"only-64"}],"version":"~hotfix-assureLongPeriod","commitID":"e89d1184bd444e4ea5cfb9cf36b263ee50e20159","name":"sfmtd"}
 {"configurations":[{"targetType":"executable","name":"with-32"},{"targetType":"executable","name":"only-64"}],"version":"~parameter2","commitID":"e2875dfe5beae46d37ca924be390e0a487cfb6f5","name":"sfmtd"}
 {"configurations":[{"targetType":"executable","name":"with-32"},{"targetType":"executable","name":"only-64"}],"version":"~document","commitID":"7d49987837a647ff1808edbf69743e59d2deb2fe","name":"sfmtd"}
+{"configurations":[{"targetType":"executable","name":"with-32"},{"targetType":"executable","name":"only-64"}],"version":"~parameter","commitID":"1c56d0858ebe3fbf9fa41ea851077d69f673faab","name":"sfmtd"}
