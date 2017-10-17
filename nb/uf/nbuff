@@ -1,3 +1,4 @@
 {"configurations":[{"targetType":"library","name":"std"}],"version":"0.0.1","name":"nbuff"}
 {"configurations":[{"targetType":"library","name":"std"}],"version":"0.0.2","name":"nbuff"}
 {"configurations":[{"targetType":"library","name":"std"}],"version":"0.0.3","name":"nbuff"}
+{"configurations":[{"targetType":"library","name":"std"}],"version":"~master","commitID":"5f02447125f64c84d4e024caca2f89293f0859d4","name":"nbuff"}
