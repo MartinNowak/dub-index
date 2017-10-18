@@ -2,3 +2,4 @@
 {"configurations":[{"targetType":"staticLibrary","name":"regular"},{"targetType":"staticLibrary","name":"32mscoff"}],"targetType":"staticLibrary","version":"1.0.1","name":"botan-math"}
 {"configurations":[{"targetType":"staticLibrary","name":"regular"},{"targetType":"staticLibrary","name":"32mscoff"}],"targetType":"staticLibrary","version":"1.0.2","name":"botan-math"}
 {"configurations":[{"targetType":"staticLibrary","name":"regular"},{"targetType":"staticLibrary","name":"32mscoff"}],"targetType":"staticLibrary","version":"1.0.3","name":"botan-math"}
+{"targetType":"staticLibrary","version":"~master","commitID":"559d6bfe130358cadf9e757bdf779a8ddcdc0adb","name":"botan-math"}
