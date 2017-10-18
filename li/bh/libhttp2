@@ -8,3 +8,4 @@
 {"dependencies":{"memutils":"~>0.4.4"},"targetType":"staticLibrary","version":"0.2.7","configurations":[{"targetType":"staticLibrary","name":"regular"},{"targetType":"staticLibrary","name":"32mscoff"}],"name":"libhttp2"}
 {"dependencies":{"memutils":"~>0.4.5"},"targetType":"staticLibrary","version":"0.2.8","configurations":[{"targetType":"staticLibrary","name":"regular"},{"targetType":"staticLibrary","name":"32mscoff"}],"name":"libhttp2"}
 {"dependencies":{"memutils":"~>0.4.6"},"targetType":"staticLibrary","version":"~master","commitID":"7b35d941a598d0e53b45f3f5377cb34285568fde","name":"libhttp2"}
+{"dependencies":{"memutils":"~>0.4.6"},"targetType":"staticLibrary","version":"0.2.9","name":"libhttp2"}
