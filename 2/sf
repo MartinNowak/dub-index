@@ -1,1 +1,2 @@
 {"dependencies":{"ncurses":"~master"},"targetType":"executable","version":"0.0.1","name":"sf"}
+{"dependencies":{"ncurses":"~master"},"targetType":"executable","version":"~master","commitID":"b62db1e05f0b2368dd2c46ead12d0a28fa36fdf9","name":"sf"}
