@@ -5,3 +5,4 @@
 {"dependencies":{"vibe-d":{"version":"~>0.8.1","optional":true}},"targetType":"sourceLibrary","version":"2.1.2","name":"diamond"}
 {"dependencies":{"vibe-d":{"version":"~>0.8.1","optional":true}},"targetType":"sourceLibrary","version":"2.2.0","name":"diamond"}
 {"dependencies":{"vibe-d":{"version":"~>0.8.1","optional":true}},"targetType":"sourceLibrary","version":"2.2.1","name":"diamond"}
+{"dependencies":{"vibe-d":{"version":"~>0.8.1","optional":true}},"targetType":"sourceLibrary","version":"2.2.2","name":"diamond"}
