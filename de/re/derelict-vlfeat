@@ -1,1 +1,2 @@
 {"dependencies":{"derelict-util":"~>2.1.0"},"version":"0.0.1","name":"derelict-vlfeat"}
+{"dependencies":{"derelict-util":"~>2.1.0"},"version":"~master","commitID":"51d6ab04f694a17b1323cd972c68006b81965c35","name":"derelict-vlfeat"}
