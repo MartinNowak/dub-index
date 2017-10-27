@@ -5,3 +5,4 @@
 {"configurations":[{"targetType":"executable","name":"with-32"},{"targetType":"executable","name":"only-64"}],"version":"~parameter","commitID":"1c56d0858ebe3fbf9fa41ea851077d69f673faab","name":"sfmtd"}
 {"configurations":[{"targetType":"executable","name":"with-32"},{"targetType":"executable","name":"only-64"}],"version":"~add-license","commitID":"4baf4e1aa67ce269b238ae68facf3860575cc5f0","name":"sfmtd"}
 {"configurations":[{"targetType":"executable","name":"with-32"},{"targetType":"executable","name":"only-64"}],"version":"~var-enum-names","commitID":"742f0532c42242dddcc12211f20d6267f8b8edf3","name":"sfmtd"}
+{"configurations":[{"targetType":"executable","name":"with-32"},{"targetType":"executable","name":"only-64"}],"version":"~phobos","commitID":"5f803a31b6ed85fddf9660b95c48dc41880c188f","name":"sfmtd"}
