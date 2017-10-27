@@ -1,1 +1,2 @@
 {"dependencies":{"derelict-cuda":"~>3.1.0","derelict-nvrtc":"~>1.0.2"},"version":"0.0.1","name":"d-nv"}
+{"dependencies":{"derelict-cuda":"~>3.1.0","derelict-nvrtc":"~>1.0.2"},"version":"~master","commitID":"7946c12c5657d0a9e73167792d1565f2f1474e86","name":"d-nv"}
