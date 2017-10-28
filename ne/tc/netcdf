@@ -1,3 +1,4 @@
 {"targetType":"sourceLibrary","version":"1.0.0","name":"netcdf"}
 {"targetType":"sourceLibrary","version":"1.0.1","name":"netcdf"}
 {"targetType":"sourceLibrary","version":"1.0.2","name":"netcdf"}
+{"version":"~master","commitID":"fedc90bbc0ddb9f2a37e1b76df43b94d2221f74b","name":"netcdf"}
