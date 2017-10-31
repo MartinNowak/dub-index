@@ -29,3 +29,4 @@
 {"configurations":[{"targetType":"library","name":"std"},{"dependencies":{"vibe-d":">=0.7.29"},"targetType":"library","name":"vibed"}],"version":"0.5.1","name":"requests"}
 {"configurations":[{"targetType":"library","name":"std"},{"dependencies":{"vibe-d":">=0.7.29"},"targetType":"library","name":"vibed"}],"version":"0.5.2","name":"requests"}
 {"configurations":[{"targetType":"library","name":"std"},{"dependencies":{"vibe-d":">=0.7.29"},"targetType":"library","name":"vibed"}],"version":"0.5.3","name":"requests"}
+{"configurations":[{"targetType":"library","name":"std"},{"dependencies":{"vibe-d":"~>0.7"},"targetType":"library","name":"vibed"}],"version":"0.5.4","name":"requests"}
