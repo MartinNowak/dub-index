@@ -1,2 +1,3 @@
 {"configurations":[{"dependencies":{"dlogg":">=0.3.2"},"targetType":"library","name":"default"},{"dependencies":{"dlogg":">=0.3.3"},"targetType":"library","name":"colorized"}],"version":"0.1.0","name":"daemonize"}
 {"configurations":[{"dependencies":{"dlogg":">=0.3.3"},"targetType":"library","name":"default"},{"dependencies":{"dlogg":">=0.3.3"},"targetType":"library","name":"colorized"}],"version":"0.1.1","name":"daemonize"}
+{"configurations":[{"dependencies":{"dlogg":">=0.3.3"},"targetType":"library","name":"default"},{"dependencies":{"dlogg":">=0.3.3"},"targetType":"library","name":"colorized"}],"version":"~rjframe-deprecations","commitID":"51a5d86e7a9fbe94467b12a5e732ae1b8548c273","name":"daemonize"}
