@@ -8,3 +8,4 @@
 {"dependencies":{"derelict-util":">=1.0.0"},"targetType":"library","version":"0.0.9","name":"derelict-vulkan"}
 {"dependencies":{"derelict-util":">=1.0.0"},"targetType":"library","version":"0.0.10","name":"derelict-vulkan"}
 {"dependencies":{"derelict-util":">=1.0.0"},"targetType":"library","version":"0.0.11","name":"derelict-vulkan"}
+{"dependencies":{"derelict-util":">=1.0.0","xcb-d":"~>2.1.0","xlib-d":"~>0.1.1"},"targetType":"library","version":"0.0.12-alpha","name":"derelict-vulkan"}
