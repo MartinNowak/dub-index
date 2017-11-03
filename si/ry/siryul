@@ -2,3 +2,4 @@
 {"configurations":[{"dependencies":{"dyaml":"~>0.5.3"},"targetType":"library","name":"with-yaml"},{"targetType":"library","name":"no-yaml"}],"version":"0.3.0-alpha.1","name":"siryul"}
 {"configurations":[{"dependencies":{"dyaml":"~>0.5.3"},"targetType":"library","name":"with-yaml"},{"targetType":"library","name":"no-yaml"}],"version":"0.3.0","name":"siryul"}
 {"configurations":[{"dependencies":{"dyaml":"~>0.5.3"},"targetType":"library","name":"with-yaml"},{"targetType":"library","name":"no-yaml"}],"version":"0.3.0-alpha.2","name":"siryul"}
+{"configurations":[{"dependencies":{"dyaml":"~>0.6.0"},"targetType":"library","name":"with-yaml"},{"targetType":"library","name":"no-yaml"}],"version":"0.4.0","name":"siryul"}
