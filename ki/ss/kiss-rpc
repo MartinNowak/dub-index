@@ -3,3 +3,4 @@
 {"dependencies":{"flatbuffers":"~>0.1.1","kiss":"~>0.0.8","dlang-snappy":"~>0.0.1"},"version":"0.0.4","name":"kiss-rpc"}
 {"dependencies":{"flatbuffers":"~>0.1.1","kiss":{"version":">=0.0.0","path":"../kiss/"},"dlang-snappy":"~>0.0.1"},"version":"0.0.5","name":"kiss-rpc"}
 {"dependencies":{"flatbuffers":"~>0.1.1","kiss":"~>0.0.8","dlang-snappy":"~>0.0.1"},"version":"0.0.7","name":"kiss-rpc"}
+{"dependencies":{"flatbuffers":"~>0.1.1","kiss":"~>0.0.8","dlang-snappy":"~>0.0.2"},"version":"~master","commitID":"42e3133a7b52824d591ecea39a18d9d81370f530","name":"kiss-rpc"}
