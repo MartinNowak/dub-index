@@ -2,3 +2,4 @@
 {"targetType":"library","version":"0.2.0","name":"dhtags"}
 {"targetType":"library","version":"~develop","commitID":"3bcb27e04e0fa51217bef28ab2a87cf84e9485fd","name":"dhtags"}
 {"targetType":"library","version":"0.2.1","name":"dhtags"}
+{"targetType":"library","version":"~master","commitID":"a691323a4bb3191d62742ac774914ff606e604d9","name":"dhtags"}
