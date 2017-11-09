@@ -1,3 +1,4 @@
 {"targetType":"staticLibrary","version":"0.1.4","name":"ircbod2"}
 {"targetType":"staticLibrary","version":"0.1.5","name":"ircbod2"}
 {"targetType":"staticLibrary","version":"0.1.6","name":"ircbod2"}
+{"targetType":"staticLibrary","version":"~master","commitID":"7be2a2d9ab355f90e95754389427a80e69810e27","name":"ircbod2"}
