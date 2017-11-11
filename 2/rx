@@ -13,3 +13,4 @@
 {"targetType":"library","version":"0.6.2","name":"rx"}
 {"targetType":"library","version":"~support-2.077.0","commitID":"d0062d445ce649bb1ed6add964ec8626270d7c65","name":"rx"}
 {"targetType":"library","version":"0.7.0","name":"rx"}
+{"targetType":"library","version":"0.7.1","name":"rx"}
