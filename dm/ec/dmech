@@ -8,3 +8,4 @@
 {"dependencies":{"dlib":">=0.6.0"},"configurations":[{"targetType":"library","name":"library"}],"version":"0.2.5","name":"dmech"}
 {"dependencies":{"dlib":"~master"},"configurations":[{"targetType":"library","name":"library"}],"version":"0.2.6","name":"dmech"}
 {"dependencies":{"dlib":">=0.9.2"},"configurations":[{"targetType":"library","name":"library"}],"version":"0.3.0","name":"dmech"}
+{"dependencies":{"dlib":"0.12.2"},"configurations":[{"targetType":"library","name":"library"}],"version":"0.3.1","name":"dmech"}
