@@ -13,3 +13,4 @@
 {"dependencies":{"zeromq":"~>4"},"targetType":"library","version":"1.0.0","name":"zmqd"}
 {"dependencies":{"zeromq":"~>4"},"targetType":"library","version":"1.1.0","name":"zmqd"}
 {"dependencies":{"zeromq":"~>4"},"targetType":"library","version":"1.1.1","name":"zmqd"}
+{"dependencies":{"zeromq":"~>4"},"targetType":"library","version":"~master","commitID":"95ca359b9dc29c9430b121a87db3a688c17adb51","name":"zmqd"}
