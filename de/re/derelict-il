@@ -6,3 +6,4 @@
 {"dependencies":{"derelict-util":">=3.0.0-beta.1 <3.1.0-0"},"version":"2.0.0-beta.1","name":"derelict-il"}
 {"dependencies":{"derelict-util":">=3.0.0-beta.1 <3.1.0-0"},"version":"2.0.0-beta.2","name":"derelict-il"}
 {"dependencies":{"derelict-util":">=3.0.0-beta.1 <3.1.0-0"},"version":"~master","commitID":"3413468cb608e222c538635d8d15e78011944e1f","name":"derelict-il"}
+{"dependencies":{"derelict-util":">=3.0.0-beta.1 <3.1.0-0"},"version":"~2.0","commitID":"3413468cb608e222c538635d8d15e78011944e1f","name":"derelict-il"}
