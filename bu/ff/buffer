@@ -13,3 +13,4 @@
 {"dependencies":{"cryption":"~>0.0.16"},"targetType":"library","version":"0.1.5","name":"buffer"}
 {"dependencies":{"cryption":"~>0.1.0"},"targetType":"library","version":"0.1.6","name":"buffer"}
 {"dependencies":{"cryption":"~>0.1.0"},"targetType":"library","version":"0.1.7","name":"buffer"}
+{"dependencies":{"cryption":"~>0.1.0"},"targetType":"library","version":"0.1.8","name":"buffer"}
