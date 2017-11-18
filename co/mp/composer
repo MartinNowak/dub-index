@@ -1,2 +1,3 @@
 {"configurations":[{"targetType":"library","name":"debug"},{"dependencies":{"unit-threaded":"~>0.7.11"},"targetType":"executable","name":"unittest"}],"version":"0.1.0","name":"composer"}
 {"configurations":[{"targetType":"library","name":"debug"},{"dependencies":{"unit-threaded":"~>0.7.11"},"targetType":"executable","name":"unittest"}],"version":"0.2.0","name":"composer"}
+{"configurations":[{"targetType":"library","name":"debug"},{"dependencies":{"unit-threaded":"~>0.7.11"},"targetType":"executable","name":"unittest"}],"version":"0.2.1","name":"composer"}
