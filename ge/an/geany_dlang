@@ -1,1 +1,2 @@
 {"dependencies":{"dcd":"~>0.9.0"},"configurations":[{"dependencies":{"geany_d_binding":"~>0.0.2"},"targetType":"dynamicLibrary","name":"default"},{"targetType":"executable","name":"integration_test"}],"version":"0.0.1","name":"geany_dlang"}
+{"dependencies":{"dcd":"~>0.9.0"},"configurations":[{"dependencies":{"geany_d_binding":"~>0.0.2"},"targetType":"dynamicLibrary","name":"default"},{"targetType":"executable","name":"integration_test"}],"version":"0.0.2","name":"geany_dlang"}
