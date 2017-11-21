@@ -6,3 +6,4 @@
 {"dependencies":{"vibe-d":"~>0.7.25","feature-test-d":"~>1.0.4"},"configurations":[{"targetType":"library","name":"elasticsearch-d"}],"version":"1.0.5","name":"elasticsearch-d"}
 {"dependencies":{"vibe-d":"~>0.7.25","feature-test-d":"~>1.0.4"},"configurations":[{"targetType":"library","name":"elasticsearch-d"}],"version":"1.0.6","name":"elasticsearch-d"}
 {"dependencies":{"vibe-d":"~>0.7.25","feature-test-d":"~>1.0.4"},"configurations":[{"targetType":"library","name":"elasticsearch-d"}],"version":"1.0.7","name":"elasticsearch-d"}
+{"dependencies":{"vibe-d":"~>0.7.25","feature-test-d":"~>1.0.4"},"configurations":[{"targetType":"library","name":"elasticsearch-d"}],"version":"~release","commitID":"3c744aca1b64ee5e5a842e582bb7c803703a2963","name":"elasticsearch-d"}
