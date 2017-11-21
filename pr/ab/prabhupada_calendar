@@ -3,3 +3,4 @@
 {"dependencies":{"dlangui":">=0.9.170"},"targetType":"executable","version":"1.0.2","name":"prabhupada_calendar"}
 {"dependencies":{"dlangui":">=0.9.170"},"targetType":"executable","version":"1.0.4","name":"prabhupada_calendar"}
 {"dependencies":{"dlangui":">=0.9.170"},"targetType":"executable","version":"1.0.3","name":"prabhupada_calendar"}
+{"dependencies":{"dlangui":">=0.9.170"},"targetType":"executable","version":"1.0.5","name":"prabhupada_calendar"}
