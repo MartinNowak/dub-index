@@ -2,3 +2,4 @@
 {"configurations":[{"targetType":"library","name":"debug"},{"dependencies":{"unit-threaded":"~>0.7.11"},"targetType":"executable","name":"unittest"}],"version":"0.2.0","name":"composer"}
 {"configurations":[{"targetType":"library","name":"debug"},{"dependencies":{"unit-threaded":"~>0.7.11"},"targetType":"executable","name":"unittest"}],"version":"0.2.1","name":"composer"}
 {"configurations":[{"targetType":"library","name":"debug"},{"dependencies":{"unit-threaded":"~>0.7.11"},"targetType":"executable","name":"unittest"}],"version":"0.3.1","name":"composer"}
+{"configurations":[{"targetType":"library","name":"debug"},{"dependencies":{"unit-threaded":"~>0.7.11"},"targetType":"executable","name":"unittest"}],"version":"~master","commitID":"ff75e0de56976a9b959540df17011cc7c926e431","name":"composer"}
