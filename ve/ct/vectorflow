@@ -1,1 +1,2 @@
 {"configurations":[{"targetType":"library","name":"lib"},{"targetType":"library","name":"unittest"}],"version":"1.0.0","name":"vectorflow"}
+{"configurations":[{"targetType":"library","name":"lib"},{"targetType":"library","name":"unittest"}],"version":"~master","commitID":"aed9977ed07d91c0f23e4bf866cc711dd21c4a2f","name":"vectorflow"}
