@@ -1,1 +1,2 @@
 {"dependencies":{"derelict-util":"~>2.0.6"},"version":"1.0.0","name":"derelict-nanovg"}
+{"dependencies":{"derelict-util":">=3.0.0-alpha.2 <3.1.0-0"},"version":"1.1.0","name":"derelict-nanovg"}
