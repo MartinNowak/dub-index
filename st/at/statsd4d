@@ -1,2 +1,3 @@
 {"targetType":"library","version":"1.0.0-beta","name":"statsd4d"}
 {"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"vibe-d:core":">=0.7.28"},"targetType":"library","name":"vibed"}],"targetType":"library","version":"~feature/VibeDSockets","commitID":"b6653d3f71751064abbca7f44f0a0b69ce9069a5","name":"statsd4d"}
+{"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"vibe-d:core":">=0.7.28"},"targetType":"library","name":"vibed"}],"targetType":"library","version":"~master","commitID":"847761e1870d81073362f68c701d4c4efeda64e9","name":"statsd4d"}
