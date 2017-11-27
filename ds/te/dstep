@@ -4,3 +4,4 @@
 {"dependencies":{"dstack":"0.0.4"},"targetType":"executable","version":"0.2.1","configurations":[{"targetType":"executable","name":"default"},{"targetType":"executable","name":"test"}],"name":"dstep"}
 {"dependencies":{"dstack":"~>0.0.5"},"targetType":"executable","version":"0.2.2","configurations":[{"targetType":"executable","name":"default"},{"targetType":"executable","name":"test"}],"name":"dstep"}
 {"configurations":[{"targetType":"executable","name":"default"},{"targetType":"executable","name":"test"},{"targetType":"executable","name":"unittest"}],"targetType":"executable","version":"~issue-136","commitID":"6e90c5077e30dcfe20135a25a673faaa3f4a6516","name":"dstep"}
+{"configurations":[{"targetType":"executable","name":"default"},{"targetType":"executable","name":"test"},{"targetType":"executable","name":"unittest"},{"targetType":"library","name":"library"}],"targetType":"executable","version":"0.2.3","name":"dstep"}
