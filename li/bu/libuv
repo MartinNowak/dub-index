@@ -9,3 +9,4 @@
 {"targetType":"sourceLibrary","version":"1.15.0","name":"libuv"}
 {"targetType":"sourceLibrary","version":"1.16.0","name":"libuv"}
 {"targetType":"sourceLibrary","version":"1.16.1","name":"libuv"}
+{"targetType":"sourceLibrary","version":"1.17.0","name":"libuv"}
