@@ -15,3 +15,4 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"native"}],"targetType":"library","version":"0.7.3","name":"tanya"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"native"}],"targetType":"library","version":"0.7.4","name":"tanya"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"native"}],"targetType":"library","version":"0.7.5","name":"tanya"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"native"}],"targetType":"library","version":"0.7.6","name":"tanya"}
