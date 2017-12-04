@@ -5,3 +5,4 @@
 {"version":"0.5.1","name":"qscript"}
 {"version":"0.5.2","name":"qscript"}
 {"version":"0.5.3","name":"qscript"}
+{"dependencies":{"utils":"~>0.1.7"},"version":"0.6.0","name":"qscript"}
