@@ -1,0 +1,1 @@
+{"dependencies":{"rocksdb":"~>0.0.7","dreactor":{"version":">=0.0.0","path":"../dreactor"},"raft":{"version":">=0.0.0","path":"../raft"}},"targetType":"executable","version":"~master","commitID":"9299c8ee29f295ab14ca140f68279c6cea9c5aff","name":"neton"}
