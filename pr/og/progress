@@ -21,3 +21,4 @@
 {"targetType":"library","version":"4.0.5","name":"progress"}
 {"targetType":"library","version":"5.0.0","name":"progress"}
 {"targetType":"library","version":"~master","commitID":"0e53c9a645169c1a0e2ed740627e027cd1d12ab8","name":"progress"}
+{"targetType":"library","version":"5.0.1","name":"progress"}
