@@ -1,2 +1,3 @@
 {"dependencies":{"pegged":"~>0.4.2","pegged-cutter":"~>1.0.0"},"targetType":"library","version":"1.0.0","name":"os1"}
 {"dependencies":{"pegged":"~>0.4.2","pegged-cutter":"~>1.0.0"},"targetType":"library","version":"1.0.1","name":"os1"}
+{"dependencies":{"pegged":"~>0.4.2","pegged-cutter":"~>1.0.0"},"targetType":"library","version":"~master","commitID":"67d6bd3bf657d07a44d6116655f49012ce83e046","name":"os1"}
