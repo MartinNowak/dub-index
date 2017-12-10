@@ -1,1 +1,2 @@
 {"dependencies":{"pegged":"~>0.4.2","pegged-cutter":"~>1.0.0"},"targetType":"library","version":"1.0.0","name":"os1"}
+{"dependencies":{"pegged":"~>0.4.2","pegged-cutter":"~>1.0.0"},"targetType":"library","version":"1.0.1","name":"os1"}
