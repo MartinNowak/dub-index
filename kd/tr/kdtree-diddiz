@@ -1,1 +1,2 @@
 {"dependencies":{"fluent-asserts":"~>0.7"},"version":"0.2.0-alpha","name":"kdtree-diddiz"}
+{"dependencies":{"fluent-asserts":"~>0.7"},"version":"~master","commitID":"96f8ce0a2aec692701e2557219983628f2898135","name":"kdtree-diddiz"}
