@@ -1,0 +1,1 @@
+{"dependencies":{"vibe-d:core":">=0.8.2-rc.2 <0.9.0-0","vibe-d:stream":">=0.8.2-rc.2 <0.9.0-0","vibe-d:http":">=0.8.2-rc.2 <0.9.0-0"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"executable"}],"version":"~master","commitID":"1b2743b8671e9c268dfe987af62fb62158d5fb1d","name":"dummy-web-server"}
