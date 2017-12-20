@@ -8,3 +8,4 @@
 {"version":"0.0.8","name":"dbal"}
 {"version":"0.0.9","name":"dbal"}
 {"configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"mysql"},{"targetType":"library","name":"postgresql"},{"targetType":"library","name":"sqlite"}],"version":"0.0.10","name":"dbal"}
+{"configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"mysql"},{"targetType":"library","name":"postgresql"},{"targetType":"library","name":"sqlite"}],"version":"~master","commitID":"ea3640fe3057ffb39b1ab997d6b865791519814c","name":"dbal"}
