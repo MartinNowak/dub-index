@@ -1,3 +1,4 @@
 {"targetType":"library","version":"0.1.0","name":"json"}
 {"targetType":"library","version":"0.2.0","name":"json"}
 {"targetType":"library","version":"0.3.0","name":"json"}
+{"targetType":"library","version":"~master","commitID":"65a1b3e3026bab7889f6c1cd596ccfa955009c42","name":"json"}
