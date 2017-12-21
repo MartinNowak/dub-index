@@ -1,3 +1,4 @@
 {"targetType":"library","version":"0.1.0","name":"dlsl"}
 {"targetType":"sourceLibrary","version":"0.1.1","name":"dlsl"}
 {"targetType":"sourceLibrary","version":"0.1.2","name":"dlsl"}
+{"targetType":"sourceLibrary","version":"~master","commitID":"a3ab26c02b858fc10f948e9ce73120108cbbf1ba","name":"dlsl"}
