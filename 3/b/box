@@ -1,0 +1,1 @@
+{"subPackages":[{"dependencies":{"libuv":">=0.0.0"},"targetType":"library","name":"core"}],"dependencies":{"box:core":">=0.0.0"},"version":"0.0.1","name":"box"}
