@@ -13,3 +13,4 @@
 {"dependencies":{"derelict-util":">=3.0.0-beta.1 <3.1.0-0"},"version":"2.0.0-beta.2","name":"derelict-ft"}
 {"dependencies":{"derelict-util":">=3.0.0-beta.1 <3.1.0-0"},"version":"2.0.0-beta.3","name":"derelict-ft"}
 {"dependencies":{"derelict-util":">=3.0.0-beta.1 <3.1.0-0"},"version":"2.0.0-beta.4","name":"derelict-ft"}
+{"dependencies":{"derelict-util":">=3.0.0-beta.1 <3.1.0-0"},"version":"~master","commitID":"b628c044affb94af57d431a8b8b30267cfed1626","name":"derelict-ft"}
