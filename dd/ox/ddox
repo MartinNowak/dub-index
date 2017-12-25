@@ -65,3 +65,4 @@
 {"dependencies":{"hyphenate":"~>1.1.0","libdparse":"~>0.7.0","vibe-d:web":">=0.7.31 <0.9.0"},"version":"0.16.4","name":"ddox"}
 {"dependencies":{"hyphenate":"~>1.1.0","libdparse":"~>0.7.0","vibe-d:web":">=0.7.31 <0.9.0"},"version":"0.16.5","name":"ddox"}
 {"dependencies":{"hyphenate":"~>1.1.0","libdparse":"~>0.7.0","vibe-d:web":">=0.7.31 <0.9.0"},"version":"0.16.6","name":"ddox"}
+{"dependencies":{"hyphenate":"~>1.1.0","libdparse":"~>0.7.0","vibe-d:web":">=0.7.31 <0.9.0"},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"0.16.7","name":"ddox"}
