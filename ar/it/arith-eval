@@ -4,3 +4,4 @@
 {"dependencies":{"pegged":"~>0.3.2"},"version":"0.3.1","name":"arith-eval"}
 {"dependencies":{"pegged":"~>0.3.2"},"version":"0.3.2","name":"arith-eval"}
 {"dependencies":{"pegged":"~>0.3.2"},"version":"0.4.0","name":"arith-eval"}
+{"dependencies":{"pegged":"~>0.3.2"},"version":"0.4.1","name":"arith-eval"}
