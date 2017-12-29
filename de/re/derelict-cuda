@@ -6,3 +6,4 @@
 {"dependencies":{"derelict-util":">=3.0.0-alpha.1 <4.0.0-0"},"version":"3.0.0","name":"derelict-cuda"}
 {"dependencies":{"derelict-util":">=3.0.0-beta.1 <3.1.0-0"},"version":"3.1.0","name":"derelict-cuda"}
 {"dependencies":{"derelict-util":">=3.0.0-beta.1 <3.1.0-0"},"version":"3.1.1","name":"derelict-cuda"}
+{"dependencies":{"derelict-util":">=3.0.0-beta.1 <3.1.0-0"},"version":"~master","commitID":"291b2e1b3e8f4cbae2561d7a1e397dc5290ddd1c","name":"derelict-cuda"}
