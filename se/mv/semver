@@ -4,3 +4,4 @@
 {"targetType":"library","version":"0.3.0","name":"semver"}
 {"targetType":"library","version":"0.3.1","name":"semver"}
 {"targetType":"library","version":"~master","commitID":"c8c5f58cc492b69b469e8a8653ea72c6d2b25187","name":"semver"}
+{"targetType":"library","version":"0.3.2","name":"semver"}
