@@ -3,3 +3,4 @@
 {"dependencies":{"derelict-cudnn":"~>1.0.2","derelict-cuda":"~>3.1.0","cblas":"~>2.0.0","derelict-nvrtc":"~>1.0.2"},"version":"0.2.1","name":"dopt"}
 {"dependencies":{"derelict-cudnn":"~>1.0.2","derelict-cuda":"~>3.1.0","cblas":"~>2.0.0","derelict-nvrtc":"~>1.0.2"},"version":"0.3.0","name":"dopt"}
 {"dependencies":{"derelict-cudnn":"~>2.0.1","derelict-cuda":"~>3.1.0","cblas":"~>2.0.0","derelict-nvrtc":"~>1.0.2"},"version":"0.3.1","name":"dopt"}
+{"dependencies":{"derelict-cudnn":"~>2.0.1","derelict-cuda":"~>3.1.0","cblas":"~>2.0.0","derelict-nvrtc":"~>1.0.2"},"version":"0.3.2","name":"dopt"}
