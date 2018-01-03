@@ -1,0 +1,1 @@
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"targetType":"library","version":"0.1.0","name":"protobuf"}
