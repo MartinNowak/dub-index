@@ -1,2 +1,3 @@
 {"dependencies":{"sel-utils":"1.4.1","sel-stream":"~>0.0.3"},"version":"0.0.1","name":"sel-server"}
 {"dependencies":{"sel-utils":"1.4.1","sel-net":"~>0.1.0"},"version":"0.1.0","name":"sel-server"}
+{"dependencies":{"sel-utils":"1.4.1","sel-net":"~>0.1.1"},"version":"0.2.0","name":"sel-server"}
