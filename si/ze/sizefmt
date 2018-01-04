@@ -2,3 +2,4 @@
 {"targetType":"library","version":"0.2.0","name":"sizefmt"}
 {"targetType":"library","version":"0.3.0","name":"sizefmt"}
 {"targetType":"library","version":"0.3.1","name":"sizefmt"}
+{"targetType":"library","version":"~master","commitID":"36f1350e4c71a0d36f21b424d1d2182e08fe4a15","name":"sizefmt"}
