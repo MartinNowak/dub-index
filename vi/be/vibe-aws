@@ -1,2 +1,3 @@
 {"dependencies":{"vibe-d":"~>0.8"},"targetType":"library","version":"0.1.2","name":"vibe-aws"}
 {"dependencies":{"vibe-d":"~>0.8"},"targetType":"library","version":"0.1.3","name":"vibe-aws"}
+{"dependencies":{"vibe-d":"~>0.8"},"targetType":"library","version":"0.1.4","name":"vibe-aws"}
