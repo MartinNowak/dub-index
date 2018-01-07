@@ -5,3 +5,4 @@
 {"dependencies":{"pegged":"~>0.3.2"},"version":"0.3.2","name":"arith-eval"}
 {"dependencies":{"pegged":"~>0.3.2"},"version":"0.4.0","name":"arith-eval"}
 {"dependencies":{"pegged":"~>0.3.2"},"version":"0.4.1","name":"arith-eval"}
+{"dependencies":{"pegged":"~>0.4.2"},"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":"~>0.7.33"},"targetType":"executable","name":"unittest"}],"version":"0.5.0","name":"arith-eval"}
