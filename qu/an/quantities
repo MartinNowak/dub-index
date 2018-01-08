@@ -15,3 +15,4 @@
 {"targetType":"library","version":"0.6.0","name":"quantities"}
 {"targetType":"library","version":"0.7.0","name":"quantities"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"unittest"},{"targetType":"library","name":"printing-unittest"}],"targetType":"library","version":"0.8.0","name":"quantities"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"unittest"},{"targetType":"library","name":"printing-unittest"}],"targetType":"library","version":"0.8.1","name":"quantities"}
