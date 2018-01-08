@@ -1,0 +1,1 @@
+{"configurations":[{"dependencies":{"arith-eval":"~>0.5.1"},"targetType":"library","name":"library"},{"targetType":"library","name":"library_lite"},{"dependencies":{"arith-eval":"~>0.5.0"},"targetType":"executable","name":"demo"},{"dependencies":{"unit-threaded":"~>0.7.35","arith-eval":"~>0.5.1"},"targetType":"executable","name":"unittest"}],"version":"0.1.0","name":"dli"}
