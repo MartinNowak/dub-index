@@ -1,1 +1,2 @@
 {"dependencies":{"common":{"version":">=0.0.0","path":"../common"}},"version":"0.0.1","name":"raft"}
+{"dependencies":{"common":{"version":">=0.0.0","path":"../common"}},"version":"~master","commitID":"1a9a93854d88daac3cc149dff30b2a4d4543edc5","name":"raft"}
