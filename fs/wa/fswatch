@@ -2,3 +2,4 @@
 {"subPackages":[{"dependencies":{"fswatch":">=0.0.0"},"targetType":"executable","name":"watch"}],"version":"0.2.0","name":"fswatch"}
 {"subPackages":[{"dependencies":{"fswatch":">=0.0.0"},"targetType":"executable","name":"watch"}],"version":"0.2.1","name":"fswatch"}
 {"subPackages":[{"dependencies":{"fswatch":">=0.0.0"},"targetType":"executable","name":"watch"}],"version":"0.3.0","name":"fswatch"}
+{"subPackages":[{"dependencies":{"fswatch":">=0.0.0"},"targetType":"executable","name":"watch"}],"version":"~master","commitID":"2bf6f0a74b1e1c84aef24018dacc1e9335575d8d","name":"fswatch"}
