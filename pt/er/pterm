@@ -1,1 +1,2 @@
 {"dependencies":{"msgpack-d":"0.9.6"},"version":"0.0.1","name":"pterm"}
+{"dependencies":{"msgpack-d":"0.9.6"},"version":"~master","commitID":"7838d7f9aeb0b5f1c405a02be41bfc9d63406052","name":"pterm"}
