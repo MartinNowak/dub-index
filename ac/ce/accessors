@@ -3,3 +3,4 @@
 {"configurations":[{"targetType":"library","name":"library"}],"targetType":"library","version":"1.1.1","name":"accessors"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"targetType":"library","version":"1.2.0","name":"accessors"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"targetType":"library","version":"1.2.1","name":"accessors"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"targetType":"library","version":"1.2.2","name":"accessors"}
