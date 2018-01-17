@@ -2,3 +2,4 @@
 {"dependencies":{"luad":"~master","tested":"~>0.9.4"},"configurations":[{"targetType":"executable","name":"executable"},{"targetType":"library","name":"unittest"}],"version":"0.0.2","name":"bluejay"}
 {"dependencies":{"luad":"~master","tested":"~>0.9.4"},"configurations":[{"targetType":"executable","name":"executable"},{"targetType":"library","name":"unittest"}],"version":"0.0.4","name":"bluejay"}
 {"dependencies":{"luad":"~master","tested":"~>0.9.4"},"configurations":[{"targetType":"executable","name":"executable"},{"targetType":"library","name":"unittest"}],"version":"0.0.5","name":"bluejay"}
+{"dependencies":{"luad":"~master","tested":"~>0.9.4"},"configurations":[{"targetType":"executable","name":"executable"},{"targetType":"library","name":"unittest"}],"version":"~master","commitID":"1b2abb8da324dfd1e133402c3156e0eb641a5a7f","name":"bluejay"}
