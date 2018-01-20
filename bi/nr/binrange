@@ -4,3 +4,4 @@
 {"targetType":"library","version":"1.0.1","name":"binrange"}
 {"targetType":"library","version":"1.0.2","name":"binrange"}
 {"targetType":"library","version":"1.0.3","name":"binrange"}
+{"targetType":"library","version":"~master","commitID":"75c4e6371fc78ef55ea8682a764fbdd36b3619c2","name":"binrange"}
