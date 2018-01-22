@@ -1,2 +1,3 @@
 {"dependencies":{"utils":"~>0.1.3"},"version":"0.0.1","name":"networkd"}
 {"dependencies":{"utils":"~>0.1.3"},"configurations":[{"targetType":"library","name":"default"},{"targetType":"executable","name":"server-demo"},{"targetType":"executable","name":"client-demo"}],"version":"0.0.2","name":"networkd"}
+{"dependencies":{"utils":"~>0.1.3"},"configurations":[{"targetType":"library","name":"default"},{"targetType":"executable","name":"server-demo"},{"targetType":"executable","name":"client-demo"}],"version":"0.1.0","name":"networkd"}
