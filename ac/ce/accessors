@@ -5,3 +5,4 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"targetType":"library","version":"1.2.1","name":"accessors"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"targetType":"library","version":"1.2.2","name":"accessors"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"targetType":"library","version":"1.2.3","name":"accessors"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"targetType":"library","version":"1.2.4","name":"accessors"}
