@@ -4,3 +4,4 @@
 {"dependencies":{"mondo":"~>1.1"},"version":"0.4.0","name":"struct2mongo"}
 {"dependencies":{"mondo":"~>1.1"},"version":"0.5.0","name":"struct2mongo"}
 {"dependencies":{"mondo":"~>1.1"},"version":"0.5.1","name":"struct2mongo"}
+{"dependencies":{"mondo":"~>1.1"},"version":"0.6.1","name":"struct2mongo"}
