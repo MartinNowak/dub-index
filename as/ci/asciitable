@@ -1,1 +1,2 @@
 {"version":"0.0.1","name":"asciitable"}
+{"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":"~>0.7.36"},"targetType":"executable","name":"ut"},{"dependencies":{"unit-threaded":"~>0.7.36"},"targetType":"executable","name":"unittest"}],"version":"0.0.2","name":"asciitable"}
