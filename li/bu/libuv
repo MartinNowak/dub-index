@@ -12,3 +12,4 @@
 {"targetType":"sourceLibrary","version":"1.17.0","name":"libuv"}
 {"targetType":"sourceLibrary","version":"1.18.0","name":"libuv"}
 {"targetType":"sourceLibrary","version":"1.19.0","name":"libuv"}
+{"targetType":"sourceLibrary","version":"1.19.1","name":"libuv"}
