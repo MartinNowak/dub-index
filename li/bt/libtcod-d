@@ -1,1 +1,2 @@
 {"dependencies":{"derelict-util":">=3.0.0-beta.2 <3.1.0-0"},"configurations":[{"targetType":"sourceLibrary","name":"default"},{"targetType":"executable","name":"samples_d"},{"targetType":"executable","name":"simple"}],"version":"1.5.1-1","name":"libtcod-d"}
+{"dependencies":{"derelict-util":">=3.0.0-beta.2 <3.1.0-0"},"configurations":[{"targetType":"sourceLibrary","name":"default"},{"targetType":"executable","name":"samples_d"},{"targetType":"executable","name":"simple"}],"version":"~high_level_api","commitID":"3b8cc9e6f6015bb422d662a9fd1142953c84ce1c","name":"libtcod-d"}
