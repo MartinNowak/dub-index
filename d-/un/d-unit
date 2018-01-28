@@ -2,3 +2,4 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"example"}],"version":"0.7.2","name":"d-unit"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"example"},{"dependencies":{"unit-threaded":">=0.6.27"},"targetType":"executable","name":"fluent-assertions"}],"version":"0.8.0","name":"d-unit"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"example"},{"dependencies":{"unit-threaded":">=0.6.27"},"targetType":"executable","name":"fluent-assertions"}],"version":"0.8.1","name":"d-unit"}
+{"targetType":"library","version":"0.8.2","name":"d-unit"}
