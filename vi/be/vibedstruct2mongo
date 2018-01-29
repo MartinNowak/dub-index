@@ -1,1 +1,2 @@
 {"dependencies":{"vibe-d":"~>0.8.2","struct2mongo":"~>0.6.2","mondo":"~>1.1"},"version":"0.1.0","name":"vibedstruct2mongo"}
+{"dependencies":{"vibe-d":"~>0.8.2","vibe-d:tls":">=0.0.0","struct2mongo":"~>0.6.2","mondo":"~>1.1"},"version":"~master","commitID":"4c1e042b01caf0151934ab2ccb5a89553e26269f","name":"vibedstruct2mongo"}
