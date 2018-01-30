@@ -1,3 +1,4 @@
 {"dependencies":{"colored":"0.0.4"},"version":"0.0.1","name":"androidlogger"}
 {"dependencies":{"colored":"0.0.5"},"version":"0.0.2","name":"androidlogger"}
 {"dependencies":{"colored":"~>0.0.7"},"configurations":[{"targetType":"executable","name":"executable"},{"targetType":"library","name":"library"}],"version":"0.0.4","name":"androidlogger"}
+{"dependencies":{"colored":"~>0.0.7"},"configurations":[{"targetType":"executable","name":"executable"},{"targetType":"library","name":"library"}],"version":"0.0.5","name":"androidlogger"}
