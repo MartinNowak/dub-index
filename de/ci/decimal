@@ -1,1 +1,2 @@
 {"targetType":"library","version":"0.9.0","name":"decimal"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"},{"targetType":"executable","name":"benchmark"},{"targetType":"executable","name":"betterc"},{"targetType":"library","name":"doc"}],"version":"0.9.1","name":"decimal"}
