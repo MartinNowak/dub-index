@@ -1,0 +1,1 @@
+{"subPackages":[{"dependencies":{"dcaptcha":{"version":">=0.0.0","path":"."}},"targetType":"executable","name":"test"}],"dependencies":{"ae":">=0.0.1969"},"targetType":"sourceLibrary","version":"1.0.0","name":"dcaptcha"}
