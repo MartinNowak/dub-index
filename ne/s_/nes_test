@@ -1,1 +1,2 @@
 {"dependencies":{"derelict-sdl2":">=3.0.0-alpha.4 <3.1.0-0","nes":"~>0.1.0"},"version":"0.1.0","name":"nes_test"}
+{"dependencies":{"derelict-sdl2":">=3.0.0-alpha.4 <3.1.0-0","nes":"~>0.1.0"},"targetType":"executable","version":"0.1.1","name":"nes_test"}
