@@ -98,3 +98,4 @@
 {"version":"1.4.0","name":"sel-utils"}
 {"version":"1.4.1","name":"sel-utils"}
 {"version":"1.4.2","name":"sel-utils"}
+{"version":"~master","commitID":"428322b02c64920b8c92a934fed99d60e997a84f","name":"sel-utils"}
