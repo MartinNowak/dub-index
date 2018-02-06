@@ -8,3 +8,4 @@
 {"version":"0.0.8","name":"packageversion"}
 {"version":"0.0.9","name":"packageversion"}
 {"version":"0.0.10","name":"packageversion"}
+{"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"0.0.11","name":"packageversion"}
