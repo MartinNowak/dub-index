@@ -33,3 +33,4 @@
 {"configurations":[{"targetType":"library","name":"std"},{"dependencies":{"vibe-d":"~>0.7"},"targetType":"library","name":"vibed"}],"version":"0.6.0","name":"requests"}
 {"configurations":[{"dependencies":{"idna":"~>0"},"targetType":"library","name":"std"},{"dependencies":{"vibe-d":"~>0.7","idna":"~>0"},"targetType":"library","name":"vibed"}],"version":"0.7.0","name":"requests"}
 {"configurations":[{"dependencies":{"idna":"~>0"},"targetType":"library","name":"std"},{"targetType":"executable","name":"application"},{"dependencies":{"vibe-d":"~>0.7","idna":"~>0"},"targetType":"library","name":"vibed"}],"version":"~1.0.0-dev","commitID":"d507539f2249bdb3b8a501884241a95de4114800","name":"requests"}
+{"configurations":[{"dependencies":{"idna":"~>0"},"targetType":"library","name":"std"},{"dependencies":{"vibe-d":"~>0.7","idna":"~>0"},"targetType":"library","name":"vibed"}],"version":"0.7.1","name":"requests"}
