@@ -10,3 +10,4 @@
 {"version":"0.0.10","name":"packageversion"}
 {"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"0.0.11","name":"packageversion"}
 {"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"0.0.12","name":"packageversion"}
+{"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"0.0.13","name":"packageversion"}
