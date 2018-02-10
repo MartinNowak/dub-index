@@ -1,1 +1,2 @@
 {"subPackages":[{"dependencies":{"libuv":">=0.0.0"},"targetType":"library","name":"core"}],"dependencies":{"box:core":">=0.0.0"},"version":"0.0.1","name":"box"}
+{"subPackages":[{"dependencies":{"libuv":">=0.0.0"},"targetType":"library","name":"core"}],"dependencies":{"box:core":">=0.0.0"},"version":"~master","commitID":"79563bf2751b3c2928553133dbd1b67e093554ba","name":"box"}
