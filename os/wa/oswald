@@ -9,3 +9,4 @@
 {"version":"0.8.1","name":"oswald"}
 {"version":"0.8.2","name":"oswald"}
 {"configurations":[{"targetType":"executable","name":"ex-emptywindow"}],"version":"0.8.4","name":"oswald"}
+{"configurations":[{"targetType":"executable","name":"ex-emptywindow"}],"version":"~master","commitID":"7792ccb562326156051bc4fcb7bf5a18d617fa35","name":"oswald"}
