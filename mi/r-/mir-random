@@ -27,3 +27,4 @@
 {"dependencies":{"mir-linux-kernel":"~>1.0.0","mir-algorithm":">=0.7.0 <0.9.0"},"version":"0.3.6","name":"mir-random"}
 {"dependencies":{"mir-linux-kernel":"~>1.0.0","mir-algorithm":">=0.7.0 <0.9.0"},"version":"0.4.0","name":"mir-random"}
 {"dependencies":{"mir-linux-kernel":"~>1.0.0","mir-algorithm":">=0.7.0 <0.9.0"},"version":"0.4.1","name":"mir-random"}
+{"dependencies":{"mir-linux-kernel":"~>1.0.0","mir-algorithm":">=0.7.0 <0.9.0"},"version":"0.4.2","name":"mir-random"}
