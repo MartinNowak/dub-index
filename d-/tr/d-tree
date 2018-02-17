@@ -1,1 +1,2 @@
 {"dependencies":{"numir":"~>0.0.7"},"version":"0.0.1","name":"d-tree"}
+{"dependencies":{"numir":"~>0.0.9","d-graphviz":"~>0.0.1"},"version":"~master","commitID":"cf513fde24fa16e4820d169ba2c85e0ac74a9abf","name":"d-tree"}
