@@ -1,2 +1,3 @@
 {"dependencies":{"dlangui":"~>0.9.176"},"version":"~keyboard","commitID":"cd48b14fa52c832f7cd4c620d5e9d890c905c4a5","name":"dcpu-16"}
 {"dependencies":{"dlangui":"~>0.9.176"},"version":"~asm_output","commitID":"3d5329d519671080133aebe3ceac7469dd78fc0d","name":"dcpu-16"}
+{"dependencies":{"dlangui":"~>0.9.176"},"version":"~font_load","commitID":"d22561012067d987d26e2616ec7fb6bc728eff1a","name":"dcpu-16"}
