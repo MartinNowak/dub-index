@@ -11,3 +11,4 @@
 {"targetType":"library","version":"8.0.0","name":"sel-hncom"}
 {"targetType":"library","version":"9.0.1","name":"sel-hncom"}
 {"targetType":"library","version":"9.0.0","name":"sel-hncom"}
+{"targetType":"library","version":"~master","commitID":"e3129326e68b019c121a94bde9a19bfcf72f0203","name":"sel-hncom"}
