@@ -8,3 +8,4 @@
 {"dependencies":{"mir-random":">=0.2.2 <0.4.0","mir-algorithm":">=0.4.3 <0.8.0"},"version":"0.0.8","name":"numir"}
 {"dependencies":{"mir-random":">=0.2.2 <0.4.0","mir-algorithm":">=0.4.3 <0.8.0"},"version":"0.0.9","name":"numir"}
 {"dependencies":{"mir-random":">=0.2.2 <0.4.0","mir-algorithm":">=0.4.3 <0.8.0"},"version":"0.0.10","name":"numir"}
+{"dependencies":{"mir-random":"~>0.4.0","mir-algorithm":"~>0.8.0"},"version":"0.1.0","name":"numir"}
