@@ -4,3 +4,4 @@
 {"dependencies":{"dlangui":"~>0.9.176"},"version":"~bt_bug_test","commitID":"c5211945538c0b230580a7cf5d2e8c29d82c87f1","name":"dcpu-16"}
 {"dependencies":{"dlangui":"~>0.9.176"},"version":"~clocking","commitID":"13bfd8d8df57612ae73aefda5f837a9d904a0bd9","name":"dcpu-16"}
 {"dependencies":{"dlangui":"~>0.9.176"},"version":"~debug_ability","commitID":"8fdaea64a23b2800a679e9c514373062ef34e3b4","name":"dcpu-16"}
+{"dependencies":{"dlangui":"~>0.9.176"},"version":"~splash","commitID":"71072b202263844cb289af1848fdc9e134ce6e45","name":"dcpu-16"}
