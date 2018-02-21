@@ -7,3 +7,4 @@
 {"dependencies":{"dlangui":"~>0.9.176"},"version":"~splash","commitID":"71072b202263844cb289af1848fdc9e134ce6e45","name":"dcpu-16"}
 {"dependencies":{"dlangui":"~>0.9.176"},"version":"~clock_device","commitID":"c026e07ebf05d38a092c3008d3020e14bd928ea6","name":"dcpu-16"}
 {"dependencies":{"dlangui":"~>0.9.176"},"version":"0.0.1","name":"dcpu-16"}
+{"dependencies":{"dlangui":"~>0.9.176"},"version":"~master","commitID":"dc85f0b9b4010d91c37b11d52fd00703a370d258","name":"dcpu-16"}
