@@ -3,3 +3,4 @@
 {"dependencies":{"sel-utils":"1.4.1","sel-net":"~>0.1.1"},"version":"0.2.0","name":"sel-server"}
 {"dependencies":{"sel-utils":"1.4.1","sel-net":"~>0.1.2"},"version":"0.2.1","name":"sel-server"}
 {"dependencies":{"sel-utils":"1.4.1","sel-net":"~>0.2.0"},"version":"0.3.0","name":"sel-server"}
+{"dependencies":{"sel-utils":"1.4.1","sel-net":"~>0.2.0"},"version":"~master","commitID":"d314304fe50082a0835f80ea3a9a0d3bbe96451c","name":"sel-server"}
