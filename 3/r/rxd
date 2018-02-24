@@ -1,3 +1,4 @@
 {"targetType":"library","version":"0.0.1","name":"rxd"}
 {"targetType":"library","version":"0.0.2","name":"rxd"}
 {"targetType":"library","version":"0.0.3","name":"rxd"}
+{"targetType":"library","version":"~master","commitID":"d85d2dcc3c75916974772b20de3152d9b0ea9d9c","name":"rxd"}
