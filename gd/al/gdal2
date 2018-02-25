@@ -3,3 +3,4 @@
 {"targetType":"sourceLibrary","version":"2.1.0","name":"gdal2"}
 {"targetType":"sourceLibrary","version":"2.1.1","name":"gdal2"}
 {"targetType":"sourceLibrary","version":"2.1.2","name":"gdal2"}
+{"targetType":"sourceLibrary","version":"~master","commitID":"fddc9b265b2ea49bf5aa29ea234794c6595b51af","name":"gdal2"}
