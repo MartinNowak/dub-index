@@ -8,3 +8,4 @@
 {"version":"0.0.10","name":"dstddb"}
 {"subPackages":[{"configurations":[{"targetType":"executable","name":"library"},{"targetType":"executable","name":"unittest"}],"name":"sqlite"}],"version":"0.0.11","name":"dstddb"}
 {"subPackages":[{"configurations":[{"targetType":"executable","name":"library"},{"targetType":"executable","name":"unittest"}],"name":"sqlite"}],"version":"0.0.12","name":"dstddb"}
+{"subPackages":[{"configurations":[{"targetType":"executable","name":"library"},{"targetType":"executable","name":"unittest"}],"name":"sqlite"}],"version":"0.0.13","name":"dstddb"}
