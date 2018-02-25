@@ -1,3 +1,4 @@
 {"version":"1.0.0","name":"xyz"}
 {"version":"1.0.1","name":"xyz"}
 {"version":"1.1.0","name":"xyz"}
+{"version":"~master","commitID":"9fde55f0bdd90a32b11c81afbae051a6704d1436","name":"xyz"}
