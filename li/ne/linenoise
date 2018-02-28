@@ -1,1 +1,2 @@
 {"configurations":[{"targetType":"sourceLibrary","name":"lib"},{"targetType":"executable","name":"example"}],"version":"1.0.0","name":"linenoise"}
+{"configurations":[{"targetType":"sourceLibrary","name":"lib"},{"targetType":"sourceLibrary","name":"vendored"},{"targetType":"executable","name":"example"}],"version":"1.1.0+1.0.0","name":"linenoise"}
