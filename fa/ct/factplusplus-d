@@ -1,3 +1,4 @@
 {"version":"0.0.1","name":"factplusplus-d"}
 {"version":"~v0.0.1","commitID":"531d5f31a1a0a9beb74e4d8e6914f92aef90e04b","name":"factplusplus-d"}
 {"version":"0.0.2","name":"factplusplus-d"}
+{"configurations":[{"targetType":"library","name":"win64"},{"targetType":"library","name":"win32"}],"version":"~master","commitID":"77790d034e6ee6a520578ef7fb0c4aa445b3d1c7","name":"factplusplus-d"}
