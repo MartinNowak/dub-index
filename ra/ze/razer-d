@@ -1,0 +1,1 @@
+{"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"},{"dependencies":{"fluent-asserts":"~>0.9.0"},"targetType":"library","name":"trial"}],"version":"0.1.0","name":"razer-d"}
