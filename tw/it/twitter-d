@@ -1,1 +1,2 @@
 {"dependencies":{"vibe-d":"~>0.8.2"},"version":"0.1.0","name":"twitter-d"}
+{"dependencies":{"vibe-d":"~>0.8.2"},"version":"~master","commitID":"76895f1aade401e9b863cf02f95b8325fc419de4","name":"twitter-d"}
