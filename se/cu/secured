@@ -1,3 +1,4 @@
 {"dependencies":{"openssl":"~>1.1.4"},"targetType":"library","version":"0.8.0","name":"secured"}
 {"configurations":[{"dependencies":{"openssl":"~>1.1.5"},"targetType":"library","name":"library"},{"dependencies":{"botan":"~>1.12.8"},"targetType":"library","name":"botan"}],"targetType":"library","version":"0.8.5","name":"secured"}
 {"configurations":[{"dependencies":{"openssl":"~>1.1.6"},"targetType":"library","name":"library"},{"dependencies":{"botan":"~>1.12.9"},"targetType":"library","name":"botan"}],"targetType":"library","version":"0.8.6","name":"secured"}
+{"configurations":[{"dependencies":{"openssl":"~>1.1.6"},"targetType":"library","name":"library"},{"dependencies":{"botan":"~>1.12.9"},"targetType":"library","name":"botan"}],"targetType":"library","version":"0.8.7","name":"secured"}
