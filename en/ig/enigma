@@ -4,3 +4,4 @@
 {"targetType":"library","version":"0.2.0","name":"enigma"}
 {"targetType":"library","version":"0.3.0","name":"enigma"}
 {"targetType":"library","version":"0.3.1","name":"enigma"}
+{"targetType":"library","version":"~master","commitID":"b259947f1855c8d3efe465447571d50d09e626c5","name":"enigma"}
