@@ -1,1 +1,2 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"execute"}],"version":"0.0.1","name":"szip"}
+{"targetType":"library","version":"0.0.2","name":"szip"}
