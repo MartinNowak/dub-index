@@ -1,2 +1,3 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"execute"}],"version":"0.0.1","name":"szip"}
 {"targetType":"library","version":"0.0.2","name":"szip"}
+{"targetType":"library","version":"~master","commitID":"9275fb7fc3eda09c3a24ec05cdf9204864b954f4","name":"szip"}
