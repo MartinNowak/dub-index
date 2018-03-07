@@ -18,3 +18,4 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"native"}],"targetType":"library","version":"0.7.6","name":"tanya"}
 {"configurations":[{"targetType":"staticLibrary","name":"library"},{"targetType":"dynamicLibrary","name":"dynamic"},{"targetType":"library","name":"native"}],"targetType":"library","version":"0.7.7","name":"tanya"}
 {"configurations":[{"targetType":"staticLibrary","name":"library"},{"targetType":"dynamicLibrary","name":"dynamic"},{"targetType":"library","name":"native"}],"targetType":"library","version":"0.7.8","name":"tanya"}
+{"dependencies":{"mir-linux-kernel":"~>1.0.0"},"targetType":"library","version":"0.7.9","configurations":[{"targetType":"staticLibrary","name":"library"},{"targetType":"dynamicLibrary","name":"dynamic"},{"targetType":"library","name":"native"}],"name":"tanya"}
