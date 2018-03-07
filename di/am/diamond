@@ -28,3 +28,4 @@
 {"dependencies":{"vibe-d":"~>0.8.1","mysql-native":"~>1.1.2"},"targetType":"sourceLibrary","version":"2.5.4","name":"diamond"}
 {"dependencies":{"vibe-d":"~>0.8.1","mysql-native":"~>1.1.2"},"targetType":"sourceLibrary","version":"2.6.0","name":"diamond"}
 {"dependencies":{"vibe-d":"~>0.8.1","mysql-native":"~>1.1.2"},"targetType":"sourceLibrary","version":"2.6.1","name":"diamond"}
+{"dependencies":{"vibe-d":"~>0.8.2","mysql-native":"~>2.1.0"},"targetType":"sourceLibrary","version":"2.7.0","name":"diamond"}
