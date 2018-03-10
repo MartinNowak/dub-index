@@ -3,3 +3,4 @@
 {"dependencies":{"packet-maker":{"version":">=0.0.0","path":"../../../packet-maker"}},"version":"1.0.5","name":"soupply"}
 {"dependencies":{"packet-maker":{"version":">=0.0.0","path":"../../../packet-maker"}},"version":"1.0.6","name":"soupply"}
 {"dependencies":{"packet-maker":{"version":">=0.0.0","path":"../../../packet-maker"}},"version":"1.0.7","name":"soupply"}
+{"dependencies":{"packet-maker":{"version":">=0.0.0","path":"../../../packet-maker"}},"version":"1.0.8","name":"soupply"}
