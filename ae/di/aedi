@@ -4,3 +4,4 @@
 {"targetType":"sourceLibrary","version":"~7-simpler-and-better-documentation","commitID":"7d866ec90d785ed6473f6c752fff4dac8c00a19c","name":"aedi"}
 {"targetType":"sourceLibrary","version":"0.3.0","name":"aedi"}
 {"configurations":[{"targetType":"sourceLibrary","name":"library"},{"targetType":"library","name":"unittest"}],"version":"0.4.0","name":"aedi"}
+{"configurations":[{"targetType":"sourceLibrary","name":"library"},{"targetType":"library","name":"unittest"}],"version":"0.5.0","name":"aedi"}
