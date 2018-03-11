@@ -1,0 +1,1 @@
+{"subPackages":[{"targetType":"library","name":"format"},{"dependencies":{"terminal":"~>0.3.0","sel-util:format":">=0.0.0"},"targetType":"library","name":"terminal"}],"targetType":"none","version":"0.1.0","name":"sel-util"}
