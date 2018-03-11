@@ -3,3 +3,4 @@
 {"targetType":"staticLibrary","version":"0.3.0","name":"syscall-d"}
 {"targetType":"staticLibrary","version":"0.4.0","name":"syscall-d"}
 {"targetType":"staticLibrary","version":"~armeabi","commitID":"3471a6577267bc5fcbe6ce9c89c35dda6efef1c1","name":"syscall-d"}
+{"targetType":"staticLibrary","version":"~master","commitID":"7f8412de0268de7f87e937169cd4e90f483518db","name":"syscall-d"}
