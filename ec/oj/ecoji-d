@@ -1,0 +1,1 @@
+{"configurations":[{"targetType":"executable","name":"executable"},{"targetType":"library","name":"library"},{"dependencies":{"fluent-asserts":"~>0.9.0"},"targetType":"library","name":"trial"}],"version":"0.0.1","name":"ecoji-d"}
