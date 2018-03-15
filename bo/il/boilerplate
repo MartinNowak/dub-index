@@ -1,1 +1,2 @@
 {"dependencies":{"unit-threaded":">=0.0.0"},"targetType":"library","version":"0.0.15","configurations":[{"targetType":"library","name":"library"}],"name":"boilerplate"}
+{"dependencies":{"unit-threaded":">=0.0.0"},"targetType":"library","version":"0.0.16","configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"name":"boilerplate"}
