@@ -2,3 +2,4 @@
 {"targetType":"library","version":"0.1.1","name":"sdpc"}
 {"targetType":"library","version":"~master","commitID":"40b26a1a4d6f8b29d131fb1fd19af5e8f049d93e","name":"sdpc"}
 {"targetType":"library","version":"~allocator","commitID":"e0a05078672ecdeadd8efd401132a6d83b0704a5","name":"sdpc"}
+{"targetType":"library","version":"~mite","commitID":"d369ca47572d6b6bd42aef3d70fb34ebe6b8088e","name":"sdpc"}
