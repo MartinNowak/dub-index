@@ -6,3 +6,4 @@
 {"targetType":"sourceLibrary","version":"0.0.5","name":"color"}
 {"targetType":"sourceLibrary","version":"0.0.6","name":"color"}
 {"targetType":"sourceLibrary","version":"~aces","commitID":"f9e951ad4d2fb40ba487ae4ea1284eba91e18dda","name":"color"}
+{"targetType":"sourceLibrary","version":"~slog3","commitID":"f7882de981a859f2ea4eb03a69af19aadecd62ce","name":"color"}
