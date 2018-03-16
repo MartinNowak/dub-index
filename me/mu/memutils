@@ -19,3 +19,4 @@
 {"configurations":[{"targetType":"library","name":"secure"},{"targetType":"library","name":"unittest"}],"version":"~remove_32mscoff_config","commitID":"82314aa0c6abdc7d86616737adc7474021ba1123","name":"memutils"}
 {"configurations":[{"targetType":"library","name":"secure"},{"targetType":"library","name":"unittest"}],"version":"0.4.9","name":"memutils"}
 {"configurations":[{"targetType":"library","name":"secure"},{"targetType":"library","name":"unittest"}],"version":"0.4.10","name":"memutils"}
+{"configurations":[{"targetType":"library","name":"secure"},{"targetType":"library","name":"unittest"}],"version":"~remove_postblit_qualifiers","commitID":"2d65e27624fd5ade0ea80ec99ae3caae4e88ee2a","name":"memutils"}
