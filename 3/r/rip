@@ -5,3 +5,4 @@
 {"dependencies":{"dlib":">=0.0.0"},"version":"0.0.3","name":"rip"}
 {"dependencies":{"dlib":">=0.0.0"},"version":"0.0.4","name":"rip"}
 {"dependencies":{"dlib":">=0.0.0"},"version":"0.0.4-2","name":"rip"}
+{"dependencies":{"dlib":">=0.0.0"},"version":"~master","commitID":"904ecd3380092466411bb238ef31b50fda2c0719","name":"rip"}
