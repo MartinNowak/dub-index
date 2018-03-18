@@ -1,1 +1,2 @@
 {"dependencies":{"imageformats":"~>6.1.2"},"targetType":"dynamicLibrary","version":"0.0.1-alpha.1","name":"ppc"}
+{"dependencies":{"imageformats":"~>6.1.2"},"targetType":"dynamicLibrary","version":"0.0.1-alpha.2","name":"ppc"}
