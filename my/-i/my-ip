@@ -1,2 +1,3 @@
 {"targetType":"library","version":"0.1.0","name":"my-ip"}
 {"subPackages":[{"dependencies":{"my-ip":{"version":">=0.0.0","path":".."}},"targetType":"executable","name":"app"}],"targetType":"library","version":"0.2.0","name":"my-ip"}
+{"subPackages":[{"dependencies":{"my-ip":{"version":">=0.0.0","path":".."}},"targetType":"executable","name":"app"}],"targetType":"library","version":"~master","commitID":"356e02f0dde99e97a23d0ef6bb1c6765cca3694d","name":"my-ip"}
