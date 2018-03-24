@@ -6,3 +6,4 @@
 {"targetType":"library","version":"0.2.0","name":"sel-net"}
 {"targetType":"library","version":"0.2.1","name":"sel-net"}
 {"targetType":"library","version":"0.2.2","name":"sel-net"}
+{"targetType":"library","version":"~master","commitID":"427a794a8f10695b8fe3d389eeaab890db914190","name":"sel-net"}
