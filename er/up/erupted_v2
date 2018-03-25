@@ -1,0 +1,1 @@
+{"subPackages":[{"dependencies":{"erupted_v2":{"version":">=0.0.0","path":"."}},"targetType":"executable","name":"devices"},{"dependencies":{"erupted_v2":{"version":">=0.0.0","path":"."}},"targetType":"executable","name":"layers"}],"targetType":"sourceLibrary","version":"1.0.69","name":"erupted_v2"}
