@@ -13,3 +13,4 @@
 {"dependencies":{"vibe-d":"~>0.7.24"},"targetType":"library","version":"2.1.4","name":"vibeirc"}
 {"dependencies":{"vibe-d:core":"~>0.8.0","vibe-d:stream":"~>0.8.0"},"targetType":"library","version":"2.2.0","name":"vibeirc"}
 {"dependencies":{"vibe-d:core":"~>0.8.3","vibe-d:stream":"~>0.8.3"},"targetType":"library","version":"2.2.1","name":"vibeirc"}
+{"dependencies":{"vibe-d:core":"~>0.8.3","vibe-d:stream":"~>0.8.3"},"targetType":"library","version":"~master","commitID":"ca4578562e663d48fa466650b512a419314f79bd","name":"vibeirc"}
