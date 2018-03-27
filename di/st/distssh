@@ -1,0 +1,1 @@
+{"subPackages":[{"targetType":"library","name":"msgpack-ll"}],"dependencies":{"distssh:msgpack-ll":">=0.0.0"},"targetType":"executable","version":"~autocomplete","commitID":"f75290b3d9ca61e1e003680bb5b43ea406c662a3","name":"distssh"}
