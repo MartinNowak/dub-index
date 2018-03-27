@@ -1,2 +1,3 @@
 {"targetType":"sourceLibrary","version":"0.0.1","name":"lua-jit-d"}
 {"targetType":"sourceLibrary","version":"0.0.2","name":"lua-jit-d"}
+{"targetType":"sourceLibrary","version":"~master","commitID":"85e93680e0e500c83b1b28f5d181fe12f18de46c","name":"lua-jit-d"}
