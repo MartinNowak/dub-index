@@ -40,3 +40,4 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"sourceLibrary","name":"sourceLibrary"}],"version":"0.9.5","name":"mir-algorithm"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"sourceLibrary","name":"sourceLibrary"}],"version":"0.9.6-alpha","name":"mir-algorithm"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"sourceLibrary","name":"sourceLibrary"}],"version":"0.9.6-alpha2","name":"mir-algorithm"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"sourceLibrary","name":"sourceLibrary"}],"version":"0.9.6-alpha3","name":"mir-algorithm"}
