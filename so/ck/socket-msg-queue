@@ -1,1 +1,2 @@
 {"dependencies":{"cst":"~>1.0.4","queue":"~>1.0.0"},"version":"~master","commitID":"56de8d48d2a2a0c03cab6af8ce46326e5cf5af6d","name":"socket-msg-queue"}
+{"dependencies":{"cst":"~>1.0.4","queue":"~>1.0.0"},"version":"1.0.0","name":"socket-msg-queue"}
