@@ -1,3 +1,4 @@
 {"dependencies":{"derelict-util":"~>2.0.4"},"targetType":"library","version":"1.0.0-alpha","name":"derelict-portmidi"}
 {"dependencies":{"derelict-util":"~>2.0.4"},"targetType":"library","version":"1.0.0-beta","name":"derelict-portmidi"}
 {"dependencies":{"derelict-util":"3.0.0-beta.2"},"targetType":"library","version":"~master","commitID":"08a922a347ec75b3b0bb461c4b9223e47a5d5ba3","name":"derelict-portmidi"}
+{"dependencies":{"derelict-util":"3.0.0-beta.2"},"targetType":"library","version":"1.0.0","name":"derelict-portmidi"}
