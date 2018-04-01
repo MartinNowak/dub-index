@@ -1,2 +1,3 @@
 {"dependencies":{"vibe-d:core":"~>0.8.1"},"version":"1.0.0","name":"vibe-rcon"}
 {"dependencies":{"vibe-core":"~>1.4.0"},"version":"~master","commitID":"e92570e84eae7b27bed519506b1cc2c2dfaeabe8","name":"vibe-rcon"}
+{"dependencies":{"vibe-core":"~>1.4.0"},"version":"1.1.0","name":"vibe-rcon"}
