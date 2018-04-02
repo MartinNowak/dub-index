@@ -1,1 +1,2 @@
 {"dependencies":{"mir-algorithm":"~>0.9.5"},"targetType":"dynamicLibrary","version":"0.1.2","name":"mir-pybuffer"}
+{"dependencies":{"mir-algorithm":"~>0.9.5"},"targetType":"dynamicLibrary","version":"0.1.3","name":"mir-pybuffer"}
