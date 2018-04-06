@@ -1,1 +1,2 @@
 {"dependencies":{"derelict-gl3":"~>1.0.7","derelict-assimp3":"~>1.2.0","derelict-sdl2":"~>2.0.0"},"targetType":"executable","version":"0.17.0","configurations":[{"targetType":"executable","name":"default"}],"name":"dizzy_omega"}
+{"dependencies":{"derelict-gl3":"~>1.0.7","derelict-sdl2":"~>2.0.0"},"targetType":"executable","version":"0.17.1","configurations":[{"targetType":"executable","name":"default"}],"name":"dizzy_omega"}
