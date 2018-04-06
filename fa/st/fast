@@ -3,3 +3,4 @@
 {"configurations":[{"targetType":"executable","name":"benchmark"},{"targetType":"library","name":"library"}],"version":"0.3.0","name":"fast"}
 {"configurations":[{"targetType":"executable","name":"benchmark"},{"targetType":"library","name":"library"}],"version":"0.3.1","name":"fast"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"dynamicLibrary","name":"shared-library"},{"targetType":"executable","name":"benchmark"},{"targetType":"executable","name":"benchmark-pic"}],"version":"0.3.2","name":"fast"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"dynamicLibrary","name":"shared-library"},{"targetType":"executable","name":"benchmark"},{"targetType":"executable","name":"benchmark-pic"}],"version":"~master","commitID":"430ab6e9af41308e45fba959a08f977b5d71eec3","name":"fast"}
