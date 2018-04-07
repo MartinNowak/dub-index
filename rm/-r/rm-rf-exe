@@ -1,1 +1,2 @@
 {"dependencies":{"rm-rf":"~>0.1.0"},"version":"1.0.0","name":"rm-rf-exe"}
+{"dependencies":{"rm-rf":"~>0.1.0"},"version":"~master","commitID":"b2f87051852c000f4e514e908dd1ff7cf03a5480","name":"rm-rf-exe"}
