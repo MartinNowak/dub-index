@@ -1,0 +1,1 @@
+{"dependencies":{"libclang":"~master"},"targetType":"executable","version":"0.0.1","configurations":[{"targetType":"executable","name":"executable"},{"dependencies":{"unit-threaded":"~>0.7.0"},"targetType":"executable","name":"unittest"}],"name":"dpp"}
