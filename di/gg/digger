@@ -5,3 +5,4 @@
 {"subPackages":[{"dependencies":{"ae":"0.0.1959"},"targetType":"executable","name":"web"}],"dependencies":{"ae":"0.0.1959"},"targetType":"executable","version":"3.0.0-alpha-5","name":"digger"}
 {"subPackages":[{"dependencies":{"ae":"0.0.2153"},"targetType":"executable","name":"web"}],"dependencies":{"ae":"0.0.2153"},"targetType":"executable","version":"~travis","commitID":"244573a7f0e99d7f2afa317b865fc599ef8b2ab0","name":"digger"}
 {"subPackages":[{"dependencies":{"ae":"0.0.2155"},"targetType":"executable","name":"web"}],"dependencies":{"ae":"0.0.2155"},"targetType":"executable","version":"3.0.0-alpha-6","name":"digger"}
+{"subPackages":[{"dependencies":{"ae":"0.0.2174"},"targetType":"executable","name":"web"}],"dependencies":{"ae":"0.0.2174"},"targetType":"executable","version":"~travis2","commitID":"c71febd1596f168d650d8acd2a7702932d17b7cb","name":"digger"}
