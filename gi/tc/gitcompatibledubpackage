@@ -2,3 +2,4 @@
 {"version":"1.0.2","name":"gitcompatibledubpackage"}
 {"targetType":"executable","version":"1.0.3","name":"gitcompatibledubpackage"}
 {"configurations":[{"targetType":"executable","name":"exe"},{"targetType":"library","name":"lib"}],"version":"1.0.4","name":"gitcompatibledubpackage"}
+{"configurations":[{"targetType":"executable","name":"exe"},{"targetType":"library","name":"lib"}],"version":"~master","commitID":"ccb31bf6a655437176ec02e04c2305a8c7c90d67","name":"gitcompatibledubpackage"}
