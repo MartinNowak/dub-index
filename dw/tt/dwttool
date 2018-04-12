@@ -1,2 +1,3 @@
 {"dependencies":{"vibe-d":">=0.8.0-beta.5 <0.9.0-0"},"version":"0.1.0","name":"dwttool"}
 {"dependencies":{"vibe-d":">=0.8.0-beta.5 <0.9.0-0"},"version":"0.2.0","name":"dwttool"}
+{"dependencies":{"vibe-d":">=0.8.0-beta.5 <0.9.0-0"},"version":"~master","commitID":"3824b404b65e6e68f6ff44ca08a6a11da28c439c","name":"dwttool"}
