@@ -1,1 +1,2 @@
 {"targetType":"library","version":"0.0.1","name":"mongo"}
+{"targetType":"library","version":"~master","commitID":"5a71ec4a13c8abb839fd875a9e3dd3c3c2a9e45d","name":"mongo"}
