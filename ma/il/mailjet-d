@@ -1,1 +1,2 @@
 {"dependencies":{"vibe-d":"~>0.8"},"targetType":"library","version":"0.1.0","configurations":[{"targetType":"library","name":"default"},{"targetType":"executable","name":"test"}],"name":"mailjet-d"}
+{"dependencies":{"vibe-d":"~>0.8"},"targetType":"library","version":"~master","configurations":[{"targetType":"library","name":"default"},{"targetType":"executable","name":"test"}],"commitID":"efd8b6accd27d64cbfdafd305d6ec0286d9aa81a","name":"mailjet-d"}
