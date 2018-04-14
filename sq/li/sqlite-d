@@ -2,3 +2,4 @@
 {"version":"0.1.5","name":"sqlite-d"}
 {"version":"0.1.6","name":"sqlite-d"}
 {"version":"0.1.7","name":"sqlite-d"}
+{"version":"~writeSupport","commitID":"39e73b9f25e60a262927fabb98e893cb54b1a4cb","name":"sqlite-d"}
