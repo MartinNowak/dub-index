@@ -7,3 +7,4 @@
 {"targetType":"sourceLibrary","version":"0.1.6","name":"roaring"}
 {"targetType":"sourceLibrary","version":"0.1.7","name":"roaring"}
 {"targetType":"sourceLibrary","version":"0.1.8","name":"roaring"}
+{"targetType":"sourceLibrary","version":"~master","commitID":"c29bf29d83b8408476c2ddf8300cc77d07b2de2b","name":"roaring"}
