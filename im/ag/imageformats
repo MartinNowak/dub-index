@@ -23,3 +23,4 @@
 {"version":"6.1.2","name":"imageformats"}
 {"version":"6.1.3","name":"imageformats"}
 {"version":"7.0.0","name":"imageformats"}
+{"version":"~master","commitID":"0adbba55cc41db53fd29448f0ff7593473ccb56b","name":"imageformats"}
