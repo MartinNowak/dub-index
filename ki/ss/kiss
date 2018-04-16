@@ -22,3 +22,4 @@
 {"version":"0.2.3","name":"kiss"}
 {"version":"0.2.4","name":"kiss"}
 {"version":"0.2.5","name":"kiss"}
+{"version":"~v0.2.x","commitID":"194b6ea909502f0ee65d4bf0c3605caf11fd6abc","name":"kiss"}
