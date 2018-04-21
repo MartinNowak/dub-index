@@ -1,1 +1,2 @@
 {"dependencies":{"gfm":"~>6.2.0","arsd-official:simpledisplay":"~>2.0.0","arsd-official:nanovega":"~>2.0.0"},"version":"~collapsable","commitID":"0603baebdaf1c5d167b6e85dc75e0e225d144645","name":"nanogui"}
+{"dependencies":{"gfm":"~>6.2.0","arsd-official:simpledisplay":"~>2.0.0","arsd-official:nanovega":"~>2.0.0"},"version":"~window2","commitID":"a636d0b308e32fe328ef75bb2f98a4ac66444033","name":"nanogui"}
