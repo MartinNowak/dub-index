@@ -1,3 +1,4 @@
 {"dependencies":{"sdlang-d":"~>0.10.2"},"targetType":"library","version":"0.1.0","name":"sdlss"}
 {"dependencies":{"sdlang-d":"~>0.10.2"},"targetType":"library","version":"0.1.1","name":"sdlss"}
 {"dependencies":{"sdlang-d":"~>0.10.2"},"targetType":"library","version":"0.1.2","name":"sdlss"}
+{"dependencies":{"sdlang-d":"~>0.10.2"},"targetType":"library","version":"0.2.0","name":"sdlss"}
