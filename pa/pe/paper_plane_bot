@@ -1,1 +1,2 @@
 {"dependencies":{"d2sqlite3":"~>0.16.1","vibe-d:data":">=0.8.4-alpha.1 <0.9.0-0","htmld":"~>0.3.2","telega":"~master","requests":"~>0.7.4"},"version":"0.0.1","name":"paper_plane_bot"}
+{"dependencies":{"d2sqlite3":"~>0.16.1","vibe-d:data":">=0.8.4-alpha.1 <0.9.0-0","htmld":"~>0.3.2","telega":"~>0.0.2","requests":"~>0.7.4"},"version":"0.0.2","name":"paper_plane_bot"}
