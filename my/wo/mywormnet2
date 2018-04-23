@@ -1,1 +1,2 @@
 {"dependencies":{"ae":"0.0.2097"},"targetType":"executable","version":"1.0.0","name":"mywormnet2"}
+{"dependencies":{"ae":"0.0.2097"},"targetType":"executable","version":"~master","commitID":"6305307e1280b654b17a4e9151d89784fb9a3cc4","name":"mywormnet2"}
