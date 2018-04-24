@@ -3,3 +3,4 @@
 {"dependencies":{"d2sqlite3":"~>0.16.1","vibe-d:data":">=0.8.4-alpha.1 <0.9.0-0","htmld":"~>0.3.2","telega":"~>0.0.2","requests":"~>0.7.4"},"version":"0.0.3","name":"paper_plane_bot"}
 {"dependencies":{"d2sqlite3":"~>0.16.1","vibe-d:data":">=0.8.4-alpha.1 <0.9.0-0","htmld":"~>0.3.2","telega":"~>0.0.2","requests":"~>0.7.4"},"version":"0.0.4","name":"paper_plane_bot"}
 {"dependencies":{"d2sqlite3":"~>0.16.1","vibe-d:data":">=0.8.4-alpha.1 <0.9.0-0","htmld":"~>0.3.2","telega":"~>0.0.2","requests":"~>0.7.4"},"version":"0.0.5","name":"paper_plane_bot"}
+{"dependencies":{"d2sqlite3":"~>0.16.1","vibe-d:data":">=0.8.4-alpha.1 <0.9.0-0","htmld":"~>0.3.2","telega":"~>0.0.2","requests":"~>0.7.4"},"version":"~master","commitID":"974a29acb364926f6607cd3e29c84e32eb40324d","name":"paper_plane_bot"}
