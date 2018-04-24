@@ -1,2 +1,3 @@
 {"dependencies":{"structuresd":">=1.0.0-beta2 <1.1.0-0","gtk-d":"~>3.7.0"},"targetType":"executable","version":"0.1.0","name":"drawofpages"}
 {"dependencies":{"structuresd":">=1.0.0-beta3 <1.1.0-0","gtk-d":"~>3.7.0"},"targetType":"executable","version":"0.1.1","name":"drawofpages"}
+{"dependencies":{"structuresd":">=1.0.0-beta3 <1.1.0-0","gtk-d":"~>3.7.0"},"targetType":"executable","version":"~master","commitID":"a9b3fba1662d0ef7cb6cdaf6ad4a873d7399fbe7","name":"drawofpages"}
