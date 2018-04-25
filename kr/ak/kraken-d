@@ -1,1 +1,2 @@
 {"dependencies":{"vibe-d":"~>0.8.2"},"version":"0.1.0","name":"kraken-d"}
+{"dependencies":{"vibe-d":"~>0.8"},"version":"~master","commitID":"f6189501e3215887300a9ee97220371c4460ffc3","name":"kraken-d"}
