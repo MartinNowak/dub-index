@@ -1,1 +1,2 @@
 {"dependencies":{"vibe-d":"~>0.8.2"},"targetType":"library","version":"0.1.0","name":"bitfinex-d"}
+{"dependencies":{"vibe-d":"~>0.8"},"targetType":"library","version":"~master","commitID":"3ea05287829d60a366e41ad6a2bf4dd16e1aac29","name":"bitfinex-d"}
