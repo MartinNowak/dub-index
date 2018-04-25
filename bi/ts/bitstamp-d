@@ -1,2 +1,3 @@
 {"dependencies":{"vibe-d":"~>0.8.2"},"version":"0.1.0","name":"bitstamp-d"}
 {"dependencies":{"vibe-d":"~>0.8.2"},"version":"0.1.1","name":"bitstamp-d"}
+{"dependencies":{"vibe-d":"~>0.8"},"version":"~master","commitID":"df35a3385bab1c582758d9a5c9986edf0049a0ab","name":"bitstamp-d"}
