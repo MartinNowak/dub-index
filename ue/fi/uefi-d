@@ -3,3 +3,4 @@
 {"targetType":"library","version":"0.0.3","name":"uefi-d"}
 {"targetType":"library","version":"~master","commitID":"6f471937f2bfec2e5d37ad9182149db1a8df6d32","name":"uefi-d"}
 {"targetType":"library","version":"0.0.4","name":"uefi-d"}
+{"targetType":"library","version":"~udk2018","commitID":"0686a56b4818a35f8b2f78253b563e0f2a1c6053","name":"uefi-d"}
