@@ -3,3 +3,4 @@
 {"dependencies":{"vibe-d":"~>0.8"},"targetType":"library","version":"0.1.4","name":"vibe-aws"}
 {"dependencies":{"vibe-d":"~>0.8"},"targetType":"library","version":"0.1.5","name":"vibe-aws"}
 {"dependencies":{"vibe-d":"~>0.8"},"targetType":"library","version":"0.1.6","name":"vibe-aws"}
+{"dependencies":{"vibe-d":"~>0.8"},"targetType":"library","version":"~master","commitID":"766bd135810e8f19333ebefde000ebd518b8a586","name":"vibe-aws"}
