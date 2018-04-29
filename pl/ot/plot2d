@@ -3,3 +3,4 @@
 {"configurations":[{"dependencies":{"gtk-d:gtkd":"~>3.7.1"},"targetType":"library","name":"gtk"},{"dependencies":{"dlangui":"~>0.9.120"},"targetType":"library","name":"dlangui"}],"version":"0.1.2","name":"plot2d"}
 {"configurations":[{"dependencies":{"gtk-d:gtkd":"~>3.8.0"},"targetType":"library","name":"gtk"},{"dependencies":{"dlangui":"~>0.9.120"},"targetType":"library","name":"dlangui"}],"version":"0.1.3","name":"plot2d"}
 {"configurations":[{"dependencies":{"gtk-d:gtkd":"~>3.8.0"},"targetType":"library","name":"gtk"},{"dependencies":{"dlangui":"~>0.9.120"},"targetType":"library","name":"dlangui"}],"version":"0.1.4","name":"plot2d"}
+{"configurations":[{"dependencies":{"gtk-d:gtkd":"~>3.8.0"},"targetType":"library","name":"gtk"},{"dependencies":{"dlangui":"~>0.9.177"},"targetType":"library","name":"dlangui"}],"version":"~master","commitID":"dca059bdef385f01e9016c3519c4b13a65226e8f","name":"plot2d"}
