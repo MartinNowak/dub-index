@@ -29,3 +29,4 @@
 {"version":"0.3.2","name":"logger"}
 {"version":"0.3.3","name":"logger"}
 {"version":"2.66.0","name":"logger"}
+{"version":"~master","commitID":"6d91fcb25f7568cf32fd1246049262970ec30a24","name":"logger"}
