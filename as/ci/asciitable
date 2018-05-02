@@ -1,3 +1,4 @@
 {"version":"0.0.1","name":"asciitable"}
 {"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":"~>0.7.36"},"targetType":"executable","name":"ut"},{"dependencies":{"unit-threaded":"~>0.7.36"},"targetType":"executable","name":"unittest"}],"version":"0.0.2","name":"asciitable"}
 {"dependencies":{"packageversion":"~>0.0.15"},"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":"~>0.7.38"},"targetType":"executable","name":"ut"},{"dependencies":{"unit-threaded":"~>0.7.38"},"targetType":"executable","name":"unittest"}],"version":"0.0.3","name":"asciitable"}
+{"dependencies":{"packageversion":"~>0.0.16"},"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":"~>0.7.38"},"targetType":"executable","name":"ut"},{"dependencies":{"unit-threaded":"~>0.7.38"},"targetType":"executable","name":"unittest"}],"version":"0.0.4","name":"asciitable"}
