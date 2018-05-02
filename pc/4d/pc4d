@@ -2,3 +2,4 @@
 {"version":"1.0.1","name":"pc4d"}
 {"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":"~>0.7.36"},"targetType":"executable","name":"unittest"}],"version":"1.0.2","name":"pc4d"}
 {"dependencies":{"packageversion":"~>0.0.15"},"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":"~>0.7.38"},"targetType":"executable","name":"unittest"}],"version":"1.0.3","name":"pc4d"}
+{"dependencies":{"packageversion":"~>0.0.15"},"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":"~>0.7.38"},"targetType":"executable","name":"unittest"}],"version":"~master","commitID":"01db0b96dc87f30569cba5927a31b109fcdc926b","name":"pc4d"}
