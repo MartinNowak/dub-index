@@ -25,3 +25,4 @@
 {"version":"~v0.2.x","commitID":"194b6ea909502f0ee65d4bf0c3605caf11fd6abc","name":"kiss"}
 {"configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"debug-mode"}],"version":"0.3.0","name":"kiss"}
 {"configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"debug-mode"}],"version":"0.3.1","name":"kiss"}
+{"configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"debug-mode"}],"version":"0.3.2","name":"kiss"}
