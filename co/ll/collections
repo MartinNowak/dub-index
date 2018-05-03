@@ -2,3 +2,4 @@
 {"targetType":"library","version":"~add_travis_ddocs","commitID":"5baab78f12010a2f03a210281e17ca198999b152","name":"collections"}
 {"targetType":"library","version":"~use_rciallocator","commitID":"5247d73782cb228fba01735362030387db1a2c4f","name":"collections"}
 {"targetType":"library","version":"~rethink_allocators","commitID":"fdadf1b9ba93adba6821b510b1583b860b7912d6","name":"collections"}
+{"targetType":"library","version":"~fix_ddocs","commitID":"080b10ba5843a3e1d583f04f9d1c0a5e037ba48e","name":"collections"}
