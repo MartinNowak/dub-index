@@ -6,3 +6,4 @@
 {"dependencies":{"sdlang-d":"~>0.10.2"},"targetType":"library","version":"0.3.1","name":"sdlss"}
 {"dependencies":{"sdlang-d":"~>0.10.2"},"targetType":"library","version":"0.3.2","name":"sdlss"}
 {"dependencies":{"sdlang-d":"~>0.10.2"},"targetType":"library","version":"0.3.3","name":"sdlss"}
+{"dependencies":{"sdlang-d":"~>0.10.2"},"targetType":"library","version":"~master","commitID":"950f95cb39c4604927d20ca5a9fb35a960f7b5b7","name":"sdlss"}
