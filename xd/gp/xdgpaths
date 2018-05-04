@@ -8,3 +8,4 @@
 {"subPackages":[{"dependencies":{"xdgpaths":">=0.0.0"},"targetType":"executable","name":"test"}],"dependencies":{"isfreedesktop":"~>0.1.0"},"targetType":"library","version":"0.2.3","name":"xdgpaths"}
 {"subPackages":[{"dependencies":{"xdgpaths":">=0.0.0"},"targetType":"executable","name":"test"}],"dependencies":{"isfreedesktop":"~>0.1.0"},"targetType":"library","version":"0.2.4","name":"xdgpaths"}
 {"dependencies":{"isfreedesktop":"~>0.1.0"},"targetType":"library","version":"0.2.5","name":"xdgpaths"}
+{"dependencies":{"isfreedesktop":"~>0.1.0"},"targetType":"library","version":"~master","commitID":"650d51eea7b6c400e127e126016b5718060eb847","name":"xdgpaths"}
