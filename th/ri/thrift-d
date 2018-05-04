@@ -1,2 +1,3 @@
 {"dependencies":{"libevent":"~>2.0.2","openssl":"~>1.1.5"},"version":"0.1.0","name":"thrift-d"}
 {"dependencies":{"libevent":"~>2.0.2","openssl":"~>1.1.5"},"version":"~master","commitID":"6136020b65f40eebeab44c770423c04b1701f05c","name":"thrift-d"}
+{"dependencies":{"libevent":"~>2.0.2","openssl":"~>1.1.5"},"version":"0.1.1","name":"thrift-d"}
