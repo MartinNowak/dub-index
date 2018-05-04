@@ -10,3 +10,4 @@
 {"subPackages":[{"dependencies":{"mime":">=0.0.0"},"targetType":"executable","name":"database"},{"dependencies":{"mime":">=0.0.0"},"targetType":"executable","name":"test"}],"dependencies":{"xdgpaths":"~>0.2.2"},"targetType":"library","version":"0.4.0","name":"mime"}
 {"subPackages":[{"dependencies":{"mime":">=0.0.0"},"targetType":"executable","name":"database"},{"dependencies":{"mime":">=0.0.0"},"targetType":"executable","name":"test"}],"dependencies":{"xdgpaths":"~>0.2.2"},"targetType":"library","version":"0.4.1","name":"mime"}
 {"subPackages":[{"dependencies":{"mime":">=0.0.0"},"targetType":"executable","name":"database"},{"dependencies":{"mime":">=0.0.0"},"targetType":"executable","name":"test"}],"dependencies":{"xdgpaths":"~>0.2.2"},"targetType":"library","version":"0.4.2","name":"mime"}
+{"dependencies":{"xdgpaths":"~>0.2.5"},"targetType":"library","version":"0.4.3","name":"mime"}
