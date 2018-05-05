@@ -6,3 +6,4 @@
 {"targetType":"sourceLibrary","version":"0.1.0","name":"test_allocator"}
 {"targetType":"sourceLibrary","version":"0.1.1","name":"test_allocator"}
 {"dependencies":{"stdx-allocator":"~>2.77.0"},"targetType":"sourceLibrary","version":"0.2.0","name":"test_allocator"}
+{"dependencies":{"stdx-allocator":"~>2.77.0"},"targetType":"sourceLibrary","version":"0.2.1","name":"test_allocator"}
