@@ -56,3 +56,4 @@
 {"dependencies":{"stdx-allocator":"2.77.0"},"targetType":"library","version":"0.8.0-alpha.5","name":"libdparse"}
 {"dependencies":{"stdx-allocator":"2.77.0"},"targetType":"library","version":"0.8.0","name":"libdparse"}
 {"dependencies":{"stdx-allocator":"2.77.0"},"targetType":"library","version":"0.8.1","name":"libdparse"}
+{"dependencies":{"stdx-allocator":"2.77.1"},"targetType":"library","version":"0.8.2","name":"libdparse"}
