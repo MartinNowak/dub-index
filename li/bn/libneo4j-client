@@ -1,1 +1,2 @@
 {"configurations":[{"targetType":"sourceLibrary","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"2.2.0","name":"libneo4j-client"}
+{"configurations":[{"targetType":"sourceLibrary","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"~master","commitID":"2ad1a277594a7ac4760e7f1e2d8df2967036a165","name":"libneo4j-client"}
