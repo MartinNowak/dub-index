@@ -1,2 +1,3 @@
 {"dependencies":{"dmarkdown":"~>0.2.2","mustache-d":"~>0.1.3"},"version":"0.1.0","name":"dssg"}
 {"dependencies":{"vibe-d":">=0.8.0-beta.5 <0.9.0-0","dmarkdown":"~>0.2.2","mustache-d":"~>0.1.3"},"version":"0.2.0","name":"dssg"}
+{"dependencies":{"vibe-d":"~>0.8.3","dmarkdown":"~>0.2.2","mustache-d":"~>0.1.3","toml":">=1.0.0-rc.2 <1.1.0-0"},"version":"~master","commitID":"57c693e5d3449e016704bbb76a5703155a99feef","name":"dssg"}
