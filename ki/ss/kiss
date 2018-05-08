@@ -26,3 +26,4 @@
 {"configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"debug-mode"}],"version":"0.3.0","name":"kiss"}
 {"configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"debug-mode"}],"version":"0.3.1","name":"kiss"}
 {"configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"debug-mode"}],"version":"0.3.2","name":"kiss"}
+{"configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"debug-mode"}],"version":"0.3.3","name":"kiss"}
