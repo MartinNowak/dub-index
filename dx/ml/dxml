@@ -8,3 +8,4 @@
 {"targetType":"library","version":"0.3.0","name":"dxml"}
 {"targetType":"library","version":"0.3.1","name":"dxml"}
 {"targetType":"library","version":"0.3.2","name":"dxml"}
+{"targetType":"library","version":"~0.3","commitID":"db3c52fc4aee39f86c3903d326dfd233ee98043d","name":"dxml"}
