@@ -1,0 +1,1 @@
+{"dependencies":{"cst":"~>1.0.4","derelict-gl3":">=2.0.0-beta <2.1.0-0","xyz":"~>1.1.0"},"version":"1.0.0-alpha.1","name":"gl-with-types"}
