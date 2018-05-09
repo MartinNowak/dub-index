@@ -1,0 +1,1 @@
+{"configurations":[{"targetType":"library","name":"linux-build"},{"targetType":"library","name":"windows-build"}],"version":"0.0.1","name":"minuit"}
