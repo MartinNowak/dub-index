@@ -1,3 +1,4 @@
 {"dependencies":{"cst":"~>1.0.4"},"version":"1.0.0","name":"llist"}
 {"targetType":"library","version":"2.0.0","name":"llist"}
 {"targetType":"library","version":"~master","commitID":"22dd4c383979c18f1e58a165be0d3649f2f7a360","name":"llist"}
+{"targetType":"library","version":"3.0.0-alpha.0","name":"llist"}
