@@ -1,2 +1,3 @@
 {"dependencies":{"dateparser":"~>3.0.0"},"targetType":"executable","version":"1.0.0","name":"wordlist_gen"}
 {"dependencies":{"dateparser":"~>3.0.0"},"targetType":"executable","version":"1.0.1","name":"wordlist_gen"}
+{"dependencies":{"dateparser":"~>3.0.0"},"targetType":"executable","version":"~master","commitID":"a595d5d5a19d027f10d9c9711402cbf41fc2805b","name":"wordlist_gen"}
