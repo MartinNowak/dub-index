@@ -34,3 +34,4 @@
 {"dependencies":{"vibe-d":">=0.7.31 <0.9.0","stringex":"~>0.1.0","diskuto":"~>1.5"},"configurations":[{"targetType":"executable","name":"standalone"},{"targetType":"library","name":"library"}],"version":"0.6.1","name":"vibelog"}
 {"dependencies":{"vibe-d":">=0.7.31 <0.9.0","stringex":"~>0.1.0","diskuto":"~>1.5"},"configurations":[{"targetType":"executable","name":"standalone"},{"targetType":"library","name":"library"}],"version":"0.6.2","name":"vibelog"}
 {"dependencies":{"vibe-d":">=0.7.31 <0.9.0","stringex":"~>0.1.0","diskuto":"~>1.5"},"configurations":[{"targetType":"executable","name":"standalone"},{"targetType":"library","name":"library"}],"version":"~master","commitID":"b2a66575c78f1ab15a94ec6eda0c8d6c2af68676","name":"vibelog"}
+{"dependencies":{"vibe-d":">=0.7.31 <0.9.0","stringex":"~>0.1.0","diskuto":"~>1.5"},"configurations":[{"targetType":"executable","name":"standalone"},{"targetType":"library","name":"library"}],"version":"0.6.3","name":"vibelog"}
