@@ -13,3 +13,4 @@
 {"dependencies":{"derelict-util":"~>2.0.0"},"version":"0.9.3","name":"derelict-imgui"}
 {"dependencies":{"derelict-util":"~>2.0.0"},"version":"0.9.4","name":"derelict-imgui"}
 {"subPackages":[{"dependencies":{"derelict-util":"~>2.0.0","derelict-gl3":"~>1.0.18","derelict-glfw3":"~>3.1.3","derelict-imgui":{"version":">=0.0.0","path":"../../"}},"targetType":"executable","name":"imgui_demo"}],"dependencies":{"derelict-util":"~>2.0.0"},"version":"0.10.0","name":"derelict-imgui"}
+{"subPackages":[{"dependencies":{"derelict-util":"~>2.0.0","derelict-gl3":"~>1.0.18","derelict-glfw3":"~>3.1.3","derelict-imgui":{"version":">=0.0.0","path":"../../"}},"targetType":"executable","name":"imgui_demo"}],"dependencies":{"derelict-util":"~>2.0.0"},"version":"~master","commitID":"b294f9547cd41dd4906511f1b2b6c75939a336bb","name":"derelict-imgui"}
