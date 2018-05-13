@@ -1,3 +1,4 @@
 {"targetType":"library","version":"1.0.0","name":"sharpevents"}
 {"targetType":"library","version":"1.0.1","name":"sharpevents"}
 {"targetType":"library","version":"1.0.2","name":"sharpevents"}
+{"targetType":"library","version":"~master","commitID":"eef67d0e851e8a6999ea1c82bf6a98d2193bfd77","name":"sharpevents"}
