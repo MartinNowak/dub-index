@@ -22,3 +22,4 @@
 {"targetType":"library","version":"0.9.0","name":"serialport"}
 {"targetType":"library","version":"0.9.1","name":"serialport"}
 {"targetType":"library","version":"1.0.0","name":"serialport"}
+{"configurations":[{"targetType":"library","name":"readAvailable"},{"targetType":"library","name":"readAllOrThrow"}],"targetType":"library","version":"1.1.0","name":"serialport"}
