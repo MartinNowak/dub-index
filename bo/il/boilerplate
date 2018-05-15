@@ -4,3 +4,4 @@
 {"dependencies":{"unit-threaded":">=0.0.0"},"targetType":"library","version":"0.0.18","configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"name":"boilerplate"}
 {"dependencies":{"unit-threaded":">=0.0.0"},"targetType":"library","version":"0.0.19","configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"name":"boilerplate"}
 {"dependencies":{"unit-threaded":">=0.0.0"},"targetType":"library","version":"0.0.20","configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"name":"boilerplate"}
+{"dependencies":{"unit-threaded":">=0.0.0"},"targetType":"library","version":"0.0.21","configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"name":"boilerplate"}
