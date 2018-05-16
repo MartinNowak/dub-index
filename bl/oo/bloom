@@ -3,3 +3,4 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"0.3.0","name":"bloom"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"1.0.0","name":"bloom"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"1.0.1","name":"bloom"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"~master","commitID":"e43c10423717928d2af3dacea9cee70f19ebd8c3","name":"bloom"}
