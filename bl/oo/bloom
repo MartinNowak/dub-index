@@ -2,3 +2,4 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"0.2.1","name":"bloom"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"0.3.0","name":"bloom"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"1.0.0","name":"bloom"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"1.0.1","name":"bloom"}
