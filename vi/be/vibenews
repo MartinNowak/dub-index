@@ -34,3 +34,4 @@
 {"dependencies":{"vibe-d":"~>0.8.0","antispam":"~>0.1.2","userman":"~>0.3.0"},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"unittest"}],"version":"0.8.1","name":"vibenews"}
 {"dependencies":{"vibe-d":"~>0.8.0","antispam":"~>0.1.2","userman":"~>0.3.0"},"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"unittest"}],"version":"0.8.2","name":"vibenews"}
 {"dependencies":{"vibe-d":"~>0.8.0","antispam":"~>0.1.2","userman":">=0.4.0-rc.1 <0.5.0-0"},"version":"~upgrade_dependencies","commitID":"264cb1c956e286e3df9254eed4617e0654977335","name":"vibenews"}
+{"dependencies":{"vibe-d":"~>0.8.0","antispam":"~>0.1.2","userman":">=0.4.0-rc.1 <0.5.0-0"},"version":"~master","commitID":"90f0bbab98bff66e112374602581973b72b38e73","name":"vibenews"}
