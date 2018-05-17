@@ -1,1 +1,2 @@
 {"dependencies":{"optional":"~>0.4.1","dsfml":"~>2.1.1"},"version":"0.1.0","name":"dino"}
+{"dependencies":{"optional":"~>0.4.1","dsfml":"~>2.1.1"},"version":"~master","commitID":"03f9a508047ed189965a4e7d27f30c5b41dce890","name":"dino"}
