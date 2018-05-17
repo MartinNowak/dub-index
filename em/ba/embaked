@@ -7,3 +7,4 @@
 {"dependencies":{"htmld":"~>0.2.9","cssd":"~>0.1.1"},"targetType":"library","version":"0.1.6","name":"embaked"}
 {"dependencies":{"htmld":"~>0.2.9","cssd":"~>0.1.1"},"targetType":"library","version":"0.1.7","name":"embaked"}
 {"dependencies":{"htmld":">=0.3.2","cssd":">=0.1.3"},"targetType":"library","version":"0.1.8","name":"embaked"}
+{"dependencies":{"htmld":">=0.3.2","cssd":">=0.1.3"},"targetType":"library","version":"~master","commitID":"3f7ace045a2ea9d6e28a693dde1ddbe4d0809b1c","name":"embaked"}
