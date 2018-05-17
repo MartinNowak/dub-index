@@ -15,3 +15,4 @@
 {"dependencies":{"openssl":"~>1.1.5"},"configurations":[{"targetType":"sourceLibrary","name":"deimos"},{"targetType":"library","name":"unittest"},{"targetType":"staticLibrary","name":"toString"}],"version":"0.15.14","name":"opensc"}
 {"dependencies":{"openssl":"~>1.1.6"},"configurations":[{"targetType":"sourceLibrary","name":"deimos"},{"targetType":"library","name":"unittest"},{"targetType":"staticLibrary","name":"toString"}],"version":"0.15.15","name":"opensc"}
 {"dependencies":{"openssl":"~>1.1.6"},"configurations":[{"targetType":"sourceLibrary","name":"deimos"},{"targetType":"library","name":"unittest"},{"targetType":"staticLibrary","name":"toString"}],"version":"0.15.16","name":"opensc"}
+{"dependencies":{"openssl":"~>1.1.6"},"configurations":[{"targetType":"sourceLibrary","name":"deimos"},{"targetType":"library","name":"unittest"},{"targetType":"staticLibrary","name":"toString"}],"version":"0.18.0-beta.1","name":"opensc"}
