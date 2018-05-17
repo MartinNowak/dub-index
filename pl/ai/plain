@@ -7,3 +7,4 @@
 {"dependencies":{"htmld":"~>0.2.6"},"targetType":"library","version":"0.1.6","name":"plain"}
 {"dependencies":{"htmld":"~>0.2.19"},"targetType":"library","version":"0.1.7","name":"plain"}
 {"dependencies":{"htmld":">=0.3.2"},"targetType":"library","version":"0.1.8","name":"plain"}
+{"dependencies":{"htmld":">=0.3.2"},"targetType":"library","version":"~master","commitID":"87469d1b0bf87dc912c9a673e788a50c477c7165","name":"plain"}
