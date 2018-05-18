@@ -3,3 +3,4 @@
 {"targetType":"library","version":"0.8.2","name":"pubg-d"}
 {"targetType":"library","version":"0.8.3","name":"pubg-d"}
 {"targetType":"library","version":"0.8.4","name":"pubg-d"}
+{"targetType":"library","version":"~master","commitID":"16d66fa5f7f513427d943e9d620e80d680552f95","name":"pubg-d"}
