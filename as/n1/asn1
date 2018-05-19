@@ -14,3 +14,4 @@
 {"targetType":"library","version":"2.4.2-unstable","name":"asn1"}
 {"targetType":"library","version":"2.4.2","name":"asn1"}
 {"targetType":"library","version":"2.4.3","name":"asn1"}
+{"targetType":"library","version":"~master","commitID":"b88a9b0724f270af43b48ad3b50cdf943323a83c","name":"asn1"}
