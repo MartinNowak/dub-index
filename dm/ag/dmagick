@@ -1,3 +1,4 @@
 {"configurations":[{"targetType":"library","name":"windows"},{"targetType":"library","name":"other"}],"targetType":"library","version":"0.2.0","name":"dmagick"}
 {"configurations":[{"targetType":"library","name":"windows"},{"targetType":"library","name":"other"}],"targetType":"library","version":"0.2.1","name":"dmagick"}
 {"configurations":[{"targetType":"library","name":"windows"},{"targetType":"library","name":"other"}],"targetType":"library","version":"~master","commitID":"cdd7f704bbdd31b5e50489db5f361a718199275a","name":"dmagick"}
+{"configurations":[{"targetType":"library","name":"windows"},{"targetType":"library","name":"other"}],"targetType":"library","version":"0.2.2","name":"dmagick"}
