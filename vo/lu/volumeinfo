@@ -1,2 +1,3 @@
 {"targetType":"library","version":"0.1.0","name":"volumeinfo"}
 {"targetType":"library","version":"0.2.0","name":"volumeinfo"}
+{"targetType":"library","version":"~master","commitID":"fd4a18fad2d089aadcff32f8adeb27551fb0e002","name":"volumeinfo"}
