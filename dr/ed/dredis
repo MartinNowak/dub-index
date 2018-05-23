@@ -7,3 +7,4 @@
 {"version":"0.0.7","name":"dredis"}
 {"version":"0.0.8","name":"dredis"}
 {"version":"0.0.9","name":"dredis"}
+{"version":"~master","commitID":"8946e8063ff5dcc955ac4e559f23cb39986ff677","name":"dredis"}
