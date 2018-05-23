@@ -6,3 +6,4 @@
 {"targetType":"library","version":"1.0.5","name":"wave-d"}
 {"targetType":"library","version":"1.0.6","name":"wave-d"}
 {"targetType":"library","version":"1.0.7","name":"wave-d"}
+{"targetType":"library","version":"~master","commitID":"0981f44407fa260f0335c42e36779c8bdf978389","name":"wave-d"}
