@@ -1,2 +1,3 @@
 {"dependencies":{"tinyredis":"~>2.1.1"},"version":"0.0.1","name":"redlock"}
 {"dependencies":{"dredis":"~>0.0.7"},"version":"0.0.2","name":"redlock"}
+{"dependencies":{"dredis":"~>0.0.9"},"version":"~master","commitID":"5f4be03681792294ec308632a751f7742be9053c","name":"redlock"}
