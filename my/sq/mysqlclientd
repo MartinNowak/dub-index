@@ -5,3 +5,4 @@
 {"targetType":"library","version":"1.0.4","name":"mysqlclientd"}
 {"targetType":"library","version":"1.0.5","name":"mysqlclientd"}
 {"targetType":"library","version":"1.0.6","name":"mysqlclientd"}
+{"targetType":"library","version":"~master","commitID":"1e3d92b2bb3440544c9c57ee2389c4bc5364f1eb","name":"mysqlclientd"}
