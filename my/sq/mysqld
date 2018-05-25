@@ -13,3 +13,4 @@
 {"version":"1.0.12","name":"mysqld"}
 {"version":"1.0.13","name":"mysqld"}
 {"version":"1.0.14","name":"mysqld"}
+{"version":"~master","commitID":"607521da2bdab7bd0848e4b716296a0c2042dd6f","name":"mysqld"}
