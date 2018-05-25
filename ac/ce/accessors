@@ -7,3 +7,4 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"targetType":"library","version":"1.2.3","name":"accessors"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"targetType":"library","version":"1.2.4","name":"accessors"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"targetType":"library","version":"~deprecate_accessors","commitID":"71b4412ce37d84f0d31fce8c53f6f5600fe5d22d","name":"accessors"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"targetType":"library","version":"~master","commitID":"c331192b7b537f9df07af2b87dcde29233bfeb3f","name":"accessors"}
