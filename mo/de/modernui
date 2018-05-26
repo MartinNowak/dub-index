@@ -1,1 +1,2 @@
 {"subPackages":[{"targetType":"library","name":"directx-d"}],"dependencies":{"modernui:directx-d":">=0.0.0"},"version":"0.0.1","name":"modernui"}
+{"subPackages":[{"targetType":"library","name":"directx-d"}],"configurations":[{"dependencies":{"modernui:directx-d":">=0.0.0"},"targetType":"library","name":"windows"}],"version":"~master","commitID":"f05eb15af7b0f016fdea23a75cf55aafedfd1944","name":"modernui"}
