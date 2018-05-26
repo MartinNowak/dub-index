@@ -9,3 +9,4 @@
 {"configurations":[{"targetType":"library","name":"no-libs"},{"targetType":"library","name":"allegro-only"},{"targetType":"library","name":"all-addons"}],"targetType":"library","version":"~5.0","commitID":"7bb5af8c984df58ec9dab2c3e538554edd2ea8a6","name":"allegro"}
 {"configurations":[{"targetType":"library","name":"no-libs"},{"targetType":"library","name":"allegro-only"},{"targetType":"library","name":"all-addons"}],"targetType":"library","version":"4.0.0+5.2.0","name":"allegro"}
 {"configurations":[{"targetType":"library","name":"no-libs"},{"targetType":"library","name":"allegro-only"},{"targetType":"library","name":"all-addons"}],"targetType":"library","version":"4.0.1+5.2.0","name":"allegro"}
+{"configurations":[{"targetType":"library","name":"no-libs"},{"targetType":"library","name":"allegro-only"},{"targetType":"library","name":"all-addons"}],"targetType":"library","version":"4.0.2+5.2.0","name":"allegro"}
