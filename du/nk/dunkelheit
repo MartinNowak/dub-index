@@ -1,1 +1,2 @@
 {"subPackages":[{"dependencies":{"libdparse":"~>0.7.1"},"targetType":"executable","name":"combine"},{"targetType":"executable","name":"document"}],"targetType":"library","version":"0.10.0","name":"dunkelheit"}
+{"subPackages":[{"dependencies":{"libdparse":"~>0.7.1"},"targetType":"executable","name":"combine"},{"targetType":"executable","name":"document"}],"targetType":"library","version":"~develop","commitID":"dce0fbdfa169582ef1432447866563ab71ccf1e4","name":"dunkelheit"}
