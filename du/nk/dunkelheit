@@ -1,3 +1,4 @@
 {"subPackages":[{"dependencies":{"libdparse":"~>0.7.1"},"targetType":"executable","name":"combine"},{"targetType":"executable","name":"document"}],"targetType":"library","version":"0.10.0","name":"dunkelheit"}
 {"subPackages":[{"dependencies":{"libdparse":"~>0.7.1"},"targetType":"executable","name":"combine"},{"targetType":"executable","name":"document"}],"targetType":"library","version":"~develop","commitID":"dce0fbdfa169582ef1432447866563ab71ccf1e4","name":"dunkelheit"}
 {"subPackages":[{"dependencies":{"libdparse":"~>0.7.1"},"targetType":"executable","name":"combine"},{"targetType":"executable","name":"document"}],"targetType":"library","version":"1.0.0","name":"dunkelheit"}
+{"subPackages":[{"dependencies":{"libdparse":"~>0.7.1"},"targetType":"executable","name":"combine"},{"targetType":"executable","name":"document"}],"targetType":"library","version":"~master","commitID":"7544bf2549d0230e710b3aa8f9eccc1f90bee1eb","name":"dunkelheit"}
