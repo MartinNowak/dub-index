@@ -1,2 +1,3 @@
 {"configurations":[{"targetType":"library","name":"linux-build"},{"targetType":"library","name":"windows-build"}],"version":"0.0.1","name":"minuit"}
 {"configurations":[{"targetType":"library","name":"linux-build"},{"targetType":"library","name":"windows-build"}],"version":"0.0.2","name":"minuit"}
+{"configurations":[{"targetType":"library","name":"linux-build"},{"targetType":"library","name":"windows-build"}],"version":"~master","commitID":"bcd98de610208df9a77882f62927428f85ee9760","name":"minuit"}
