@@ -5,3 +5,4 @@
 {"version":"0.0.5","name":"matrix-d-api"}
 {"version":"1.0.0","name":"matrix-d-api"}
 {"version":"1.0.1","name":"matrix-d-api"}
+{"version":"~master","commitID":"501a757d5ac1d55b8c0c72cb59c6352fe272ea83","name":"matrix-d-api"}
