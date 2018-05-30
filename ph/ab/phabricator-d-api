@@ -10,3 +10,4 @@
 {"version":"1.0.4","name":"phabricator-d-api"}
 {"version":"1.0.5","name":"phabricator-d-api"}
 {"version":"1.0.6","name":"phabricator-d-api"}
+{"version":"~master","commitID":"ff5c88b0f5bece09e707c7b4d9fbeb694e149d48","name":"phabricator-d-api"}
