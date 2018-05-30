@@ -1,2 +1,3 @@
 {"dependencies":{"kiss":"~>0.1.5"},"version":"~refactor","commitID":"509e088fcf18012356ffb2c2fd865133fd2ce014","name":"collie"}
 {"dependencies":{"kiss":"~>0.3.4"},"configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"debug-mode"}],"version":"~v0.10.x","commitID":"af645ada420936810a7afc7ca47a03652c93bc84","name":"collie"}
+{"dependencies":{"kiss":"~>0.4.0"},"configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"debug-mode"}],"version":"0.10.15","name":"collie"}
