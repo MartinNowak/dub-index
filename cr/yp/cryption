@@ -18,3 +18,4 @@
 {"version":"0.1.1","name":"cryption"}
 {"version":"0.1.2","name":"cryption"}
 {"version":"0.1.3","name":"cryption"}
+{"dependencies":{"crypto":"~>0.1.3"},"version":"0.1.4","name":"cryption"}
