@@ -17,3 +17,4 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"},{"targetType":"library","name":"no-build"}],"version":"0.10.2","name":"scriptlike"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"},{"targetType":"library","name":"no-build"}],"version":"~appveyor","commitID":"72973b6fd128180ab2e97f3fe3dac0d20def4df1","name":"scriptlike"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"},{"targetType":"library","name":"no-build"}],"version":"~appveyor2","commitID":"c3fbe2408289df1c14d542f38352d7be62751a5d","name":"scriptlike"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"},{"targetType":"library","name":"no-build"}],"version":"~master","commitID":"bcdec89f725e44aa7c8246805435ffb1edabe14d","name":"scriptlike"}
