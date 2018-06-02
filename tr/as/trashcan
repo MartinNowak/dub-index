@@ -4,3 +4,4 @@
 {"subPackages":[{"dependencies":{"trashcan":">=0.0.0"},"targetType":"executable","name":"put"}],"dependencies":{"xdgpaths":"~>0.2.2"},"targetType":"library","version":"0.2.2","name":"trashcan"}
 {"subPackages":[{"dependencies":{"trashcan":">=0.0.0"},"targetType":"executable","name":"put"}],"dependencies":{"xdgpaths":"~>0.2.2"},"targetType":"library","version":"0.2.3","name":"trashcan"}
 {"dependencies":{"xdgpaths":"~>0.2.5"},"targetType":"library","version":"0.2.4","name":"trashcan"}
+{"dependencies":{"xdgpaths":"~>0.2.5","inilike":"~>1.1.0","volumeinfo":"~>0.2.0"},"targetType":"library","version":"~master","commitID":"49002aa1dd2b8386f7ac9216c70e607b964559ff","name":"trashcan"}
