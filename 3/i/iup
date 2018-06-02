@@ -8,3 +8,4 @@
 {"targetType":"sourceLibrary","version":"0.0.9","name":"iup"}
 {"targetType":"sourceLibrary","version":"0.0.10","name":"iup"}
 {"targetType":"sourceLibrary","version":"~master","commitID":"2a9c22fc6e0357b10a9512a29936ee7a8be3b74b","name":"iup"}
+{"targetType":"sourceLibrary","version":"3.25.0-beta.1","name":"iup"}
