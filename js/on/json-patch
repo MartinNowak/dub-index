@@ -1,1 +1,2 @@
 {"dependencies":{"json-pointer":"~>0.0.3"},"configurations":[{"targetType":"library","name":"default"}],"version":"0.0.1","name":"json-patch"}
+{"dependencies":{"json-pointer":"~>0.0.3"},"configurations":[{"targetType":"library","name":"default"}],"version":"~master","commitID":"20b25a7ab678f0c793eef04953a17efb03f5cd65","name":"json-patch"}
