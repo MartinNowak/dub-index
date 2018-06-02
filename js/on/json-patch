@@ -1,0 +1,1 @@
+{"dependencies":{"json-pointer":"~>0.0.3"},"configurations":[{"targetType":"library","name":"default"}],"version":"0.0.1","name":"json-patch"}
