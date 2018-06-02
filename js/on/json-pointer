@@ -1,3 +1,4 @@
 {"configurations":[{"targetType":"library","name":"default"}],"version":"0.0.1","name":"json-pointer"}
 {"configurations":[{"targetType":"library","name":"default"}],"version":"0.0.2","name":"json-pointer"}
 {"configurations":[{"targetType":"library","name":"default"}],"version":"0.0.3","name":"json-pointer"}
+{"configurations":[{"targetType":"library","name":"default"}],"version":"~master","commitID":"5243e95c7c99cef255c70cdf580f2dcd47d747cf","name":"json-pointer"}
