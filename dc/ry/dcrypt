@@ -7,3 +7,4 @@
 {"configurations":[{"targetType":"library","name":"libdcrypt"},{"targetType":"executable","name":"selftest"}],"version":"0.0.6","name":"dcrypt"}
 {"configurations":[{"targetType":"library","name":"libdcrypt"},{"targetType":"executable","name":"selftest"}],"version":"~experimental","commitID":"3d7593984ff9bd76b94edff45f36c03558f1599b","name":"dcrypt"}
 {"configurations":[{"targetType":"library","name":"libdcrypt"},{"targetType":"executable","name":"selftest"}],"version":"0.0.7","name":"dcrypt"}
+{"configurations":[{"targetType":"library","name":"libdcrypt"},{"targetType":"executable","name":"selftest"}],"version":"~master","commitID":"1c4b5d831f24a309543e036cc1fef9ee60323ca3","name":"dcrypt"}
