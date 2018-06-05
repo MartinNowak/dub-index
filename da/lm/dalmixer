@@ -1,3 +1,4 @@
 {"dependencies":{"derelict-util":"~>2.0.4","derelict-al":"~>1.0.1"},"configurations":[{"targetType":"library","name":"library"}],"version":"0.0.1","name":"dalmixer"}
 {"dependencies":{"derelict-util":"~>2.0.4","derelict-al":"~>1.0.1"},"configurations":[{"targetType":"library","name":"library"}],"version":"0.0.2","name":"dalmixer"}
 {"dependencies":{"derelict-util":">=3.0.0-beta.1","derelict-al":">=2.0.0-beta.2 <2.1.0-0"},"configurations":[{"targetType":"library","name":"library"}],"version":"~master","commitID":"9869909c4755e76566de62010f90c719f2ac5bb8","name":"dalmixer"}
+{"dependencies":{"derelict-util":">=3.0.0-beta.1","derelict-al":">=2.0.0-beta.2 <2.1.0-0"},"configurations":[{"targetType":"library","name":"library"}],"version":"0.0.3","name":"dalmixer"}
