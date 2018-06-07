@@ -11,3 +11,4 @@
 {"targetType":"sourceLibrary","version":"~hlg_uhd","commitID":"f40afe8f3fc32ebb3f97a30ef283c29ef1ef43ff","name":"color"}
 {"targetType":"sourceLibrary","version":"~yuv","commitID":"493e807b9a86b01ff68c23105c684cd2b660d83f","name":"color"}
 {"targetType":"sourceLibrary","version":"~master","commitID":"a1be99a762a344ad63c524b41af84514279a1467","name":"color"}
+{"targetType":"sourceLibrary","version":"0.0.7","name":"color"}
