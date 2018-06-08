@@ -1,0 +1,1 @@
+{"dependencies":{"numir":"~>0.1.2","derelict-cl":"~>3.2.0","derelict-cuda":"~>3.1.1","lubeck":"~>0.0.5"},"targetType":"library","version":"0.0.1","configurations":[{"targetType":"library","name":"library"},{"targetType":"sourceLibrary","name":"sourceLibrary"},{"targetType":"executable","name":"example-mnist"}],"name":"grain"}
