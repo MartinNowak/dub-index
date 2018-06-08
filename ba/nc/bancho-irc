@@ -8,3 +8,4 @@
 {"dependencies":{"vibe-d:core":">=0.0.0","vibe-d:stream":">=0.0.0","eventsystem":"~>1.2.0"},"version":"0.5.1","name":"bancho-irc"}
 {"dependencies":{"vibe-d:core":">=0.0.0","vibe-d:stream":">=0.0.0","eventsystem":"~>1.2.0"},"version":"0.5.2","name":"bancho-irc"}
 {"dependencies":{"vibe-d:core":">=0.0.0","vibe-d:stream":">=0.0.0","eventsystem":"~>1.2.0"},"version":"0.5.3","name":"bancho-irc"}
+{"dependencies":{"vibe-d:core":">=0.0.0","vibe-d:stream":">=0.0.0","eventsystem":"~>1.2.0"},"version":"0.5.4","name":"bancho-irc"}
