@@ -6,3 +6,4 @@
 {"targetType":"library","version":"0.0.5","name":"rocksdb"}
 {"targetType":"library","version":"0.0.6","name":"rocksdb"}
 {"targetType":"library","version":"0.0.7","name":"rocksdb"}
+{"targetType":"library","version":"~master","commitID":"f006b9c483ef929c7a8927ecdf47aeb0b7254aaa","name":"rocksdb"}
