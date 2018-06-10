@@ -43,3 +43,4 @@
 {"dependencies":{"vibe-d":"~>0.8.3","mysql-native":"~>2.2.1"},"targetType":"sourceLibrary","version":"~2.10.0","commitID":"115d489aff213024894f0a7762ff64fbba28bf95","name":"diamond"}
 {"dependencies":{"vibe-d":"~>0.8.3","mysql-native":"~>2.2.1"},"targetType":"sourceLibrary","version":"2.10.0","name":"diamond"}
 {"dependencies":{"vibe-d":"~>0.8.3","mysql-native":"~>2.2.1"},"targetType":"sourceLibrary","version":"2.10.1","name":"diamond"}
+{"dependencies":{"vibe-d":"~>0.8.3","mysql-native":"~>2.2.1"},"targetType":"sourceLibrary","version":"~2.10.1","commitID":"d3e94d46359d0b1555909a691639714dbe1971a1","name":"diamond"}
