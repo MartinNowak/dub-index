@@ -32,3 +32,4 @@
 {"configurations":[{"dependencies":{"serialport":"~>0.9.1"},"targetType":"library","name":"serialport"},{"targetType":"library","name":"custom"}],"targetType":"library","version":"~v0.11.0","commitID":"8cb1f40aec63fa2a3db38dbfe983acd8f49ee31c","name":"modbus"}
 {"configurations":[{"dependencies":{"serialport":"~>0.9.1"},"targetType":"library","name":"serialport"},{"targetType":"library","name":"custom"}],"targetType":"library","version":"0.14.0","name":"modbus"}
 {"dependencies":{"serialport":"~>2.1.6"},"targetType":"library","version":"0.15.0","name":"modbus"}
+{"dependencies":{"serialport":"~>2.1.6"},"targetType":"library","version":"0.16.0","name":"modbus"}
