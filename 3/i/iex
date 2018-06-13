@@ -1,1 +1,2 @@
 {"dependencies":{"vibe-d:data":">=0.8.4-rc.1 <0.9.0-0","requests":"~>0.8.0"},"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":"~>0.7.46"},"targetType":"executable","name":"unittest"}],"version":"0.1.0","name":"iex"}
+{"dependencies":{"vibe-d:data":">=0.8.4-rc.1 <0.9.0-0","requests":"~>0.8.0"},"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":"~>0.7.46"},"targetType":"executable","name":"unittest"}],"version":"~master","commitID":"7600fec1f2865df14f340916753792ca7b6861e5","name":"iex"}
