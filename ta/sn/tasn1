@@ -1,2 +1,3 @@
 {"targetType":"sourceLibrary","version":"0.0.1","name":"tasn1"}
 {"subPackages":[{"configurations":[{"targetType":"sourceLibrary","name":"library"},{"targetType":"library","name":"unittest"}],"name":"deimos"},{"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"travis"}],"targetType":"library","name":"wrapper"}],"targetType":"none","version":"0.0.2","name":"tasn1"}
+{"subPackages":[{"configurations":[{"targetType":"sourceLibrary","name":"library"},{"targetType":"library","name":"unittest"}],"name":"deimos"},{"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"travis"}],"targetType":"library","name":"wrapper"}],"targetType":"none","version":"0.0.3","name":"tasn1"}
