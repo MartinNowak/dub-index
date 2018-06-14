@@ -13,3 +13,4 @@
 {"version":"0.3.0","name":"std_benchmark"}
 {"version":"0.3.1","name":"std_benchmark"}
 {"version":"0.3.3","name":"std_benchmark"}
+{"version":"~master","commitID":"dcfa5561a9590055eca828b7080d9a4e2ec67bb8","name":"std_benchmark"}
