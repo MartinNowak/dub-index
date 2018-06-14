@@ -28,3 +28,4 @@
 {"dependencies":{"libddoc":">=0.3.0-beta.1 <0.4.0-0","dsymbol":"~>0.3.7","inifiled":"~>1.3.1","stdx-allocator":"~>2.77.0","libdparse":"~>0.8.5","emsi_containers":">=0.8.0-alpha.7 <0.9.0-0"},"version":"0.5.4","name":"dscanner"}
 {"dependencies":{"libddoc":">=0.3.0-beta.1 <0.4.0-0","dsymbol":"~>0.3.7","inifiled":"~>1.3.1","stdx-allocator":"~>2.77.2","libdparse":"~>0.8.6","emsi_containers":">=0.8.0-alpha.7 <0.9.0-0"},"version":"0.5.5","name":"dscanner"}
 {"dependencies":{"libddoc":">=0.3.0-beta.1 <0.4.0-0","dsymbol":"~>0.3.8","inifiled":"~>1.3.1","stdx-allocator":"~>2.77.2","libdparse":"~>0.8.6","emsi_containers":">=0.8.0-alpha.7 <0.9.0-0"},"version":"0.5.6","name":"dscanner"}
+{"dependencies":{"libddoc":">=0.3.0-beta.1 <0.4.0-0","dsymbol":"~>0.3.10","inifiled":"~>1.3.1","stdx-allocator":"~>2.77.2","libdparse":"~>0.8.7","emsi_containers":">=0.8.0-alpha.7 <0.9.0-0"},"version":"0.5.7","name":"dscanner"}
