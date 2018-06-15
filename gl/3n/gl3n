@@ -4,3 +4,4 @@
 {"targetType":"staticLibrary","version":"1.2.0","name":"gl3n"}
 {"targetType":"staticLibrary","version":"1.3.0","name":"gl3n"}
 {"targetType":"staticLibrary","version":"1.3.1","name":"gl3n"}
+{"targetType":"staticLibrary","version":"~master","commitID":"f04a74b3fbd6835d2316d459f32a363f2bd59a82","name":"gl3n"}
