@@ -1,1 +1,2 @@
 {"configurations":[{"targetType":"sourceLibrary","name":"default"},{"targetType":"executable","name":"unittest"}],"targetType":"sourceLibrary","version":"0.0.1-alpha","name":"easyff-d"}
+{"configurations":[{"targetType":"sourceLibrary","name":"default"},{"targetType":"executable","name":"unittest"}],"targetType":"sourceLibrary","version":"0.0.2-alpha","name":"easyff-d"}
