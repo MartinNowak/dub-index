@@ -2,3 +2,4 @@
 {"targetType":"library","version":"0.0.2","name":"libdtasks"}
 {"targetType":"library","version":"0.0.3","name":"libdtasks"}
 {"targetType":"library","version":"0.0.4","name":"libdtasks"}
+{"targetType":"library","version":"~master","commitID":"29dbc54fc3dd7a9c69a13db48f9ace72affaebcc","name":"libdtasks"}
