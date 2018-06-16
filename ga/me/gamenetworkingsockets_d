@@ -1,2 +1,3 @@
 {"configurations":[{"targetType":"executable","name":"static"},{"targetType":"executable","name":"dynamic"}],"targetType":"executable","version":"0.0.1","name":"gamenetworkingsockets_d"}
 {"configurations":[{"targetType":"sourceLibrary","name":"static"},{"targetType":"sourceLibrary","name":"dynamic"}],"targetType":"sourceLibrary","version":"0.0.2","name":"gamenetworkingsockets_d"}
+{"configurations":[{"targetType":"sourceLibrary","name":"static"},{"targetType":"sourceLibrary","name":"dynamic"}],"targetType":"sourceLibrary","version":"0.0.3","name":"gamenetworkingsockets_d"}
