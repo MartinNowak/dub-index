@@ -1,3 +1,4 @@
 {"targetType":"library","version":"0.1.0","name":"mofile"}
 {"targetType":"library","version":"0.2.0","name":"mofile"}
 {"targetType":"library","version":"0.2.1","name":"mofile"}
+{"targetType":"library","version":"~master","commitID":"6dc54fdd4c1faf7dd9976a488ac84afc96a6ee28","name":"mofile"}
