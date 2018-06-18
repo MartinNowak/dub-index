@@ -1,1 +1,2 @@
 {"configurations":[{"name":"arrogant"},{"targetType":"executable","name":"arrogant_test_app"}],"version":"0.1.0","name":"arrogant"}
+{"configurations":[{"name":"arrogant"},{"targetType":"executable","name":"arrogant_test_app"},{"targetType":"executable","name":"arrogant_tests"}],"version":"0.2.0","name":"arrogant"}
