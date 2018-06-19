@@ -32,3 +32,4 @@
 {"dependencies":{"libdparse":"~>0.8.6"},"version":"0.8.0","name":"dfmt"}
 {"dependencies":{"libdparse":"~>0.8.6"},"version":"0.8.1","name":"dfmt"}
 {"dependencies":{"libdparse":">=0.8.0-alpha.5 <0.9.0-0"},"version":"0.7.2","name":"dfmt"}
+{"dependencies":{"libdparse":"~>0.8.6"},"version":"0.8.2","name":"dfmt"}
