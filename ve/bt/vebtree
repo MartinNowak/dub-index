@@ -14,3 +14,4 @@
 {"targetType":"library","version":"~develop","commitID":"52d356ce6b4acce858a62151b21a474537277381","name":"vebtree"}
 {"targetType":"library","version":"0.9.0","name":"vebtree"}
 {"targetType":"library","version":"0.10.0","name":"vebtree"}
+{"targetType":"library","version":"0.10.1","name":"vebtree"}
