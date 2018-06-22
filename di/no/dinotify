@@ -4,3 +4,4 @@
 {"version":"0.2.1","name":"dinotify"}
 {"version":"0.2.2","name":"dinotify"}
 {"version":"0.3.0","name":"dinotify"}
+{"version":"~master","commitID":"74a85bb6706998aea10560adc83e98b8ee4ce0c8","name":"dinotify"}
