@@ -33,3 +33,4 @@
 {"configurations":[{"dependencies":{"serialport":"~>0.9.1"},"targetType":"library","name":"serialport"},{"targetType":"library","name":"custom"}],"targetType":"library","version":"0.14.0","name":"modbus"}
 {"dependencies":{"serialport":"~>2.1.6"},"targetType":"library","version":"0.15.0","name":"modbus"}
 {"dependencies":{"serialport":"~>2.1.6"},"targetType":"library","version":"0.16.0","name":"modbus"}
+{"dependencies":{"serialport":"~>2.1.6"},"targetType":"library","version":"0.17.0","name":"modbus"}
