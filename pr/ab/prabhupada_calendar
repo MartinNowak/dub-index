@@ -13,3 +13,4 @@
 {"dependencies":{"dlangui":">=0.9.170"},"targetType":"executable","version":"2.0.1","name":"prabhupada_calendar"}
 {"dependencies":{"dlangui":">=0.9.170"},"targetType":"executable","version":"2.0.2","name":"prabhupada_calendar"}
 {"dependencies":{"dlangui":">=0.9.178"},"targetType":"executable","version":"3.0.0","name":"prabhupada_calendar"}
+{"dependencies":{"dlangui":">=0.9.178"},"targetType":"executable","version":"~master","commitID":"b33640721bd4507d35fbe5563a6a7b267fd2c0ba","name":"prabhupada_calendar"}
