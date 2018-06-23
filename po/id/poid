@@ -1,1 +1,2 @@
 {"dependencies":{"mustache-d":"~>0.1.3"},"version":"0.0.1","name":"poid"}
+{"dependencies":{"mustache-d":"~>0.1.3"},"version":"~master","commitID":"862d0769786a11f49b15ce9d8277bf06214a288b","name":"poid"}
