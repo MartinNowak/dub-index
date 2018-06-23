@@ -1,1 +1,2 @@
 {"dependencies":{"standardpaths":"~>0.7.0","botan":"~>1.12.5","libasync":"~>0.7.9","libhttp2":"~>0.2.8"},"targetType":"library","version":"1.0.1","configurations":[{"targetType":"library","name":"libasync_botan"},{"targetType":"library","name":"libasync_botan_win32"}],"name":"vibe-0"}
+{"dependencies":{"botan":"~>1.12.5","libhttp2":"~>0.2.8","libasync":"~>0.8.2"},"targetType":"library","version":"1.0.2","name":"vibe-0"}
