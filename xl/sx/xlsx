@@ -2,3 +2,4 @@
 {"dependencies":{"archive":"~>0.6.0"},"version":"0.0.3","name":"xlsx"}
 {"dependencies":{"archive":"~>0.6.0"},"version":"0.0.4","name":"xlsx"}
 {"dependencies":{"dxml":"~>0.3.2","archive":"~>0.6.0"},"version":"~develop","commitID":"fbec56b7d4a5806525d01066cc21d3a5c1e6058d","name":"xlsx"}
+{"dependencies":{"dxml":"~>0.3.2","archive":"~>0.6.0"},"version":"~dxml","commitID":"fbec56b7d4a5806525d01066cc21d3a5c1e6058d","name":"xlsx"}
