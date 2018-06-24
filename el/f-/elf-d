@@ -3,3 +3,4 @@
 {"subPackages":[{"dependencies":{"elf-d":{"version":">=0.0.0","path":"../"}},"targetType":"executable","name":"example"}],"targetType":"staticLibrary","version":"~symboltable","commitID":"8a9bce0a9bc80b27bac3e2174dac71119893f9a6","name":"elf-d"}
 {"subPackages":[{"dependencies":{"elf-d":{"version":">=0.0.0","path":"../"}},"targetType":"executable","name":"example"}],"targetType":"staticLibrary","version":"0.2.0","name":"elf-d"}
 {"subPackages":[{"dependencies":{"elf-d":{"version":">=0.0.0","path":"../"}},"targetType":"executable","name":"example"}],"targetType":"staticLibrary","version":"0.2.1","name":"elf-d"}
+{"subPackages":[{"dependencies":{"elf-d":{"version":">=0.0.0","path":"../"}},"targetType":"executable","name":"example"}],"targetType":"staticLibrary","version":"0.2.2","name":"elf-d"}
