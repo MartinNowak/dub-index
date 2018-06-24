@@ -19,3 +19,4 @@
 {"version":"1.6.1","name":"stb"}
 {"configurations":[{"targetType":"library","name":"default"},{"dependencies":{"arsd-official:terminal":">=2.1.0"},"targetType":"library","name":"with-logger"}],"version":"1.7.0","name":"stb"}
 {"dependencies":{"arsd-official:terminal":">=2.1.0"},"version":"1.7.1","name":"stb"}
+{"dependencies":{"arsd-official:terminal":">=2.1.0"},"targetType":"sourceLibrary","version":"1.7.2","name":"stb"}
