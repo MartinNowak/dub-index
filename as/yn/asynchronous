@@ -25,3 +25,4 @@
 {"dependencies":{"libasync":"~>0.8.0"},"targetType":"library","version":"0.6.6","configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"name":"asynchronous"}
 {"dependencies":{"libasync":"~>0.8.2"},"targetType":"library","version":"0.6.7","configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"name":"asynchronous"}
 {"dependencies":{"libasync":"~>0.8.3"},"targetType":"library","version":"~master","configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"commitID":"b028b16c8fb75e645366a253a21621ccf92ca369","name":"asynchronous"}
+{"dependencies":{"libasync":"~>0.8.3"},"targetType":"library","version":"0.6.8","configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"name":"asynchronous"}
