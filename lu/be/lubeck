@@ -5,3 +5,4 @@
 {"dependencies":{"mir-lapack":"~>0.0.3","mir-blas":"~>0.1.1"},"version":"0.0.5","name":"lubeck"}
 {"dependencies":{"mir-lapack":">=0.0.7-alpha <0.1.0-0","mir-random":"~>0.4.3","mir-blas":">=0.1.2-alpha3 <0.2.0-0"},"version":"0.0.6-beta","name":"lubeck"}
 {"dependencies":{"mir-lapack":">=0.0.7-alpha <0.1.0-0","mir-blas":">=0.1.2-alpha3 <0.2.0-0","mir-random":"~>0.4.3","mir-algorithm":">=1.1.0"},"version":"0.0.6","name":"lubeck"}
+{"dependencies":{"mir-lapack":">=0.0.7-alpha <0.1.0-0","mir-blas":">=0.1.2-alpha3 <0.2.0-0","mir-random":"~>0.4.3","mir-algorithm":">=1.1.0"},"version":"0.0.7","name":"lubeck"}
