@@ -1,1 +1,2 @@
 {"dependencies":{"mir-algorithm":"~>1.1.3"},"configurations":[{"targetType":"executable","name":"d-reversi"},{"targetType":"executable","name":"d-reversi-benchmark"}],"version":"0.0.1","name":"d-reversi"}
+{"dependencies":{"mir-algorithm":"~>1.1.3"},"configurations":[{"targetType":"executable","name":"d-reversi"},{"targetType":"executable","name":"d-reversi-benchmark"}],"version":"0.0.2","name":"d-reversi"}
