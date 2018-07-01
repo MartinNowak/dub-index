@@ -1,1 +1,2 @@
 {"dependencies":{"dxml":"~>0.3.2","archive":"~>0.6.0"},"targetType":"library","version":"0.0.1","name":"ods"}
+{"dependencies":{"dxml":"~>0.3.2","archive":"~>0.6.0"},"targetType":"library","version":"~master","commitID":"aac06d130ddcd084afc65a0388e6d1360a13285d","name":"ods"}
