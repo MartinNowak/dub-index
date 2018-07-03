@@ -4,3 +4,4 @@
 {"targetType":"library","version":"~rethink_allocators","commitID":"fdadf1b9ba93adba6821b510b1583b860b7912d6","name":"collections"}
 {"targetType":"library","version":"~fix_ddocs","commitID":"080b10ba5843a3e1d583f04f9d1c0a5e037ba48e","name":"collections"}
 {"targetType":"library","version":"0.1.0","name":"collections"}
+{"dependencies":{"Phobos:allocator":"~master"},"targetType":"library","version":"~master","commitID":"bcb43fbaea87f7f1e5b17d482d81aaf98b9545dc","name":"collections"}
