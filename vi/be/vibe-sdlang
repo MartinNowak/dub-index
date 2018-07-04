@@ -1,3 +1,4 @@
 {"dependencies":{"sdlang-d":"~>0.9.5","vibe-d:data":">=0.7.30-alpha.5 <0.8.0-0"},"version":"1.0.0-alpha.1","name":"vibe-sdlang"}
 {"dependencies":{"sdlang-d":"~>0.9.5","vibe-d:data":">=0.7.30-alpha.5 <0.8.0-0"},"version":"1.0.0-alpha.2","name":"vibe-sdlang"}
 {"dependencies":{"sdlang-d":"~>0.10.3","vibe-d:data":"~>0.8.4"},"version":"1.0.0-alpha.3","name":"vibe-sdlang"}
+{"dependencies":{"sdlang-d":"~>0.10.3","vibe-d:data":"~>0.8.4"},"version":"~master","commitID":"2f6217794667c5b1ed19b1fa6ff419aa23b52377","name":"vibe-sdlang"}
