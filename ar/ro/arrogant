@@ -1,2 +1,3 @@
 {"configurations":[{"name":"arrogant"},{"targetType":"executable","name":"arrogant_test_app"}],"version":"0.1.0","name":"arrogant"}
 {"configurations":[{"name":"arrogant"},{"targetType":"executable","name":"arrogant_test_app"},{"targetType":"executable","name":"arrogant_tests"}],"version":"0.2.0","name":"arrogant"}
+{"configurations":[{"name":"arrogant"},{"targetType":"executable","name":"arrogant_test_app"},{"targetType":"executable","name":"arrogant_tests"}],"version":"~master","commitID":"644e551f2906148a7417c2561e674b0ede5fd40f","name":"arrogant"}
