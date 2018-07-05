@@ -21,3 +21,4 @@
 {"dependencies":{"memutils":"~>0.4.8"},"targetType":"staticLibrary","version":"0.8.2","configurations":[{"targetType":"staticLibrary","name":"regular"},{"targetType":"staticLibrary","name":"32mscoff"}],"name":"libasync"}
 {"dependencies":{"memutils":"~>0.4.8"},"targetType":"staticLibrary","version":"~remove_mscoff_config","configurations":[{"targetType":"staticLibrary","name":"regular"}],"commitID":"eb407bc271b78da6e7e5f865d575c18d67373d9d","name":"libasync"}
 {"dependencies":{"memutils":"~>0.4.8"},"targetType":"staticLibrary","version":"0.8.3","configurations":[{"targetType":"staticLibrary","name":"regular"}],"name":"libasync"}
+{"dependencies":{"memutils":"~>0.4.8"},"targetType":"staticLibrary","version":"~master","configurations":[{"targetType":"staticLibrary","name":"regular"}],"commitID":"a4bda70e86ca1e7c07e2a74e2791d65e4bb1b6c3","name":"libasync"}
