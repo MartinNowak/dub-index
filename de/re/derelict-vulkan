@@ -11,3 +11,4 @@
 {"dependencies":{"derelict-util":">=1.0.0","xcb-d":"~>2.1.0","xlib-d":"~>0.1.1"},"targetType":"library","version":"0.0.12-alpha","name":"derelict-vulkan"}
 {"dependencies":{"derelict-util":">=1.0.0","xcb-d":{"version":"~>2.1.0","optional":true},"xlib-d":{"version":"~>0.1.1","optional":true}},"targetType":"library","version":"0.0.12","name":"derelict-vulkan"}
 {"dependencies":{"derelict-util":">=3.0.0","xcb-d":{"version":"~>2.1.0","optional":true},"xlib-d":{"version":"~>0.1.1","optional":true}},"targetType":"library","version":"0.0.13","name":"derelict-vulkan"}
+{"dependencies":{"derelict-util":">=3.0.0-alpha.1"},"targetType":"library","version":"0.0.20","name":"derelict-vulkan"}
