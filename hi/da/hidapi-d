@@ -2,3 +2,4 @@
 {"version":"1.0.1","name":"hidapi-d"}
 {"version":"1.0.2","name":"hidapi-d"}
 {"version":"1.0.3","name":"hidapi-d"}
+{"version":"~master","commitID":"51c3e8041a727082753573cd050a625a4d4da863","name":"hidapi-d"}
