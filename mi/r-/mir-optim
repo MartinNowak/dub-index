@@ -1,0 +1,1 @@
+{"dependencies":{"mir-lapack":"~>0.1.0","mir-algorithm":">=0.9.1"},"targetType":"library","version":"0.0.0","configurations":[{"targetType":"library","name":"library"},{"dependencies":{"mir-random":"~>0.4.1"},"targetType":"library","name":"unittest"}],"name":"mir-optim"}
