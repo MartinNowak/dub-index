@@ -12,3 +12,4 @@
 {"configurations":[{"targetType":"executable","name":"executable"},{"dependencies":{"fluent-asserts":"~>0.6.5","unit-threaded":"~>0.7.28"},"targetType":"executable","name":"unittest"}],"version":"1.0.0-rc.1","name":"covered"}
 {"configurations":[{"targetType":"executable","name":"executable"},{"dependencies":{"fluent-asserts":"~>0.6.5","unit-threaded":"~>0.7.28"},"targetType":"executable","name":"unittest"}],"version":"1.0.0-rc.2","name":"covered"}
 {"configurations":[{"targetType":"executable","name":"executable"},{"dependencies":{"fluent-asserts":"~>0.6.6","unit-threaded":"~>0.7.29"},"targetType":"executable","name":"unittest"}],"version":"1.0.0","name":"covered"}
+{"configurations":[{"targetType":"executable","name":"executable"},{"dependencies":{"fluent-asserts":"~>0.12.0"},"targetType":"executable","name":"unittest"}],"version":"~master","commitID":"7526bde8078f77ab626635dbe75c82c240d45a86","name":"covered"}
