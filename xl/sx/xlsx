@@ -6,3 +6,4 @@
 {"dependencies":{"dxml":"~>0.3.2","archive":"~>0.6.0"},"version":"~rangeAPI","commitID":"23b25ae98cd2d18058cf1c8a4e83b957e49ecc50","name":"xlsx"}
 {"dependencies":{"dxml":"~>0.3.2","archive":"~>0.6.0"},"version":"0.0.5","name":"xlsx"}
 {"dependencies":{"dxml":"~>0.3.2","archive":"~>0.6.0"},"version":"0.0.6","name":"xlsx"}
+{"dependencies":{"dxml":"~>0.3.2","archive":"~>0.6.0"},"version":"~master","commitID":"955797272b0143d17c2116a3087e6d222fcc35d4","name":"xlsx"}
