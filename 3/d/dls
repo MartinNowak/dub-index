@@ -29,3 +29,4 @@
 {"subPackages":[{"name":"bootstrap"}],"dependencies":{"dls:bootstrap":">=0.0.0","dub":"1.9.0","arsd-official:color_base":"2.0.0","dscanner":"0.5.7","dcd":"0.9.9","arsd-official:email":"2.0.0","dfmt":"0.8.2"},"version":"0.6.6","name":"dls"}
 {"subPackages":[{"name":"bootstrap"}],"dependencies":{"dls:bootstrap":">=0.0.0","dub":"1.9.0","arsd-official:color_base":"2.0.0","dscanner":"0.5.7","dcd":"0.9.9","arsd-official:email":"2.0.0","dfmt":"0.8.2"},"version":"0.6.7","name":"dls"}
 {"subPackages":[{"name":"bootstrap"}],"dependencies":{"dls:bootstrap":">=0.0.0","dub":"1.9.0","arsd-official:color_base":"2.0.0","dscanner":"0.5.7","dcd":"0.9.9","arsd-official:email":"2.0.0","dfmt":"0.8.2"},"version":"0.6.8","name":"dls"}
+{"subPackages":[{"name":"bootstrap"}],"dependencies":{"dls:bootstrap":">=0.0.0","dub":"1.10.0","arsd-official:color_base":"2.0.0","dscanner":"0.5.7","dcd":"0.9.9","arsd-official:email":"2.0.0","dfmt":"0.8.2"},"version":"0.6.10","name":"dls"}
