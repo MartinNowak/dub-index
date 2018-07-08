@@ -5,3 +5,4 @@
 {"subPackages":[{"dependencies":{"elf-d":{"version":">=0.0.0","path":"../"}},"targetType":"executable","name":"example"}],"targetType":"staticLibrary","version":"0.2.1","name":"elf-d"}
 {"subPackages":[{"dependencies":{"elf-d":{"version":">=0.0.0","path":"../"}},"targetType":"executable","name":"example"}],"targetType":"staticLibrary","version":"0.2.2","name":"elf-d"}
 {"subPackages":[{"dependencies":{"elf-d":{"version":">=0.0.0","path":"../"}},"targetType":"executable","name":"example"}],"targetType":"staticLibrary","version":"0.2.3","name":"elf-d"}
+{"subPackages":[{"dependencies":{"elf-d":{"version":">=0.0.0","path":"../"}},"targetType":"executable","name":"example"}],"targetType":"staticLibrary","version":"0.2.4","name":"elf-d"}
