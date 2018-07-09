@@ -14,3 +14,4 @@
 {"dependencies":{"vibe-d":">=0.0.0"},"version":"2.5.1","name":"mongoschemad"}
 {"dependencies":{"vibe-d":">=0.0.0"},"version":"2.5.2","name":"mongoschemad"}
 {"dependencies":{"vibe-d":">=0.0.0"},"version":"2.5.3","name":"mongoschemad"}
+{"dependencies":{"vibe-d":">=0.0.0"},"version":"~master","commitID":"8ea4f3ea088ca8b2ec8e1532c54ef5e6200eb8c0","name":"mongoschemad"}
