@@ -1,1 +1,2 @@
 {"configurations":[{"targetType":"executable","name":"example"}],"version":"0.0.1","name":"d-openai-gym"}
+{"configurations":[{"targetType":"executable","name":"example"}],"version":"~master","commitID":"a7fb272e7a08f4780edfd4cd6e655e4fe28dc496","name":"d-openai-gym"}
