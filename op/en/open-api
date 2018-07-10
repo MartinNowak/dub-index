@@ -1,2 +1,3 @@
 {"dependencies":{"vibe-d":"~>0.8.3"},"configurations":[{"dependencies":{"vibe-d":">=0.0.0","trial:lifecycle":">=0.7.0-alpha.5 <0.8.0-0","fluent-asserts":"~>0.11.1"},"targetType":"library","name":"trial"}],"version":"0.1.0","name":"open-api"}
 {"dependencies":{"vibe-d":"~>0.8.3"},"targetType":"library","version":"~master","configurations":[{"targetType":"library","name":"library"}],"commitID":"7562c3366b2e396a49c0b27374837ef282fa188a","name":"open-api"}
+{"dependencies":{"vibe-d":"~>0.8.3"},"targetType":"library","version":"0.1.1","configurations":[{"targetType":"library","name":"library"}],"name":"open-api"}
