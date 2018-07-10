@@ -64,3 +64,4 @@
 {"dependencies":{"derelict-sdl2":">=3.1.0-alpha.3 <3.2.0-0"},"version":"1.5.5","name":"d2d"}
 {"dependencies":{"derelict-sdl2":">=3.1.0-alpha.3 <3.2.0-0"},"version":"1.5.6","name":"d2d"}
 {"dependencies":{"derelict-sdl2":">=3.1.0-alpha.3 <3.2.0-0"},"version":"1.6.0","name":"d2d"}
+{"dependencies":{"derelict-sdl2":">=3.1.0-alpha.3 <3.2.0-0"},"version":"1.6.1","name":"d2d"}
