@@ -2,3 +2,4 @@
 {"targetType":"executable","version":"0.1.0","name":"depend"}
 {"targetType":"executable","version":"~devel","commitID":"23e7cc0ae2cccf8899ce05ed497fc8c902705cc9","name":"depend"}
 {"targetType":"executable","version":"0.2.0","name":"depend"}
+{"targetType":"executable","version":"~master","commitID":"2db3db665646404596549071fd2e4d5a16cfad37","name":"depend"}
