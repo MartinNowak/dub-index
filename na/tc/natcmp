@@ -5,3 +5,4 @@
 {"targetType":"library","version":"1.3.0","name":"natcmp"}
 {"targetType":"library","version":"1.3.1","name":"natcmp"}
 {"targetType":"library","version":"1.3.2","name":"natcmp"}
+{"targetType":"library","version":"~master","commitID":"7a5d7145031d3ebc44fdd8a11f24cac119db1a4c","name":"natcmp"}
