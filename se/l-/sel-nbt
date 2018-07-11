@@ -9,3 +9,4 @@
 {"dependencies":{"xbuffer":"~>0.1.0"},"targetType":"library","version":"2.2.0","name":"sel-nbt"}
 {"dependencies":{"xbuffer":"~>0.1.0"},"targetType":"library","version":"2.2.1","name":"sel-nbt"}
 {"dependencies":{"xbuffer":"~>0.2.0"},"targetType":"library","version":"2.2.2","name":"sel-nbt"}
+{"dependencies":{"xbuffer":"~>1.0.0"},"targetType":"library","version":"2.3.0","name":"sel-nbt"}
