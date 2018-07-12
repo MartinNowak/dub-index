@@ -39,3 +39,4 @@
 {"configurations":[{"targetType":"executable","name":"executable"},{"dependencies":{"unit-threaded":"~>0.7.0"},"targetType":"executable","name":"unittest"}],"targetType":"executable","version":"0.5.24","name":"reggae"}
 {"configurations":[{"targetType":"executable","name":"executable"},{"dependencies":{"unit-threaded":"~>0.7.0"},"targetType":"executable","name":"unittest"}],"targetType":"executable","version":"0.6.0","name":"reggae"}
 {"configurations":[{"targetType":"executable","name":"executable"},{"dependencies":{"unit-threaded":"~>0.7.0"},"targetType":"executable","name":"unittest"}],"targetType":"executable","version":"0.6.1","name":"reggae"}
+{"configurations":[{"targetType":"executable","name":"executable"},{"dependencies":{"unit-threaded":"~>0.7.0"},"targetType":"executable","name":"unittest"}],"targetType":"executable","version":"0.6.2","name":"reggae"}
