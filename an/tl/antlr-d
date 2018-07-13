@@ -1,3 +1,4 @@
 {"configurations":[{"targetType":"library","name":"executable"},{"dependencies":{"unit-threaded":">=0.7.45","dshould":"~>0.1"},"targetType":"executable","name":"unittest"}],"version":"1.2.0","name":"antlr-d"}
 {"configurations":[{"targetType":"library","name":"executable"},{"dependencies":{"unit-threaded":">=0.7.45","dshould":"~>0.1"},"targetType":"executable","name":"unittest"}],"version":"1.2.1","name":"antlr-d"}
 {"configurations":[{"targetType":"library","name":"executable"},{"dependencies":{"unit-threaded":">=0.7.45","dshould":"~>0.1"},"targetType":"executable","name":"unittest"}],"version":"1.2.2","name":"antlr-d"}
+{"configurations":[{"targetType":"library","name":"executable"},{"dependencies":{"unit-threaded":"~>0.7","dshould":"~>0.1"},"targetType":"executable","name":"unittest"}],"version":"1.2.3","name":"antlr-d"}
