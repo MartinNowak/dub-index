@@ -3,3 +3,4 @@
 {"configurations":[{"targetType":"executable","name":"unittest"}],"targetType":"library","version":"~ldc","commitID":"bcd8f9dfad78a632a7067faec4932f511bc2a66d","name":"orange"}
 {"configurations":[{"targetType":"executable","name":"unittest"}],"targetType":"library","version":"2.0.0","name":"orange"}
 {"configurations":[{"targetType":"executable","name":"unittest"}],"targetType":"library","version":"~master","commitID":"e14d35d1b8530f70fc41a9486c02ebdcc15711ce","name":"orange"}
+{"configurations":[{"targetType":"executable","name":"unittest"}],"targetType":"library","version":"2.0.1","name":"orange"}
