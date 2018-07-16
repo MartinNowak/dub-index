@@ -13,3 +13,4 @@
 {"dependencies":{"libinputvisitor":"~>1.2.2","taggedalgebraic":"~>0.10.2"},"version":"~schema","commitID":"2c57d530d3f2c9bfb6bf05cecb516d02e1c07f74","name":"sdlang-d"}
 {"dependencies":{"libinputvisitor":"~>1.2.2","taggedalgebraic":"~>0.10.2"},"version":"0.10.2","name":"sdlang-d"}
 {"dependencies":{"libinputvisitor":"~>1.2.2","taggedalgebraic":"~>0.10.2"},"version":"0.10.3","name":"sdlang-d"}
+{"dependencies":{"libinputvisitor":"~>1.2.2","taggedalgebraic":"~>0.10.2"},"version":"0.10.4","name":"sdlang-d"}
