@@ -2,3 +2,4 @@
 {"configurations":[{"targetType":"staticLibrary","name":"standard"}],"version":"1.0.0","name":"stalkd"}
 {"configurations":[{"targetType":"staticLibrary","name":"standard"}],"version":"1.1.1","name":"stalkd"}
 {"configurations":[{"targetType":"staticLibrary","name":"standard"}],"version":"1.1.2","name":"stalkd"}
+{"configurations":[{"targetType":"staticLibrary","name":"standard"}],"version":"~master","commitID":"6e998f059e7c3432c71dae504247b6d2cd60f927","name":"stalkd"}
