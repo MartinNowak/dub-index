@@ -5,3 +5,4 @@
 {"dependencies":{"vibe-d":">=0.7.19"},"targetType":"library","version":"2.0.1","name":"vibemail"}
 {"dependencies":{"vibe-d":">=0.7.19"},"targetType":"library","version":"2.0.2","name":"vibemail"}
 {"dependencies":{"vibe-d":">=0.7.19"},"targetType":"library","version":"2.0.3","name":"vibemail"}
+{"dependencies":{"vibe-d":">=0.7.19"},"targetType":"library","version":"~master","commitID":"aa99e7b3a9cef1be2e07c8cbbacd959db8d7a270","name":"vibemail"}
