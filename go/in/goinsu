@@ -3,3 +3,4 @@
 {"targetType":"executable","version":"0.0.3","name":"goinsu"}
 {"targetType":"executable","version":"0.1.0","name":"goinsu"}
 {"configurations":[{"targetType":"executable","name":"executable"},{"targetType":"executable","name":"static"}],"version":"0.2.0","name":"goinsu"}
+{"configurations":[{"targetType":"executable","name":"executable"},{"targetType":"executable","name":"static"}],"version":"~master","commitID":"2e83cdbb0c213fec0106fa41cdf4601d40e7b1dc","name":"goinsu"}
