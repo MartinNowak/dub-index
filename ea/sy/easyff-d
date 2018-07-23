@@ -6,3 +6,4 @@
 {"configurations":[{"targetType":"sourceLibrary","name":"default"},{"targetType":"executable","name":"unittest"}],"targetType":"sourceLibrary","version":"1.0.4","name":"easyff-d"}
 {"configurations":[{"targetType":"staticLibrary","name":"default"},{"targetType":"executable","name":"unittest"}],"targetType":"staticLibrary","version":"1.0.5","name":"easyff-d"}
 {"configurations":[{"targetType":"staticLibrary","name":"default"},{"targetType":"executable","name":"unittest"}],"targetType":"staticLibrary","version":"1.0.6","name":"easyff-d"}
+{"configurations":[{"targetType":"staticLibrary","name":"default"},{"targetType":"executable","name":"unittest"}],"targetType":"staticLibrary","version":"1.0.7","name":"easyff-d"}
