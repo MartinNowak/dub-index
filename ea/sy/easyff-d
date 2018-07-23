@@ -8,3 +8,4 @@
 {"configurations":[{"targetType":"staticLibrary","name":"default"},{"targetType":"executable","name":"unittest"}],"targetType":"staticLibrary","version":"1.0.6","name":"easyff-d"}
 {"configurations":[{"targetType":"staticLibrary","name":"default"},{"targetType":"executable","name":"unittest"}],"targetType":"staticLibrary","version":"1.0.7","name":"easyff-d"}
 {"configurations":[{"targetType":"staticLibrary","name":"default"},{"targetType":"executable","name":"unittest"}],"targetType":"staticLibrary","version":"1.0.8","name":"easyff-d"}
+{"configurations":[{"targetType":"staticLibrary","name":"default"},{"targetType":"executable","name":"unittest"}],"targetType":"staticLibrary","version":"~master","commitID":"8f0368c29712bef77c6e45c99f25f46f2a828b6d","name":"easyff-d"}
