@@ -1,1 +1,2 @@
 {"configurations":[{"targetType":"library","name":"executable"},{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":"~>0.7.46"},"targetType":"executable","name":"unittest"}],"version":"0.0.1","name":"datacat"}
+{"configurations":[{"targetType":"library","name":"executable"},{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":"~>0.7.46"},"targetType":"executable","name":"unittest"}],"version":"0.0.2","name":"datacat"}
