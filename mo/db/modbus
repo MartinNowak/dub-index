@@ -36,3 +36,4 @@
 {"dependencies":{"serialport":"~>2.1.6"},"targetType":"library","version":"0.17.0","name":"modbus"}
 {"dependencies":{"serialport":"~>2.1.6"},"targetType":"library","version":"0.17.1","name":"modbus"}
 {"dependencies":{"serialport":"~>2.1.7"},"targetType":"library","version":"0.17.2","name":"modbus"}
+{"dependencies":{"serialport":"~>2.1.7"},"targetType":"library","version":"0.18.0","name":"modbus"}
