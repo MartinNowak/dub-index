@@ -1,1 +1,2 @@
 {"configurations":[{"targetType":"staticLibrary","name":"default"},{"targetType":"staticLibrary","name":"unittest"}],"version":"0.0.1","name":"d-rlib"}
+{"configurations":[{"targetType":"staticLibrary","name":"default"},{"targetType":"staticLibrary","name":"unittest"}],"version":"~master","commitID":"66167667d9d7f0ba8fb39b77c3df27b2cd7a0595","name":"d-rlib"}
