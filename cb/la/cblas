@@ -12,3 +12,4 @@
 {"targetType":"sourceLibrary","version":"1.0.0","name":"cblas"}
 {"targetType":"sourceLibrary","version":"2.0.0","name":"cblas"}
 {"targetType":"sourceLibrary","version":"2.0.1","name":"cblas"}
+{"targetType":"sourceLibrary","version":"2.0.2","name":"cblas"}
