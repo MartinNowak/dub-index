@@ -56,3 +56,4 @@
 {"dependencies":{"vibe-d":">=0.7.22"},"targetType":"library","version":"0.4.1","name":"mysql-lited"}
 {"dependencies":{"vibe-d":">=0.7.22"},"targetType":"library","version":"~unittest","commitID":"46ae7509561a4a90561b4436ebebde918f1485a8","name":"mysql-lited"}
 {"dependencies":{"vibe-d":">=0.7.22"},"targetType":"library","version":"0.4.2","name":"mysql-lited"}
+{"dependencies":{"vibe-d":">=0.7.22"},"targetType":"library","version":"0.4.3","name":"mysql-lited"}
