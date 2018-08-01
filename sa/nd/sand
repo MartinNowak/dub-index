@@ -5,3 +5,4 @@
 {"targetType":"library","version":"0.0.5","name":"sand"}
 {"targetType":"library","version":"0.0.6","name":"sand"}
 {"targetType":"library","version":"0.0.7","name":"sand"}
+{"targetType":"library","version":"~master","commitID":"c0f1d1956a7180d380de4d16f56d6843e80af38d","name":"sand"}
