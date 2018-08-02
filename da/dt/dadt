@@ -1,3 +1,4 @@
 {"dependencies":{"pegged":">=0.0.0"},"version":"0.0.1","name":"dadt"}
 {"dependencies":{"pegged":">=0.0.0"},"version":"0.0.2","name":"dadt"}
 {"dependencies":{"pegged":">=0.0.0"},"targetType":"sourceLibrary","version":"~master","commitID":"234072ab42611536c90cb9ce6d3f8bd7b176581b","name":"dadt"}
+{"dependencies":{"pegged":">=0.0.0"},"targetType":"sourceLibrary","version":"0.0.3","name":"dadt"}
