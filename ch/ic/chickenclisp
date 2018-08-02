@@ -7,3 +7,4 @@
 {"version":"0.1.6","name":"chickenclisp"}
 {"version":"0.1.7","name":"chickenclisp"}
 {"version":"0.1.8","name":"chickenclisp"}
+{"dependencies":{"kontainer":">=0.0.0"},"configurations":[{"targetType":"executable","name":"default"},{"targetType":"executable","name":"withffi"}],"version":"~master","commitID":"815c874b9196424558809a456ba68658b9e6a03d","name":"chickenclisp"}
