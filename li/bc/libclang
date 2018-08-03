@@ -4,3 +4,4 @@
 {"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":"~>0.7.0"},"targetType":"executable","name":"unittest"}],"targetType":"library","version":"0.0.4","name":"libclang"}
 {"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":"~>0.7.0"},"targetType":"executable","name":"unittest"}],"targetType":"library","version":"0.0.5","name":"libclang"}
 {"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":"~>0.7.0"},"targetType":"executable","name":"unittest"}],"version":"0.0.6","name":"libclang"}
+{"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":"~>0.7.0"},"targetType":"executable","name":"unittest"}],"version":"0.0.7","name":"libclang"}
