@@ -10,3 +10,4 @@
 {"targetType":"library","version":"0.3.2","name":"dxml"}
 {"targetType":"library","version":"~0.3","commitID":"db3c52fc4aee39f86c3903d326dfd233ee98043d","name":"dxml"}
 {"targetType":"library","version":"~master","commitID":"ab6d39e56673a7fe2bd5e583839e01069d8970e2","name":"dxml"}
+{"targetType":"library","version":"~0.4","commitID":"14b9d0bb245049c730d2d68641819a0c91a64a6c","name":"dxml"}
