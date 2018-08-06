@@ -1,1 +1,2 @@
 {"dependencies":{"gl3n":"~>1.3.1"},"targetType":"library","version":"~master","commitID":"87da02ef93f22fbb67c7319274b6d40d0d476edd","name":"rpdl"}
+{"dependencies":{"gl3n":"~>1.3.1"},"targetType":"library","version":"0.1.0-alpha.1","name":"rpdl"}
