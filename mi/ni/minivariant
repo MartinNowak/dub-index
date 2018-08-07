@@ -1,2 +1,3 @@
 {"targetType":"library","version":"1.0.0","name":"minivariant"}
 {"targetType":"library","version":"1.0.1","name":"minivariant"}
+{"targetType":"library","version":"~v1.x.x","commitID":"2d37a51569414393f1ce2002e141affe76848ee7","name":"minivariant"}
