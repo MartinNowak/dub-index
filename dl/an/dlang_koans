@@ -1,1 +1,2 @@
 {"dependencies":{"d-unit":">=0.8.0"},"version":"0.0.14","name":"dlang_koans"}
+{"dependencies":{"d-unit":">=0.8.0"},"version":"~master","commitID":"d7ca62bf5a50381c4ef7f45053c457171de9decc","name":"dlang_koans"}
