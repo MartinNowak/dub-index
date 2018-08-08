@@ -1,0 +1,1 @@
+{"subPackages":[{"dependencies":{"w4d":{"version":">=0.0.0","path":"../../"}},"targetType":"executable","name":"calc"}],"dependencies":{"dyaml":">=0.7.0-beta.1 <0.8.0-0","g4d":"~>1.3.2"},"targetType":"staticLibrary","version":"0.0.1","configurations":[{"targetType":"staticLibrary","name":"default"},{"targetType":"executable","name":"unittest"}],"name":"w4d"}
