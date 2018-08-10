@@ -17,3 +17,4 @@
 {"targetType":"sourceLibrary","version":"1.5.3","name":"bearlibterminal"}
 {"targetType":"sourceLibrary","version":"1.5.4","name":"bearlibterminal"}
 {"targetType":"sourceLibrary","version":"1.5.5","name":"bearlibterminal"}
+{"targetType":"sourceLibrary","version":"~master","commitID":"72508d927018d88a22f6729e2689e06fed015cd0","name":"bearlibterminal"}
