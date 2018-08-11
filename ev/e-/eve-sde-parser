@@ -1,1 +1,2 @@
 {"dependencies":{"dyaml":"~>0.7.0","requests":"~>0.8.2"},"version":"0.2.0","name":"eve-sde-parser"}
+{"dependencies":{"dyaml":"~>0.7.0","requests":"~>0.8.2"},"version":"~master","commitID":"518bfbd2efdd261c1bb783e6a012dbacd093a24d","name":"eve-sde-parser"}
