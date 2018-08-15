@@ -15,3 +15,4 @@
 {"dependencies":{"ddox":"~>0.16"},"version":"0.4.4","name":"scod"}
 {"dependencies":{"ddox":"~>0.16"},"version":"0.4.5","name":"scod"}
 {"dependencies":{"ddox":"~>0.16"},"version":"~master","commitID":"91362f72568f58addc8255db4ae4835d7fd9ed09","name":"scod"}
+{"dependencies":{"ddox":"~>0.16"},"version":"~deps","commitID":"91362f72568f58addc8255db4ae4835d7fd9ed09","name":"scod"}
