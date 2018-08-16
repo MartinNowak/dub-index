@@ -4,3 +4,4 @@
 {"dependencies":{"bolts":"~>0.1.2"},"version":"0.3.1","name":"optional"}
 {"dependencies":{"bolts":"~>0.1.2"},"version":"0.4.0","name":"optional"}
 {"dependencies":{"bolts":"~>0.3.0"},"version":"0.4.1","name":"optional"}
+{"dependencies":{"bolts":"~>0.7.1"},"configurations":[{"targetType":"executable","name":"unittest"}],"version":"0.5.0","name":"optional"}
