@@ -21,3 +21,4 @@
 {"configurations":[{"targetType":"library","name":"no-build"}],"version":"~activate-dip1000-dip25","commitID":"0883170a472dd414b6e0dbad5d517c1d188b570f","name":"dextool"}
 {"configurations":[{"targetType":"library","name":"no-build"}],"version":"~travis","commitID":"f504f91bc2d587d58593bbdac18f65d04d6d55b6","name":"dextool"}
 {"configurations":[{"targetType":"library","name":"no-build"}],"version":"~mutate-instruction-fix","commitID":"186ac998fc106f8db992f5e3940a28b0f9fa3557","name":"dextool"}
+{"configurations":[{"targetType":"library","name":"no-build"}],"version":"1.2.0","name":"dextool"}
