@@ -8,3 +8,4 @@
 {"dependencies":{"dlib":"0.12.0"},"configurations":[{"targetType":"library","name":"library"}],"version":"0.5.0","name":"dagon"}
 {"dependencies":{"dlib":"0.12.2"},"configurations":[{"targetType":"library","name":"library"}],"version":"0.6.0","name":"dagon"}
 {"dependencies":{"derelict-gl3":">=2.0.0-beta.5 <2.1.0-0","derelict-ft":">=2.0.0-beta.2 <2.1.0-0","dlib":"0.13.0","derelict-sdl2":">=3.1.0-alpha.2 <3.2.0-0"},"configurations":[{"targetType":"library","name":"library"}],"version":"0.8.0","name":"dagon"}
+{"dependencies":{"derelict-gl3":">=2.0.0-beta.5 <2.1.0-0","derelict-ft":">=2.0.0-beta.2 <2.1.0-0","dlib":"0.14.0","derelict-sdl2":">=3.1.0-alpha.2 <3.2.0-0"},"configurations":[{"targetType":"library","name":"library"}],"version":"0.8.1","name":"dagon"}
