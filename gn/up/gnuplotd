@@ -4,3 +4,4 @@
 {"configurations":[{"targetType":"library","name":"library"}],"targetType":"library","version":"0.0.5","name":"gnuplotd"}
 {"configurations":[{"targetType":"library","name":"library"}],"targetType":"library","version":"0.0.6","name":"gnuplotd"}
 {"configurations":[{"targetType":"library","name":"library"}],"targetType":"library","version":"0.0.7","name":"gnuplotd"}
+{"configurations":[{"targetType":"library","name":"library"}],"targetType":"library","version":"~master","commitID":"9acfa4507eafbc41d2338530016111250fa22a00","name":"gnuplotd"}
