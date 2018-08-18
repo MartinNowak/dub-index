@@ -5,3 +5,4 @@
 {"dependencies":{"dunit":"~>1.0.14"},"version":"2.1.0","name":"ddbus"}
 {"dependencies":{"dunit":"~>1.0.14"},"version":"2.2.0","name":"ddbus"}
 {"dependencies":{"dunit":"~>1.0.14"},"version":"2.3.0","name":"ddbus"}
+{"dependencies":{"dunit":"~>1.0.14"},"version":"~master","commitID":"c4de569809d90a682e8c5847f6d28e58f7d81384","name":"ddbus"}
