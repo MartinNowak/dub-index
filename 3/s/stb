@@ -23,3 +23,4 @@
 {"version":"1.7.3","name":"stb"}
 {"version":"1.7.4","name":"stb"}
 {"version":"1.7.5","name":"stb"}
+{"version":"~master","commitID":"dd266b6f5e5ad72cbdb0f274322872f11cf3bfb5","name":"stb"}
