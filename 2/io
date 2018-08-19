@@ -3,3 +3,4 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"dip1000"}],"version":"0.2.0","name":"io"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"dip1000"}],"version":"0.2.1","name":"io"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"dip1000"}],"version":"0.2.2","name":"io"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"dip1000"}],"version":"~master","commitID":"5a5f6106ef93604fedf0de9c5643eab332824c4d","name":"io"}
