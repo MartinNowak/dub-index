@@ -22,3 +22,4 @@
 {"dependencies":{"arsd-official:terminal":">=2.1.0"},"targetType":"sourceLibrary","version":"1.7.2","name":"stb"}
 {"version":"1.7.3","name":"stb"}
 {"version":"1.7.4","name":"stb"}
+{"version":"1.7.5","name":"stb"}
