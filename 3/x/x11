@@ -20,3 +20,4 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"application"},{"targetType":"library","name":"tcltk-import"}],"version":"1.0.19","name":"x11"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"application"},{"targetType":"library","name":"tcltk-import"}],"version":"1.0.20","name":"x11"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"application"},{"targetType":"library","name":"tcltk-import"}],"version":"~master","commitID":"dcea00f21805fc8e1bbd032c91231f0c9569957b","name":"x11"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"application"},{"targetType":"library","name":"tcltk-import"}],"version":"1.0.21","name":"x11"}
