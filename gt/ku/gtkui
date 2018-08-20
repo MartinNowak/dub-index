@@ -1,1 +1,2 @@
 {"dependencies":{"gtk-d:gtkd":"~>3.7.0"},"targetType":"library","version":"0.1.0","name":"gtkui"}
+{"dependencies":{"gtk-d:gtkd":"~>3.8.3"},"targetType":"library","version":"0.1.1","name":"gtkui"}
