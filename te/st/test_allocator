@@ -9,3 +9,4 @@
 {"dependencies":{"stdx-allocator":"~>2.77.0"},"targetType":"sourceLibrary","version":"0.2.1","name":"test_allocator"}
 {"dependencies":{"stdx-allocator":"~>2.77.0"},"targetType":"sourceLibrary","version":"0.2.2","configurations":[{"targetType":"sourceLibrary","name":"default"},{"targetType":"sourceLibrary","name":"unittest"}],"name":"test_allocator"}
 {"dependencies":{"stdx-allocator":"~>2.77.0"},"targetType":"library","version":"0.2.3","configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"unittest"}],"name":"test_allocator"}
+{"dependencies":{"stdx-allocator":"~>2.77.0"},"targetType":"library","version":"0.2.4","configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"unittest"}],"name":"test_allocator"}
