@@ -2,3 +2,4 @@
 {"targetType":"sourceLibrary","version":"~update-api","commitID":"72bfef30c6f64469553919ffa4e2d594443cb8f9","name":"lapack"}
 {"targetType":"sourceLibrary","version":"0.0.3","name":"lapack"}
 {"targetType":"sourceLibrary","version":"0.0.4","name":"lapack"}
+{"targetType":"sourceLibrary","version":"0.0.5","name":"lapack"}
