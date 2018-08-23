@@ -4,3 +4,4 @@
 {"targetType":"sourceLibrary","version":"0.0.4","name":"lapack"}
 {"targetType":"sourceLibrary","version":"0.0.5","name":"lapack"}
 {"targetType":"sourceLibrary","version":"~master","commitID":"20b084b002d3e1cb56ae7579d4e8a6078bc09669","name":"lapack"}
+{"targetType":"sourceLibrary","version":"0.0.6","name":"lapack"}
