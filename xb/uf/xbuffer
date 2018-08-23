@@ -2,3 +2,4 @@
 {"targetType":"library","version":"0.2.0","name":"xbuffer"}
 {"targetType":"library","version":"0.3.0","name":"xbuffer"}
 {"targetType":"library","version":"1.0.0","name":"xbuffer"}
+{"targetType":"library","version":"~master","commitID":"b9a4affc00360728bbdeb1e066c79a22e2f186a1","name":"xbuffer"}
