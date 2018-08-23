@@ -2,3 +2,4 @@
 {"targetType":"staticLibrary","version":"~Ason","commitID":"3accf3c29c163cc02e2eb1635a9e04063f623cc1","name":"more"}
 {"targetType":"staticLibrary","version":"~winservice","commitID":"bd8be3aac0845eac4614d43f7936907eaf4053a6","name":"more"}
 {"targetType":"staticLibrary","version":"~osc","commitID":"432009886f5e34731f6bd2fdcf2e89a8fa819308","name":"more"}
+{"targetType":"staticLibrary","version":"~master","commitID":"72d8592c15b7447c6f5e305abd71d6a639a0d32c","name":"more"}
