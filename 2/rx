@@ -20,3 +20,4 @@
 {"targetType":"library","version":"~master","commitID":"35ca08c6f074be5cb6f8b797ab008d16a78be962","name":"rx"}
 {"targetType":"library","version":"0.8.0","name":"rx"}
 {"targetType":"library","version":"0.9.0","name":"rx"}
+{"targetType":"library","version":"~dev","commitID":"0da4907447c27d892c391a2c380689fbafd9a519","name":"rx"}
