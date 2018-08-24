@@ -11,3 +11,4 @@
 {"dependencies":{"vibe-d:core":">=0.0.0","vibe-d:stream":">=0.0.0","eventsystem":"~>1.2.0"},"version":"0.5.4","name":"bancho-irc"}
 {"dependencies":{"vibe-d:core":">=0.0.0","vibe-d:stream":">=0.0.0","eventsystem":"~>1.2.0"},"version":"0.6.0","name":"bancho-irc"}
 {"dependencies":{"vibe-d:core":">=0.0.0","vibe-d:stream":">=0.0.0","eventsystem":"~>1.2.0"},"version":"0.6.1","name":"bancho-irc"}
+{"dependencies":{"vibe-d:core":">=0.0.0","vibe-d:stream":">=0.0.0","eventsystem":"~>1.2.0"},"version":"~master","commitID":"cc684e5c265d0089db49f2d2b6d5d6d2079c83ae","name":"bancho-irc"}
