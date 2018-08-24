@@ -1,1 +1,2 @@
 {"dependencies":{"x11":"~>1.0.16"},"configurations":[{"targetType":"staticLibrary","name":"library"},{"targetType":"dynamicLibrary","name":"dll"},{"targetType":"executable","name":"test"}],"version":"1.0.0","name":"libxdo-d"}
+{"dependencies":{"x11":"~>1.0.16"},"configurations":[{"targetType":"staticLibrary","name":"library"},{"targetType":"dynamicLibrary","name":"dll"},{"targetType":"executable","name":"test"}],"version":"~master","commitID":"0a5a94cc08e3e74d70f3b7d41a28c033192616d1","name":"libxdo-d"}
