@@ -2,3 +2,4 @@
 {"dependencies":{"sel-utils":"~>1.2.48","sel-stream":"~>0.0.1"},"version":"0.1.0","name":"sel-client"}
 {"dependencies":{"sel-utils":"1.4.2","sel-net":"~>0.2.1"},"version":"0.2.0","name":"sel-client"}
 {"dependencies":{"sel-util:chat":"~>0.3","kiss":"~>0.4.8","soupply":"~>2.55","sel-util:format":"~>0.3","sel-util:terminal":"~>0.3","xbuffer":"~>1.0.0","libasync":"~>0.8.3"},"version":"~async","commitID":"e952359a96e4b7682b8214b06a1869d82f678789","name":"sel-client"}
+{"dependencies":{"sel-utils":"1.4.2","sel-net":"~>0.2.1"},"version":"~master","commitID":"612ed8d505ca7d524ce1132cb07278db9c98d947","name":"sel-client"}
