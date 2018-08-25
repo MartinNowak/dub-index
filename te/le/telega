@@ -2,3 +2,4 @@
 {"dependencies":{"vibe-d:http":"~>0.8.3","asdf":"~>0.1.8"},"configurations":[{"targetType":"library","name":"default"}],"version":"0.0.2","name":"telega"}
 {"dependencies":{"vibe-d:data":"~>0.8.3","vibe-d:http":"~>0.8.3","asdf":"~>0.2.2"},"configurations":[{"targetType":"library","name":"default"}],"version":"0.0.3","name":"telega"}
 {"dependencies":{"vibe-d:data":"~>0.8.3","vibe-d:http":"~>0.8.3","asdf":"~>0.2.2"},"configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"unittest"}],"version":"~master","commitID":"87f37afd4ec2fec320b9fcf1e54a8379a09f1be6","name":"telega"}
+{"dependencies":{"vibe-d:data":"~>0.8.3","vibe-d:http":"~>0.8.3","asdf":"~>0.2.2"},"configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"unittest"}],"version":"~ufcs-methods","commitID":"385529d09d4cc2aae7b1b17dd3f2bd782ba1f9bb","name":"telega"}
