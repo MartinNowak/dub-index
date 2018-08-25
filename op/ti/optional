@@ -7,3 +7,4 @@
 {"dependencies":{"bolts":"~>0.7.1"},"configurations":[{"targetType":"executable","name":"unittest"}],"version":"0.5.0","name":"optional"}
 {"dependencies":{"bolts":"~>0.7.1"},"configurations":[{"dependencies":{"silly":"~>0.2.0"},"targetType":"library","name":"unittest"}],"version":"0.6.0","name":"optional"}
 {"dependencies":{"bolts":"~>0.7.1"},"configurations":[{"dependencies":{"silly":"~>0.2.0"},"targetType":"library","name":"unittest"}],"version":"0.6.1","name":"optional"}
+{"dependencies":{"bolts":"~>0.7.1"},"configurations":[{"dependencies":{"silly":"~>0.2.0"},"targetType":"library","name":"unittest"}],"version":"0.6.2","name":"optional"}
