@@ -1,3 +1,4 @@
 {"version":"0.0.1","name":"dxx"}
 {"dependencies":{"ctini":"~>0.2.1","gen-package-version":"~>1.0.4","standardpaths":"~>0.8.1"},"targetType":"executable","version":"0.0.2","name":"dxx"}
 {"dependencies":{"ctini":"~>0.2.1","gen-package-version":"~>1.0.4","standardpaths":"~>0.8.1"},"targetType":"library","version":"0.0.3","name":"dxx"}
+{"subPackages":[{"dependencies":{"dxx":{"version":">=0.0.0","path":".."}},"configurations":[{"targetType":"executable","name":"dxx-console"},{"targetType":"executable","name":"dxx-gui"}],"name":"tool"},{"dependencies":{"dxx":{"version":">=0.0.0","path":"../../"}},"targetType":"executable","name":"basic"}],"dependencies":{"aedi-property-reader":"~>0.2.0","ctini":"~>0.2.1","scriptlike":"~>0.10.2","aedi":"~>0.5.0","pegged":"~master","semver":"~>0.3.2","standardpaths":"~>0.8.1"},"targetType":"library","version":"0.0.4","name":"dxx"}
