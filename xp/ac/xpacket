@@ -1,2 +1,3 @@
 {"dependencies":{"xserial":"~>0.1"},"targetType":"library","version":"0.1.0","name":"xpacket"}
 {"dependencies":{"xserial":"~>1.1"},"targetType":"library","version":"~master","commitID":"8469a067e3ed0bc1f3579452ca6930858666f52b","name":"xpacket"}
+{"dependencies":{"xserial":"~>1.1"},"targetType":"library","version":"0.2.0","name":"xpacket"}
