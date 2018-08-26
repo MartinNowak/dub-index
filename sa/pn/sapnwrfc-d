@@ -2,3 +2,4 @@
 {"targetType":"library","version":"0.0.2","name":"sapnwrfc-d"}
 {"targetType":"library","version":"0.0.3","name":"sapnwrfc-d"}
 {"targetType":"library","version":"0.0.4","name":"sapnwrfc-d"}
+{"targetType":"library","version":"~master","commitID":"6f2fe64b3af8dfcf184235e45f371b778893d391","name":"sapnwrfc-d"}
