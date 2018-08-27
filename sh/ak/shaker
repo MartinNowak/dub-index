@@ -7,3 +7,4 @@
 {"version":"0.0.6","name":"shaker"}
 {"version":"0.0.7","name":"shaker"}
 {"configurations":[{"targetType":"library","name":"shaker-dynamic"},{"targetType":"library","name":"shaker-static-x64"}],"version":"0.0.8","name":"shaker"}
+{"configurations":[{"targetType":"library","name":"shaker-dynamic"},{"targetType":"library","name":"shaker-static-x64"}],"version":"~master","commitID":"ae3c578dbb0aed1e0e5ac304a2f6250a3c79d96d","name":"shaker"}
