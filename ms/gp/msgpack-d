@@ -16,3 +16,4 @@
 {"targetType":"library","version":"1.0.0-beta.5","name":"msgpack-d"}
 {"targetType":"library","version":"1.0.0-beta.6","name":"msgpack-d"}
 {"targetType":"library","version":"1.0.0-beta.7","name":"msgpack-d"}
+{"targetType":"library","version":"~master","commitID":"19d9245e315a85763754ded6912c2375c9226e04","name":"msgpack-d"}
