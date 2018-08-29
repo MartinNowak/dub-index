@@ -3,3 +3,4 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"application"}],"version":"1.1.0","name":"hyphenate"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"application"}],"version":"1.1.1","name":"hyphenate"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"application"}],"version":"1.1.2","name":"hyphenate"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"application"}],"version":"~master","commitID":"4ea5883d85d7d56396d6d0ddbf84a308834fc238","name":"hyphenate"}
