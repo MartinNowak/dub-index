@@ -2,3 +2,4 @@
 {"dependencies":{"d2sqlite3":"~>0.16.2","dyaml":"~>0.6.3"},"targetType":"library","version":"0.0.2","name":"twitchapid"}
 {"dependencies":{"d2sqlite3":"~>0.16.2","dyaml":"~>0.6.3"},"targetType":"library","version":"0.0.3","name":"twitchapid"}
 {"dependencies":{"d2sqlite3":"~>0.16.2","dyaml":"~>0.6.3"},"targetType":"library","version":"0.0.4","name":"twitchapid"}
+{"dependencies":{"dyaml":"~>0.6.3"},"targetType":"library","version":"0.0.5","name":"twitchapid"}
