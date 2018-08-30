@@ -1,1 +1,2 @@
 {"targetType":"library","version":"0.0.1","name":"boringssl"}
+{"targetType":"library","version":"~master","commitID":"334e54ac1adb23754bc6b8c5ae955c4728253cd6","name":"boringssl"}
