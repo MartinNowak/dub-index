@@ -2,3 +2,4 @@
 {"dependencies":{"kiss":"~>0.3.4"},"configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"debug-mode"}],"version":"~v0.10.x","commitID":"af645ada420936810a7afc7ca47a03652c93bc84","name":"collie"}
 {"dependencies":{"kiss":"~>0.4.0"},"configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"debug-mode"}],"version":"0.10.15","name":"collie"}
 {"dependencies":{"kiss":"~>0.4.2"},"configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"debug"}],"version":"0.10.16","name":"collie"}
+{"dependencies":{"kiss":"~>0.4.2"},"configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"debug"}],"version":"~master","commitID":"f1e58e38a2c36366766e4778d3ea655ebac6962c","name":"collie"}
