@@ -10,3 +10,4 @@
 {"version":"1.2.0","name":"jin-tree"}
 {"version":"2.0.0","name":"jin-tree"}
 {"version":"3.0.0","name":"jin-tree"}
+{"version":"~master","commitID":"e94bbdb1572ded0b6515e7912a7c8c5819552b88","name":"jin-tree"}
