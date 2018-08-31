@@ -1,2 +1,3 @@
 {"targetType":"library","version":"0.1.0","name":"sel-math"}
 {"targetType":"library","version":"0.1.1","name":"sel-math"}
+{"targetType":"library","version":"~master","commitID":"6eefc10fc3c9145599545575767a6769ec974e2a","name":"sel-math"}
