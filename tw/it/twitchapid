@@ -5,3 +5,4 @@
 {"dependencies":{"dyaml":"~>0.6.3"},"targetType":"library","version":"0.0.5","name":"twitchapid"}
 {"targetType":"library","version":"0.0.6","name":"twitchapid"}
 {"targetType":"library","version":"0.0.7","name":"twitchapid"}
+{"targetType":"library","version":"0.0.8","name":"twitchapid"}
