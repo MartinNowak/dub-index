@@ -1,1 +1,2 @@
 {"dependencies":{"ncurses":">=0.0.0","openssl":">=0.9.8"},"version":"0.1.1","name":"sanspam"}
+{"dependencies":{"ncurses":">=0.0.0","openssl":">=0.9.8"},"version":"0.1.2","name":"sanspam"}
