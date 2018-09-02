@@ -1,3 +1,4 @@
 {"configurations":[{"targetType":"library","name":"static"},{"targetType":"library","name":"shared"},{"dependencies":{"dunit":"~>1.0.14"},"targetType":"library","name":"unittest"}],"targetType":"library","version":"1.0.0","name":"cryptonote"}
 {"configurations":[{"targetType":"library","name":"static"},{"targetType":"library","name":"shared"},{"dependencies":{"dunit":"~>1.0.14"},"targetType":"library","name":"unittest"}],"targetType":"library","version":"1.0.1","name":"cryptonote"}
 {"configurations":[{"targetType":"library","name":"static"},{"targetType":"library","name":"shared"},{"dependencies":{"dunit":"~>1.0.14"},"targetType":"library","name":"unittest"}],"targetType":"library","version":"1.0.2","name":"cryptonote"}
+{"configurations":[{"targetType":"library","name":"static"},{"targetType":"library","name":"shared"},{"targetType":"library","name":"unittest"}],"targetType":"library","version":"1.0.3","name":"cryptonote"}
