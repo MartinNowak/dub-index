@@ -12,3 +12,4 @@
 {"dependencies":{"vibe-d":">=0.8.0","diet-ng":"~>1.4.5"},"configurations":[{"dependencies":{"vibe-d":">=0.0.0","trial:lifecycle":">=0.7.0-alpha.5 <0.8.0-0","fluent-asserts":"~>0.11.4"},"targetType":"library","name":"trial"}],"version":"0.3.0","name":"vibe-auth"}
 {"dependencies":{"vibe-d":">=0.8.0","diet-ng":"~>1.4.5"},"configurations":[{"dependencies":{"vibe-d":">=0.0.0","fluent-asserts":"~>0.12.1"},"targetType":"library","name":"trial"}],"version":"0.3.1","name":"vibe-auth"}
 {"dependencies":{"vibe-d":">=0.8.0","diet-ng":"~>1.5.0"},"configurations":[{"dependencies":{"vibe-d":">=0.0.0","fluent-asserts":"~>0.12.1"},"targetType":"library","name":"trial"}],"version":"0.3.2","name":"vibe-auth"}
+{"dependencies":{"vibe-d":">=0.8.0","diet-ng":"~>1.5.0"},"configurations":[{"dependencies":{"vibe-d":">=0.0.0","fluent-asserts":"~>0.12.1"},"targetType":"library","name":"trial"}],"version":"0.3.3","name":"vibe-auth"}
