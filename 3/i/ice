@@ -26,3 +26,4 @@
 {"dependencies":{"crypto":"~>0.1.4"},"targetType":"library","version":"0.2.16","name":"ice"}
 {"dependencies":{"crypto":"~>0.1.4"},"targetType":"library","version":"0.2.17","name":"ice"}
 {"dependencies":{"crypto":"~>0.1.5"},"targetType":"library","version":"0.2.18","name":"ice"}
+{"dependencies":{"crypto":"~>0.1.6"},"targetType":"library","version":"0.2.19","name":"ice"}
