@@ -35,3 +35,4 @@
 {"dependencies":{"crypto":"~>0.1.4"},"targetType":"library","version":"0.2.3","name":"buffer"}
 {"dependencies":{"crypto":"~>0.1.4"},"targetType":"library","version":"0.2.4","name":"buffer"}
 {"dependencies":{"crypto":"~>0.1.5"},"targetType":"library","version":"0.2.5","name":"buffer"}
+{"dependencies":{"crypto":"~>0.1.6"},"targetType":"library","version":"0.2.6","name":"buffer"}
