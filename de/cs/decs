@@ -1,3 +1,4 @@
 {"dependencies":{"dnogc":"~master"},"version":"1.0.0","name":"decs"}
 {"dependencies":{"dnogc":"~master"},"version":"1.0.1","name":"decs"}
 {"dependencies":{"dnogc":"~master"},"version":"1.0.2","name":"decs"}
+{"dependencies":{"dlib":"~>0.14.0"},"version":"1.0.3","name":"decs"}
