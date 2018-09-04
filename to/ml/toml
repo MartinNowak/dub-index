@@ -5,3 +5,4 @@
 {"subPackages":[{"dependencies":{"toml":{"version":">=0.0.0","path":".."}},"name":"json"}],"version":"1.0.0-rc.1","name":"toml"}
 {"subPackages":[{"dependencies":{"toml":{"version":">=0.0.0","path":".."}},"name":"json"}],"version":"1.0.0-rc.2","name":"toml"}
 {"subPackages":[{"dependencies":{"toml":{"version":">=0.0.0","path":".."}},"name":"json"}],"version":"1.0.0-rc.3","name":"toml"}
+{"subPackages":[{"dependencies":{"toml":{"version":">=0.0.0","path":".."}},"name":"json"}],"version":"~master","commitID":"a80680783c75d51d67778a604583c1c27fe6d614","name":"toml"}
