@@ -6,3 +6,4 @@
 {"dependencies":{"xbuffer":"~>1.0.0","libasync":"~>0.8.3"},"version":"0.2.0","name":"lighttp"}
 {"dependencies":{"xbuffer":"~>1.0.0","libasync":"~>0.8.3"},"version":"0.2.1","name":"lighttp"}
 {"dependencies":{"xbuffer":"~>1","kiss":"~>0.4"},"version":"0.3.0","name":"lighttp"}
+{"dependencies":{"xbuffer":"~>1","kiss":"~>0.4"},"version":"~master","commitID":"64b073eda9d506cb83919881b49e2b287485befa","name":"lighttp"}
