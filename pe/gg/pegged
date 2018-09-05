@@ -9,3 +9,4 @@
 {"configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"tracer"}],"version":"0.4.2","name":"pegged"}
 {"configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"tracer"}],"version":"0.4.3","name":"pegged"}
 {"configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"tracer"}],"version":"0.4.4","name":"pegged"}
+{"configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"tracer"}],"version":"~master","commitID":"dc2a85b9c026878920c3bbbe5ced68c0fa5f07a2","name":"pegged"}
