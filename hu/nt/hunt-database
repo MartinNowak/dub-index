@@ -1,1 +1,2 @@
 {"configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"full"},{"targetType":"library","name":"postgresql"},{"targetType":"library","name":"mysql"},{"targetType":"library","name":"sqlite"}],"version":"0.2.0","name":"hunt-database"}
+{"configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"full"},{"targetType":"library","name":"postgresql"},{"targetType":"library","name":"mysql"},{"targetType":"library","name":"sqlite"}],"version":"0.2.1","name":"hunt-database"}
