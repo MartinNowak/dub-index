@@ -8,3 +8,4 @@
 {"configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"tracer"}],"version":"0.4.1","name":"pegged"}
 {"configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"tracer"}],"version":"0.4.2","name":"pegged"}
 {"configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"tracer"}],"version":"0.4.3","name":"pegged"}
+{"configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"tracer"}],"version":"0.4.4","name":"pegged"}
