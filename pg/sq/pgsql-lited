@@ -1,2 +1,3 @@
 {"dependencies":{"vibe-d":">=0.7.33"},"targetType":"library","version":"0.0.1","name":"pgsql-lited"}
 {"dependencies":{"vibe-d":">=0.7.33"},"targetType":"library","version":"0.0.2","name":"pgsql-lited"}
+{"dependencies":{"vibe-d":">=0.7.33"},"targetType":"library","version":"~master","commitID":"e48cf46452e180d61887eefad17e6e2b14d5252a","name":"pgsql-lited"}
