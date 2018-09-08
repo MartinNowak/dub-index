@@ -1,2 +1,3 @@
 {"dependencies":{"ncurses":">=0.0.0","openssl":">=0.9.8"},"version":"0.1.1","name":"sanspam"}
 {"dependencies":{"ncurses":">=0.0.0","openssl":">=0.9.8"},"version":"0.1.2","name":"sanspam"}
+{"dependencies":{"ncurses":">=0.0.0","openssl":">=0.9.8"},"version":"~master","commitID":"3a4d0ef3ba179f280f337e46d7a66b7c9e601af9","name":"sanspam"}
