@@ -14,3 +14,4 @@
 {"targetType":"sourceLibrary","version":"2.0.1","name":"cblas"}
 {"targetType":"sourceLibrary","version":"2.0.2","name":"cblas"}
 {"targetType":"sourceLibrary","version":"2.0.3","name":"cblas"}
+{"targetType":"sourceLibrary","version":"~master","commitID":"98842e6b8944d0ca73ac6c4079b70444cdafb64c","name":"cblas"}
