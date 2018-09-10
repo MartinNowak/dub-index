@@ -7,3 +7,4 @@
 {"targetType":"library","version":"1.1.4","name":"variantconfig"}
 {"targetType":"library","version":"1.1.5","name":"variantconfig"}
 {"targetType":"library","version":"~version2","commitID":"d5b7f8e69c16dd6f6c569188891b96fdedbce2a8","name":"variantconfig"}
+{"targetType":"library","version":"~master","commitID":"33e962726c18dd1a124be3be2669c3fb1727ccc1","name":"variantconfig"}
