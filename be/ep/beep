@@ -1,0 +1,1 @@
+{"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"silly":">=0.0.0"},"targetType":"library","name":"unittest"}],"version":"~master","commitID":"c156a79b9bf1be5423a17797670390beb7a1b4e0","name":"beep"}
