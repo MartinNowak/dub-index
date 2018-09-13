@@ -1,0 +1,1 @@
+{"subPackages":[{"dependencies":{"dbuild":{"version":">=0.0.0","path":"../.."}},"name":"cpp_lib"}],"version":"~cook","commitID":"0bb326f767c7af2dca1093cbbbe13d847ce529ac","name":"dbuild"}
