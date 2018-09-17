@@ -6,3 +6,4 @@
 {"configurations":[{"targetType":"sourceLibrary","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"1.1.4+1.0.1g","name":"openssl"}
 {"configurations":[{"targetType":"sourceLibrary","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"1.1.5+1.0.1g","name":"openssl"}
 {"configurations":[{"targetType":"sourceLibrary","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"1.1.6+1.0.1g","name":"openssl"}
+{"configurations":[{"targetType":"sourceLibrary","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"~master","commitID":"30f88af8a5a4b5d78f780f301b739a805b7a73c7","name":"openssl"}
