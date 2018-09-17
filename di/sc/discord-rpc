@@ -1,1 +1,2 @@
 {"configurations":[{"targetType":"library","name":"DISCORD_ENABLE_IO_THREAD"},{"targetType":"library","name":"DISCORD_DISABLE_IO_THREAD"}],"version":"3.3.0","name":"discord-rpc"}
+{"configurations":[{"targetType":"library","name":"DISCORD_ENABLE_IO_THREAD"},{"targetType":"library","name":"DISCORD_DISABLE_IO_THREAD"}],"version":"~master","commitID":"79ccd34701a2738a3e955698f6e0044aa91a693a","name":"discord-rpc"}
