@@ -1,0 +1,1 @@
+{"configurations":[{"targetType":"library","name":"DISCORD_ENABLE_IO_THREAD"},{"targetType":"library","name":"DISCORD_DISABLE_IO_THREAD"}],"version":"3.3.0","name":"discord-rpc"}
