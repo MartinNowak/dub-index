@@ -31,3 +31,4 @@
 {"targetType":"library","version":"0.1.12","name":"async"}
 {"targetType":"library","version":"0.1.13","name":"async"}
 {"targetType":"library","version":"0.1.14","name":"async"}
+{"targetType":"library","version":"~master","commitID":"ae3eb140edac7df783ad34ea821ed245b46baac6","name":"async"}
