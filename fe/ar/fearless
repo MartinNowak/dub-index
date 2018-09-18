@@ -1,0 +1,1 @@
+{"configurations":[{"targetType":"library","name":"default"},{"targetType":"executable","name":"example"},{"dependencies":{"test_allocator":"~>0.2.1","unit-threaded":"~>0.7.0","automem":"~>0.3.0","stdx-allocator":"~>2.77.0"},"targetType":"executable","name":"unittest"}],"version":"0.0.1","name":"fearless"}
