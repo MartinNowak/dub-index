@@ -3,3 +3,4 @@
 {"version":"0.2.0","name":"libpcm"}
 {"version":"0.2.1","name":"libpcm"}
 {"version":"0.2.2","name":"libpcm"}
+{"version":"~master","commitID":"26d3ba05f2800299344cc928086bec7da7d60ade","name":"libpcm"}
