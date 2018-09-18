@@ -1,2 +1,3 @@
 {"version":"0.0.1","name":"mutils"}
 {"version":"0.0.2","name":"mutils"}
+{"subPackages":[{"dependencies":{"mutils":">=0.0.0"},"targetType":"library","configurations":[{"targetType":"executable","name":"simple"},{"targetType":"library","name":"unittest"},{"targetType":"library","name":"lib"}],"name":"threads"}],"configurations":[{"targetType":"library","name":"lib"},{"targetType":"executable","name":"simple"},{"targetType":"library","name":"unittest"},{"targetType":"executable","name":"unittest-optimize"}],"version":"0.0.3","name":"mutils"}
