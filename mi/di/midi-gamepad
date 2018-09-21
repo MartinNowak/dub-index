@@ -1,2 +1,3 @@
 {"dependencies":{"dplug:client":"~>6.0.8"},"targetType":"executable","version":"0.1.1-alpha","name":"midi-gamepad"}
 {"dependencies":{"dplug:client":"~>6.0.8"},"version":"0.2.0-alpha","name":"midi-gamepad"}
+{"dependencies":{"dplug:client":"~>6.0.8"},"version":"~master","commitID":"3e3a556c07fef79b3459b4b4fe9a92bb3e7cc261","name":"midi-gamepad"}
