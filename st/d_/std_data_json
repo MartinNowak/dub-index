@@ -21,3 +21,4 @@
 {"dependencies":{"taggedalgebraic":"~>0.10.1"},"version":"0.18.1","name":"std_data_json"}
 {"dependencies":{"taggedalgebraic":"~>0.10.1"},"version":"0.18.2","name":"std_data_json"}
 {"dependencies":{"taggedalgebraic":"~>0.10.1"},"version":"~update_compiler_support","commitID":"a963c25335b97906fc0b0055da2c1004586f3900","name":"std_data_json"}
+{"dependencies":{"taggedalgebraic":"~>0.10.1"},"version":"~master","commitID":"bd6d5735f9bada7ee6a0a99013176a59c3da241a","name":"std_data_json"}
