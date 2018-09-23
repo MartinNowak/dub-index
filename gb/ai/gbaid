@@ -5,3 +5,4 @@
 {"dependencies":{"derelict-gl3":"1.0.21","derelict-sdl2":"2.1.2"},"version":"0.2.1-alpha","name":"gbaid"}
 {"dependencies":{"derelict-gl3":"1.0.21","derelict-sdl2":"2.1.2"},"version":"0.3.0-beta","name":"gbaid"}
 {"dependencies":{"derelict-gl3":"1.0.21","derelict-sdl2":"2.1.2"},"version":"~master","commitID":"d06100aa0442d01a7396518dde5d984087a8359f","name":"gbaid"}
+{"dependencies":{"derelict-gl3":"1.0.21","derelict-sdl2":"2.1.2"},"version":"~sio","commitID":"8411bf474980809233f23f5a312ebe329f9d2a81","name":"gbaid"}
