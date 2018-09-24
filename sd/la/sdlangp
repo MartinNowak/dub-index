@@ -1,2 +1,3 @@
 {"dependencies":{"pegged":"~>0.4.4","sumtype":"~>0.6.2"},"targetType":"library","version":"0.0.1","name":"sdlangp"}
 {"dependencies":{"pegged":"~>0.4.4","sumtype":"~>0.6.2"},"targetType":"library","version":"0.0.2","name":"sdlangp"}
+{"subPackages":[{"dependencies":{"pegged":"~>0.4.4","sumtype":"~>0.6.2"},"targetType":"library","name":"lib"},{"dependencies":{"sdlangp:lib":">=0.0.0"},"targetType":"executable","name":"app"}],"dependencies":{"sdlangp:app":">=0.0.0","sdlangp:lib":">=0.0.0"},"targetType":"none","version":"~master","commitID":"bb8587724a14dd5c68a185e4a92230c30a07a9e8","name":"sdlangp"}
