@@ -37,3 +37,4 @@
 {"dependencies":{"mir-linux-kernel":"~>1.0.0","mir-algorithm":">=2.0.0-beta <3.0.0"},"version":"~test","commitID":"7af68dd0ec45979e0f0d4c86de595cfd4c61fbc3","name":"mir-random"}
 {"dependencies":{"mir-linux-kernel":"~>1.0.0","mir-algorithm":">=2.0.0 <3.0.0"},"version":"1.0.0","name":"mir-random"}
 {"dependencies":{"mir-linux-kernel":"~>1.0.0","mir-algorithm":">=2.0.0 <3.0.0"},"version":"1.0.1","name":"mir-random"}
+{"dependencies":{"mir-linux-kernel":"~>1.0.0","mir-algorithm":">=2.0.0 <3.0.0"},"version":"1.0.2","name":"mir-random"}
