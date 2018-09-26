@@ -7,3 +7,4 @@
 {"dependencies":{"mir-algorithm":">=0.4.10"},"version":"0.5.3","name":"mir-cpuid"}
 {"dependencies":{"mir-algorithm":">=0.4.10"},"version":"~sys","commitID":"b76d2353077a1bd754a142796d72888d529a205f","name":"mir-cpuid"}
 {"dependencies":{"mir-algorithm":">=0.4.10"},"version":"0.5.4","name":"mir-cpuid"}
+{"dependencies":{"mir-algorithm":">=2.0.6"},"version":"1.0.0","name":"mir-cpuid"}
