@@ -4,3 +4,4 @@
 {"dependencies":{"sel-utils":"1.4.1","sel-net":"~>0.1.2"},"version":"0.2.1","name":"sel-server"}
 {"dependencies":{"sel-utils":"1.4.1","sel-net":"~>0.2.0"},"version":"0.3.0","name":"sel-server"}
 {"dependencies":{"sel-utils":"1.4.1","sel-net":"~>0.2.0"},"version":"~master","commitID":"d314304fe50082a0835f80ea3a9a0d3bbe96451c","name":"sel-server"}
+{"dependencies":{"sel-util:chat":"~>0.5","kiss":"~>0.4.8","soupply:java":"~>2.69","soupply:bedrock":"~>2.69","sel-util:format":"~>0.5","sel-util:raknet":"~>0.5","sel-util:stream":"~>0.5","sel-util:protocols":"~>0.5","xbuffer":"~>1"},"version":"~async","commitID":"3a8010fa50c723567b9e4991227da6fc6b610838","name":"sel-server"}
