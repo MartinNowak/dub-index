@@ -1,0 +1,1 @@
+{"subPackages":[{"dependencies":{"atelier":{"version":">=0.0.0","path":"../"}},"targetType":"executable","name":"test"}],"dependencies":{"derelict-sdl2":"~>2.1.4"},"targetType":"library","version":"0.0.1","name":"atelier"}
