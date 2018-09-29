@@ -2,3 +2,4 @@
 {"targetType":"library","version":"1.0.2","name":"libmemcached"}
 {"targetType":"library","version":"1.1.0","name":"libmemcached"}
 {"targetType":"library","version":"1.1.1","name":"libmemcached"}
+{"targetType":"library","version":"~master","commitID":"e1719b2ce7170cc018ad8e2fe81782e48e68081e","name":"libmemcached"}
