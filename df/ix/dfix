@@ -9,3 +9,4 @@
 {"dependencies":{"libdparse":">=0.8.0-alpha.5 <0.9.0-0"},"targetType":"executable","version":"0.3.3","name":"dfix"}
 {"dependencies":{"libdparse":"~>0.8.6"},"targetType":"executable","version":"0.3.4","name":"dfix"}
 {"dependencies":{"libdparse":"~>0.8.7"},"targetType":"executable","version":"0.3.5","name":"dfix"}
+{"dependencies":{"libdparse":"~>0.8.7"},"targetType":"executable","version":"~master","commitID":"eeef5a237708370b0cb3d43f63f710b1230c722d","name":"dfix"}
