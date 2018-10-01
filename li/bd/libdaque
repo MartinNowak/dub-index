@@ -5,3 +5,4 @@
 {"dependencies":{"derelict-gl3":">=2.0.0-beta <2.1.0-0","derelict-sdl2":">=3.0.0-beta <3.1.0-0"},"targetType":"library","version":"~master","commitID":"608221f74f4802c645ff5a435e44b844ddd0ddae","name":"libdaque"}
 {"dependencies":{"derelict-gl3":">=2.0.0-beta <2.1.0-0","derelict-sdl2":">=3.0.0-beta <3.1.0-0"},"targetType":"library","version":"~graphics-matrix-uniform-management","commitID":"a77701d63a833f05b65fdc704be7dae3108838ee","name":"libdaque"}
 {"dependencies":{"derelict-gl3":">=2.0.0-beta <2.1.0-0","derelict-sdl2":">=3.0.0-beta <3.1.0-0"},"targetType":"library","version":"0.3.0-develop","name":"libdaque"}
+{"dependencies":{"derelict-gl3":">=2.0.0-beta <2.1.0-0","derelict-sdl2":">=3.0.0-beta <3.1.0-0"},"targetType":"library","version":"0.3.1-develop","name":"libdaque"}
