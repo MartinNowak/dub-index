@@ -1,3 +1,4 @@
 {"configurations":[{"dependencies":{"fluent-asserts":"~>0.5"},"targetType":"library","name":"unittest"}],"version":"0.0.1","name":"ulid-d"}
 {"configurations":[{"dependencies":{"fluent-asserts":"~>0.5"},"targetType":"library","name":"unittest"},{"targetType":"executable","name":"demo"}],"version":"0.1.0","name":"ulid-d"}
 {"configurations":[{"dependencies":{"fluent-asserts":"~>0.5"},"targetType":"library","name":"unittest"},{"targetType":"executable","name":"demo"}],"version":"0.1.1","name":"ulid-d"}
+{"configurations":[{"dependencies":{"fluent-asserts":"~>0.10.4"},"targetType":"library","name":"unittest"},{"targetType":"executable","name":"demo"}],"version":"~master","commitID":"59b4e775b113d13dfaf93448cd4dbf25933e6a7d","name":"ulid-d"}
