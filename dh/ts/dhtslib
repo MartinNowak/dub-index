@@ -4,3 +4,4 @@
 {"targetType":"sourceLibrary","version":"0.2.0","name":"dhtslib"}
 {"configurations":[{"targetType":"sourceLibrary","name":"source"},{"targetType":"executable","name":"testapp"}],"version":"0.3.0","name":"dhtslib"}
 {"configurations":[{"targetType":"executable","name":"tabix_test"},{"targetType":"executable","name":"bgzf_test"},{"targetType":"sourceLibrary","name":"source"}],"version":"0.4.0","name":"dhtslib"}
+{"configurations":[{"targetType":"executable","name":"tabix_test"},{"targetType":"executable","name":"bgzf_test"},{"targetType":"executable","name":"sam_test"},{"targetType":"executable","name":"vcf_writer_test"},{"targetType":"sourceLibrary","name":"source"},{"targetType":"sourceLibrary","name":"source-static"}],"version":"~master","commitID":"37e89946b59134c10b13bca2818d315b3381c6ba","name":"dhtslib"}
