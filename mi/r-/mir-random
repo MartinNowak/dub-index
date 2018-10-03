@@ -38,3 +38,4 @@
 {"dependencies":{"mir-linux-kernel":"~>1.0.0","mir-algorithm":">=2.0.0 <3.0.0"},"version":"1.0.0","name":"mir-random"}
 {"dependencies":{"mir-linux-kernel":"~>1.0.0","mir-algorithm":">=2.0.0 <3.0.0"},"version":"1.0.1","name":"mir-random"}
 {"dependencies":{"mir-linux-kernel":"~>1.0.0","mir-algorithm":">=2.0.0 <3.0.0"},"version":"1.0.2","name":"mir-random"}
+{"dependencies":{"mir-linux-kernel":"~>1.0.0","mir-algorithm":">=2.0.0 <3.0.0"},"version":"~issue99","commitID":"d6f60873805ac4b618010975b233a1c4ea5d645a","name":"mir-random"}
