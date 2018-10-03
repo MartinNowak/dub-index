@@ -8,3 +8,4 @@
 {"targetType":"library","version":"1.0.7","name":"undead"}
 {"targetType":"library","version":"1.0.8","name":"undead"}
 {"targetType":"library","version":"1.0.9","name":"undead"}
+{"targetType":"library","version":"~master","commitID":"fe56b093e79b8772354c4b1ffae0a04f733762a3","name":"undead"}
