@@ -2,3 +2,4 @@
 {"dependencies":{"undead":"~>1.0.6"},"version":"~bio2","commitID":"f4a6c1c55c8903e948b793adbb150704d1e267b2","name":"biod"}
 {"dependencies":{"undead":"~>1.0.6"},"version":"0.2.0","name":"biod"}
 {"dependencies":{"undead":"~>1.0.6"},"version":"~updated","commitID":"2f0634b187e0f454809432093238cf31e9fbfee6","name":"biod"}
+{"dependencies":{"undead":"~>1.0.6"},"version":"0.2.1","name":"biod"}
