@@ -7,3 +7,4 @@
 {"dependencies":{"derelict-gl3":">=2.0.0-beta <2.1.0-0","derelict-sdl2":">=3.0.0-beta <3.1.0-0"},"targetType":"library","version":"0.3.0-develop","name":"libdaque"}
 {"dependencies":{"derelict-gl3":">=2.0.0-beta <2.1.0-0","derelict-sdl2":">=3.0.0-beta <3.1.0-0"},"targetType":"library","version":"0.3.1-develop","name":"libdaque"}
 {"dependencies":{"derelict-gl3":">=2.0.0-beta <2.1.0-0","derelict-sdl2":">=3.0.0-beta <3.1.0-0"},"targetType":"library","version":"~ci","commitID":"c8f6edd73db47d071f30e2ff18a2ae8f59ce0a15","name":"libdaque"}
+{"targetType":"library","version":"~docs","commitID":"3b0a61f35d2db26d3edd3d086aac2b983261b6c9","name":"libdaque"}
