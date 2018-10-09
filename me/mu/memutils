@@ -22,3 +22,4 @@
 {"configurations":[{"targetType":"library","name":"secure"},{"targetType":"library","name":"unittest"}],"version":"~remove_postblit_qualifiers","commitID":"2d65e27624fd5ade0ea80ec99ae3caae4e88ee2a","name":"memutils"}
 {"configurations":[{"targetType":"library","name":"secure"},{"targetType":"library","name":"unittest"}],"version":"0.4.11","name":"memutils"}
 {"configurations":[{"targetType":"library","name":"secure"},{"targetType":"library","name":"unittest"}],"version":"0.4.12","name":"memutils"}
+{"configurations":[{"targetType":"library","name":"secure"},{"targetType":"library","name":"unittest"}],"version":"0.4.13","name":"memutils"}
