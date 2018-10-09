@@ -16,3 +16,4 @@
 {"targetType":"library","version":"1.1.5","name":"libdominator"}
 {"targetType":"library","version":"~master","commitID":"29027c4f0746175053770a1606a2488665c61914","name":"libdominator"}
 {"targetType":"library","version":"1.1.6","name":"libdominator"}
+{"targetType":"library","version":"~wip/v2-release","commitID":"c959952421e5164e9db29ef7d649981c221f4fea","name":"libdominator"}
