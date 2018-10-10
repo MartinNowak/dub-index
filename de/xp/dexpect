@@ -2,3 +2,4 @@
 {"configurations":[{"dependencies":{"docopt":">=0.6.1-b.2 <0.7.0-0"},"targetType":"executable","name":"expect-app"}],"version":"0.0.2","name":"dexpect"}
 {"configurations":[{"dependencies":{"docopt":">=0.6.1-b.2 <0.7.0-0","pegged":"~>0.2.1"},"targetType":"executable","name":"expect-app"}],"version":"0.0.3","name":"dexpect"}
 {"configurations":[{"dependencies":{"docopt":">=0.6.1-b.2 <0.7.0-0","pegged":"~>0.2.1"},"targetType":"executable","name":"expect-app"}],"version":"~refactorSwitchBranch","commitID":"ade0de603c2cfe5cd8c5244a7aa1a35830b6d105","name":"dexpect"}
+{"configurations":[{"dependencies":{"docopt":">=0.6.1-b.2 <0.7.0-0","pegged":"~>0.2.1"},"targetType":"executable","name":"expect-app"}],"version":"~master","commitID":"bb5d3b6b2fbbe6b999a80fdc667b6014bd36106e","name":"dexpect"}
