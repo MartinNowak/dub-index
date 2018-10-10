@@ -20,3 +20,4 @@
 {"targetType":"library","version":"1.0.2","name":"inilike"}
 {"targetType":"library","version":"1.0.3","name":"inilike"}
 {"targetType":"library","version":"1.1.0","name":"inilike"}
+{"targetType":"library","version":"~master","commitID":"efae8b2f7f95af5c9e628368f1abbae88203105f","name":"inilike"}
