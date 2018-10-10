@@ -1,2 +1,3 @@
 {"targetType":"dynamicLibrary","version":"1.0.0","name":"libcrisc"}
 {"targetType":"library","version":"1.0.1","name":"libcrisc"}
+{"targetType":"library","version":"~master","commitID":"514a5b7bcfdc01fe736c5e9e24ceaec64d41afbb","name":"libcrisc"}
