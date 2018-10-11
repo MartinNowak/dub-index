@@ -19,3 +19,4 @@
 {"targetType":"sourceLibrary","version":"1.22.0","name":"libuv"}
 {"targetType":"sourceLibrary","version":"1.23.0","name":"libuv"}
 {"targetType":"sourceLibrary","version":"1.23.1","name":"libuv"}
+{"targetType":"sourceLibrary","version":"~master","commitID":"d1ad26fb2859b2203863ed770e6eb845fc243666","name":"libuv"}
