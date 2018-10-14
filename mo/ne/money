@@ -5,3 +5,4 @@
 {"targetType":"library","version":"2.1.0","name":"money"}
 {"targetType":"library","version":"2.2.0","name":"money"}
 {"targetType":"library","version":"~master","commitID":"3e961da0ad20e6de6e835dff27718425e7143a11","name":"money"}
+{"targetType":"library","version":"2.3.0","name":"money"}
