@@ -1,1 +1,2 @@
 {"dependencies":{"siryul":"~>0.5","standardpaths":"~>0.8"},"version":"0.0.2","name":"easysettings"}
+{"dependencies":{"siryul":"~>0.5","standardpaths":"~>0.8"},"version":"~master","commitID":"96bb1a743a22c25f242db314f19f75fe39213986","name":"easysettings"}
