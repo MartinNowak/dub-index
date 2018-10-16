@@ -18,3 +18,4 @@
 {"dependencies":{"stdx-allocator":"~>2.77.0"},"configurations":[{"targetType":"library","name":"unittest"}],"version":"0.8.0-alpha.7","name":"emsi_containers"}
 {"dependencies":{"stdx-allocator":"~>2.77.2"},"configurations":[{"targetType":"library","name":"unittest"}],"version":"0.8.0-alpha.8","name":"emsi_containers"}
 {"dependencies":{"stdx-allocator":"~>2.77.2"},"configurations":[{"targetType":"library","name":"unittest"}],"version":"0.8.0-alpha.9","name":"emsi_containers"}
+{"dependencies":{"stdx-allocator":"~>2.77.2"},"version":"0.8.0-alpha.10","name":"emsi_containers"}
