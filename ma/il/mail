@@ -9,3 +9,4 @@
 {"dependencies":{"openssl":">=0.9.8"},"version":"0.4.0","name":"mail"}
 {"dependencies":{"openssl":">=0.9.8"},"version":"0.4.1","name":"mail"}
 {"dependencies":{"openssl":">=0.9.8"},"version":"0.4.2","name":"mail"}
+{"dependencies":{"openssl":">=0.9.8"},"version":"~master","commitID":"7bbff3ac5e98496783a25a8412ed71573de07343","name":"mail"}
