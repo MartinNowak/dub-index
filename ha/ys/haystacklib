@@ -10,3 +10,4 @@
 {"targetType":"library","version":"0.8.5","name":"haystacklib"}
 {"targetType":"library","version":"0.8.6","name":"haystacklib"}
 {"targetType":"library","version":"0.9.0","name":"haystacklib"}
+{"targetType":"library","version":"~master","commitID":"57227c8f4589e72b2a0399ae4f0c1eccfbb3aa34","name":"haystacklib"}
