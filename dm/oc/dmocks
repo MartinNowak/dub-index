@@ -3,3 +3,4 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"2.0.1","name":"dmocks"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"2.0.2","name":"dmocks"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"2.0.3","name":"dmocks"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"version":"~feature/multiple-comparators","commitID":"9bc92eac69220a8ee175d38bfa3f07119e4aa981","name":"dmocks"}
