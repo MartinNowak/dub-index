@@ -1,1 +1,2 @@
 {"dependencies":{"hunt":">=1.0.0-beta.1 <1.1.0-0"},"version":"0.0.1","name":"hunt-security"}
+{"dependencies":{"hunt":">=1.0.0-beta.7 <1.1.0-0"},"version":"0.0.3","name":"hunt-security"}
