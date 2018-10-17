@@ -3,3 +3,4 @@
 {"subPackages":[{"dependencies":{"grimoire":{"version":">=0.0.0","path":"../"}},"targetType":"executable","name":"test"}],"targetType":"library","version":"0.0.3","name":"grimoire"}
 {"subPackages":[{"dependencies":{"grimoire":{"version":">=0.0.0","path":"../"}},"targetType":"executable","name":"test"}],"targetType":"library","version":"0.0.4","name":"grimoire"}
 {"subPackages":[{"dependencies":{"grimoire":{"version":">=0.0.0","path":"../"}},"targetType":"executable","name":"test"}],"targetType":"library","version":"0.0.5","name":"grimoire"}
+{"subPackages":[{"dependencies":{"grimoire":{"version":">=0.0.0","path":"../"}},"targetType":"executable","name":"test"}],"targetType":"library","version":"~master","commitID":"8b388489e031d3202e48b6e73be8773a430a2bee","name":"grimoire"}
