@@ -1,0 +1,1 @@
+{"subPackages":[{"dependencies":{"capstone-d":{"version":">=0.0.0","path":"../../"}},"targetType":"executable","name":"example-basic"}],"targetType":"sourceLibrary","version":"0.0.2","name":"capstone-d"}
