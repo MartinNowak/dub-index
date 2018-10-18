@@ -1,0 +1,1 @@
+{"configurations":[{"dependencies":{"bindbc-loader":"~>0.1.0"},"targetType":"staticLibrary","name":"dynamic"},{"dependencies":{"bindbc-loader":"~>0.1.0"},"targetType":"staticLibrary","name":"dynamicBC"},{"targetType":"staticLibrary","name":"static"},{"targetType":"staticLibrary","name":"staticBC"}],"targetType":"staticLibrary","version":"0.1.0","name":"bindbc-glfw"}
