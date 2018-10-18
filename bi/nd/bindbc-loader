@@ -1,0 +1,1 @@
+{"configurations":[{"targetType":"staticLibrary","name":"noBC"},{"targetType":"staticLibrary","name":"yesBC"}],"targetType":"staticLibrary","version":"0.1.0","name":"bindbc-loader"}
