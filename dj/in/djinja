@@ -1,0 +1,1 @@
+{"dependencies":{"uninode":">=0.0.1-beta.4 <0.1.0-0"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"unittest"}],"version":"0.1.0-beta.1","name":"djinja"}
