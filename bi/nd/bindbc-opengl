@@ -1,1 +1,2 @@
 {"dependencies":{"bindbc-loader":"~>0.1.0"},"targetType":"staticLibrary","version":"0.1.0","configurations":[{"targetType":"staticLibrary","name":"dynamic"},{"targetType":"staticLibrary","name":"dynamicBC"}],"name":"bindbc-opengl"}
+{"dependencies":{"bindbc-loader":"~>0.1.0"},"targetType":"staticLibrary","version":"0.2.0","configurations":[{"targetType":"staticLibrary","name":"dynamic"},{"targetType":"staticLibrary","name":"dynamicBC"}],"name":"bindbc-opengl"}
