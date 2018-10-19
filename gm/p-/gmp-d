@@ -7,3 +7,4 @@
 {"targetType":"library","version":"0.1.3","name":"gmp-d"}
 {"targetType":"library","version":"0.1.4","name":"gmp-d"}
 {"targetType":"library","version":"0.1.5","name":"gmp-d"}
+{"targetType":"library","version":"~master","commitID":"112b018170325eb579e9d164cd976734737c18f4","name":"gmp-d"}
