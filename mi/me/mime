@@ -13,3 +13,4 @@
 {"dependencies":{"xdgpaths":"~>0.2.5"},"targetType":"library","version":"0.4.3","name":"mime"}
 {"dependencies":{"dxml":"~>0.4.0","xdgpaths":"~>0.2.5"},"targetType":"library","version":"0.5.0","name":"mime"}
 {"dependencies":{"dxml":"~>0.4.0","xdgpaths":"~>0.2.5"},"targetType":"library","version":"~master","commitID":"a79917c30aff00841b68e5e3b69b52c834e268c7","name":"mime"}
+{"dependencies":{"dxml":"~>0.4.0","xdgpaths":"~>0.2.5"},"targetType":"library","version":"0.5.1","name":"mime"}
