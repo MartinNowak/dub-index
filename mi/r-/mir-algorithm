@@ -72,3 +72,4 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"sourceLibrary","name":"sourceLibrary"}],"version":"2.0.5","name":"mir-algorithm"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"sourceLibrary","name":"sourceLibrary"}],"version":"2.0.6","name":"mir-algorithm"}
 {"dependencies":{"mir-core":"~>0.0.0"},"version":"3.0.0-alpha-dev","name":"mir-algorithm"}
+{"dependencies":{"mir-core":"~>0.0.0"},"version":"3.0.0-alpha-dev2","name":"mir-algorithm"}
