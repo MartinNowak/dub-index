@@ -1,1 +1,2 @@
 {"dependencies":{"mir-core":"~>0.0.0"},"version":"0.0.0","name":"mir-runtime"}
+{"dependencies":{"mir-core":"~>0.0.0"},"version":"0.0.1","name":"mir-runtime"}
