@@ -3,3 +3,4 @@
 {"dependencies":{"intel-intrinsics":">=0.0.0"},"targetType":"library","version":"0.2.0","name":"cpublit"}
 {"dependencies":{"intel-intrinsics":">=0.0.0"},"targetType":"library","version":"0.2.1","name":"cpublit"}
 {"dependencies":{"intel-intrinsics":">=0.0.0"},"targetType":"library","version":"0.2.2","name":"cpublit"}
+{"dependencies":{"intel-intrinsics":">=0.0.0"},"targetType":"library","version":"0.2.3","name":"cpublit"}
