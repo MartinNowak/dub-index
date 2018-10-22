@@ -4,3 +4,4 @@
 {"dependencies":{"intel-intrinsics":">=0.0.0"},"targetType":"library","version":"0.2.1","name":"cpublit"}
 {"dependencies":{"intel-intrinsics":">=0.0.0"},"targetType":"library","version":"0.2.2","name":"cpublit"}
 {"dependencies":{"intel-intrinsics":">=0.0.0"},"targetType":"library","version":"0.2.3","name":"cpublit"}
+{"dependencies":{"intel-intrinsics":">=0.0.0"},"targetType":"library","version":"~master","commitID":"93b1c16a4285b6007b535ec68241cb90af8f8407","name":"cpublit"}
