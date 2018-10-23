@@ -1,2 +1,3 @@
 {"targetType":"library","version":"0.0.1","name":"libhosttokens"}
 {"targetType":"library","version":"0.0.2","name":"libhosttokens"}
+{"targetType":"library","version":"~master","commitID":"0e13a9057121ab381f9a965552fc2a57f2dd02c9","name":"libhosttokens"}
