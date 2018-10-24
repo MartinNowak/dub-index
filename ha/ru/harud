@@ -2,3 +2,4 @@
 {"targetType":"library","version":"0.2.0","name":"harud"}
 {"dependencies":{"silly":"~>0.8.0"},"targetType":"library","version":"1.0.0","name":"harud"}
 {"dependencies":{"silly":"~>0.8.0"},"targetType":"library","version":"1.0.1","name":"harud"}
+{"dependencies":{"silly":"~>0.8.0"},"targetType":"library","version":"~master","commitID":"3ffde9efaf343f918c3684a47e4eea630e6051a5","name":"harud"}
