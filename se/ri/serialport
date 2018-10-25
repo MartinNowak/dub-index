@@ -33,3 +33,4 @@
 {"targetType":"library","version":"2.1.6","name":"serialport"}
 {"targetType":"library","version":"2.1.7","name":"serialport"}
 {"targetType":"library","version":"2.2.0","name":"serialport"}
+{"targetType":"library","version":"~master","commitID":"4c5c3b5d7da1e535a84bbf147436881e8c87f687","name":"serialport"}
