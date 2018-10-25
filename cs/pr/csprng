@@ -3,3 +3,4 @@
 {"targetType":"library","version":"1.0.4","name":"csprng"}
 {"targetType":"library","version":"1.1.0","name":"csprng"}
 {"targetType":"library","version":"1.1.1","name":"csprng"}
+{"targetType":"library","version":"~master","commitID":"178b0b95d544d9d311c45aea4f0d0decc7f5b591","name":"csprng"}
