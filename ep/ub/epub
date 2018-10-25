@@ -3,3 +3,4 @@
 {"version":"1.1.0","name":"epub"}
 {"targetType":"staticLibrary","version":"~dub-optional-dependencies","commitID":"bda27ae7837ea25d40ec0ba6435b08786333f089","name":"epub"}
 {"targetType":"library","version":"1.1.2","name":"epub"}
+{"targetType":"library","version":"~master","commitID":"36fe95b1651b890d780d0b1b7f889453d4a78eea","name":"epub"}
