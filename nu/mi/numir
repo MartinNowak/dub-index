@@ -16,3 +16,4 @@
 {"dependencies":{"mir-random":"~>1.0.0","mir-algorithm":"~>2.0.1"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"sourceLibrary","name":"sourceLibrary"}],"version":"2.0.0","name":"numir"}
 {"dependencies":{"mir-random":"~>2.0.0"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"sourceLibrary","name":"sourceLibrary"}],"version":"~upgradedeps","commitID":"a296e6105a8046de6b64d3f2075009600f161c1e","name":"numir"}
 {"dependencies":{"mir-random":"~>2.0.0"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"sourceLibrary","name":"sourceLibrary"}],"version":"~master","commitID":"7c9e10efb941f09107f61248b5774c81605b0f0d","name":"numir"}
+{"dependencies":{"mir-random":"~>2.0.0"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"sourceLibrary","name":"sourceLibrary"}],"version":"2.0.1","name":"numir"}
