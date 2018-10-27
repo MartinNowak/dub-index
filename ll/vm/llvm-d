@@ -9,3 +9,4 @@
 {"configurations":[{"targetType":"library","name":"native-target"},{"targetType":"library","name":"no-target"}],"targetType":"library","version":"2.1.1","name":"llvm-d"}
 {"configurations":[{"targetType":"library","name":"native-target"},{"targetType":"library","name":"no-target"}],"targetType":"library","version":"2.2.0","name":"llvm-d"}
 {"configurations":[{"targetType":"library","name":"native-target"},{"targetType":"library","name":"no-target"}],"targetType":"library","version":"2.3.0","name":"llvm-d"}
+{"configurations":[{"targetType":"library","name":"native-target"},{"targetType":"library","name":"no-target"}],"targetType":"library","version":"2.4.0","name":"llvm-d"}
