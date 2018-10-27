@@ -9,3 +9,4 @@
 {"dependencies":{"mir-algorithm":">=0.4.10"},"version":"0.5.4","name":"mir-cpuid"}
 {"dependencies":{"mir-algorithm":">=2.0.6"},"version":"1.0.0","name":"mir-cpuid"}
 {"dependencies":{"mir-core":"~>0.0.5"},"version":"1.1.0","name":"mir-cpuid"}
+{"dependencies":{"mir-core":"~>0.0.5"},"version":"1.1.1","name":"mir-cpuid"}
