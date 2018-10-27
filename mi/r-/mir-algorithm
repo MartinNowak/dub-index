@@ -77,3 +77,4 @@
 {"dependencies":{"mir-core":"~>0.0.0"},"version":"3.0.0-alpha-dev4","name":"mir-algorithm"}
 {"dependencies":{"mir-core":"<1.0.0"},"version":"3.0.0","name":"mir-algorithm"}
 {"dependencies":{"mir-core":"<1.0.0"},"version":"3.0.1","name":"mir-algorithm"}
+{"dependencies":{"mir-core":">=0.0.6 <1.0.0"},"version":"3.0.2","name":"mir-algorithm"}
