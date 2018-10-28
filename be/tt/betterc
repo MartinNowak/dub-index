@@ -3,3 +3,4 @@
 {"targetType":"library","version":"0.1.2","name":"betterc"}
 {"targetType":"library","version":"0.1.3","name":"betterc"}
 {"subPackages":[{"targetType":"library","name":"cppclass"},{"targetType":"library","name":"ds"},{"dependencies":{"betterc:ds":">=0.0.0"},"targetType":"library","name":"io"}],"dependencies":{"betterc:cppclass":">=0.0.0","betterc:io":">=0.0.0","betterc:ds":">=0.0.0"},"targetType":"library","version":"~redesign","commitID":"ff88897521fde77a41bb517f048b2bd2472d08f2","name":"betterc"}
+{"subPackages":[{"targetType":"library","name":"cppclass"},{"targetType":"library","name":"ds"},{"dependencies":{"betterc:ds":">=0.0.0"},"targetType":"library","name":"io"}],"dependencies":{"betterc:cppclass":">=0.0.0","betterc:io":">=0.0.0","betterc:ds":">=0.0.0"},"targetType":"library","version":"0.2.0","name":"betterc"}
