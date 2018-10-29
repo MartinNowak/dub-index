@@ -6,3 +6,4 @@
 {"version":"2.77.4","name":"stdx-allocator"}
 {"dependencies":{"mir-core":"~>0.0.5"},"version":"3.0.0","name":"stdx-allocator"}
 {"dependencies":{"mir-core":"~>0.0.5"},"version":"3.0.1","name":"stdx-allocator"}
+{"dependencies":{"mir-core":"~>0.0.5"},"version":"~master","commitID":"0fa41b3f7312d45713fe3c76e7a8bed4f82407dd","name":"stdx-allocator"}
