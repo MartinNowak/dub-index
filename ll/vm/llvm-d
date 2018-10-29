@@ -11,3 +11,4 @@
 {"configurations":[{"targetType":"library","name":"native-target"},{"targetType":"library","name":"no-target"}],"targetType":"library","version":"2.3.0","name":"llvm-d"}
 {"configurations":[{"targetType":"library","name":"native-target"},{"targetType":"library","name":"no-target"}],"targetType":"library","version":"2.4.0","name":"llvm-d"}
 {"configurations":[{"targetType":"library","name":"native-target"},{"targetType":"library","name":"no-target"}],"targetType":"library","version":"~master","commitID":"cbbdcc4eab542bada8e35050bf0d56d5d17c6115","name":"llvm-d"}
+{"configurations":[{"targetType":"library","name":"native-target"},{"targetType":"library","name":"no-target"}],"targetType":"library","version":"2.4.1","name":"llvm-d"}
