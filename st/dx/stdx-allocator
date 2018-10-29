@@ -5,3 +5,4 @@
 {"version":"2.77.3","name":"stdx-allocator"}
 {"version":"2.77.4","name":"stdx-allocator"}
 {"dependencies":{"mir-core":"~>0.0.5"},"version":"3.0.0","name":"stdx-allocator"}
+{"dependencies":{"mir-core":"~>0.0.5"},"version":"3.0.1","name":"stdx-allocator"}
