@@ -1,1 +1,2 @@
 {"subPackages":[{"dependencies":{"capstone-d":{"version":">=0.0.0","path":"../../"}},"targetType":"executable","name":"example-basic"}],"targetType":"sourceLibrary","version":"0.0.2","name":"capstone-d"}
+{"subPackages":[{"dependencies":{"capstone-d":{"version":">=0.0.0","path":"../../"}},"targetType":"executable","name":"example-basic"}],"configurations":[{"targetType":"sourceLibrary","name":"bindings"},{"targetType":"executable","name":"unittest"}],"version":"0.1.0","name":"capstone-d"}
