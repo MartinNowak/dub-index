@@ -2,3 +2,4 @@
 {"dependencies":{"derelict-sdl2":">=3.0.0-alpha.4 <3.1.0-0","nes":"~>0.1.0"},"targetType":"executable","version":"0.1.1","name":"nes_test"}
 {"dependencies":{"derelict-sdl2":">=3.0.0-alpha.4 <3.1.0-0","nes":"~>0.1.0"},"targetType":"executable","version":"0.1.2","name":"nes_test"}
 {"dependencies":{"derelict-sdl2":">=3.0.0-alpha.4 <3.1.0-0","nes":"~>0.2.0"},"targetType":"executable","version":"~master","commitID":"ebbd4b1a6ea45129953fb1990cf4526377553d2e","name":"nes_test"}
+{"dependencies":{"derelict-sdl2":">=3.0.0-alpha.4 <3.1.0-0","nes":"~>0.2.0"},"targetType":"executable","version":"0.2.0","name":"nes_test"}
