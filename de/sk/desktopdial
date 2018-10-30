@@ -1,1 +1,2 @@
 {"dependencies":{"jsonserialized":"~>0.2.1","sdlraii":"~>1.0.0","derelict-sdl2":">=3.1.0-alpha.3 <3.2.0-0"},"version":"1.0.0","name":"desktopdial"}
+{"dependencies":{"jsonserialized":"~>0.2.1","sdlraii":"~>1.0.0","derelict-sdl2":">=3.1.0-alpha.3 <3.2.0-0"},"version":"1.0.1","name":"desktopdial"}
