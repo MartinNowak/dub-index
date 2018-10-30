@@ -47,3 +47,4 @@
 {"configurations":[{"targetType":"library","name":"std"},{"dependencies":{"vibe-d":"~>0.8"},"targetType":"library","name":"vibed"}],"version":"0.10.1","name":"requests"}
 {"configurations":[{"targetType":"library","name":"std"},{"dependencies":{"vibe-d":"~>0.8"},"targetType":"library","name":"vibed"}],"version":"~issue_81_2","commitID":"4ad2cb4303687c015a59927f9a015494473a8668","name":"requests"}
 {"configurations":[{"targetType":"library","name":"std"},{"dependencies":{"vibe-d":"~>0.8"},"targetType":"library","name":"vibed"}],"version":"1.0.0","name":"requests"}
+{"configurations":[{"targetType":"library","name":"std"},{"dependencies":{"vibe-d":"~>0.8"},"targetType":"library","name":"vibed"}],"version":"1.0.1","name":"requests"}
