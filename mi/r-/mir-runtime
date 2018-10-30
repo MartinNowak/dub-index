@@ -5,3 +5,4 @@
 {"dependencies":{"mir-core":"~>0.0.0"},"version":"0.0.3","name":"mir-runtime"}
 {"dependencies":{"mir-core":"~>0.0.0"},"version":"0.0.5","name":"mir-runtime"}
 {"dependencies":{"mir-core":"~>0.0.0"},"version":"0.0.6","name":"mir-runtime"}
+{"dependencies":{"mir-core":"~>0.0.0"},"version":"0.0.7","name":"mir-runtime"}
