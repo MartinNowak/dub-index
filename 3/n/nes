@@ -1,2 +1,3 @@
 {"targetType":"library","version":"0.1.0","name":"nes"}
 {"targetType":"library","version":"0.2.0","name":"nes"}
+{"targetType":"library","version":"~master","commitID":"46029b20a5f594c02f3999cf34cfe93b8824049b","name":"nes"}
