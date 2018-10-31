@@ -1,1 +1,2 @@
 {"configurations":[{"targetType":"library","name":"static"}],"targetType":"library","version":"1.0.0","name":"duktaped"}
+{"configurations":[{"targetType":"library","name":"static"}],"targetType":"library","version":"~master","commitID":"a7603abc4c988da75a2fc7b36af20a33395946e5","name":"duktaped"}
