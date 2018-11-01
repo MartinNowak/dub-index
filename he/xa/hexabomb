@@ -1,1 +1,2 @@
 {"dependencies":{"netorcai-client":"~>1.0.0","docopt":">=0.6.1-b.6 <0.7.0-0"},"targetType":"executable","version":"0.1.0","name":"hexabomb"}
+{"dependencies":{"netorcai-client":"~>1.0.0","docopt":">=0.6.1-b.6 <0.7.0-0"},"targetType":"executable","version":"~master","commitID":"996eafdb880c24b0e5f3c49a0271094848b3a299","name":"hexabomb"}
