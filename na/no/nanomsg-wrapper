@@ -13,3 +13,4 @@
 {"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":"~>0.7.0"},"targetType":"executable","name":"unittest"}],"targetType":"library","version":"0.4.9","name":"nanomsg-wrapper"}
 {"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":"~>0.7.0"},"targetType":"executable","name":"unittest"}],"targetType":"library","version":"0.4.10","name":"nanomsg-wrapper"}
 {"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":">=0.0.0"},"targetType":"executable","name":"unittest"}],"targetType":"library","version":"~travis","commitID":"61028e25cb1474e8994bc280baedf23c871d3ce7","name":"nanomsg-wrapper"}
+{"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":">=0.0.0"},"targetType":"executable","name":"unittest"}],"targetType":"library","version":"0.4.11","name":"nanomsg-wrapper"}
