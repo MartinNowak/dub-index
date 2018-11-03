@@ -1,1 +1,2 @@
 {"dependencies":{"vibe-d:http":">=0.0.0"},"version":"0.0.1","name":"discord-w"}
+{"dependencies":{"vibe-d:http":">=0.0.0"},"version":"~master","commitID":"474310ef40fde4b36045b8328744ac755f7bdc33","name":"discord-w"}
