@@ -1,0 +1,1 @@
+{"subPackages":[{"dependencies":{"ddash":">=0.0.0"},"name":"program_options"},{"dependencies":{"dcli:program_options":">=0.0.0","ddash":">=0.0.0"},"name":"program_commands"}],"dependencies":{"dcli:program_options":">=0.0.0","dcli:program_commands":">=0.0.0"},"version":"0.0.1","name":"dcli"}
