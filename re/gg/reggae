@@ -41,3 +41,4 @@
 {"configurations":[{"targetType":"executable","name":"executable"},{"dependencies":{"unit-threaded":"~>0.7.0"},"targetType":"executable","name":"unittest"}],"targetType":"executable","version":"0.6.1","name":"reggae"}
 {"configurations":[{"targetType":"executable","name":"executable"},{"dependencies":{"unit-threaded":"~>0.7.0"},"targetType":"executable","name":"unittest"}],"targetType":"executable","version":"0.6.2","name":"reggae"}
 {"configurations":[{"targetType":"executable","name":"executable"},{"dependencies":{"unit-threaded":"~>0.7.0"},"targetType":"executable","name":"unittest"}],"targetType":"executable","version":"0.6.3","name":"reggae"}
+{"configurations":[{"targetType":"executable","name":"executable"},{"dependencies":{"unit-threaded":"~>0.7.0"},"targetType":"executable","name":"unittest"}],"targetType":"executable","version":"~master","commitID":"f8d54cfb2883c436f08b83cf246a9ef0cb6be749","name":"reggae"}
