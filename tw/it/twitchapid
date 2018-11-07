@@ -27,3 +27,4 @@
 {"targetType":"library","version":"~47y","commitID":"1af00f70fb2b725cc742ac76b8d6106ce3869fce","name":"twitchapid"}
 {"targetType":"library","version":"0.3.5","name":"twitchapid"}
 {"targetType":"library","version":"0.3.6","name":"twitchapid"}
+{"targetType":"library","version":"0.4.0","name":"twitchapid"}
