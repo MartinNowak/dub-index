@@ -1,3 +1,4 @@
 {"dependencies":{"mambo":"0.0.2"},"targetType":"executable","version":"0.4.3","name":"dvm"}
 {"dependencies":{"mambo":"0.0.5"},"targetType":"executable","version":"~dev","commitID":"20f7bb34d4e77d68ab4f5d2e1ade33ba35ad8806","name":"dvm"}
 {"dependencies":{"mambo":"0.0.5"},"targetType":"executable","version":"0.4.4","name":"dvm"}
+{"dependencies":{"mambo":"0.0.6"},"targetType":"executable","version":"0.4.5","name":"dvm"}
