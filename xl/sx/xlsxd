@@ -1,0 +1,1 @@
+{"dependencies":{"dpp":"~>0.0.5"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"externclib"}],"version":"0.0.1","name":"xlsxd"}
