@@ -23,3 +23,4 @@
 {"targetType":"library","version":"0.3.0","name":"htmld"}
 {"targetType":"library","version":"0.3.1","name":"htmld"}
 {"targetType":"library","version":"0.3.2","name":"htmld"}
+{"targetType":"library","version":"~master","commitID":"c2b6534b50be9bc7c013ddbf217f543400a91a11","name":"htmld"}
