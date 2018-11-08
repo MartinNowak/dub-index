@@ -7,3 +7,4 @@
 {"version":"0.25.1","name":"libgit2"}
 {"version":"~0.25","commitID":"cceb3d2fd4a901602b1cbe6965a0ef5a750f20fb","name":"libgit2"}
 {"configurations":[{"targetType":"sourceLibrary","name":"system-library"},{"targetType":"sourceLibrary","name":"static-library"},{"targetType":"sourceLibrary","name":"static-library-networking"}],"targetType":"sourceLibrary","version":"0.20.2+0.20.0","name":"libgit2"}
+{"configurations":[{"targetType":"sourceLibrary","name":"system-library"},{"targetType":"sourceLibrary","name":"static-library"},{"targetType":"sourceLibrary","name":"static-library-networking"}],"targetType":"sourceLibrary","version":"~0.20","commitID":"e32507ba324e0206ff5fa0873a35c1c579b49a83","name":"libgit2"}
