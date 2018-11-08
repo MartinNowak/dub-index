@@ -6,3 +6,4 @@
 {"version":"0.19.2","name":"libgit2"}
 {"version":"0.25.1","name":"libgit2"}
 {"version":"~0.25","commitID":"cceb3d2fd4a901602b1cbe6965a0ef5a750f20fb","name":"libgit2"}
+{"configurations":[{"targetType":"sourceLibrary","name":"system-library"},{"targetType":"sourceLibrary","name":"static-library"},{"targetType":"sourceLibrary","name":"static-library-networking"}],"targetType":"sourceLibrary","version":"0.20.2+0.20.0","name":"libgit2"}
