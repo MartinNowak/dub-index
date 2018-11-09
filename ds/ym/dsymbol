@@ -54,3 +54,4 @@
 {"dependencies":{"emsi_containers":">=0.8.0-alpha.7 <0.9.0-0","libdparse":"~>0.10.4","stdx-allocator":"~>2.77.4"},"targetType":"library","version":"0.5.1","name":"dsymbol"}
 {"dependencies":{"emsi_containers":">=0.8.0-alpha.7 <0.9.0-0","libdparse":"~>0.10.4","stdx-allocator":"~>2.77.4"},"targetType":"library","version":"0.5.2","name":"dsymbol"}
 {"dependencies":{"emsi_containers":">=0.8.0-alpha.7 <0.9.0-0","libdparse":"~>0.10.4","stdx-allocator":"~>2.77.4"},"targetType":"library","version":"0.5.3","name":"dsymbol"}
+{"dependencies":{"emsi_containers":">=0.8.0-alpha.7 <0.9.0-0","libdparse":"~>0.10.4","stdx-allocator":"~>2.77.4"},"targetType":"library","version":"~master","commitID":"a8ffcc99d79b2b1195b7aac169a183706c2c9ec0","name":"dsymbol"}
