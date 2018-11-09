@@ -46,3 +46,4 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"sourceLibrary","name":"import"}],"version":"~fiber","commitID":"5fb9489afb0b74f2b45aec15edfc5af8c03ac7c2","name":"dlib"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"sourceLibrary","name":"import"}],"version":"0.15.0-beta.1","name":"dlib"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"sourceLibrary","name":"import"}],"version":"0.15.0","name":"dlib"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"sourceLibrary","name":"import"}],"version":"~master","commitID":"e8b1af0d3366572b06cba1988ec1e6ed5ffe60db","name":"dlib"}
