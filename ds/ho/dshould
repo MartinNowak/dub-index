@@ -24,3 +24,4 @@
 {"dependencies":{"unit-threaded":">=0.0.0"},"targetType":"library","version":"0.1.19","configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"name":"dshould"}
 {"dependencies":{"unit-threaded":">=0.0.0"},"targetType":"library","version":"0.1.20","configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"name":"dshould"}
 {"dependencies":{"unit-threaded":">=0.0.0"},"targetType":"library","version":"0.1.21","configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"name":"dshould"}
+{"dependencies":{"unit-threaded":">=0.0.0"},"targetType":"library","version":"~master","configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"unittest"}],"commitID":"e718e90e025bd241a17de4244f2d560c7ead2996","name":"dshould"}
