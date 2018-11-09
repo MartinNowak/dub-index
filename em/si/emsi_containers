@@ -20,3 +20,4 @@
 {"dependencies":{"stdx-allocator":"~>2.77.2"},"configurations":[{"targetType":"library","name":"unittest"}],"version":"0.8.0-alpha.9","name":"emsi_containers"}
 {"dependencies":{"stdx-allocator":"~>2.77.2"},"version":"0.8.0-alpha.10","name":"emsi_containers"}
 {"dependencies":{"stdx-allocator":"~>2.77.2"},"version":"0.8.0-alpha.11","name":"emsi_containers"}
+{"dependencies":{"stdx-allocator":"~>2.77.2"},"version":"~master","commitID":"760a04072647c6ade4aecf00b6ab4ba8a429cddc","name":"emsi_containers"}
