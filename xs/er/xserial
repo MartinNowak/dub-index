@@ -3,3 +3,4 @@
 {"dependencies":{"xbuffer":"~>1"},"targetType":"library","version":"1.0.0","name":"xserial"}
 {"dependencies":{"xbuffer":"~>1"},"targetType":"library","version":"1.1.0","name":"xserial"}
 {"dependencies":{"xbuffer":"~>1"},"targetType":"library","version":"1.1.1","name":"xserial"}
+{"dependencies":{"xbuffer":"~>1"},"targetType":"library","version":"~master","commitID":"39214ea0cc3c6b37df817c38e09275697403b828","name":"xserial"}
