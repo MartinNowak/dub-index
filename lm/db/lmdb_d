@@ -2,3 +2,4 @@
 {"version":"0.2.1","name":"lmdb_d"}
 {"version":"0.3.0","name":"lmdb_d"}
 {"version":"0.3.1","name":"lmdb_d"}
+{"version":"~master","commitID":"185d15679c0871b2a971d7c056d06b9e5e2946bd","name":"lmdb_d"}
