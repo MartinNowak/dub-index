@@ -29,3 +29,4 @@
 {"targetType":"library","version":"0.3.6","name":"twitchapid"}
 {"targetType":"library","version":"0.4.0","name":"twitchapid"}
 {"targetType":"library","version":"0.4.1","name":"twitchapid"}
+{"targetType":"library","version":"~master","commitID":"12b6b911718ad6e643f61ee91f59be66fbba4ea2","name":"twitchapid"}
