@@ -16,3 +16,4 @@
 {"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"0.0.16","name":"packageversion"}
 {"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"0.0.17","name":"packageversion"}
 {"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"0.0.18","name":"packageversion"}
+{"configurations":[{"targetType":"executable","name":"application"},{"targetType":"library","name":"library"}],"version":"~master","commitID":"ca7311f28aa5322d8051c89a42bd77d62feaa02c","name":"packageversion"}
