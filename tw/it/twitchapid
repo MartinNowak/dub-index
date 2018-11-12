@@ -30,3 +30,4 @@
 {"targetType":"library","version":"0.4.0","name":"twitchapid"}
 {"targetType":"library","version":"0.4.1","name":"twitchapid"}
 {"targetType":"library","version":"~master","commitID":"12b6b911718ad6e643f61ee91f59be66fbba4ea2","name":"twitchapid"}
+{"targetType":"library","version":"~dev","commitID":"de085e32eae60d14b8bc6b94038e1563e5d3cb5a","name":"twitchapid"}
