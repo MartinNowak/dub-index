@@ -8,3 +8,4 @@
 {"dependencies":{"packageversion":"~>0.0.15","colored":"~>0.0.12"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"executable"}],"version":"0.0.9","name":"androidlogger"}
 {"dependencies":{"packageversion":"~>0.0.16","colored":"~>0.0.13"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"executable"}],"version":"0.0.10","name":"androidlogger"}
 {"dependencies":{"packageversion":"~>0.0.16","colored":"~>0.0.13"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"executable"}],"version":"0.0.11","name":"androidlogger"}
+{"dependencies":{"packageversion":"~>0.0.15","colored":"~>0.0.13"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"basic"}],"version":"0.0.12","name":"androidlogger"}
