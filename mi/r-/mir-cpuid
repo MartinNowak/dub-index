@@ -11,3 +11,4 @@
 {"dependencies":{"mir-core":"~>0.0.5"},"version":"1.1.0","name":"mir-cpuid"}
 {"dependencies":{"mir-core":"~>0.0.5"},"version":"1.1.1","name":"mir-cpuid"}
 {"dependencies":{"mir-core":"~>0.0.5"},"version":"1.1.2","name":"mir-cpuid"}
+{"dependencies":{"mir-core":"~>0.0.5"},"version":"~master","commitID":"7630740e6bff9539734f0f77ce9b22df4c33f0ed","name":"mir-cpuid"}
