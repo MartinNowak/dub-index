@@ -1,1 +1,2 @@
 {"dependencies":{"zmqd":"~>1.1.1","asdf":"~>0.2.2"},"targetType":"library","version":"0.0.1","name":"jupyter_wire"}
+{"dependencies":{"zmqd":"~>1.1.1","asdf":"~>0.2.2"},"targetType":"library","version":"~master","configurations":[{"targetType":"library","name":"default"},{"dependencies":{"unit-threaded":">=0.0.0"},"targetType":"executable","name":"unittest"}],"commitID":"064eeb97020f7ba84697e992cc939fc0785041c8","name":"jupyter_wire"}
