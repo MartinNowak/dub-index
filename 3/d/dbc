@@ -20,3 +20,4 @@
 {"targetType":"library","version":"1.1.5","name":"dbc"}
 {"targetType":"library","version":"1.1.6","name":"dbc"}
 {"targetType":"library","version":"1.1.7","name":"dbc"}
+{"targetType":"library","version":"~master","commitID":"6fd1bfd2ef727039c3f3513913e5ba006c92e7c4","name":"dbc"}
