@@ -17,3 +17,4 @@
 {"dependencies":{"vibe-d":">=0.8.0","diet-ng":"~>1.5.0"},"configurations":[{"dependencies":{"vibe-d":">=0.0.0","fluent-asserts":"~>0.12.1"},"targetType":"library","name":"trial"}],"version":"0.4.1","name":"vibe-auth"}
 {"dependencies":{"vibe-d":">=0.8.0","diet-ng":"~>1.5.0"},"configurations":[{"dependencies":{"vibe-d":">=0.0.0","fluent-asserts":"~>0.12.1"},"targetType":"library","name":"trial"}],"version":"0.4.2","name":"vibe-auth"}
 {"dependencies":{"vibe-d":">=0.8.0","diet-ng":"~>1.5.0"},"configurations":[{"dependencies":{"vibe-d":">=0.0.0","fluent-asserts":"~>0.12.1"},"targetType":"library","name":"trial"}],"version":"0.4.3","name":"vibe-auth"}
+{"dependencies":{"vibe-d":">=0.8.0","diet-ng":"~>1.5.0"},"configurations":[{"dependencies":{"vibe-d":">=0.0.0","fluent-asserts":"~>0.12.1"},"targetType":"library","name":"trial"}],"version":"~master","commitID":"179cc0b4902b90c9bb4ff422df966d4d0223570b","name":"vibe-auth"}
