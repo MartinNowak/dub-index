@@ -6,3 +6,4 @@
 {"dependencies":{"mir-algorithm":"~>0.9.5"},"version":"0.1.7","name":"mir-pybuffer"}
 {"dependencies":{"mir-algorithm":"~>2.0.1"},"version":"0.2.0","name":"mir-pybuffer"}
 {"dependencies":{"mir-algorithm":"~>3.1.7"},"version":"~dev","commitID":"284a35a16fe08564c95f4a215b537ac2632a010b","name":"mir-pybuffer"}
+{"dependencies":{"mir-algorithm":"~>2.0.1"},"version":"~master","commitID":"a7a5e7e4cf357cf6a1db2830bd9814a29f80433e","name":"mir-pybuffer"}
