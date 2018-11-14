@@ -6,3 +6,4 @@
 {"dependencies":{"rm-rf":"~>0.1.0","painlessjson":"~>1.3.8","workspace-d":"~>3.1.0","eventsystem":"~>1.2.0","libddoc":">=0.3.0-beta.1 <0.4.0-0"},"version":"~workspaced-v3","commitID":"5945cae50a903b8e12a7eecb78e47465ac60170a","name":"serve-d"}
 {"dependencies":{"rm-rf":"~>0.1.0","painlessjson":"~>1.3.8","workspace-d":"~>3.1.0","eventsystem":"~>1.2.0","libddoc":">=0.3.0-beta.1 <0.4.0-0"},"version":"0.2.1","name":"serve-d"}
 {"dependencies":{"rm-rf":"~>0.1.0","painlessjson":"~>1.3.8","workspace-d":"~>3.2.0","eventsystem":"~>1.2.0","libddoc":">=0.3.0-beta.1 <0.4.0-0"},"version":"0.3.0","name":"serve-d"}
+{"dependencies":{"rm-rf":"~>0.1.0","painlessjson":"~>1.3.9","workspace-d":">=3.3.0-pre7 <3.4.0-0","eventsystem":"~>1.2.0","diet-complete":"~>0.0.1","libddoc":"0.4.0"},"version":"~master","commitID":"60d9e620cc690699c0f23b4f676d7b498eb28501","name":"serve-d"}
