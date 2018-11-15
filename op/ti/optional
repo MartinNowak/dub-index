@@ -14,3 +14,4 @@
 {"dependencies":{"bolts":"~>0.8.0"},"configurations":[{"dependencies":{"silly":">=0.0.0"},"targetType":"library","name":"unittest"}],"version":"0.7.2","name":"optional"}
 {"dependencies":{"bolts":"~>0.8.0"},"configurations":[{"dependencies":{"silly":">=0.0.0"},"targetType":"library","name":"unittest"}],"version":"0.7.3","name":"optional"}
 {"dependencies":{"bolts":"~>0.8.0"},"configurations":[{"dependencies":{"silly":">=0.0.0"},"targetType":"library","name":"unittest"}],"version":"0.7.4","name":"optional"}
+{"dependencies":{"bolts":"~>0.8.0"},"configurations":[{"dependencies":{"silly":">=0.0.0"},"targetType":"library","name":"unittest"}],"version":"~master","commitID":"0e73bf86f25f0e1cfd67756a07726d14dcdb49b9","name":"optional"}
