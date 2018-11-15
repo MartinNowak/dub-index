@@ -4,3 +4,4 @@
 {"dependencies":{"darg":">=0.0.4","io":">=0.0.7"},"version":"0.1.2","name":"button"}
 {"dependencies":{"darg":">=0.0.4","io":">=0.0.7"},"version":"~move-output-to-logger","commitID":"c430281eb8343c3b309d327477b711072dec2a39","name":"button"}
 {"dependencies":{"darg":">=0.0.4","io":">=0.0.7"},"version":"~tests","commitID":"e574361b48412df75dcdf0c36b95cfa527ac4ee5","name":"button"}
+{"dependencies":{"darg":">=0.0.4","fio":">=0.0.9"},"version":"0.1.3","name":"button"}
