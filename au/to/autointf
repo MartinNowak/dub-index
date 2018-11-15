@@ -1,3 +1,4 @@
 {"dependencies":{"vibe-d:utils":"~>0.8.4"},"targetType":"library","version":"1.0.0","name":"autointf"}
 {"dependencies":{"vibe-d:utils":"~>0.8.4"},"targetType":"library","version":"1.1.0","name":"autointf"}
 {"dependencies":{"vibe-d:utils":"~>0.8.4"},"targetType":"library","version":"1.1.1","name":"autointf"}
+{"dependencies":{"vibe-d:utils":">=0.0.0"},"targetType":"library","version":"~master","commitID":"eea30f10f5a5db6ad6daa0439d709a087220adef","name":"autointf"}
