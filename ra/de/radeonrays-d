@@ -1,2 +1,3 @@
 {"configurations":[{"targetType":"sourceLibrary","name":"library"}],"version":"0.0.1","name":"radeonrays-d"}
 {"configurations":[{"targetType":"sourceLibrary","name":"library"}],"version":"~master","commitID":"7073c0753190efd071b752bb1a70e167be225868","name":"radeonrays-d"}
+{"configurations":[{"targetType":"sourceLibrary","name":"library"}],"version":"0.0.2","name":"radeonrays-d"}
