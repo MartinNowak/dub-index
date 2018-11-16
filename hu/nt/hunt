@@ -2,3 +2,4 @@
 {"configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"debug"}],"version":"1.0.0-beta.3","name":"hunt"}
 {"configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"debug"}],"version":"1.0.0-beta.7","name":"hunt"}
 {"configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"debug"}],"version":"1.0.0-beta.8","name":"hunt"}
+{"configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"debug"}],"version":"1.0.0-rc.1","name":"hunt"}
