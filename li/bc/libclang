@@ -12,3 +12,4 @@
 {"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":"~>0.7.0"},"targetType":"executable","name":"unittest"}],"version":"0.0.12","name":"libclang"}
 {"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":"~>0.7.0"},"targetType":"executable","name":"unittest"}],"version":"0.0.13","name":"libclang"}
 {"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":"~>0.7.0"},"targetType":"executable","name":"unittest"}],"version":"0.0.14","name":"libclang"}
+{"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":"~>0.7.0"},"targetType":"executable","name":"unittest"}],"version":"~master","commitID":"fcf220b48d6571966c98636e94b14b60498f285a","name":"libclang"}
