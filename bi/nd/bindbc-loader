@@ -1,1 +1,2 @@
 {"configurations":[{"targetType":"staticLibrary","name":"noBC"},{"targetType":"staticLibrary","name":"yesBC"}],"targetType":"staticLibrary","version":"0.1.0","name":"bindbc-loader"}
+{"configurations":[{"targetType":"staticLibrary","name":"noBC"},{"targetType":"staticLibrary","name":"yesBC"}],"targetType":"staticLibrary","version":"~master","commitID":"c7fa5fc2fc4ce60a500ed31783a3ca58a8e5f1d5","name":"bindbc-loader"}
