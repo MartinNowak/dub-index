@@ -7,3 +7,4 @@
 {"version":"0.5.3","name":"qscript"}
 {"dependencies":{"utils":"~>0.1.7"},"version":"0.6.0","name":"qscript"}
 {"dependencies":{"utils":"~>0.1.8"},"version":"0.6.1","name":"qscript"}
+{"dependencies":{"utils":"~>0.2.0"},"configurations":[{"targetType":"library","name":"default"},{"targetType":"executable","name":"demo"}],"version":"0.6.2","name":"qscript"}
