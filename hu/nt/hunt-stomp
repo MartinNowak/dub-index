@@ -1,0 +1,1 @@
+{"dependencies":{"hunt":">=1.0.0-rc.1 <1.1.0-0","hunt-security":"~>0.0.4"},"version":"~master","commitID":"9bde6ef262632a8ef4fbd6acf80fb27684ba6bbb","name":"hunt-stomp"}
