@@ -11,3 +11,4 @@
 {"version":"0.0.10","name":"mir-core"}
 {"version":"0.0.11","name":"mir-core"}
 {"version":"0.0.12","name":"mir-core"}
+{"version":"~master","commitID":"06572e27153c55a9637332de2885aaca1e3d8080","name":"mir-core"}
