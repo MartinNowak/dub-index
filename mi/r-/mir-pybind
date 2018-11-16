@@ -1,1 +1,2 @@
 {"dependencies":{"mir-algorithm":"~>3.1.7"},"version":"0.0.1","name":"mir-pybind"}
+{"subPackages":[{"targetType":"library","name":"deimos-python"}],"dependencies":{"mir-algorithm":"~>3.1.9","mir-pybind:deimos-python":">=0.0.0"},"version":"~master","commitID":"0502af5ecb90b913475d6b1335822062d62ab2d7","name":"mir-pybind"}
