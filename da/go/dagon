@@ -14,3 +14,4 @@
 {"dependencies":{"derelict-gl3":">=2.0.0-beta.5 <2.1.0-0","derelict-ft":">=2.0.0-beta.2 <2.1.0-0","dlib":"0.14.0","derelict-sdl2":">=3.1.0-alpha.2 <3.2.0-0"},"configurations":[{"targetType":"library","name":"library"}],"version":"0.8.3","name":"dagon"}
 {"dependencies":{"dlib":"~master"},"configurations":[{"targetType":"library","name":"library"}],"version":"~probes","commitID":"4845931137a8d68b2d3213f5c1ff9bcfffa5890a","name":"dagon"}
 {"dependencies":{"dlib":"0.15.0"},"configurations":[{"targetType":"library","name":"library"}],"version":"0.9.0","name":"dagon"}
+{"dependencies":{"dlib":"0.15.0"},"configurations":[{"targetType":"library","name":"library"}],"version":"0.9.1","name":"dagon"}
