@@ -14,3 +14,4 @@
 {"dependencies":{"mir-core":"~>0.0.0"},"version":"0.0.13","name":"mir-runtime"}
 {"dependencies":{"mir-core":"~>0.0.0"},"version":"0.0.14","name":"mir-runtime"}
 {"dependencies":{"mir-core":"~>0.0.0"},"version":"~master","commitID":"d4596c6d55b8641cd331a03eecbdaecc4c12a99b","name":"mir-runtime"}
+{"dependencies":{"mir-core":"~>0.0.0"},"version":"0.0.15","name":"mir-runtime"}
