@@ -1,1 +1,2 @@
 {"dependencies":{"derelict-gl3":">=2.0.0-beta.7 <2.1.0-0","gl3n":"~>1.3.1","derelict-sdl2":">=3.0.0-beta <3.1.0-0"},"targetType":"library","version":"~sdl2","commitID":"5892791b20ffd539f4a336df7cf796e89419fd05","name":"gapi"}
+{"dependencies":{"derelict-gl3":">=2.0.0-beta.7 <2.1.0-0","gl3n":"~>1.3.1","derelict-sdl2":">=3.0.0-beta <3.1.0-0"},"targetType":"library","version":"0.0.1-alpha.1","name":"gapi"}
