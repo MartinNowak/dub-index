@@ -40,3 +40,4 @@
 {"version":"0.3.0","name":"asdf"}
 {"version":"0.3.1","name":"asdf"}
 {"version":"0.3.2","name":"asdf"}
+{"version":"~master","commitID":"8b90cf872ff19df3ee7013324836c0f8038a8f02","name":"asdf"}
