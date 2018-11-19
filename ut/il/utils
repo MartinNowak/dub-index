@@ -10,3 +10,4 @@
 {"version":"0.1.9","name":"utils"}
 {"version":"0.2.0","name":"utils"}
 {"version":"0.2.1","name":"utils"}
+{"version":"~master","commitID":"d08e92edea08fb1245548f58f18426089235d08e","name":"utils"}
