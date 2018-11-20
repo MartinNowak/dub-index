@@ -15,3 +15,4 @@
 {"dependencies":{"dlib":"~master"},"configurations":[{"targetType":"library","name":"library"}],"version":"~probes","commitID":"4845931137a8d68b2d3213f5c1ff9bcfffa5890a","name":"dagon"}
 {"dependencies":{"dlib":"0.15.0"},"configurations":[{"targetType":"library","name":"library"}],"version":"0.9.0","name":"dagon"}
 {"dependencies":{"dlib":"0.15.0"},"configurations":[{"targetType":"library","name":"library"}],"version":"0.9.1","name":"dagon"}
+{"dependencies":{"dlib":"0.15.0"},"configurations":[{"targetType":"library","name":"library"}],"version":"~dev_0.9","commitID":"2b57efc8975f5202387898cdb4eef4efe91719b6","name":"dagon"}
