@@ -15,3 +15,4 @@
 {"version":"0.6.4","name":"sumtype"}
 {"version":"~fix-separate-compilation","commitID":"7c8ad0cf48173793f0bb83fe1d6186929d0c9ae7","name":"sumtype"}
 {"version":"~match-overloads","commitID":"e1c493f3fc15521034f44a89b647e9821fd44280","name":"sumtype"}
+{"version":"~master","commitID":"b42a3cc90c321e60354f58f7257a3cfb130cd83a","name":"sumtype"}
