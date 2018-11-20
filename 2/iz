@@ -44,3 +44,4 @@
 {"targetType":"staticLibrary","version":"0.6.20","name":"iz"}
 {"targetType":"staticLibrary","version":"0.6.21","name":"iz"}
 {"targetType":"staticLibrary","version":"0.6.22","name":"iz"}
+{"targetType":"staticLibrary","version":"~master","commitID":"1f1f538df171bb2747c56a99eb14bec5d1d99d4a","name":"iz"}
