@@ -1,3 +1,4 @@
 {"dependencies":{"hunt":">=1.0.0-beta.7 <1.1.0-0"},"version":"0.0.1-beta.1","name":"hunt-sql"}
 {"dependencies":{"hunt":">=1.0.0-beta.8 <1.1.0-0"},"version":"1.0.0","name":"hunt-sql"}
 {"dependencies":{"hunt":">=1.0.0-rc.1 <1.1.0-0"},"version":"1.0.1","name":"hunt-sql"}
+{"dependencies":{"hunt":">=1.0.0-rc.1 <1.1.0-0"},"version":"~master","commitID":"5d0113f79f6b332355ab60a1718fcee6df453a2e","name":"hunt-sql"}
