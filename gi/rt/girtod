@@ -2,3 +2,4 @@
 {"targetType":"executable","version":"0.16.0","name":"girtod"}
 {"targetType":"executable","version":"0.16.1","name":"girtod"}
 {"targetType":"executable","version":"0.17.0","name":"girtod"}
+{"targetType":"executable","version":"~master","commitID":"f65e45fd38be3e20b21524c1d43657493e502e78","name":"girtod"}
