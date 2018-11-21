@@ -2,3 +2,4 @@
 {"targetType":"sourceLibrary","version":"1.0.1","name":"windows-headers"}
 {"targetType":"sourceLibrary","version":"1.0.2","name":"windows-headers"}
 {"targetType":"sourceLibrary","version":"1.0.3","name":"windows-headers"}
+{"targetType":"sourceLibrary","version":"~master","commitID":"864adb546ae2f2246bb274dd21a8119cf4d368b3","name":"windows-headers"}
