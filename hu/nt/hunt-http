@@ -1,3 +1,4 @@
 {"dependencies":{"hunt-net":"~>0.0.1"},"version":"0.0.1","name":"hunt-http"}
 {"dependencies":{"hunt-net":"~>0.0.1"},"version":"0.0.2","name":"hunt-http"}
 {"dependencies":{"hunt-net":"~>0.0.5"},"configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"boringssl"},{"targetType":"library","name":"openssl"},{"targetType":"library","name":"opensslv11"}],"version":"0.0.6","name":"hunt-http"}
+{"dependencies":{"hunt-net":"~>0.0.7"},"configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"boringssl"},{"targetType":"library","name":"openssl"},{"targetType":"library","name":"opensslv11"}],"version":"0.0.8","name":"hunt-http"}
