@@ -4,3 +4,4 @@
 {"dependencies":{"undead":"~>1.0.6"},"version":"~updated","commitID":"2f0634b187e0f454809432093238cf31e9fbfee6","name":"biod"}
 {"dependencies":{"undead":"~>1.0.6"},"version":"0.2.1","name":"biod"}
 {"dependencies":{"undead":"~>1.0.9"},"version":"~meson","commitID":"17eeadc8068be03d3715342aaa989ace26d8c821","name":"biod"}
+{"dependencies":{"undead":"~>1.0.9"},"version":"~master","commitID":"2196f29f54ee8790077c8746e61255e2d8c39004","name":"biod"}
