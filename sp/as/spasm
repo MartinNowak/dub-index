@@ -5,3 +5,4 @@
 {"subPackages":[{"dependencies":{"sdlang-d":"~>0.10.4","asdf":"~>0.3.0"},"name":"bootstrap-webpack"}],"dependencies":{"stdx-allocator":"2.77.3"},"version":"0.0.5","name":"spasm"}
 {"subPackages":[{"dependencies":{"sdlang-d":"~>0.10.4","asdf":"~>0.3.0"},"name":"bootstrap-webpack"}],"dependencies":{"stdx-allocator":"2.77.3"},"version":"0.0.6","name":"spasm"}
 {"subPackages":[{"dependencies":{"sdlang-d":"~>0.10.4","asdf":"~>0.3.0"},"name":"bootstrap-webpack"}],"dependencies":{"stdx-allocator":"2.77.3"},"version":"0.0.7","name":"spasm"}
+{"subPackages":[{"dependencies":{"sdlang-d":"~>0.10.4","asdf":"~>0.3.0"},"name":"bootstrap-webpack"}],"dependencies":{"stdx-allocator":"2.77.3"},"version":"~master","commitID":"7e142bc16f53f961ee06de4027c3c63461771b3f","name":"spasm"}
