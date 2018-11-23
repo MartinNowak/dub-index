@@ -4,3 +4,4 @@
 {"subPackages":[{"dependencies":{"sdlang-d":"~>0.10.4","asdf":"~>0.3.0"},"name":"bootstrap-webpack"}],"dependencies":{"stdx-allocator":"2.77.3"},"version":"0.0.4","name":"spasm"}
 {"subPackages":[{"dependencies":{"sdlang-d":"~>0.10.4","asdf":"~>0.3.0"},"name":"bootstrap-webpack"}],"dependencies":{"stdx-allocator":"2.77.3"},"version":"0.0.5","name":"spasm"}
 {"subPackages":[{"dependencies":{"sdlang-d":"~>0.10.4","asdf":"~>0.3.0"},"name":"bootstrap-webpack"}],"dependencies":{"stdx-allocator":"2.77.3"},"version":"0.0.6","name":"spasm"}
+{"subPackages":[{"dependencies":{"sdlang-d":"~>0.10.4","asdf":"~>0.3.0"},"name":"bootstrap-webpack"}],"dependencies":{"stdx-allocator":"2.77.3"},"version":"0.0.7","name":"spasm"}
