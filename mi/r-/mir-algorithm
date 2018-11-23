@@ -98,3 +98,4 @@
 {"dependencies":{"mir-core":">=0.0.10 <1.0.0"},"configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"dips"}],"version":"3.1.15","name":"mir-algorithm"}
 {"dependencies":{"mir-core":">=0.0.10 <1.0.0"},"configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"dips"}],"version":"3.1.16","name":"mir-algorithm"}
 {"dependencies":{"mir-core":">=0.0.10 <1.0.0"},"configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"dips"}],"version":"3.1.17","name":"mir-algorithm"}
+{"dependencies":{"mir-core":">=0.0.10 <1.0.0"},"configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"dips"}],"version":"~master","commitID":"7bb669e8ed7326fe8d2d0cda0c8fa46485790b5d","name":"mir-algorithm"}
