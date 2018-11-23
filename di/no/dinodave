@@ -4,3 +4,4 @@
 {"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":"~>0.7.31"},"targetType":"executable","name":"unittest"}],"targetType":"library","version":"1.0.0","name":"dinodave"}
 {"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":"~>0.7.52"},"targetType":"executable","name":"unittest"}],"targetType":"library","version":"1.1.0","name":"dinodave"}
 {"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":"~>0.7.52"},"targetType":"executable","name":"unittest"}],"targetType":"library","version":"1.2.0","name":"dinodave"}
+{"configurations":[{"targetType":"library","name":"library"},{"dependencies":{"unit-threaded":"~>0.7.52"},"targetType":"executable","name":"unittest"}],"targetType":"library","version":"~master","commitID":"a98c000c77b100f92b9f170f75d159f7820c73cb","name":"dinodave"}
