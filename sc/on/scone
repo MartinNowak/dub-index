@@ -10,3 +10,4 @@
 {"version":"2.1.0-pre.0","name":"scone"}
 {"version":"2.1.0","name":"scone"}
 {"version":"~develop","commitID":"657147cd83adfb3e773b8008753d76d3ba70dedc","name":"scone"}
+{"version":"~utf-8","commitID":"a771251a15d7dfc68c58f85238d833e15a0d78c3","name":"scone"}
