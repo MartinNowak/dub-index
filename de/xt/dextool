@@ -26,3 +26,4 @@
 {"configurations":[{"targetType":"library","name":"no-build"}],"version":"1.2.1","name":"dextool"}
 {"configurations":[{"targetType":"library","name":"no-build"}],"version":"~mutate-html","commitID":"c732bc1af6627aec8c312ee6130cd3fbf5b1eb39","name":"dextool"}
 {"configurations":[{"targetType":"library","name":"no-build"}],"version":"~master","commitID":"276b320751d28f3d1047baa2169d0e4030f7fb0f","name":"dextool"}
+{"configurations":[{"targetType":"library","name":"no-build"}],"version":"~master","commitID":"eb78e23514847865390620288f0111815574fbf0","name":"dextool"}
