@@ -7,3 +7,4 @@
 {"dependencies":{"dpp":"~>0.0.5"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"externclib"}],"version":"1.0.0","name":"xlsxd"}
 {"dependencies":{"dpp":"~>0.0.5"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"externclib"}],"version":"~master","commitID":"01912acf9a6c3b747a617fe46246466709a14b4c","name":"xlsxd"}
 {"dependencies":{"dpp":"~>0.0.5"},"configurations":[{"targetType":"library","name":"library"},{"targetType":"library","name":"externclib"}],"version":"1.0.1","name":"xlsxd"}
+{"version":"1.0.2","name":"xlsxd"}
