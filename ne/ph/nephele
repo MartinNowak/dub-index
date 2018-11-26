@@ -2,3 +2,4 @@
 {"targetType":"library","version":"~master","commitID":"552103a5cdad47e3d5d1686956b262559616359d","name":"nephele"}
 {"targetType":"library","version":"0.0.2","name":"nephele"}
 {"targetType":"library","version":"~develop","commitID":"f8fef175e6dbc1f3f8f3636ee3976792a1ca5883","name":"nephele"}
+{"targetType":"library","version":"~develop","commitID":"1612782a7332b72752402cac286467cf2e4c2ac8","name":"nephele"}
