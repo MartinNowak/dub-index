@@ -3,3 +3,4 @@
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"application"}],"version":"0.0.3","name":"cachetools"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"application"}],"version":"0.0.4","name":"cachetools"}
 {"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"application"}],"version":"~master","commitID":"db284c43343ba5a85fd904eb802dffbdafea90fb","name":"cachetools"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"application"}],"version":"0.0.5","name":"cachetools"}
