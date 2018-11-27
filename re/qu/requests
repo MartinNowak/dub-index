@@ -49,3 +49,4 @@
 {"configurations":[{"targetType":"library","name":"std"},{"dependencies":{"vibe-d":"~>0.8"},"targetType":"library","name":"vibed"}],"version":"1.0.0","name":"requests"}
 {"configurations":[{"targetType":"library","name":"std"},{"dependencies":{"vibe-d":"~>0.8"},"targetType":"library","name":"vibed"}],"version":"1.0.1","name":"requests"}
 {"configurations":[{"targetType":"library","name":"std"},{"dependencies":{"vibe-d":"~>0.8"},"targetType":"library","name":"vibed"}],"version":"~master","commitID":"be7bf4f8a7b31e75fcd3e2e75a0bcb8acf3dba10","name":"requests"}
+{"configurations":[{"dependencies":{"cachetools":"~>0"},"targetType":"library","name":"std"},{"dependencies":{"vibe-d":"~>0.8","cachetools":"~>0"},"targetType":"library","name":"vibed"}],"version":"~master","commitID":"2763ae6d711b9760be20aa9969ac038cd411bf7a","name":"requests"}
