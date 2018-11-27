@@ -1,2 +1,3 @@
 {"dependencies":{"stdx-allocator":"~>2"},"version":"0.0.1","name":"cachetools"}
 {"version":"0.0.2","name":"cachetools"}
+{"configurations":[{"targetType":"library","name":"library"},{"targetType":"executable","name":"application"}],"version":"0.0.3","name":"cachetools"}
