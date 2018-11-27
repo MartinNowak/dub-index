@@ -35,3 +35,4 @@
 {"dependencies":{"libddoc":"~>0.4.0","dsymbol":"~>0.4.1","inifiled":"~>1.3.1","stdx-allocator":"~>2.77.2","libdparse":"~>0.9.4","emsi_containers":">=0.8.0-alpha.7 <0.9.0-0"},"version":"0.5.10","name":"dscanner"}
 {"dependencies":{"libddoc":"~>0.4.0","dsymbol":"~>0.4.8","inifiled":"~>1.3.1","stdx-allocator":"~>2.77.2","libdparse":"~>0.9.8","emsi_containers":">=0.8.0-alpha.7 <0.9.0-0"},"version":"0.5.11","name":"dscanner"}
 {"dependencies":{"libddoc":"~>0.5.0","dsymbol":"~>0.5.3","inifiled":"~>1.3.1","stdx-allocator":"~>2.77.4","libdparse":"~>0.10.8","emsi_containers":">=0.8.0-alpha.7 <0.9.0-0"},"version":"~master","commitID":"f585c383f1fc9054366882ae5af88a79c636bf90","name":"dscanner"}
+{"dependencies":{"libddoc":"~>0.5.0","dsymbol":"~>0.5.3","inifiled":"~>1.3.1","stdx-allocator":"~>2.77.4","libdparse":"~>0.10.10","emsi_containers":">=0.8.0-alpha.7 <0.9.0-0"},"version":"~BBasile-patch-721","commitID":"79c474283cb8fe653acebc7a82f10c347ce6afa3","name":"dscanner"}
