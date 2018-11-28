@@ -1,3 +1,4 @@
 {"version":"0.1.0","name":"phobos-next"}
 {"targetType":"library","version":"0.2.0","name":"phobos-next"}
 {"targetType":"library","version":"~master","commitID":"05d9f893dff8122432b7c4de1ab3bc69f275f7ad","name":"phobos-next"}
+{"targetType":"library","version":"~master","commitID":"ad6ca40082db6ce8c36721875bf49f19d17832da","name":"phobos-next"}
