@@ -6,3 +6,4 @@
 {"targetType":"library","version":"0.1.0","name":"collections"}
 {"dependencies":{"Phobos:allocator":"~master"},"targetType":"library","version":"~master","commitID":"bcb43fbaea87f7f1e5b17d482d81aaf98b9545dc","name":"collections"}
 {"dependencies":{"phobos:allocator":"~master"},"targetType":"library","version":"~copyctorPR-rcstring","commitID":"ad794e37003769f86ab56cd6f3d17bac65e5448a","name":"collections"}
+{"dependencies":{"phobos:allocator":"~master"},"targetType":"library","version":"~copyctorPR-rcstring","commitID":"097cbbb57e462940df2b3c13f6cdec5625340090","name":"collections"}
