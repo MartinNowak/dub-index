@@ -6,3 +6,4 @@
 {"configurations":[{"targetType":"library","name":"default"},{"targetType":"library","name":"debug"}],"version":"1.0.0-rc.2","name":"hunt"}
 {"version":"~master","commitID":"68b1ea0885ef36f398100fcf91883b493bdfd605","name":"hunt"}
 {"version":"1.0.0-rc.3","name":"hunt"}
+{"version":"~master","commitID":"1eea1cca1a800905a76a0fd0c057009568bfbdc6","name":"hunt"}
